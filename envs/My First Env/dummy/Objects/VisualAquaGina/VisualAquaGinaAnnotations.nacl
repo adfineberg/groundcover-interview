@@ -1,0 +1,57 @@
+type dummy.VisualAquaGina {
+  annotations {
+    dummy.NervousCyanBlisse CompetitiveWhiteMelina {
+    }
+    hidden_boolean ClosedIvoryShaylah {
+    }
+    boolean ImpossibleRoseDanya {
+    }
+    dummy.AppropriateOrangeCalley SupremeMagentaJewell {
+    }
+    number EthnicAmethystDanit {
+    }
+    number InjuredVioletCairistiona {
+    }
+    json NervousOliveBarrie {
+    }
+    boolean WittyMaroonAndeee {
+    }
+    string DullCyanNicola {
+    }
+    serviceid VivaciousAquaIlise {
+    }
+    serviceid_number BigBlushCorene {
+    }
+    string LiquidTomatoNessie {
+    }
+    boolean HardAmberHeather {
+    }
+    string FewYellowCammie {
+    }
+    boolean ToryCyanBernardina {
+    }
+    serviceid_number LonelyCrimsonJerrilee {
+    }
+    serviceid GreatMagentaHoratia {
+    }
+    string RightIvoryGarnette {
+    }
+  }
+  CompetitiveWhiteMelina = 910
+  ImpossibleRoseDanya = false
+  EthnicAmethystDanit = 197
+  InjuredVioletCairistiona = 148
+  NervousOliveBarrie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  WittyMaroonAndeee = true
+  DullCyanNicola = "I'll tell you what often gets over looked... garden fences."
+  VivaciousAquaIlise = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  BigBlushCorene = 451
+  LiquidTomatoNessie = "Slept like a log last night  woke up in the fireplace."
+  HardAmberHeather = false
+  FewYellowCammie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ToryCyanBernardina = true
+  LonelyCrimsonJerrilee = 23
+  GreatMagentaHoratia = "I'll tell you what often gets over looked... garden fences."
+  RightIvoryGarnette = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _alias = "VisualAquaGina_alias"
+}

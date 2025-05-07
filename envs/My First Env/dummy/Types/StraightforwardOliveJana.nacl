@@ -1,0 +1,47 @@
+type dummy.StraightforwardOliveJana {
+  annotations {
+    dummy.DEFAULT GeographicalSilverTillie {
+    }
+    hidden_boolean DetailedScarletSherrie {
+    }
+    json UpsetJadeKatey {
+    }
+    number IntensiveLavenderSadella {
+    }
+    number AmbitiousIvoryGwenora {
+    }
+    number AmusedAmethystFaith {
+    }
+    boolean SoftPeachNoelle {
+    }
+  }
+  number UnacceptableBlueReggi {
+    _hidden_value = true
+  }
+  GeographicalSilverTillie = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  UpsetJadeKatey = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  IntensiveLavenderSadella = 314
+  AmbitiousIvoryGwenora = 138
+  AmusedAmethystFaith = 771
+  SoftPeachNoelle = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "AmbitiousIvoryGwenora"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "IntensiveLavenderSadella"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GeographicalSilverTillie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

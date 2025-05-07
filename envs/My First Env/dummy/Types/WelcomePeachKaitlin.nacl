@@ -1,0 +1,34 @@
+type dummy.WelcomePeachKaitlin {
+  annotations {
+    hidden_boolean ConvincingAquamarineKristy {
+    }
+    serviceid FilthyAmaranthTeressa {
+    }
+    serviceid NarrowLimeElaine {
+    }
+    hidden_boolean StaleSilverLeanora {
+    }
+    serviceid_number AlliedAmaranthLibby {
+    }
+    serviceid SquealingHarlequinAgneta {
+    }
+  }
+  boolean GleamingSilverHenryetta {
+    _hidden_value = true
+  }
+  serviceid_number RequiredOrangeMargery {
+    _hidden_value = true
+  }
+  FilthyAmaranthTeressa = "Dad Im hungry  Hi hungry Im dad"
+  NarrowLimeElaine = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  AlliedAmaranthLibby = 882
+  SquealingHarlequinAgneta = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "StaleSilverLeanora"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

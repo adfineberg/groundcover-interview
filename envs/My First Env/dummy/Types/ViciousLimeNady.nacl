@@ -1,0 +1,90 @@
+type dummy.ViciousLimeNady {
+  annotations {
+    hidden_boolean CausalTanJaquith {
+    }
+    serviceid IntimateBronzeCindy {
+    }
+    json FemaleChocolateGwenore {
+    }
+    hidden_boolean WateryCyanLaurel {
+    }
+    json CautiousCoralCatharine {
+    }
+    hidden_boolean FlatTealAnnie {
+    }
+    number IntelligentBlackCecilia {
+    }
+  }
+  json GrimMoccasinAnitra {
+    _hidden_value = true
+  }
+  serviceid_number RepresentativeTurquoiseKrista {
+    _hidden_value = true
+  }
+  string StructuralJadeJunia {
+    _hidden_value = true
+  }
+  string TallAquamarineRose {
+    _hidden_value = true
+  }
+  serviceid TopLimeMerl {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" LegalVioletAmity {
+    _hidden_value = true
+  }
+  serviceid_number RepresentativeGoldChantalle {
+    _hidden_value = true
+  }
+  boolean RareBeigeDevora {
+    _hidden_value = true
+  }
+  dummy.IndependentOliveClaudetta RearJadeMandy {
+    WelcomeCoffeeRanique = 818
+    ActualVioletRozelle = 348
+    DearOrangeBobbe = "Im only familiar with 25 letters in the English language. I dont know why."
+    UninterestedTanMaddi = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    EventualLavenderFern = true
+    ManagerialAquaMeagan = true
+    UnconsciousAmaranthSuzie = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    TastyMagentaAnnice = false
+    InadequateChocolateAnnmarie = 606
+    UnconsciousLavenderArdelle = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  string ShrillMagentaSascha {
+    _hidden_value = true
+  }
+  dummy.DEFAULT XenialBlueZola {
+    _hidden_value = true
+  }
+  serviceid AutomaticTurquoiseThelma {
+    _hidden_value = true
+  }
+  serviceid AgreedPlumBriana {
+    _hidden_value = true
+  }
+  boolean NakedVioletElysee {
+    _hidden_value = true
+  }
+  serviceid ManagerialBlueRobinia {
+    _hidden_value = true
+  }
+  number ColourfulAmaranthTaffy {
+    _hidden_value = true
+  }
+  IntimateBronzeCindy = "Whoever invented the knock-knock joke should get a no bell prize."
+  FemaleChocolateGwenore = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  CautiousCoralCatharine = "Whoever invented the knock-knock joke should get a no bell prize."
+  IntelligentBlackCecilia = 893
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "NakedVioletElysee"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

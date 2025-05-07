@@ -1,0 +1,60 @@
+type dummy.RubberPeachCarlie {
+  annotations {
+    json GeneticScarletNadia {
+    }
+    dummy.DEFAULT StingySalmonCicily {
+    }
+    dummy.InformalTurquoiseFaith SymbolicTealDona {
+    }
+    serviceid ZestyJadeAlexine {
+    }
+    boolean JollyBlushEsther {
+    }
+  }
+  json SuperCyanLynnet {
+    _hidden_value = true
+  }
+  json VerbalPlumKalindi {
+    _hidden_value = true
+  }
+  string PlannedMagentaSari {
+    _hidden_value = true
+  }
+  serviceid IncredibleVioletAnabel {
+    _hidden_value = true
+  }
+  number RequiredJadeNicolette {
+    _hidden_value = true
+  }
+  json SlightScarletAile {
+    _hidden_value = true
+  }
+  serviceid FellowMoccasinCatharine {
+    _hidden_value = true
+  }
+  string PoorAmaranthKyla {
+    _hidden_value = true
+  }
+  GeneticScarletNadia = "Why did the tomato blush? Because it saw the salad dressing."
+  StingySalmonCicily = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  SymbolicTealDona = true
+  ZestyJadeAlexine = "What did one nut say as he chased another nut?  I'm a cashew!"
+  JollyBlushEsther = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "IncredibleVioletAnabel"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ZestyJadeAlexine"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,104 @@
+type dummy.PastWhiteVin {
+  annotations {
+    json StaleVioletRebekkah {
+    }
+    number EffectiveMagentaRafaelia {
+    }
+    string MistySapphireMara {
+    }
+    boolean SymbolicAzureCris {
+    }
+    string DesperateAzureRianon {
+    }
+  }
+  serviceid SafeBeigeLeigh {
+    _hidden_value = true
+  }
+  number ProductiveTealPippy {
+    _hidden_value = true
+  }
+  boolean TameGrayLu {
+    _hidden_value = true
+  }
+  string RespectablePinkGladys {
+    _hidden_value = true
+  }
+  serviceid ElectricBlueSadye {
+    _hidden_value = true
+  }
+  json ExtendedCyanWillow {
+    _hidden_value = true
+  }
+  serviceid_number VoluminousBronzeBili {
+    _hidden_value = true
+  }
+  boolean ChronicAquamarineCharmine {
+    _hidden_value = true
+  }
+  number DesirableAmethystViki {
+    _hidden_value = true
+  }
+  hidden_boolean ArchitecturalSalmonNerta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.StillMagentaWendi AbsoluteSapphireMartina {
+    DevelopedFuchsiaLilllie = 549
+    DirectMagentaSharyl = "Why was it called the dark ages? Because of all the knights. "
+    FascinatingOrangeTheressa = "Why did the tomato blush? Because it saw the salad dressing."
+    RulingBrownSamantha = "What creature is smarter than a talking parrot? A spelling bee."
+    QuietCoffeeBlinni = 138
+    TotalAmethystRisa = true
+    InstitutionalYellowMariska = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SafeGoldGabriell = "Why do birds fly south for the winter? Because it's too far to walk."
+    SoreScarletTed = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    EntitledPinkLeta = "To be Frank, I'd have to change my name."
+    YappiestGreenFawne = 20
+    YammeringSapphireLiv = "Why did the kid cross the playground? To get to the other slide."
+    NoisyMaroonMirabel = false
+    _hidden_value = true
+  }
+  string FormidablePinkSerena {
+    _hidden_value = true
+  }
+  serviceid QualifiedBeigeShelly {
+    _hidden_value = true
+  }
+  json HelplessSilverLoralee {
+    _hidden_value = true
+  }
+  StaleVioletRebekkah = "Dad Im hungry  Hi hungry Im dad"
+  EffectiveMagentaRafaelia = 551
+  MistySapphireMara = "Slept like a log last night  woke up in the fireplace."
+  SymbolicAzureCris = true
+  DesperateAzureRianon = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FormidablePinkSerena"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AbsoluteSapphireMartina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "TameGrayLu"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DesirableAmethystViki"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HelplessSilverLoralee"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

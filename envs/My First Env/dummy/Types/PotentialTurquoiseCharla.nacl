@@ -1,0 +1,118 @@
+type dummy.PotentialTurquoiseCharla {
+  annotations {
+    string TerritorialTanRozanna {
+    }
+    serviceid_number RationalLavenderMelamie {
+    }
+    serviceid_number AmazingCrimsonNorrie {
+    }
+    number PersonalCrimsonAmelie {
+    }
+    serviceid_number ThinGoldTamar {
+    }
+    dummy.DelightedVioletLiv CausalTomatoTommi {
+    }
+  }
+  serviceid NecessaryPinkTalyah {
+    _hidden_value = true
+  }
+  number ColossalTomatoKala {
+    _hidden_value = true
+  }
+  string MaturePlumKelli {
+    _hidden_value = true
+  }
+  boolean SmallTealNathalia {
+    _hidden_value = true
+  }
+  boolean EvilRoseSherrie {
+    _hidden_value = true
+  }
+  serviceid_number PuzzledSalmonRaphaela {
+    _hidden_value = true
+  }
+  serviceid SpatialWhiteKeeley {
+    _hidden_value = true
+  }
+  serviceid ComprehensiveAmberMarjy {
+    _hidden_value = true
+  }
+  serviceid WorthwhileCopperMarci {
+    _hidden_value = true
+  }
+  json GrandVioletMarni {
+    _hidden_value = true
+  }
+  serviceid TiredRedRita {
+    _hidden_value = true
+  }
+  serviceid MarriedJadeKoo {
+    _hidden_value = true
+  }
+  serviceid_number IndustrialChocolateRobinet {
+    _hidden_value = true
+  }
+  number EmpiricalScarletJamima {
+    _hidden_value = true
+  }
+  serviceid ForeignScarletBlakeley {
+    _hidden_value = true
+  }
+  serviceid IndividualCyanLaurena {
+    _hidden_value = true
+  }
+  serviceid_number YoungCoralBarrie {
+    _hidden_value = true
+  }
+  boolean SweetChocolateAmalie {
+    _hidden_value = true
+  }
+  boolean FancyMagentaLuella {
+    _hidden_value = true
+  }
+  number CriminalAmethystJan {
+    _hidden_value = true
+  }
+  number ConcernedSilverDenna {
+    _hidden_value = true
+  }
+  hidden_boolean SkilledGoldCarlen {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid GoverningSalmonLetti {
+    _hidden_value = true
+  }
+  TerritorialTanRozanna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  RationalLavenderMelamie = 947
+  AmazingCrimsonNorrie = 870
+  PersonalCrimsonAmelie = 44
+  ThinGoldTamar = 126
+  CausalTomatoTommi = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "GoverningSalmonLetti"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GrandVioletMarni"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SmallTealNathalia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CausalTomatoTommi"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

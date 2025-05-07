@@ -1,0 +1,98 @@
+type dummy.DeafScarletCarolynn {
+  annotations {
+    dummy.DiverseTurquoiseMariya DesperateChocolateAurelea {
+    }
+    json IntenseBronzeDavida {
+    }
+    serviceid_number AssociatedTomatoLexis {
+    }
+    string EffectiveVioletFayina {
+    }
+    dummy.WitteringTomatoMufinella NotableVioletJeniffer {
+    }
+    serviceid DisciplinaryBlushColline {
+    }
+    json JuicyApricotCissiee {
+    }
+  }
+  hidden_boolean SorryCrimsonMiran {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json AlternativeHarlequinPamella {
+    _hidden_value = true
+  }
+  serviceid_number OutrageousPurpleMaitilde {
+    _hidden_value = true
+  }
+  hidden_boolean FlutteringMagentaMeggy {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number GlobalApricotEssie {
+    _hidden_value = true
+  }
+  string BusyAmaranthTimi {
+    _hidden_value = true
+  }
+  serviceid_number UrbanBlushJacquie {
+    _hidden_value = true
+  }
+  string HilariousGrayLurette {
+    _hidden_value = true
+  }
+  boolean SacredScarletKizzee {
+    _hidden_value = true
+  }
+  number WorkingLavenderCari {
+    _hidden_value = true
+  }
+  serviceid_number PhilosophicalBronzeChiarra {
+    _hidden_value = true
+  }
+  boolean LiteraryTanVictoria {
+    _hidden_value = true
+  }
+  json StillWhiteCynthie {
+    _hidden_value = true
+  }
+  hidden_boolean SmilingFuchsiaRamona {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  DesperateChocolateAurelea = true
+  IntenseBronzeDavida = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  AssociatedTomatoLexis = 159
+  EffectiveVioletFayina = "Did you know that protons have mass? I didn't even know they were catholic."
+  NotableVioletJeniffer = false
+  DisciplinaryBlushColline = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  JuicyApricotCissiee = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PhilosophicalBronzeChiarra"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SacredScarletKizzee"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DesperateChocolateAurelea"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "IntenseBronzeDavida"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

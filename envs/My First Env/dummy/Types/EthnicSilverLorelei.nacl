@@ -1,0 +1,31 @@
+type dummy.EthnicSilverLorelei {
+  annotations {
+    hidden_boolean JitteryTomatoJenine {
+    }
+    dummy.FastVioletDaniela RationalWhiteRoxanne {
+    }
+    dummy.DEFAULT RelevantBlackGale {
+    }
+    boolean LegislativeCopperLoraine {
+    }
+    serviceid_number BackPurpleKriste {
+    }
+  }
+  number AgriculturalBeigeDrusi {
+    _hidden_value = true
+  }
+  RationalWhiteRoxanne = "To be Frank, I'd have to change my name."
+  RelevantBlackGale = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  LegislativeCopperLoraine = true
+  BackPurpleKriste = 901
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "JitteryTomatoJenine"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

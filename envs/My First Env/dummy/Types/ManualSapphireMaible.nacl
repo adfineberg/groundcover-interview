@@ -1,0 +1,24 @@
+type dummy.ManualSapphireMaible {
+  annotations {
+    number CompulsoryAmethystCarolann {
+    }
+    dummy.InformalTurquoiseFaith FinePurpleRetha {
+    }
+    dummy.DEFAULT OverseasBrownAshlie {
+    }
+    serviceid MilitaryGrayRonica {
+    }
+  }
+  hidden_boolean MagnificentBlackMelloney {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  CompulsoryAmethystCarolann = 90
+  FinePurpleRetha = true
+  OverseasBrownAshlie = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  MilitaryGrayRonica = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

@@ -1,0 +1,99 @@
+type dummy.StingyAquamarineCorrinne {
+  annotations {
+    serviceid_number CorrespondingMagentaEtty {
+    }
+    serviceid_number RomanticTurquoiseAndreana {
+    }
+    string GloriousApricotGussi {
+    }
+    json UnfairMagentaRosemaria {
+    }
+    string ComplexIvoryCrin {
+    }
+    json ChemicalBlushViolante {
+    }
+  }
+  dummy.DEFAULT ClumsyScarletElysee {
+    _hidden_value = true
+  }
+  number XenialMagentaCecilia {
+    _hidden_value = true
+  }
+  serviceid_number RenewedMaroonCorinne {
+    _hidden_value = true
+  }
+  serviceid_number ChronicPeachLorne {
+    _hidden_value = true
+  }
+  hidden_boolean ZanyFuchsiaMarti {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json YodellingRoseMarcellina {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" CorporateOrangeBelicia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json StingyPurpleKorney {
+    _hidden_value = true
+  }
+  number NaturalWhiteJoelynn {
+    _hidden_value = true
+  }
+  string LabourYellowHenrie {
+    _hidden_value = true
+  }
+  boolean IntelligentTurquoiseCecile {
+    _hidden_value = true
+  }
+  "List<json>" CasualCoffeeClementina {
+    _hidden_value = true
+  }
+  json FatalBlueJojo {
+    _hidden_value = true
+  }
+  serviceid_number HardTealTobye {
+    _hidden_value = true
+  }
+  string ManagerialSalmonOdille {
+    _hidden_value = true
+  }
+  boolean HonestTurquoiseLucine {
+    _hidden_value = true
+  }
+  CorrespondingMagentaEtty = 51
+  RomanticTurquoiseAndreana = 418
+  GloriousApricotGussi = "I'll tell you what often gets over looked... garden fences."
+  UnfairMagentaRosemaria = "Dad Im hungry  Hi hungry Im dad"
+  ComplexIvoryCrin = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ChemicalBlushViolante = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "XenialMagentaCecilia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ChronicPeachLorne"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ComplexIvoryCrin"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RomanticTurquoiseAndreana"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

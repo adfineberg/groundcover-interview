@@ -1,0 +1,50 @@
+type dummy.DetailedOrangeAubree {
+  boolean SmallGreenArdelle {
+  }
+  boolean VeryBlackKaril {
+  }
+  string IncAquamarineRosalinda {
+  }
+  string InstantBeigeElayne {
+  }
+  serviceid_number BeneficialAquaMireille {
+  }
+  "List<dummy.CivilOrangeCynthia>" HugeWhiteOlva {
+    HollowAmethystArlene = false
+  }
+  json ManyAmberMel {
+  }
+  number OrganicPeachBarb {
+  }
+  number SurprisedSalmonOlivette {
+  }
+  serviceid MeaningfulCopperKatusha {
+  }
+  number TameVioletVirgie {
+  }
+  json FamiliarTomatoCarma {
+  }
+  string SmartScarletMinne {
+  }
+  dummy.ExuberantMagentaSosanna ImpossibleIndigoNeile {
+    ComprehensiveApricotLiv = true
+    WittyBlackErena = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    AbleCyanClemmy = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    SmoothOrangeLorette = 829
+  }
+  boolean OralMoccasinJuliette {
+  }
+  boolean ReasonableCoralGrata {
+  }
+  boolean DigitalBlackCarleen {
+  }
+  hidden_boolean CapableApricotValery {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  json WidespreadFuchsiaBerni {
+  }
+}

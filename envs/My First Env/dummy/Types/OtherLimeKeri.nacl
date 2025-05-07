@@ -1,0 +1,133 @@
+type dummy.OtherLimeKeri {
+  annotations {
+    number VeryAquamarineTildy {
+    }
+    hidden_boolean PositiveGoldAlyce {
+    }
+    boolean StaticFuchsiaRemy {
+    }
+    number NaturalRedJodie {
+    }
+    json MarxistGreenRandene {
+    }
+    serviceid_number ShaggyAquaJunia {
+    }
+    number ToryCyanBilli {
+    }
+    serviceid_number ExtraSilverTove {
+    }
+  }
+  dummy.StaleSilverLillian FortunateSalmonCharissa {
+    ValuableGoldAudra = 932
+    RequiredCyanPaulie = 277
+    ProbableYellowNoemi = false
+    ToxicGrayGoldia = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  number OutstandingAmaranthEstelle {
+    _hidden_value = true
+  }
+  serviceid_number RetailSapphireLurlene {
+    _hidden_value = true
+  }
+  hidden_boolean SeniorBronzeOla {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid TemporaryPurpleMisha {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" VoluntaryRedKanya {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json ConceptualSalmonSophia {
+    _hidden_value = true
+  }
+  number MammothIndigoLarina {
+    _hidden_value = true
+  }
+  hidden_boolean AgreeableCoffeeWenonah {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json NegativeCrimsonMarillin {
+    _hidden_value = true
+  }
+  boolean AcuteSalmonEmalee {
+    _hidden_value = true
+  }
+  dummy.IndirectSalmonTina ExtraordinaryPlumMaddi {
+    StrongCoffeeLoleta = false
+    SlimyIndigoFara = 599
+    KnownGrayCesya = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    LikePurpleBonni = 142
+    ArtisticGreenPearl = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    NiceAmethystCarole = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    MutualVioletLurline = 54
+    ExoticSilverNora = "Dad Im hungry  Hi hungry Im dad"
+    BewilderedHarlequinIrene = 147
+    DelightfulCopperKandy = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ManualPinkNonah = 317
+    PresentMagentaCharla = "Why didnt the skeleton cross the road? Because he had no guts."
+    SpotlessMagentaDamara = "Why didnt the skeleton cross the road? Because he had no guts."
+    EfficientCyanGerty = 849
+    SmallCrimsonTimmi = "What creature is smarter than a talking parrot? A spelling bee."
+    ScrawnyVioletAvrit = 329
+    WealthyCoralNorah = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    AlrightSalmonBrinn = 67
+    _hidden_value = true
+  }
+  boolean ViciousAquaConstantia {
+    _hidden_value = true
+  }
+  string SeparateCoffeeMaurine {
+    _hidden_value = true
+  }
+  serviceid EmbarrassingSapphireHarriet {
+    _hidden_value = true
+  }
+  boolean SuperbBlackErmentrude {
+    _hidden_value = true
+  }
+  serviceid_number ZanyOrangeMicaela {
+    _hidden_value = true
+  }
+  serviceid_number OutdoorEmeraldCherye {
+    _hidden_value = true
+  }
+  VeryAquamarineTildy = 352
+  StaticFuchsiaRemy = false
+  NaturalRedJodie = 527
+  MarxistGreenRandene = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ShaggyAquaJunia = 258
+  ToryCyanBilli = 430
+  ExtraSilverTove = 900
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "EmbarrassingSapphireHarriet"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ToryCyanBilli"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MarxistGreenRandene"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

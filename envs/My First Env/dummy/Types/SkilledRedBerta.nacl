@@ -1,0 +1,186 @@
+type dummy.SkilledRedBerta {
+  annotations {
+    boolean MelodicAquaHarriott {
+    }
+    number MinorBlackAila {
+    }
+    hidden_boolean TechnicalBrownTracy {
+    }
+    serviceid_number ArrogantGoldCelestyn {
+    }
+  }
+  boolean StaleFuchsiaGrayce {
+    _hidden_value = true
+  }
+  number CrucialBrownAgnella {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CruelTanMelinde {
+    _hidden_value = true
+  }
+  json SpiritualSapphireKorney {
+    _hidden_value = true
+  }
+  serviceid_number DevelopingIvoryAgace {
+    _hidden_value = true
+  }
+  json StrongFuchsiaImogene {
+    _hidden_value = true
+  }
+  dummy.QualifiedHarlequinJolee PanickyBlushAngelique {
+    ConvenientSalmonKristin = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    ArmedYellowAmeline = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    ShiveringCoffeePammy = false
+    CasualEmeraldEmilee = "Slept like a log last night  woke up in the fireplace."
+    _hidden_value = true
+  }
+  serviceid TheoreticalBeigeKari {
+    _hidden_value = true
+  }
+  json ImpressedGrayKorry {
+    _hidden_value = true
+  }
+  json SuitableBlackViviana {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RevolutionaryMoccasinOdette {
+    _hidden_value = true
+  }
+  hidden_boolean AverageOliveCaren {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ObedientCopperRhona {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.CombinedCyanNatasha SteadySalmonLorrie {
+    FrozenCyanClaudette = "Why did the tomato blush? Because it saw the salad dressing."
+    WideCyanRhoda = 396
+    EnergeticGoldPauli = "To be Frank, I'd have to change my name."
+    SpotlessCopperKyla = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    VitreousBrownJolee = 502
+    AdjacentSalmonLura = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    SpotlessCoffeeJaneva = false
+    UselessSalmonDarlleen = "Im only familiar with 25 letters in the English language. I dont know why."
+    PreviousTealBerri = 740
+    RegionalTomatoLorilee = 273
+    NoisyPlumGiustina = false
+    SharedPurpleAdele = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    RottenAmaranthPhillie = "Slept like a log last night  woke up in the fireplace."
+    ImprovedIvoryGenna = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    RoyalTurquoiseRonny = true
+    _hidden_value = true
+  }
+  number SexualTanSaloma {
+    _hidden_value = true
+  }
+  json RipeTomatoCandida {
+    _hidden_value = true
+  }
+  boolean IdeologicalEmeraldJulia {
+    _hidden_value = true
+  }
+  string RudeBlushMartha {
+    _hidden_value = true
+  }
+  json IntimateSapphireBernadina {
+    _hidden_value = true
+  }
+  serviceid_number DefeatedApricotQuinta {
+    _hidden_value = true
+  }
+  number UnlikelySalmonRonalda {
+    _hidden_value = true
+  }
+  dummy.GlobalLimeMatti LazyEmeraldJelene {
+    ArrogantPurpleMadelene = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    InsufficientTomatoHetti = "What do you do on a remote island? Try and find the TV island it belongs to."
+    UltimateRosePandora = false
+    SilentCyanMelina = 357
+    MeltedAquamarinePatsy = false
+    AppallingRedMegen = 507
+    StuckVioletLynette = true
+    PersistentChocolateNicolina = 353
+    PanickyJadeBianka = true
+    FunIvoryCristionna = "Im only familiar with 25 letters in the English language. I dont know why."
+    HardCopperCahra = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    ProtectiveSalmonLiza = "Whoever invented the knock-knock joke should get a no bell prize."
+    SacredCyanRakel = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    _hidden_value = true
+  }
+  json RoundChocolateAdrea {
+    _hidden_value = true
+  }
+  number FortunateGoldJonie {
+    _hidden_value = true
+  }
+  boolean StrategicCyanCharisse {
+    _hidden_value = true
+  }
+  string DesirableIvoryCecil {
+    _hidden_value = true
+  }
+  hidden_boolean PrimeBlushBrianna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string ZygomorphicLimeBunni {
+    _hidden_value = true
+  }
+  hidden_boolean RetailSilverRaine {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json SmartRedElsie {
+    _hidden_value = true
+  }
+  hidden_boolean NervousMoccasinHarley {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  MelodicAquaHarriott = true
+  MinorBlackAila = 692
+  ArrogantGoldCelestyn = 569
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RevolutionaryMoccasinOdette"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ObedientCopperRhona"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "TheoreticalBeigeKari"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RudeBlushMartha"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LazyEmeraldJelene"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

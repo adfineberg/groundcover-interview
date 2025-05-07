@@ -1,0 +1,44 @@
+type dummy.AdministrativeGreenMatilde {
+  annotations {
+    boolean MarkedMaroonOlive {
+    }
+    serviceid LegislativeVioletMella {
+    }
+    dummy.MuteGrayAlexi CuteTanWinnifred {
+    }
+    dummy.QualifiedHarlequinJolee NeutralIndigoKandy {
+    }
+    string NewChocolateOthella {
+    }
+  }
+  serviceid_number RegularJadeAlis {
+    _hidden_value = true
+  }
+  serviceid_number HissingGoldRhona {
+    _hidden_value = true
+  }
+  number RenewedGrayKatheryn {
+    _hidden_value = true
+  }
+  number UsedBronzeSusanetta {
+    _hidden_value = true
+  }
+  hidden_boolean ComprehensiveWhiteAmata {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  MarkedMaroonOlive = false
+  LegislativeVioletMella = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CuteTanWinnifred = 699
+  NeutralIndigoKandy = 857
+  NewChocolateOthella = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RegularJadeAlis"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

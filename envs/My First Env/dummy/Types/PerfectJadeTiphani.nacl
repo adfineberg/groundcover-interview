@@ -1,0 +1,189 @@
+type dummy.PerfectJadeTiphani {
+  annotations {
+    boolean RepresentativeCoffeeEtty {
+    }
+    dummy.SplendidAmberFlorance PermanentPlumBonnibelle {
+    }
+    dummy.YawningTomatoBlaire DivineTurquoiseJulissa {
+    }
+    serviceid_number ResidentialCopperErin {
+    }
+  }
+  dummy.IndirectSalmonTina UniformCrimsonPris {
+    StrongCoffeeLoleta = true
+    SlimyIndigoFara = 498
+    KnownGrayCesya = "What do you call two barracuda fish?  A Pairacuda!"
+    LikePurpleBonni = 366
+    ArtisticGreenPearl = "Im only familiar with 25 letters in the English language. I dont know why."
+    NiceAmethystCarole = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    MutualVioletLurline = 381
+    ExoticSilverNora = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    BewilderedHarlequinIrene = 358
+    DelightfulCopperKandy = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ManualPinkNonah = 761
+    PresentMagentaCharla = "Why was it called the dark ages? Because of all the knights. "
+    SpotlessMagentaDamara = "Why did the tomato blush? Because it saw the salad dressing."
+    EfficientCyanGerty = 733
+    SmallCrimsonTimmi = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ScrawnyVioletAvrit = 801
+    WealthyCoralNorah = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    AlrightSalmonBrinn = 625
+    _hidden_value = true
+  }
+  json ScaryChocolateDido {
+    _hidden_value = true
+  }
+  number DirtyBlushTine {
+    _hidden_value = true
+  }
+  serviceid_number UpsetScarletAyn {
+    _hidden_value = true
+  }
+  string SweetRedLea {
+    _hidden_value = true
+  }
+  json AlertAzureKizzee {
+    _hidden_value = true
+  }
+  string AvailableAquaShina {
+    _hidden_value = true
+  }
+  json CompetentTealLucienne {
+    _hidden_value = true
+  }
+  serviceid ResidentialFuchsiaDacie {
+    _hidden_value = true
+  }
+  serviceid UnnecessaryPurplePet {
+    _hidden_value = true
+  }
+  serviceid_number ParticularAmaranthOpal {
+    _hidden_value = true
+  }
+  string DefiantApricotValene {
+    _hidden_value = true
+  }
+  serviceid BalancedChocolateGracia {
+    _hidden_value = true
+  }
+  number MiniatureOliveStephine {
+    _hidden_value = true
+  }
+  boolean DeafBlushEstell {
+    _hidden_value = true
+  }
+  string MinisterialFuchsiaLillian {
+    _hidden_value = true
+  }
+  string ForthcomingPeachWinnifred {
+    _hidden_value = true
+  }
+  hidden_boolean UndergroundSapphireMarigold {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number AfraidAzureChristian {
+    _hidden_value = true
+  }
+  dummy.AccessibleTurquoiseEssie IntermediateSapphireRegina {
+    BrilliantMaroonBonni = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    SupposedIndigoDusty = true
+    _hidden_value = true
+  }
+  serviceid SuitableMoccasinCharmian {
+    _hidden_value = true
+  }
+  hidden_boolean ProminentLavenderMarice {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json NationalVioletJoceline {
+    _hidden_value = true
+  }
+  json EmpiricalAquamarineLaurel {
+    _hidden_value = true
+  }
+  hidden_boolean AlliedRoseMinerva {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.JustBeigeShaylynn AwkwardGreenLucilia {
+    FreshAquamarineRubie = 61
+    RoastedGrayCammie = true
+    FavourableIndigoBritte = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    RemoteSapphireCarree = 357
+    AloneOrangeMarijo = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    DoubtfulGreenTamara = 146
+    SocialAmberLilah = 369
+    TropicalGoldAmelita = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    VulnerableAquamarineAyn = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    WorldwideMaroonVinni = "What creature is smarter than a talking parrot? A spelling bee."
+    ArmedOrangeSibbie = 528
+    _hidden_value = true
+  }
+  RepresentativeCoffeeEtty = true
+  PermanentPlumBonnibelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DivineTurquoiseJulissa = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ResidentialCopperErin = 146
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DirtyBlushTine"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UndergroundSapphireMarigold"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AlliedRoseMinerva"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ParticularAmaranthOpal"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ScaryChocolateDido"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CompetentTealLucienne"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ForthcomingPeachWinnifred"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UnnecessaryPurplePet"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DivineTurquoiseJulissa"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

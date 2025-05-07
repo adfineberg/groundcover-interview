@@ -1,0 +1,70 @@
+type dummy.HighGreenAurelea {
+  annotations {
+    serviceid LivelyIndigoAlexandrina {
+    }
+    serviceid_number VerticalAzureLiesa {
+    }
+    dummy.DEFAULT ViolentCrimsonAmelie {
+    }
+    serviceid PoliteLimeMarlo {
+    }
+    json ZanyWhitePhillie {
+    }
+    string AgreedTomatoShalna {
+    }
+  }
+  hidden_boolean HelplessMoccasinDebi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ModernHarlequinLoralyn {
+    _hidden_value = true
+  }
+  number StandardLimeDela {
+    _hidden_value = true
+  }
+  json PsychiatricTealAdrienne {
+    _hidden_value = true
+  }
+  number GenuineApricotEmera {
+    _hidden_value = true
+  }
+  json DyingPinkLesya {
+    _hidden_value = true
+  }
+  serviceid_number QuickBronzeSheilakathryn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EconomicGreenLibby {
+    _hidden_value = true
+  }
+  "List<serviceid>" TenseGrayLynett {
+    _hidden_value = true
+  }
+  serviceid DueWhiteJackelyn {
+    _hidden_value = true
+  }
+  string ParticularLavenderKarylin {
+    _hidden_value = true
+  }
+  json InvolvedCoralSonni {
+    _hidden_value = true
+  }
+  LivelyIndigoAlexandrina = "Why did the kid cross the playground? To get to the other slide."
+  VerticalAzureLiesa = 544
+  ViolentCrimsonAmelie = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  PoliteLimeMarlo = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ZanyWhitePhillie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AgreedTomatoShalna = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "GenuineApricotEmera"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

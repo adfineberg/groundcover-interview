@@ -1,0 +1,67 @@
+type dummy.SilentSalmonOlympie {
+  annotations {
+    serviceid_number SharedGrayHatty {
+    }
+    hidden_boolean RisingPlumVirgina {
+    }
+    string ModestScarletMaisie {
+    }
+    boolean DisciplinaryGrayAddie {
+    }
+  }
+  serviceid_number EvolutionaryIndigoBarb {
+    _hidden_value = true
+  }
+  boolean AnonymousMagentaFiann {
+    _hidden_value = true
+  }
+  serviceid TenseMagentaIbby {
+    _hidden_value = true
+  }
+  number HelpfulSalmonValaria {
+    _hidden_value = true
+  }
+  boolean WilyPeachSibel {
+    _hidden_value = true
+  }
+  hidden_boolean ProtectiveCopperMarleah {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ShyAquaCatherin {
+    _hidden_value = true
+  }
+  "List<boolean>" HiddenTurquoiseBonni {
+    _hidden_value = true
+  }
+  boolean VisibleRedLaurene {
+    _hidden_value = true
+  }
+  hidden_boolean CulturalTurquoiseVitoria {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number IntegratedBlushDacey {
+    _hidden_value = true
+  }
+  SharedGrayHatty = 689
+  ModestScarletMaisie = "Why was it called the dark ages? Because of all the knights. "
+  DisciplinaryGrayAddie = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HiddenTurquoiseBonni"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SharedGrayHatty"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

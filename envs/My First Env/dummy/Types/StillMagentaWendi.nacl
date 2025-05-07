@@ -1,0 +1,47 @@
+type dummy.StillMagentaWendi is boolean {
+  annotations {
+    number DevelopedFuchsiaLilllie {
+    }
+    serviceid DirectMagentaSharyl {
+    }
+    serviceid FascinatingOrangeTheressa {
+    }
+    hidden_boolean MassTomatoGreta {
+    }
+    serviceid RulingBrownSamantha {
+    }
+    number QuietCoffeeBlinni {
+    }
+    boolean TotalAmethystRisa {
+    }
+    json InstitutionalYellowMariska {
+    }
+    string SafeGoldGabriell {
+    }
+    serviceid SoreScarletTed {
+    }
+    json EntitledPinkLeta {
+    }
+    hidden_boolean BoredCrimsonDoloritas {
+    }
+    number YappiestGreenFawne {
+    }
+    json YammeringSapphireLiv {
+    }
+    boolean NoisyMaroonMirabel {
+    }
+  }
+  DevelopedFuchsiaLilllie = 266
+  DirectMagentaSharyl = "Why was it called the dark ages? Because of all the knights. "
+  FascinatingOrangeTheressa = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  RulingBrownSamantha = "Dad Im hungry  Hi hungry Im dad"
+  QuietCoffeeBlinni = 478
+  TotalAmethystRisa = true
+  InstitutionalYellowMariska = "Whoever invented the knock-knock joke should get a no bell prize."
+  SafeGoldGabriell = "I'll tell you what often gets over looked... garden fences."
+  SoreScarletTed = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  EntitledPinkLeta = "What creature is smarter than a talking parrot? A spelling bee."
+  YappiestGreenFawne = 326
+  YammeringSapphireLiv = "To be Frank, I'd have to change my name."
+  NoisyMaroonMirabel = false
+}

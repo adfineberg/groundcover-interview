@@ -1,0 +1,97 @@
+type dummy.MolecularSalmonHenryetta {
+  annotations {
+    dummy.StillMagentaWendi CrookedBlueAlmeria {
+    }
+    boolean UsualTealMala {
+    }
+    serviceid PassiveTomatoZola {
+    }
+    string ShockedPurplePavia {
+    }
+    serviceid LegislativeLimeTiffie {
+    }
+    number RemoteAquaLotti {
+    }
+  }
+  number IncrediblePinkRayshell {
+    _hidden_value = true
+  }
+  boolean TameCopperDeanna {
+    _hidden_value = true
+  }
+  number AbsentJadeMerrill {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" DeafTanGusta {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number MainGrayKeriann {
+    _hidden_value = true
+  }
+  serviceid SunnyJadeSheryl {
+    _hidden_value = true
+  }
+  serviceid StrongOrangeBibbye {
+    _hidden_value = true
+  }
+  string GleamingLavenderTasha {
+    _hidden_value = true
+  }
+  serviceid MetropolitanChocolateRahel {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PatientMoccasinEdeline {
+    _hidden_value = true
+  }
+  string ComparableLimeJennilee {
+    _hidden_value = true
+  }
+  number ClassicalSapphireNadine {
+    _hidden_value = true
+  }
+  serviceid_number MadBlackNicola {
+    _hidden_value = true
+  }
+  dummy.DiverseTurquoiseMariya WearyBlushAilene {
+    AdversePlumLadonna = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SupremeCopperMellisa = "Why didnt the skeleton cross the road? Because he had no guts."
+    ForthcomingMaroonAda = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    FunIndigoRaine = "Why was it called the dark ages? Because of all the knights. "
+    WonderfulBlushSonnnie = "What do you call two barracuda fish?  A Pairacuda!"
+    FreshBlackDasha = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    NastyCrimsonVinni = false
+    _hidden_value = true
+  }
+  number StiffIvoryMelesa {
+    _hidden_value = true
+  }
+  serviceid ManagingBronzeJunie {
+    _hidden_value = true
+  }
+  hidden_boolean ZygomorphicPeachJacinthe {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  CrookedBlueAlmeria = false
+  UsualTealMala = true
+  PassiveTomatoZola = "Why was it called the dark ages? Because of all the knights. "
+  ShockedPurplePavia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  LegislativeLimeTiffie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  RemoteAquaLotti = 162
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ComparableLimeJennilee"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GleamingLavenderTasha"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

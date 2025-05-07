@@ -1,0 +1,95 @@
+type dummy.QuintessentialPeachAmmamaria {
+  annotations {
+    string ImplicitRedNeely {
+    }
+    serviceid_number EconomicSapphireMargery {
+    }
+    string ShyCyanPhilippine {
+    }
+    string MechanicalAzureSonni {
+    }
+    dummy.DEFAULT RelativeSapphireRosemarie {
+    }
+    number XericGreenRiva {
+    }
+  }
+  hidden_boolean AbsentEmeraldIris {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json AccurateRedEllynn {
+    _hidden_value = true
+  }
+  number FormalPeachGeri {
+    _hidden_value = true
+  }
+  hidden_boolean EconomicSilverAnnmarie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json MushyBlackCal {
+    _hidden_value = true
+  }
+  number AbundantGoldHester {
+    _hidden_value = true
+  }
+  serviceid_number SelfishWhiteBenni {
+    _hidden_value = true
+  }
+  json HissingBronzeDarb {
+    _hidden_value = true
+  }
+  serviceid_number DelicateBlushJackquelin {
+    _hidden_value = true
+  }
+  boolean AcuteEmeraldJohna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RaspyRedPippa {
+    _hidden_value = true
+  }
+  hidden_boolean RidiculousPlumGabriel {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ColonialAmberIssy {
+    _hidden_value = true
+  }
+  boolean SuccessiveCopperRobbie {
+    _hidden_value = true
+  }
+  serviceid SelectiveApricotRoxine {
+    _hidden_value = true
+  }
+  ImplicitRedNeely = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  EconomicSapphireMargery = 428
+  ShyCyanPhilippine = "To be Frank, I'd have to change my name."
+  MechanicalAzureSonni = "Why is Peter Pan always flying? Because he Neverlands."
+  RelativeSapphireRosemarie = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  XericGreenRiva = 361
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DelicateBlushJackquelin"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AbsentEmeraldIris"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ShyCyanPhilippine"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

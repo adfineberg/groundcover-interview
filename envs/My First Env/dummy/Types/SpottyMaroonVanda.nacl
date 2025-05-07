@@ -1,0 +1,98 @@
+type dummy.SpottyMaroonVanda {
+  annotations {
+    serviceid_number PossibleBronzeLulita {
+    }
+    dummy.DEFAULT WickedMaroonLaina {
+    }
+    serviceid_number ParentalSilverEmily {
+    }
+    serviceid ChemicalTomatoOdessa {
+    }
+    json ConservativeEmeraldValli {
+    }
+  }
+  hidden_boolean ExcessiveAmethystCarlyn {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number WidespreadMagentaMarlee {
+    _hidden_value = true
+  }
+  dummy.AutomaticAmberEditha UnexpectedLimeNorine {
+    HardFuchsiaLenette = true
+    ProfessionalRedGermaine = 211
+    SteadyPinkDebbie = 82
+    SlightVioletElinor = "Why did the tomato blush? Because it saw the salad dressing."
+    WrittenTurquoiseEsther = false
+    InstitutionalAmberNadiya = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    AdjacentGreenRubie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SpontaneousBrownRosana = false
+    FarBrownKellie = true
+    StandardBronzeOthilie = 209
+    DiverseLimeEdie = 409
+    RelaxedWhiteNara = "Why did the tomato blush? Because it saw the salad dressing."
+    CreativeAquaMerle = 363
+    ArrogantTanKeriann = 784
+    _hidden_value = true
+  }
+  string SoleSapphireRomonda {
+    _hidden_value = true
+  }
+  hidden_boolean BurningCopperAnnecorinne {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number AvailableBrownPippa {
+    _hidden_value = true
+  }
+  serviceid_number NiceBlueRomola {
+    _hidden_value = true
+  }
+  serviceid_number ImportantCrimsonFaustine {
+    _hidden_value = true
+  }
+  string UnableTanLyda {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NaturalAmberBeverly {
+    _hidden_value = true
+  }
+  "List<number>" FlyingRoseMead {
+    _hidden_value = true
+  }
+  serviceid FantasticSilverMyrna {
+    _hidden_value = true
+  }
+  number RudeRoseLuciana {
+    _hidden_value = true
+  }
+  hidden_boolean AmazingAmaranthCathy {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<json>" RobustScarletKlarika {
+    _hidden_value = true
+  }
+  number WorthwhileGrayAlecia {
+    _hidden_value = true
+  }
+  boolean PreviousPlumChery {
+    _hidden_value = true
+  }
+  hidden_boolean MassBeigeCristabel {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  PossibleBronzeLulita = 217
+  WickedMaroonLaina = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  ParentalSilverEmily = 800
+  ChemicalTomatoOdessa = "Why did the tomato blush? Because it saw the salad dressing."
+  ConservativeEmeraldValli = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

@@ -1,0 +1,40 @@
+type dummy.HiddenLavenderShaylyn {
+  annotations {
+    number MixedIvoryMinda {
+    }
+    json StrangeRoseZitella {
+    }
+    json ArchitecturalPurpleEmiline {
+    }
+    boolean AwakeCopperDorothea {
+    }
+    json FantasticGoldLizzie {
+    }
+    json UniqueAmethystRonalda {
+    }
+    hidden_boolean DeliciousRedBryana {
+    }
+  }
+  hidden_boolean PositiveBronzeLexi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SheerYellowHildagard {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean WastefulSilverHeidi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  MixedIvoryMinda = 369
+  StrangeRoseZitella = "Why didnt the skeleton cross the road? Because he had no guts."
+  ArchitecturalPurpleEmiline = "Why did the kid cross the playground? To get to the other slide."
+  AwakeCopperDorothea = false
+  FantasticGoldLizzie = "Slept like a log last night  woke up in the fireplace."
+  UniqueAmethystRonalda = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

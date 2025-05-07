@@ -1,0 +1,54 @@
+type dummy.RigidCyanLisa {
+  annotations {
+    serviceid VoluntaryMoccasinPriscella {
+    }
+    string CulturalTanMara {
+    }
+    hidden_boolean KeenTomatoLetta {
+    }
+    boolean StickyHarlequinFloria {
+    }
+  }
+  json PrivatePurpleKimberlyn {
+    _hidden_value = true
+  }
+  json SpatialPeachChickie {
+    _hidden_value = true
+  }
+  number BriefCoralMariska {
+    _hidden_value = true
+  }
+  string RationalGrayGwenette {
+    _hidden_value = true
+  }
+  serviceid TallCoralGeneva {
+    _hidden_value = true
+  }
+  string FewAmethystKirby {
+    _hidden_value = true
+  }
+  hidden_boolean SuccessiveBrownGwen {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean BumpyBlueTed {
+    _hidden_value = true
+  }
+  VoluntaryMoccasinPriscella = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  CulturalTanMara = "Whoever invented the knock-knock joke should get a no bell prize."
+  StickyHarlequinFloria = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BumpyBlueTed"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BriefCoralMariska"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

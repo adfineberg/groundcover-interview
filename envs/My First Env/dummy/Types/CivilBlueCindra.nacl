@@ -1,0 +1,119 @@
+type dummy.CivilBlueCindra {
+  annotations {
+    serviceid_number BlondeSapphireRozina {
+    }
+    boolean YtterbicMaroonCarleen {
+    }
+    json AmbitiousCoffeeCleo {
+    }
+    json PoisedPlumBritteny {
+    }
+    boolean PracticalPinkArielle {
+    }
+  }
+  boolean ProductiveMaroonDolli {
+    _hidden_value = true
+  }
+  hidden_boolean SportingCopperNorma {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConservativeAquamarineCherish {
+    _hidden_value = true
+  }
+  serviceid_number CuddlyTurquoiseMela {
+    _hidden_value = true
+  }
+  dummy.OutrageousApricotDelia FluffyRoseJinny {
+    ConvenientGoldYasmin = 837
+    OccasionalGoldSabine = 564
+    ComparableCyanAddia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ConceptualCoffeeAngelle = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    NervousCrimsonBernice = 134
+    DeadIvoryMatilda = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    ManagerialChocolateMaddi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    MagneticCoffeeGae = "Why didnt the skeleton cross the road? Because he had no guts."
+    ConcreteApricotJordain = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SupportingCyanAdda = 439
+    AdvancedGreenGilda = 123
+    AvailableTomatoFlorentia = 325
+    SacredLimeGeorgeta = 467
+    ComplexCoffeeNatala = "Why did the tomato blush? Because it saw the salad dressing."
+    ColdAquamarineRorie = 415
+    CriticalApricotRita = false
+    UncertainApricotCorly = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    FragileFuchsiaBeitris = 714
+    _hidden_value = true
+  }
+  number FormidableYellowHarriott {
+    _hidden_value = true
+  }
+  number MelodicBlackArleen {
+    _hidden_value = true
+  }
+  serviceid NastyPeachMarlo {
+    _hidden_value = true
+  }
+  serviceid RegulatorySapphireAlyce {
+    _hidden_value = true
+  }
+  json SoundCopperSarina {
+    _hidden_value = true
+  }
+  json VisitingPlumCarlita {
+    _hidden_value = true
+  }
+  json MiniatureFuchsiaDasya {
+    _hidden_value = true
+  }
+  serviceid ToryPeachAubrie {
+    _hidden_value = true
+  }
+  number DirtyFuchsiaStacee {
+    _hidden_value = true
+  }
+  boolean SureIvoryEleni {
+    _hidden_value = true
+  }
+  boolean RecentBeigeAnnelise {
+    _hidden_value = true
+  }
+  string CurvedMoccasinBethanne {
+    _hidden_value = true
+  }
+  BlondeSapphireRozina = 671
+  YtterbicMaroonCarleen = true
+  AmbitiousCoffeeCleo = "Im only familiar with 25 letters in the English language. I dont know why."
+  PoisedPlumBritteny = "Dad Im hungry  Hi hungry Im dad"
+  PracticalPinkArielle = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RecentBeigeAnnelise"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "VisitingPlumCarlita"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SureIvoryEleni"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PracticalPinkArielle"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

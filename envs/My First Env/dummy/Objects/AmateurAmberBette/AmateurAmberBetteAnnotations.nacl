@@ -1,0 +1,79 @@
+type dummy.AmateurAmberBette {
+  annotations {
+    json MentalIndigoMarijo {
+    }
+    json BadRedDelphinia {
+    }
+    dummy.IncPurpleMarylou MusicalFuchsiaChristiana {
+    }
+    dummy.StrategicCoffeeKailey OddCrimsonFrayda {
+    }
+    string DramaticCrimsonVanya {
+    }
+    string CautiousScarletArdene {
+    }
+    boolean ResidentAmaranthDinny {
+    }
+    serviceid EmotionalCoralKimberly {
+    }
+    serviceid AnonymousAmethystVal {
+    }
+    json RearVioletBertie {
+    }
+    hidden_boolean NotableVioletMead {
+    }
+    json SpottyMoccasinChloris {
+    }
+    dummy.DeafScarletCarolynn DueAmethystHermione {
+    }
+    serviceid_number MidMaroonCyb {
+    }
+    dummy.EstablishedOliveSherri ComfortableJadeRamona {
+    }
+    serviceid HealthySapphireCallida {
+    }
+    dummy.RapidOliveNikaniki SpatialMagentaPetronia {
+    }
+  }
+  MentalIndigoMarijo = "Dad Im hungry  Hi hungry Im dad"
+  BadRedDelphinia = "Why was it called the dark ages? Because of all the knights. "
+  DramaticCrimsonVanya = "Why did the tomato blush? Because it saw the salad dressing."
+  CautiousScarletArdene = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ResidentAmaranthDinny = false
+  EmotionalCoralKimberly = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AnonymousAmethystVal = "A steak pun is a rare medium well done."
+  RearVioletBertie = "Why did the kid cross the playground? To get to the other slide."
+  SpottyMoccasinChloris = "What do you call two barracuda fish?  A Pairacuda!"
+  MidMaroonCyb = 691
+  HealthySapphireCallida = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _important_values = [
+    {
+      value = "ProposedIvoryJaymee"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "NotableVioletMead"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HealthySapphireCallida"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SpatialMagentaPetronia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ComfortableJadeRamona"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "AmateurAmberBette_alias"
+}

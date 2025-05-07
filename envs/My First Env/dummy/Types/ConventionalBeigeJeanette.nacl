@@ -1,0 +1,87 @@
+type dummy.ConventionalBeigeJeanette {
+  annotations {
+    boolean AcuteTanGloriana {
+    }
+    string WoodenIndigoCarole {
+    }
+    boolean EligibleScarletStella {
+    }
+    string MeltedPlumCordey {
+    }
+    json ThunderingAzureTanhya {
+    }
+    serviceid_number GastricLavenderKaycee {
+    }
+  }
+  dummy.DEFAULT EmbarrassingPurpleGlenine {
+    _hidden_value = true
+  }
+  string DualSalmonNina {
+    _hidden_value = true
+  }
+  boolean PracticalCoffeeDionis {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UnevenPurpleShanda {
+    _hidden_value = true
+  }
+  dummy.DEFAULT InstantBlueBarbey {
+    _hidden_value = true
+  }
+  number LuckyAmberGabrielle {
+    _hidden_value = true
+  }
+  number AbsentSapphireJoanne {
+    _hidden_value = true
+  }
+  json WanderingCoralKassia {
+    _hidden_value = true
+  }
+  serviceid_number AdorableGrayKailey {
+    _hidden_value = true
+  }
+  hidden_boolean UnchangedPurplePaula {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean NastyAmethystArabela {
+    _hidden_value = true
+  }
+  AcuteTanGloriana = false
+  WoodenIndigoCarole = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  EligibleScarletStella = true
+  MeltedPlumCordey = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ThunderingAzureTanhya = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  GastricLavenderKaycee = 154
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LuckyAmberGabrielle"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UnevenPurpleShanda"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UnchangedPurplePaula"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "EligibleScarletStella"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ThunderingAzureTanhya"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

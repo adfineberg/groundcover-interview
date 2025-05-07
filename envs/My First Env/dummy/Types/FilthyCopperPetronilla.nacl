@@ -1,0 +1,31 @@
+type dummy.FilthyCopperPetronilla {
+  annotations {
+    number ThoroughGoldColette {
+    }
+    number BackChocolateMichaeline {
+    }
+    hidden_boolean JuniorEmeraldMelodie {
+    }
+    boolean AdorableCopperLeigh {
+    }
+  }
+  number EverydayTanFrederica {
+    _hidden_value = true
+  }
+  ThoroughGoldColette = 422
+  BackChocolateMichaeline = 44
+  AdorableCopperLeigh = false
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "BackChocolateMichaeline"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AdorableCopperLeigh"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

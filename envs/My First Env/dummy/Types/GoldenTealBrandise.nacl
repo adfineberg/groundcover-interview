@@ -1,0 +1,103 @@
+type dummy.GoldenTealBrandise {
+  annotations {
+    json NakedBrownRoseann {
+    }
+    json InfluentialSalmonMarleah {
+    }
+    serviceid_number RegisteredOliveAllie {
+    }
+    string EmbarrassedPlumCarmine {
+    }
+  }
+  number HorribleGrayNert {
+    _hidden_value = true
+  }
+  serviceid_number WorldwideCoralCornie {
+    _hidden_value = true
+  }
+  number PregnantLimeCleopatra {
+    _hidden_value = true
+  }
+  number GrotesqueTanJacquenetta {
+    _hidden_value = true
+  }
+  serviceid_number TypicalAmethystMiguelita {
+    _hidden_value = true
+  }
+  boolean CrookedMaroonKatharina {
+    _hidden_value = true
+  }
+  boolean OuterSalmonElisa {
+    _hidden_value = true
+  }
+  dummy.AcceptableAmaranthGertrudis WrongBlushTomasine {
+    SportingGreenRachel = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    ColorfulAmberRhetta = "To be Frank, I'd have to change my name."
+    UsedLimeMia = 957
+    SharpAzureChandra = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    AnnualAquamarineAmii = true
+    UninterestedSalmonClaretta = false
+    IllTomatoKimberley = 598
+    TemporaryFuchsiaGuillema = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MentalSalmonKori = "Why was it called the dark ages? Because of all the knights. "
+    CarefulBlushSaraann = 675
+    TropicalWhiteLauralee = "Why was it called the dark ages? Because of all the knights. "
+    PsychologicalFuchsiaAnnabal = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  number VoicelessLimeBuffy {
+    _hidden_value = true
+  }
+  json CautiousAmethystGypsy {
+    _hidden_value = true
+  }
+  serviceid_number ApplicableTanGabbi {
+    _hidden_value = true
+  }
+  serviceid_number JudicialBeigeJorey {
+    _hidden_value = true
+  }
+  serviceid_number OppositeTealAuroora {
+    _hidden_value = true
+  }
+  number ChosenAmaranthCaritta {
+    _hidden_value = true
+  }
+  string ThirstyWhiteAriana {
+    _hidden_value = true
+  }
+  number CulturalAmberHelaina {
+    _hidden_value = true
+  }
+  hidden_boolean VagueRedCordelia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  NakedBrownRoseann = "A steak pun is a rare medium well done."
+  InfluentialSalmonMarleah = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RegisteredOliveAllie = 970
+  EmbarrassedPlumCarmine = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "VoicelessLimeBuffy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CrookedMaroonKatharina"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RegisteredOliveAllie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

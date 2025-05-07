@@ -1,0 +1,73 @@
+type dummy.CombativeFuchsiaSibeal {
+  annotations {
+    serviceid_number AccessibleIndigoRani {
+    }
+    serviceid AgriculturalGoldAurora {
+    }
+    dummy.DEFAULT LegislativePinkCarmina {
+    }
+    boolean ThoughtfulAzureEmilia {
+    }
+    dummy.IndependentOliveClaudetta LesserLimeJorrie {
+    }
+  }
+  boolean MarriedBlushBernadine {
+    _hidden_value = true
+  }
+  serviceid HelplessBeigeAmara {
+    _hidden_value = true
+  }
+  dummy.IndirectSalmonTina StatisticalCoffeeOlivette {
+    StrongCoffeeLoleta = false
+    SlimyIndigoFara = 198
+    KnownGrayCesya = "What do you do on a remote island? Try and find the TV island it belongs to."
+    LikePurpleBonni = 545
+    ArtisticGreenPearl = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    NiceAmethystCarole = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    MutualVioletLurline = 578
+    ExoticSilverNora = "Whoever invented the knock-knock joke should get a no bell prize."
+    BewilderedHarlequinIrene = 28
+    DelightfulCopperKandy = "Whoever invented the knock-knock joke should get a no bell prize."
+    ManualPinkNonah = 91
+    PresentMagentaCharla = "Why was it called the dark ages? Because of all the knights. "
+    SpotlessMagentaDamara = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    EfficientCyanGerty = 208
+    SmallCrimsonTimmi = "Why did the kid cross the playground? To get to the other slide."
+    ScrawnyVioletAvrit = 425
+    WealthyCoralNorah = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    AlrightSalmonBrinn = 87
+    _hidden_value = true
+  }
+  serviceid_number DisturbingGoldClemence {
+    _hidden_value = true
+  }
+  serviceid CleanMaroonFelice {
+    _hidden_value = true
+  }
+  number GastricSilverAntonetta {
+    _hidden_value = true
+  }
+  hidden_boolean TiredJadeShanta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ConstitutionalEmeraldEthelin {
+    _hidden_value = true
+  }
+  string UniversalOrangeFlorry {
+    _hidden_value = true
+  }
+  AccessibleIndigoRani = 9
+  AgriculturalGoldAurora = "Why is Peter Pan always flying? Because he Neverlands."
+  LegislativePinkCarmina = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  ThoughtfulAzureEmilia = false
+  LesserLimeJorrie = 62
+  _hidden_value = true
+}

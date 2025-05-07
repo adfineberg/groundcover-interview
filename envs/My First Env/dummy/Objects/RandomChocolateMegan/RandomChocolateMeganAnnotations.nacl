@@ -1,0 +1,64 @@
+type dummy.RandomChocolateMegan {
+  annotations {
+    serviceid ConfidentialYellowPhebe {
+    }
+    boolean OldCopperAshlan {
+    }
+    serviceid_number EthicalMoccasinCindie {
+    }
+    number ZerothBlueNadya {
+    }
+    dummy.StaleSilverLillian CurvedBlushCarlin {
+    }
+    hidden_boolean NormalLavenderDaveta {
+    }
+    serviceid_number ProudSapphireLaverne {
+    }
+    serviceid_number LikeWhiteAshia {
+    }
+    dummy.HistoricalBluePammi SuperiorPurpleBrynne {
+    }
+    string ProtestantBlushLindi {
+    }
+    serviceid EntireBlackLara {
+    }
+    hidden_boolean ChosenAzureEsther {
+    }
+    json ShortCopperJerry {
+    }
+    boolean FrontLavenderKeriann {
+    }
+    string FunnyCoralHelena {
+    }
+    serviceid_number EducationalSalmonRickie {
+    }
+  }
+  ConfidentialYellowPhebe = "Whoever invented the knock-knock joke should get a no bell prize."
+  OldCopperAshlan = true
+  EthicalMoccasinCindie = 376
+  ZerothBlueNadya = 665
+  CurvedBlushCarlin = 236
+  ProudSapphireLaverne = 473
+  LikeWhiteAshia = 219
+  ProtestantBlushLindi = "Im only familiar with 25 letters in the English language. I dont know why."
+  EntireBlackLara = "What creature is smarter than a talking parrot? A spelling bee."
+  ShortCopperJerry = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FrontLavenderKeriann = false
+  FunnyCoralHelena = "What do you call two barracuda fish?  A Pairacuda!"
+  EducationalSalmonRickie = 354
+  _important_values = [
+    {
+      value = "FunnyTomatoKarine"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ProtestantBlushLindi"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "RandomChocolateMegan_alias"
+}

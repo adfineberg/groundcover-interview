@@ -1,0 +1,151 @@
+type dummy.LeftAmaranthRosmunda {
+  annotations {
+    serviceid ContinuedMaroonColleen {
+    }
+    serviceid HilariousGoldStarlene {
+    }
+    hidden_boolean SophisticatedTurquoiseAlika {
+    }
+    number ComparableBlackWaneta {
+    }
+    number CertainBlackCharmine {
+    }
+  }
+  json OpenOliveCelina {
+    _hidden_value = true
+  }
+  json BindingGreenElizabet {
+    _hidden_value = true
+  }
+  string ChemicalTanDevondra {
+    _hidden_value = true
+  }
+  number FashionableJadeDodi {
+    _hidden_value = true
+  }
+  serviceid_number SwiftGrayCarolyn {
+    _hidden_value = true
+  }
+  serviceid_number WorldwideSapphireBria {
+    _hidden_value = true
+  }
+  number ContentPlumAarika {
+    _hidden_value = true
+  }
+  serviceid WorkingGreenFianna {
+    _hidden_value = true
+  }
+  dummy.OutrageousApricotDelia CooperativeBlackAlexis {
+    ConvenientGoldYasmin = 496
+    OccasionalGoldSabine = 118
+    ComparableCyanAddia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ConceptualCoffeeAngelle = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    NervousCrimsonBernice = 555
+    DeadIvoryMatilda = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    ManagerialChocolateMaddi = "What do you call two barracuda fish?  A Pairacuda!"
+    MagneticCoffeeGae = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ConcreteApricotJordain = "What creature is smarter than a talking parrot? A spelling bee."
+    SupportingCyanAdda = 836
+    AdvancedGreenGilda = 817
+    AvailableTomatoFlorentia = 577
+    SacredLimeGeorgeta = 152
+    ComplexCoffeeNatala = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ColdAquamarineRorie = 126
+    CriticalApricotRita = true
+    UncertainApricotCorly = "Why didnt the skeleton cross the road? Because he had no guts."
+    FragileFuchsiaBeitris = 983
+    _hidden_value = true
+  }
+  boolean SensitiveBlushModestine {
+    _hidden_value = true
+  }
+  hidden_boolean UnchangedCoralAnnette {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string RigidTanNorrie {
+    _hidden_value = true
+  }
+  string YuckyJadeKetty {
+    _hidden_value = true
+  }
+  serviceid_number HardSilverClarice {
+    _hidden_value = true
+  }
+  boolean UncertainSilverChanna {
+    _hidden_value = true
+  }
+  string AfraidCoffeeNonna {
+    _hidden_value = true
+  }
+  serviceid DesperateFuchsiaElyn {
+    _hidden_value = true
+  }
+  boolean DisturbedIvoryEllene {
+    _hidden_value = true
+  }
+  json CompetentBlackDaile {
+    _hidden_value = true
+  }
+  "Map<boolean>" WorthyLimeFulvia {
+    _hidden_value = true
+  }
+  json ThenAmberDorothee {
+    _hidden_value = true
+  }
+  serviceid_number UnlikelyScarletKizzee {
+    _hidden_value = true
+  }
+  hidden_boolean InvolvedBlackMercy {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean WelcomeIndigoMarinna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json CharmingJadeLinell {
+    _hidden_value = true
+  }
+  ContinuedMaroonColleen = "Im only familiar with 25 letters in the English language. I dont know why."
+  HilariousGoldStarlene = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ComparableBlackWaneta = 774
+  CertainBlackCharmine = 63
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "WelcomeIndigoMarinna"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UnlikelyScarletKizzee"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CharmingJadeLinell"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SophisticatedTurquoiseAlika"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HilariousGoldStarlene"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

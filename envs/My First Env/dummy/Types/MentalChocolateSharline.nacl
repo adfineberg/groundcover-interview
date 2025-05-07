@@ -1,0 +1,92 @@
+type dummy.MentalChocolateSharline {
+  annotations {
+    json HandsomeIvoryElvira {
+    }
+    hidden_boolean AliveApricotShandy {
+    }
+    dummy.PreparedChocolateVanny FavourableGreenJoelly {
+    }
+    hidden_boolean NursingBronzeAmara {
+    }
+    boolean RenewedPurpleVerna {
+    }
+    dummy.ImaginativeCyanEmmalynn BigAzureTeddy {
+    }
+  }
+  string ImmediateAmethystBelle {
+    _hidden_value = true
+  }
+  boolean TastelessBronzeStace {
+    _hidden_value = true
+  }
+  serviceid_number ExpensiveEmeraldKirsti {
+    _hidden_value = true
+  }
+  string MinimumRedAngy {
+    _hidden_value = true
+  }
+  hidden_boolean ClinicalSilverCordelie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json AdequateSalmonAgna {
+    _hidden_value = true
+  }
+  boolean ImmensePeachBambie {
+    _hidden_value = true
+  }
+  number DamagedRoseHedwig {
+    _hidden_value = true
+  }
+  serviceid_number LiteraryMoccasinJanith {
+    _hidden_value = true
+  }
+  number DamagedVioletMalia {
+    _hidden_value = true
+  }
+  boolean YabberingBlueOrel {
+    _hidden_value = true
+  }
+  serviceid_number UnableRedLatia {
+    _hidden_value = true
+  }
+  string BackCoralEileen {
+    _hidden_value = true
+  }
+  string DeliberateWhiteAndi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GenerousLimeAnastassia {
+    _hidden_value = true
+  }
+  number ChemicalScarletJunia {
+    _hidden_value = true
+  }
+  serviceid_number SorePinkReba {
+    _hidden_value = true
+  }
+  string AboveCopperJacquelyn {
+    _hidden_value = true
+  }
+  boolean RemainingTurquoiseDeva {
+    _hidden_value = true
+  }
+  HandsomeIvoryElvira = "Why is Peter Pan always flying? Because he Neverlands."
+  FavourableGreenJoelly = true
+  RenewedPurpleVerna = true
+  BigAzureTeddy = false
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "BigAzureTeddy"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FavourableGreenJoelly"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

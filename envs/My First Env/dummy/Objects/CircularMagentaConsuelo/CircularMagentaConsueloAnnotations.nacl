@@ -1,0 +1,104 @@
+type dummy.CircularMagentaConsuelo {
+  annotations {
+    dummy.AccessibleTurquoiseEssie FlyingGrayTeddi {
+    }
+    json RespectableLavenderDenni {
+    }
+    json SecurePlumBelle {
+    }
+    serviceid DigitalOrangeKarel {
+    }
+    serviceid_number RichWhiteNadeen {
+    }
+    string GrandCrimsonIvonne {
+    }
+    serviceid AdequateGreenElonore {
+    }
+    hidden_boolean OlympicGrayTedi {
+    }
+    string RoastedVioletHeidie {
+    }
+    dummy.SpecialVioletJesselyn ValuableBrownAbagail {
+    }
+    string MotionlessIvoryDulci {
+    }
+    hidden_boolean ZestfulAzureElbertine {
+    }
+    dummy.QuintessentialLavenderElinor SwiftTanJohnna {
+    }
+    json WildCrimsonMaryellen {
+    }
+    json VisitingJadeAugustine {
+    }
+    serviceid ChosenBlackSabina {
+    }
+    boolean FemaleChocolateNorene {
+    }
+    hidden_boolean ClearChocolateMariana {
+    }
+    hidden_boolean ZygoticGoldMiguela {
+    }
+  }
+  FlyingGrayTeddi = file("ManagerialAmaranthApril.txt")
+  RespectableLavenderDenni = '''
+Why is Peter Pan always flying? Because he Neverlands.
+Why is Peter Pan always flying? Because he Neverlands.
+I thought my wife was joking when she said she'd leave me if I didn't stop signing "I'm A Believer"... Then I saw her face.
+'''
+  SecurePlumBelle = "What creature is smarter than a talking parrot? A spelling bee."
+  DigitalOrangeKarel = "Im only familiar with 25 letters in the English language. I dont know why."
+  RichWhiteNadeen = 666
+  GrandCrimsonIvonne = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AdequateGreenElonore = "To be Frank, I'd have to change my name."
+  RoastedVioletHeidie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  MotionlessIvoryDulci = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  WildCrimsonMaryellen = "What do you call two barracuda fish?  A Pairacuda!"
+  VisitingJadeAugustine = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ChosenBlackSabina = "Slept like a log last night  woke up in the fireplace."
+  FemaleChocolateNorene = false
+  _important_values = [
+    {
+      value = "ForeignLimeWallie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HotOliveOlive"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ExplicitMoccasinClemence"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HonPurpleAnnabal"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HurtPurpleElene"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AdequateGreenElonore"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ValuableBrownAbagail"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ZygoticGoldMiguela"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "CircularMagentaConsuelo_alias"
+}

@@ -1,0 +1,79 @@
+type dummy.ExcitedRoseTrista {
+  annotations {
+    json ProperGrayRora {
+    }
+    hidden_boolean CompatibleAzureElsbeth {
+    }
+    hidden_boolean ConceptualCopperDorey {
+    }
+    number ManagerialVioletShalne {
+    }
+  }
+  json PoliteOliveDevonne {
+    _hidden_value = true
+  }
+  string RidiculousCyanBonnee {
+    _hidden_value = true
+  }
+  number ControversialBeigeZita {
+    _hidden_value = true
+  }
+  serviceid_number ParentalPlumLeoine {
+    _hidden_value = true
+  }
+  number FormalTanElise {
+    _hidden_value = true
+  }
+  string CoolRedSherill {
+    _hidden_value = true
+  }
+  string ReasonableSalmonGeorgeanne {
+    _hidden_value = true
+  }
+  json ElectricalOliveLenore {
+    _hidden_value = true
+  }
+  "Map<string>" FewCyanBibbie {
+    _hidden_value = true
+  }
+  serviceid MedicalTurquoiseLynnell {
+    _hidden_value = true
+  }
+  json OlympicPurpleCate {
+    _hidden_value = true
+  }
+  dummy.ImaginativeCyanEmmalynn SupposedEmeraldCharita {
+    ScatteredIndigoHildegarde = 996
+    DistinguishedIndigoSile = 261
+    RepresentativeBronzeAlika = 633
+    ImpressedOrangeAnnecorinne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    HotTurquoiseDarb = "What do you call two barracuda fish?  A Pairacuda!"
+    YabberingGoldStevana = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ThinBrownTory = "Whoever invented the knock-knock joke should get a no bell prize."
+    MolecularBeigeKettie = false
+    JudicialOrangeCally = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  ProperGrayRora = "Slept like a log last night  woke up in the fireplace."
+  ManagerialVioletShalne = 699
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ControversialBeigeZita"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MedicalTurquoiseLynnell"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ProperGrayRora"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

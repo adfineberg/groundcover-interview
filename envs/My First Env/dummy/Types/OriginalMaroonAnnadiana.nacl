@@ -1,0 +1,149 @@
+type dummy.OriginalMaroonAnnadiana {
+  annotations {
+    serviceid ClassicAquamarineJenilee {
+    }
+    dummy.DEFAULT ReducedBrownBibi {
+    }
+    boolean ZygoticGrayHetti {
+    }
+    hidden_boolean StrikingOliveJo {
+    }
+    hidden_boolean StiffAzureTessa {
+    }
+    boolean CautiousLimeAgnese {
+    }
+  }
+  json NuclearAmethystWilla {
+    _hidden_value = true
+  }
+  string CorrectEmeraldSibelle {
+    _hidden_value = true
+  }
+  serviceid TrickyRoseIseabal {
+    _hidden_value = true
+  }
+  boolean SingleBlushLily {
+    _hidden_value = true
+  }
+  number WealthyOliveKelsy {
+    _hidden_value = true
+  }
+  number StructuralSalmonRebeka {
+    _hidden_value = true
+  }
+  number PayableBlueJunie {
+    _hidden_value = true
+  }
+  string OutdoorPlumMelodee {
+    _hidden_value = true
+  }
+  string PowerfulScarletDianne {
+    _hidden_value = true
+  }
+  number TiredTanRebeka {
+    _hidden_value = true
+  }
+  boolean RegulatoryJadeStesha {
+    _hidden_value = true
+  }
+  hidden_boolean ConceptualAmberRiva {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.MuteGrayAlexi SubsequentCyanElsbeth {
+    ComplexGrayKerstin = 503
+    BigYellowAsia = 45
+    DreadfulGreenDagmar = "Dad Im hungry  Hi hungry Im dad"
+    CooperativeTomatoNora = false
+    EnviousCoffeeWallie = "Im only familiar with 25 letters in the English language. I dont know why."
+    CrudeIvoryJoli = "Im only familiar with 25 letters in the English language. I dont know why."
+    LuckyFuchsiaSher = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    DiverseHarlequinKaleena = "What did one nut say as he chased another nut?  I'm a cashew!"
+    AngryFuchsiaVivianne = 485
+    OnlyGreenArdella = "Slept like a log last night  woke up in the fireplace."
+    _hidden_value = true
+  }
+  number SharpTurquoiseAgata {
+    _hidden_value = true
+  }
+  string ConvincedAmberAugustine {
+    _hidden_value = true
+  }
+  number AcademicJadeBenedicta {
+    _hidden_value = true
+  }
+  number PoliticalPeachJuli {
+    _hidden_value = true
+  }
+  string GrievingIvoryAme {
+    _hidden_value = true
+  }
+  serviceid FixedIvoryAdiana {
+    _hidden_value = true
+  }
+  serviceid_number FavourableBeigeMireielle {
+    _hidden_value = true
+  }
+  number HighAquamarineBrynne {
+    _hidden_value = true
+  }
+  "List<number>" FairTurquoiseAudre {
+    _hidden_value = true
+  }
+  hidden_boolean PlainMoccasinFranny {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number TrickyScarletBridie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DivineFuchsiaCarie {
+    _hidden_value = true
+  }
+  serviceid_number PossibleSalmonMargaretha {
+    _hidden_value = true
+  }
+  serviceid_number PanickyFuchsiaJinny {
+    _hidden_value = true
+  }
+  serviceid MuteCrimsonNellie {
+    _hidden_value = true
+  }
+  string FantasticSalmonGwendolin {
+    _hidden_value = true
+  }
+  number CollectiveAquamarineJonell {
+    _hidden_value = true
+  }
+  ClassicAquamarineJenilee = "A steak pun is a rare medium well done."
+  ReducedBrownBibi = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  ZygoticGrayHetti = false
+  CautiousLimeAgnese = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PanickyFuchsiaJinny"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "TrickyScarletBridie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FixedIvoryAdiana"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "WealthyOliveKelsy"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,117 @@
+type dummy.ClassicCopperMilzie {
+  annotations {
+    serviceid CombinedCyanClem {
+    }
+    serviceid_number DisgustedBlackDynah {
+    }
+    serviceid_number SurprisedTurquoiseStafani {
+    }
+    dummy.QualifiedHarlequinJolee MagnificentWhiteHetty {
+    }
+    serviceid RevolutionaryCyanBarbabra {
+    }
+    number WitteringRedGerianne {
+    }
+  }
+  dummy.DEFAULT JitteryBlueAaren {
+    _hidden_value = true
+  }
+  json SquareGoldJeannie {
+    _hidden_value = true
+  }
+  json FlexibleBeigeSibel {
+    _hidden_value = true
+  }
+  json TartOrangePaulie {
+    _hidden_value = true
+  }
+  boolean NotableAmberDarby {
+    _hidden_value = true
+  }
+  number WorthyCrimsonHedy {
+    _hidden_value = true
+  }
+  hidden_boolean LabourMoccasinKip {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.AcceptableAmaranthGertrudis FixedTomatoTrixi {
+    SportingGreenRachel = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+    ColorfulAmberRhetta = "Slept like a log last night  woke up in the fireplace."
+    UsedLimeMia = 492
+    SharpAzureChandra = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    AnnualAquamarineAmii = true
+    UninterestedSalmonClaretta = false
+    IllTomatoKimberley = 532
+    TemporaryFuchsiaGuillema = "Whoever invented the knock-knock joke should get a no bell prize."
+    MentalSalmonKori = "Why did the tomato blush? Because it saw the salad dressing."
+    CarefulBlushSaraann = 322
+    TropicalWhiteLauralee = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    PsychologicalFuchsiaAnnabal = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  dummy.DEFAULT SmoothLimeBeverlie {
+    _hidden_value = true
+  }
+  string DelightfulAmaranthCherye {
+    _hidden_value = true
+  }
+  number SeniorTomatoMalynda {
+    _hidden_value = true
+  }
+  serviceid_number SelectedAquaLida {
+    _hidden_value = true
+  }
+  boolean LiteraryEmeraldDulcia {
+    _hidden_value = true
+  }
+  boolean ConsiderableCopperTandi {
+    _hidden_value = true
+  }
+  serviceid_number EasternLavenderNanete {
+    _hidden_value = true
+  }
+  serviceid SelfishCopperBee {
+    _hidden_value = true
+  }
+  number BizarreLavenderJill {
+    _hidden_value = true
+  }
+  serviceid_number SouthernTurquoiseDarda {
+    _hidden_value = true
+  }
+  hidden_boolean GreasyWhiteDoralyn {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  CombinedCyanClem = "Dad Im hungry  Hi hungry Im dad"
+  DisgustedBlackDynah = 840
+  SurprisedTurquoiseStafani = 134
+  MagnificentWhiteHetty = 76
+  RevolutionaryCyanBarbabra = "Im only familiar with 25 letters in the English language. I dont know why."
+  WitteringRedGerianne = 459
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LabourMoccasinKip"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RevolutionaryCyanBarbabra"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MagnificentWhiteHetty"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

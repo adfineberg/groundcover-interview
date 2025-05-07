@@ -1,0 +1,14 @@
+type dummy.LegitimateBlushGoldie is string {
+  annotations {
+    serviceid RealisticCoffeeRoberta {
+    }
+    serviceid ConvincingJadeNorma {
+    }
+    hidden_boolean WetRedSaloma {
+    }
+    hidden_boolean ResonantGoldLiuka {
+    }
+  }
+  RealisticCoffeeRoberta = "Why do birds fly south for the winter? Because it's too far to walk."
+  ConvincingJadeNorma = "How come the stadium got hot after the game? Because all of the fans left."
+}

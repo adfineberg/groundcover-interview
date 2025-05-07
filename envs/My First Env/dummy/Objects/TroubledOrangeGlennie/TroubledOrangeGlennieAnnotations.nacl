@@ -1,0 +1,112 @@
+type dummy.TroubledOrangeGlennie {
+  annotations {
+    number ElectoralAquamarineMaxie {
+    }
+    boolean NeighbouringEmeraldRania {
+    }
+    hidden_boolean LegalAquaGwynne {
+    }
+    number DeafeningBlackCecelia {
+    }
+    boolean OfficialSapphireAlvira {
+    }
+    hidden_boolean BiologicalAmberGianna {
+    }
+    serviceid MeltedAmethystSibby {
+    }
+    string FancyMagentaLuelle {
+    }
+    dummy.AcuteFuchsiaLauren ChristianPeachCassandre {
+    }
+    serviceid OrdinaryFuchsiaFanchon {
+    }
+    boolean UpperWhiteLetizia {
+    }
+    dummy.SadSilverElva VictoriousAmberKristal {
+    }
+    number WeeApricotLotte {
+    }
+    json PleasedBlackBessie {
+    }
+    serviceid_number GladPinkLarina {
+    }
+    dummy.JuicyOrangeCandi StrategicRoseAliza {
+    }
+    json InlandAmethystBambi {
+    }
+    string ReliableOliveKippie {
+    }
+    dummy.AwakeTealDeidre NearOlivePhylis {
+    }
+    string ImmensePinkKirsteni {
+    }
+    json FamousLimeKym {
+    }
+    dummy.ResultingCrimsonArdath RepresentativeSapphireAme {
+    }
+    serviceid_number HelpfulIndigoRosabel {
+    }
+    dummy.AmateurMagentaKessiah ClassicBrownMelicent {
+    }
+  }
+  ElectoralAquamarineMaxie = 678
+  NeighbouringEmeraldRania = true
+  DeafeningBlackCecelia = 376
+  OfficialSapphireAlvira = false
+  MeltedAmethystSibby = "Why do birds fly south for the winter? Because it's too far to walk."
+  FancyMagentaLuelle = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  OrdinaryFuchsiaFanchon = "Why didnt the skeleton cross the road? Because he had no guts."
+  UpperWhiteLetizia = false
+  WeeApricotLotte = 818
+  PleasedBlackBessie = "Why do birds fly south for the winter? Because it's too far to walk."
+  GladPinkLarina = 411
+  InlandAmethystBambi = "Did you know that protons have mass? I didn't even know they were catholic."
+  ReliableOliveKippie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ImmensePinkKirsteni = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  FamousLimeKym = "Why did the kid cross the playground? To get to the other slide."
+  RepresentativeSapphireAme = file("DullCopperJoellyn.txt")
+  HelpfulIndigoRosabel = 450
+  _self_important_values = [
+    {
+      value = "BiologicalAmberGianna"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FamousLimeKym"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ImmensePinkKirsteni"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HelpfulIndigoRosabel"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LegalAquaGwynne"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DeafeningBlackCecelia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UpperWhiteLetizia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GladPinkLarina"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "TroubledOrangeGlennie_alias"
+}

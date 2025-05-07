@@ -1,0 +1,68 @@
+type dummy.SpontaneousCoffeeLela {
+  annotations {
+    serviceid_number SoleSalmonCele {
+    }
+    hidden_boolean DisturbedWhiteTeressa {
+    }
+    serviceid BurningChocolateAtlante {
+    }
+    boolean JuniorLavenderUta {
+    }
+    number LikelyIvoryPeggi {
+    }
+  }
+  number SubstantialGrayTrix {
+    _hidden_value = true
+  }
+  hidden_boolean PremierBlushDebra {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ReadyBrownClaude {
+    _hidden_value = true
+  }
+  json EnergeticMagentaEleonora {
+    _hidden_value = true
+  }
+  boolean WitteringTurquoiseDorette {
+    _hidden_value = true
+  }
+  serviceid_number QuixoticCoffeeTani {
+    _hidden_value = true
+  }
+  serviceid_number ExoticGoldGayle {
+    _hidden_value = true
+  }
+  number FlutteringLimeRaye {
+    _hidden_value = true
+  }
+  json FinalTurquoiseMyrna {
+    _hidden_value = true
+  }
+  number CivilianJadeLorelle {
+    _hidden_value = true
+  }
+  json FaithfulMaroonAlthea {
+    _hidden_value = true
+  }
+  SoleSalmonCele = 715
+  BurningChocolateAtlante = "What did one nut say as he chased another nut?  I'm a cashew!"
+  JuniorLavenderUta = false
+  LikelyIvoryPeggi = 916
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FlutteringLimeRaye"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "BurningChocolateAtlante"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,127 @@
+type dummy.MoaningTomatoTamqrah {
+  annotations {
+    number CompactFuchsiaStacie {
+    }
+    string MisleadingChocolateKordula {
+    }
+    json ProminentVioletBrana {
+    }
+    hidden_boolean SparklingVioletIssy {
+    }
+    string OpenWhiteCaritta {
+    }
+    serviceid YappyHarlequinCristionna {
+    }
+  }
+  serviceid CourageousSilverTallie {
+    _hidden_value = true
+  }
+  serviceid_number WorkingJadeCorina {
+    _hidden_value = true
+  }
+  number WilyTanKarissa {
+    _hidden_value = true
+  }
+  number GradualOlivePerri {
+    _hidden_value = true
+  }
+  serviceid WelcomeGreenBobbie {
+    _hidden_value = true
+  }
+  boolean ExcitedGrayMarcie {
+    _hidden_value = true
+  }
+  boolean StaticAmethystReta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LovelyCyanEudora {
+    _hidden_value = true
+  }
+  boolean GeographicalLavenderBinnie {
+    _hidden_value = true
+  }
+  serviceid HissingBrownMaryjane {
+    _hidden_value = true
+  }
+  dummy.GentleScarletAlbina ElectricalPlumModestine {
+    CorrespondingAmberAmelita = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ProvincialTanCandi = "What do you do on a remote island? Try and find the TV island it belongs to."
+    FlakyCopperAlexandrina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ObviousOliveAnthe = 239
+    DeliciousLimeAinsley = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    AlliedTurquoiseKori = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    NastyPlumAsia = "What creature is smarter than a talking parrot? A spelling bee."
+    EnergeticSapphireLoutitia = 695
+    LogicalCyanDayle = true
+    DefiantSilverGerrilee = "What creature is smarter than a talking parrot? A spelling bee."
+    InterimFuchsiaGaynor = 447
+    SupposedPinkDaryl = "Why do birds fly south for the winter? Because it's too far to walk."
+    GoverningAquaDiana = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    SymbolicAmethystIlise = "I'll tell you what often gets over looked... garden fences."
+    PartialChocolateAngelique = "A steak pun is a rare medium well done."
+    PureLimeGiuditta = 767
+    SmoothJadeJania = "Why was it called the dark ages? Because of all the knights. "
+    FirmGreenHortense = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  string PromisingYellowJoella {
+    _hidden_value = true
+  }
+  number EnormousWhiteMadelene {
+    _hidden_value = true
+  }
+  json ReliableCoffeeJunie {
+    _hidden_value = true
+  }
+  hidden_boolean ReliableBronzeEmmi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SweetPinkDahlia {
+    _hidden_value = true
+  }
+  string BoredPlumBecca {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OrganicCoralKatharine {
+    _hidden_value = true
+  }
+  boolean PeacefulEmeraldMelantha {
+    _hidden_value = true
+  }
+  CompactFuchsiaStacie = 669
+  MisleadingChocolateKordula = "What do you call two barracuda fish?  A Pairacuda!"
+  ProminentVioletBrana = "What do you call two barracuda fish?  A Pairacuda!"
+  OpenWhiteCaritta = "Dad Im hungry  Hi hungry Im dad"
+  YappyHarlequinCristionna = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "OrganicCoralKatharine"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SparklingVioletIssy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CompactFuchsiaStacie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "YappyHarlequinCristionna"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,33 @@
+type dummy.SharedApricotClo {
+  annotations {
+    string RuralMoccasinFaunie {
+    }
+    dummy.QualifiedHarlequinJolee RarePlumMeagan {
+    }
+    serviceid PartialBlackCorabel {
+    }
+    boolean DelightfulAmethystDevan {
+    }
+  }
+  "List<json>" FavouriteSalmonDannye {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CurvedBlackCherey {
+    _hidden_value = true
+  }
+  serviceid ObedientIvoryJean {
+    _hidden_value = true
+  }
+  RuralMoccasinFaunie = "Slept like a log last night  woke up in the fireplace."
+  RarePlumMeagan = 519
+  PartialBlackCorabel = "What do you call two barracuda fish?  A Pairacuda!"
+  DelightfulAmethystDevan = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FavouriteSalmonDannye"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

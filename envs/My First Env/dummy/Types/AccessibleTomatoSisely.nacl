@@ -1,0 +1,23 @@
+type dummy.AccessibleTomatoSisely {
+  annotations {
+    json IndustrialGrayGisella {
+    }
+    serviceid_number JustHarlequinAllyn {
+    }
+    string HugeEmeraldAdel {
+    }
+    string GrubbyAmethystDonelle {
+    }
+    string WiseGoldWini {
+    }
+  }
+  boolean ExcitingBeigeAllyn {
+    _hidden_value = true
+  }
+  IndustrialGrayGisella = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  JustHarlequinAllyn = 669
+  HugeEmeraldAdel = "Im only familiar with 25 letters in the English language. I dont know why."
+  GrubbyAmethystDonelle = "Im only familiar with 25 letters in the English language. I dont know why."
+  WiseGoldWini = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

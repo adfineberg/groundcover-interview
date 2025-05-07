@@ -1,0 +1,87 @@
+type dummy.EnvironmentalFuchsiaJustinn {
+  annotations {
+    json SingleBronzeCassandra {
+    }
+    serviceid StrictYellowDosi {
+    }
+    serviceid_number UnevenVioletAlli {
+    }
+    boolean FrontWhiteAnissa {
+    }
+    hidden_boolean FeministJadeMabel {
+    }
+    string PracticalAzureMia {
+    }
+    hidden_boolean CoastalPeachChrissie {
+    }
+    serviceid_number UsedAquamarineKara {
+    }
+    serviceid_number PremierChocolateMamie {
+    }
+    number ThickYellowClari {
+    }
+    hidden_boolean StrategicBlushTrixi {
+    }
+    serviceid UpperRoseWinne {
+    }
+    serviceid CorrectPinkLeoline {
+    }
+    string ProfoundPlumAudrie {
+    }
+    number SportingTomatoCourtenay {
+    }
+    hidden_boolean MadTomatoAnnabella {
+    }
+    serviceid_number WickedCyanKaren {
+    }
+    serviceid DampBlackElvera {
+    }
+    serviceid CommunistSilverGussi {
+    }
+  }
+  SingleBronzeCassandra = "Why did the tomato blush? Because it saw the salad dressing."
+  StrictYellowDosi = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  UnevenVioletAlli = 831
+  FrontWhiteAnissa = false
+  PracticalAzureMia = "Why did the tomato blush? Because it saw the salad dressing."
+  UsedAquamarineKara = 219
+  PremierChocolateMamie = 917
+  ThickYellowClari = 273
+  UpperRoseWinne = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CorrectPinkLeoline = "Whoever invented the knock-knock joke should get a no bell prize."
+  ProfoundPlumAudrie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SportingTomatoCourtenay = 581
+  WickedCyanKaren = 694
+  DampBlackElvera = "Why was it called the dark ages? Because of all the knights. "
+  CommunistSilverGussi = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _important_values = [
+    {
+      value = "ExistingPurpleCandide"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PremierChocolateMamie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "WickedCyanKaren"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PracticalAzureMia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SingleBronzeCassandra"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "EnvironmentalFuchsiaJustinn_alias"
+}

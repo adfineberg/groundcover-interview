@@ -1,0 +1,27 @@
+type dummy.AvailableVioletOlly {
+  annotations {
+    json VerticalCrimsonGlenine {
+    }
+    json PsychiatricAzureMallorie {
+    }
+    hidden_boolean MarxistPlumAlidia {
+    }
+    string ExpensiveMaroonDre {
+    }
+    serviceid_number QuickestGreenCharleen {
+    }
+    hidden_boolean SocialAmberAngeline {
+    }
+    number ImmediateMoccasinAmye {
+    }
+  }
+  json DesperateMaroonEsmeralda {
+    _hidden_value = true
+  }
+  VerticalCrimsonGlenine = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  PsychiatricAzureMallorie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ExpensiveMaroonDre = "What did one nut say as he chased another nut?  I'm a cashew!"
+  QuickestGreenCharleen = 647
+  ImmediateMoccasinAmye = 683
+  _hidden_value = true
+}

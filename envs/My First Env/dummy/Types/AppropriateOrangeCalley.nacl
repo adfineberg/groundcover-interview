@@ -1,0 +1,36 @@
+type dummy.AppropriateOrangeCalley {
+  annotations {
+    dummy.ResultingCrimsonArdath LikeHarlequinDorry {
+    }
+    boolean ScreechingHarlequinLuce {
+    }
+    string InternationalMaroonTani {
+    }
+    serviceid_number PreferredTomatoBlakeley {
+    }
+    dummy.DisastrousMaroonTerrye IsolatedTurquoiseVivia {
+    }
+  }
+  serviceid QuarrelsomeSalmonRene {
+    _hidden_value = true
+  }
+  json MaleScarletNerty {
+    _hidden_value = true
+  }
+  serviceid WickedBronzeMorganica {
+    _hidden_value = true
+  }
+  LikeHarlequinDorry = "What do you call two barracuda fish?  A Pairacuda!"
+  ScreechingHarlequinLuce = false
+  InternationalMaroonTani = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  PreferredTomatoBlakeley = 761
+  IsolatedTurquoiseVivia = 505
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "IsolatedTurquoiseVivia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

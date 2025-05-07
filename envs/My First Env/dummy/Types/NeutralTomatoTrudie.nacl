@@ -1,0 +1,46 @@
+type dummy.NeutralTomatoTrudie {
+  annotations {
+    boolean RationalLimeJoana {
+    }
+    number ResultingTurquoiseRochell {
+    }
+    serviceid RelativePurpleVivyan {
+    }
+    hidden_boolean OrganisationalPurpleGilligan {
+    }
+    hidden_boolean ThirstyApricotDinny {
+    }
+    serviceid WorldwidePinkDanell {
+    }
+  }
+  json PossibleAmberBrigitte {
+    _hidden_value = true
+  }
+  number StillBrownMichaella {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" SpotlessLimeTybi {
+    _hidden_value = true
+  }
+  dummy.JustBeigeShaylynn IntimateTanWilly {
+    FreshAquamarineRubie = 706
+    RoastedGrayCammie = false
+    FavourableIndigoBritte = "To be Frank, I'd have to change my name."
+    RemoteSapphireCarree = 482
+    AloneOrangeMarijo = "Why is Peter Pan always flying? Because he Neverlands."
+    DoubtfulGreenTamara = 686
+    SocialAmberLilah = 7
+    TropicalGoldAmelita = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    VulnerableAquamarineAyn = "What do you do on a remote island? Try and find the TV island it belongs to."
+    WorldwideMaroonVinni = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ArmedOrangeSibbie = 197
+    _hidden_value = true
+  }
+  RationalLimeJoana = true
+  ResultingTurquoiseRochell = 24
+  RelativePurpleVivyan = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  WorldwidePinkDanell = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

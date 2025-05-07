@@ -1,0 +1,47 @@
+type dummy.PrimaryHarlequinAdele {
+  annotations {
+    serviceid_number EstimatedTealCordey {
+    }
+    string ChosenAmethystConsuelo {
+    }
+    dummy.IndirectSalmonTina WorkingBrownTyne {
+    }
+    serviceid AcceptedGreenAppolonia {
+    }
+    number ItchyAquaElfreda {
+    }
+  }
+  string StaticApricotBeatrix {
+    _hidden_value = true
+  }
+  serviceid_number SatisfactoryPlumNedda {
+    _hidden_value = true
+  }
+  json ProfitableChocolateGui {
+    _hidden_value = true
+  }
+  serviceid_number ProtectivePeachWilli {
+    _hidden_value = true
+  }
+  json CourageousBlueLorne {
+    _hidden_value = true
+  }
+  EstimatedTealCordey = 778
+  ChosenAmethystConsuelo = "What creature is smarter than a talking parrot? A spelling bee."
+  WorkingBrownTyne = false
+  AcceptedGreenAppolonia = "Why do birds fly south for the winter? Because it's too far to walk."
+  ItchyAquaElfreda = 748
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ProfitableChocolateGui"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "StaticApricotBeatrix"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

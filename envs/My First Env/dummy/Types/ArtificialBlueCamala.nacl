@@ -1,0 +1,23 @@
+type dummy.ArtificialBlueCamala {
+  annotations {
+    boolean RichIvoryEdin {
+    }
+    json PunyCopperOrly {
+    }
+    string NervousCyanTate {
+    }
+    string CloudyPeachCarri {
+    }
+    serviceid MinimumSalmonRita {
+    }
+  }
+  dummy.DEFAULT QuaintCopperElbertine {
+    _hidden_value = true
+  }
+  RichIvoryEdin = false
+  PunyCopperOrly = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  NervousCyanTate = "What do you call two barracuda fish?  A Pairacuda!"
+  CloudyPeachCarri = "I'll tell you what often gets over looked... garden fences."
+  MinimumSalmonRita = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

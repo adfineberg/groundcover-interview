@@ -1,0 +1,95 @@
+type dummy.ElectoralTurquoiseJaquith {
+  annotations {
+    hidden_boolean DisturbingOliveNathalie {
+    }
+    dummy.JustBeigeShaylynn RunningApricotWilli {
+    }
+    serviceid_number MidBlackTerese {
+    }
+    number FavouriteYellowPhilly {
+    }
+    string ForthcomingCoffeeFlorida {
+    }
+    number DailyBeigeAustine {
+    }
+    boolean SpontaneousOrangeAudrie {
+    }
+    serviceid_number ZippyHarlequinRivy {
+    }
+  }
+  number TightBlushMufi {
+    _hidden_value = true
+  }
+  serviceid_number NaturalOrangeMargie {
+    _hidden_value = true
+  }
+  serviceid ImportantTanElvera {
+    _hidden_value = true
+  }
+  serviceid OlympicMagentaBarbaraanne {
+    _hidden_value = true
+  }
+  boolean CloudyAzureRanique {
+    _hidden_value = true
+  }
+  number FewMagentaCallida {
+    _hidden_value = true
+  }
+  boolean CoherentBrownClaudie {
+    _hidden_value = true
+  }
+  string HorizontalGreenEsme {
+    _hidden_value = true
+  }
+  hidden_boolean ExtremeRoseRheta {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number OutstandingFuchsiaAndromache {
+    _hidden_value = true
+  }
+  boolean IntegratedMoccasinAustine {
+    _hidden_value = true
+  }
+  serviceid_number PeculiarCopperJasmina {
+    _hidden_value = true
+  }
+  RunningApricotWilli = true
+  MidBlackTerese = 356
+  FavouriteYellowPhilly = 289
+  ForthcomingCoffeeFlorida = "Did you know that protons have mass? I didn't even know they were catholic."
+  DailyBeigeAustine = 666
+  SpontaneousOrangeAudrie = false
+  ZippyHarlequinRivy = 796
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "OutstandingFuchsiaAndromache"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "IntegratedMoccasinAustine"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ExtremeRoseRheta"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FewMagentaCallida"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RunningApricotWilli"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

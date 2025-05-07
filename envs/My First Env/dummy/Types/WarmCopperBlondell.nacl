@@ -1,0 +1,45 @@
+type dummy.WarmCopperBlondell {
+  annotations {
+    string SharedAzureGavra {
+    }
+    serviceid_number BlankCoralCarola {
+    }
+    dummy.InformalTurquoiseFaith NetJadeKaree {
+    }
+    string OralYellowMelita {
+    }
+    string FinancialAquaNara {
+    }
+  }
+  serviceid YummyAquaNissie {
+    _hidden_value = true
+  }
+  serviceid SuitableMaroonAg {
+    _hidden_value = true
+  }
+  number GeneticVioletAgathe {
+    _hidden_value = true
+  }
+  serviceid_number ScientificScarletRicca {
+    _hidden_value = true
+  }
+  boolean ComplicatedIvoryMarysa {
+    _hidden_value = true
+  }
+  json BlindMagentaRozella {
+    _hidden_value = true
+  }
+  SharedAzureGavra = "Im only familiar with 25 letters in the English language. I dont know why."
+  BlankCoralCarola = 574
+  NetJadeKaree = true
+  OralYellowMelita = "A steak pun is a rare medium well done."
+  FinancialAquaNara = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "BlankCoralCarola"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

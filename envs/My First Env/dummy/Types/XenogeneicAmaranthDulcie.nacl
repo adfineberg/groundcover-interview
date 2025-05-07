@@ -1,0 +1,23 @@
+type dummy.XenogeneicAmaranthDulcie {
+  annotations {
+    string ObjectiveMoccasinPru {
+    }
+    serviceid_number LiberalLimeTiena {
+    }
+    boolean SupremeHarlequinArline {
+    }
+    boolean OverseasSilverSarena {
+    }
+  }
+  number NotableSapphireEveleen {
+    _hidden_value = true
+  }
+  number ParentalHarlequinErinn {
+    _hidden_value = true
+  }
+  ObjectiveMoccasinPru = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  LiberalLimeTiena = 54
+  SupremeHarlequinArline = false
+  OverseasSilverSarena = false
+  _hidden_value = true
+}

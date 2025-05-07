@@ -1,0 +1,57 @@
+type dummy.ScornfulOrangeEmelyne {
+  annotations {
+    json StaticTealBrook {
+    }
+    string SimilarAmberLeone {
+    }
+    boolean CompulsoryBronzeSammy {
+    }
+    json TopScarletIolanthe {
+    }
+  }
+  serviceid TestyVioletDiann {
+    _hidden_value = true
+  }
+  boolean ZerothAmaranthAbbie {
+    _hidden_value = true
+  }
+  number AlliedGreenSelma {
+    _hidden_value = true
+  }
+  string YoungestLimeRebecca {
+    _hidden_value = true
+  }
+  serviceid_number VaryingTealMalia {
+    _hidden_value = true
+  }
+  hidden_boolean BrokenCrimsonVerine {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT PoliteBlackBettye {
+    _hidden_value = true
+  }
+  hidden_boolean UrbanPeachIona {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ClassicalPurpleOrelle {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  StaticTealBrook = "To be Frank, I'd have to change my name."
+  SimilarAmberLeone = "How come the stadium got hot after the game? Because all of the fans left."
+  CompulsoryBronzeSammy = false
+  TopScarletIolanthe = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "SimilarAmberLeone"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

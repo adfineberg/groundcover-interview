@@ -1,0 +1,82 @@
+type dummy.RetiredGoldCordelia {
+  annotations {
+    dummy.ThoughtfulRedElka VeryIvoryEmili {
+    }
+    dummy.EstablishedRoseGussie NativeWhiteMonica {
+    }
+    dummy.DEFAULT CombinedEmeraldBarbey {
+    }
+    serviceid_number ExperiencedMaroonReiko {
+    }
+    boolean SensibleTomatoTamar {
+    }
+  }
+  hidden_boolean MajorBronzeAviva {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string MeanTealJobina {
+    _hidden_value = true
+  }
+  number ClassicBlackKyle {
+    _hidden_value = true
+  }
+  dummy.OutrageousApricotDelia ToughJadeCatlaina {
+    ConvenientGoldYasmin = 324
+    OccasionalGoldSabine = 713
+    ComparableCyanAddia = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ConceptualCoffeeAngelle = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+    NervousCrimsonBernice = 628
+    DeadIvoryMatilda = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    ManagerialChocolateMaddi = "Why didnt the skeleton cross the road? Because he had no guts."
+    MagneticCoffeeGae = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ConcreteApricotJordain = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SupportingCyanAdda = 251
+    AdvancedGreenGilda = 482
+    AvailableTomatoFlorentia = 190
+    SacredLimeGeorgeta = 827
+    ComplexCoffeeNatala = "Why did the kid cross the playground? To get to the other slide."
+    ColdAquamarineRorie = 627
+    CriticalApricotRita = false
+    UncertainApricotCorly = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    FragileFuchsiaBeitris = 138
+    _hidden_value = true
+  }
+  serviceid_number BoilingPlumStaci {
+    _hidden_value = true
+  }
+  boolean LonelyHarlequinJacquelynn {
+    _hidden_value = true
+  }
+  serviceid StormySalmonErnestine {
+    _hidden_value = true
+  }
+  serviceid_number EquivalentScarletBernadine {
+    _hidden_value = true
+  }
+  hidden_boolean YieldingAquamarineHarri {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  VeryIvoryEmili = false
+  NativeWhiteMonica = true
+  CombinedEmeraldBarbey = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  ExperiencedMaroonReiko = 864
+  SensibleTomatoTamar = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ToughJadeCatlaina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

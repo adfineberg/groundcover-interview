@@ -1,0 +1,139 @@
+type dummy.GeneralCyanSusanetta {
+  annotations {
+    json EmbarrassedApricotDonnie {
+    }
+    serviceid ZonalWhiteInesita {
+    }
+    json SafeLavenderDaloris {
+    }
+    dummy.DEFAULT CollectiveBeigeLorilyn {
+    }
+  }
+  number AttractiveCrimsonValli {
+    _hidden_value = true
+  }
+  serviceid_number GrowingPinkRobbie {
+    _hidden_value = true
+  }
+  hidden_boolean EligibleBlushRosanna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ExtremeVioletBilly {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PoliticalScarletHortense {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ConstantApricotDanyelle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean NativeTurquoiseJennette {
+    _hidden_value = true
+  }
+  number InstantTurquoiseChrystal {
+    _hidden_value = true
+  }
+  dummy.GentleScarletAlbina UnwillingBrownLaney {
+    CorrespondingAmberAmelita = "Im only familiar with 25 letters in the English language. I dont know why."
+    ProvincialTanCandi = "Why didnt the skeleton cross the road? Because he had no guts."
+    FlakyCopperAlexandrina = "Whoever invented the knock-knock joke should get a no bell prize."
+    ObviousOliveAnthe = 700
+    DeliciousLimeAinsley = "Why was it called the dark ages? Because of all the knights. "
+    AlliedTurquoiseKori = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    NastyPlumAsia = "What did one nut say as he chased another nut?  I'm a cashew!"
+    EnergeticSapphireLoutitia = 747
+    LogicalCyanDayle = false
+    DefiantSilverGerrilee = "Dad Im hungry  Hi hungry Im dad"
+    InterimFuchsiaGaynor = 134
+    SupposedPinkDaryl = "A steak pun is a rare medium well done."
+    GoverningAquaDiana = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    SymbolicAmethystIlise = "Im only familiar with 25 letters in the English language. I dont know why."
+    PartialChocolateAngelique = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    PureLimeGiuditta = 929
+    SmoothJadeJania = "Why is Peter Pan always flying? Because he Neverlands."
+    FirmGreenHortense = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  serviceid RudeOliveLivia {
+    _hidden_value = true
+  }
+  boolean WilfulBlackCharmane {
+    _hidden_value = true
+  }
+  serviceid HomelessHarlequinKiri {
+    _hidden_value = true
+  }
+  boolean SoreGoldCatlin {
+    _hidden_value = true
+  }
+  number StraightAquaJeannette {
+    _hidden_value = true
+  }
+  number IndirectAquamarineLucine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GrossCrimsonAdelice {
+    _hidden_value = true
+  }
+  serviceid AttractiveSilverHermina {
+    _hidden_value = true
+  }
+  "List<json>" ImprovedApricotAryn {
+    _hidden_value = true
+  }
+  serviceid ConceptualLimeMilka {
+    _hidden_value = true
+  }
+  string SquareJadeDoro {
+    _hidden_value = true
+  }
+  json ControversialApricotGeorgeta {
+    _hidden_value = true
+  }
+  serviceid PunyFuchsiaJacquenette {
+    _hidden_value = true
+  }
+  EmbarrassedApricotDonnie = "Why is Peter Pan always flying? Because he Neverlands."
+  ZonalWhiteInesita = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SafeLavenderDaloris = "Whoever invented the knock-knock joke should get a no bell prize."
+  CollectiveBeigeLorilyn = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AttractiveSilverHermina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ExtremeVioletBilly"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SafeLavenderDaloris"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ZonalWhiteInesita"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

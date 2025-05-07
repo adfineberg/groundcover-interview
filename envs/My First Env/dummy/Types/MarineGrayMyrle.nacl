@@ -1,0 +1,81 @@
+type dummy.MarineGrayMyrle {
+  annotations {
+    boolean DirtyOliveStacy {
+    }
+    serviceid TastyOliveMargarette {
+    }
+    serviceid_number CrucialCrimsonDorelia {
+    }
+    serviceid MonetaryPlumAshleigh {
+    }
+    json QuickestAmethystShannen {
+    }
+    serviceid AbsentBrownKamilah {
+    }
+  }
+  dummy.DEFAULT AggregateScarletTerrye {
+    _hidden_value = true
+  }
+  serviceid_number CourageousPinkAlida {
+    _hidden_value = true
+  }
+  serviceid_number LooseScarletNissie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CombinedBlushWallis {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HistoricalFuchsiaZora {
+    _hidden_value = true
+  }
+  serviceid EeriePinkVivia {
+    _hidden_value = true
+  }
+  serviceid_number ImpossibleRedPierette {
+    _hidden_value = true
+  }
+  dummy.OutrageousApricotDelia DifferentTurquoiseLola {
+    ConvenientGoldYasmin = 663
+    OccasionalGoldSabine = 643
+    ComparableCyanAddia = "How come the stadium got hot after the game? Because all of the fans left."
+    ConceptualCoffeeAngelle = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    NervousCrimsonBernice = 966
+    DeadIvoryMatilda = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    ManagerialChocolateMaddi = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    MagneticCoffeeGae = "What do you call two barracuda fish?  A Pairacuda!"
+    ConcreteApricotJordain = "Why is Peter Pan always flying? Because he Neverlands."
+    SupportingCyanAdda = 90
+    AdvancedGreenGilda = 189
+    AvailableTomatoFlorentia = 533
+    SacredLimeGeorgeta = 335
+    ComplexCoffeeNatala = "What creature is smarter than a talking parrot? A spelling bee."
+    ColdAquamarineRorie = 987
+    CriticalApricotRita = true
+    UncertainApricotCorly = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    FragileFuchsiaBeitris = 531
+    _hidden_value = true
+  }
+  DirtyOliveStacy = true
+  TastyOliveMargarette = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CrucialCrimsonDorelia = 189
+  MonetaryPlumAshleigh = "What did one nut say as he chased another nut?  I'm a cashew!"
+  QuickestAmethystShannen = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AbsentBrownKamilah = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "DirtyOliveStacy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CrucialCrimsonDorelia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

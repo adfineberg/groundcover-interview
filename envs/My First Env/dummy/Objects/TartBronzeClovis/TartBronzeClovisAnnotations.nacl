@@ -1,0 +1,61 @@
+type dummy.TartBronzeClovis {
+  annotations {
+    hidden_boolean AfraidGreenLeona {
+    }
+    hidden_boolean PersistentOrangeMarita {
+    }
+    boolean MarkedAmethystMarijo {
+    }
+    serviceid_number CombinedAquamarineCherish {
+    }
+    boolean TemporaryAmaranthDasha {
+    }
+    serviceid FrozenAmaranthAnette {
+    }
+    json ScreechingAmberMindy {
+    }
+    string ExplicitBlushFey {
+    }
+    dummy.DisturbedAquamarineDaffy InfluentialPurplePaloma {
+    }
+    number HealthyMoccasinGodiva {
+    }
+    serviceid_number ShaggyPurpleAudry {
+    }
+    number MarkedEmeraldSerene {
+    }
+    boolean AwkwardAquamarineNelly {
+    }
+    number VariableGrayLeela {
+    }
+    serviceid_number OutsideTurquoiseEllissa {
+    }
+    dummy.IsolatedTanJeannine FavourableAmaranthCeline {
+    }
+    string ProfitableMagentaAmi {
+    }
+    hidden_boolean NiceFuchsiaGeorgia {
+    }
+  }
+  MarkedAmethystMarijo = false
+  CombinedAquamarineCherish = 869
+  TemporaryAmaranthDasha = false
+  FrozenAmaranthAnette = "I'll tell you what often gets over looked... garden fences."
+  ScreechingAmberMindy = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ExplicitBlushFey = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  HealthyMoccasinGodiva = 114
+  ShaggyPurpleAudry = 158
+  MarkedEmeraldSerene = 460
+  AwkwardAquamarineNelly = false
+  VariableGrayLeela = 720
+  OutsideTurquoiseEllissa = 299
+  ProfitableMagentaAmi = "Im only familiar with 25 letters in the English language. I dont know why."
+  _important_values = [
+    {
+      value = "PlasticAzureClaudina"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "TartBronzeClovis_alias"
+}

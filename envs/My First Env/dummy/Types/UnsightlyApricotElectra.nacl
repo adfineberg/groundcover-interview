@@ -1,0 +1,76 @@
+type dummy.UnsightlyApricotElectra {
+  annotations {
+    json FellowAzureSibella {
+    }
+    serviceid_number ClearGoldFernandina {
+    }
+    number OverallIndigoBilly {
+    }
+    serviceid ImaginativeVioletMichaelina {
+    }
+    hidden_boolean TropicalLavenderAlix {
+    }
+    serviceid_number MobileAquaEilis {
+    }
+  }
+  serviceid ImaginativeSapphireDevina {
+    _hidden_value = true
+  }
+  serviceid SlimTealCatie {
+    _hidden_value = true
+  }
+  "Map<hidden_boolean>" SuddenFuchsiaBiddy {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json WorriedGoldMommy {
+    _hidden_value = true
+  }
+  serviceid ResonantCrimsonRosamund {
+    _hidden_value = true
+  }
+  string ConservationAquamarineCornie {
+    _hidden_value = true
+  }
+  boolean ColourfulBlueEtty {
+    _hidden_value = true
+  }
+  serviceid FatGrayYasmin {
+    _hidden_value = true
+  }
+  serviceid_number MainCopperSherye {
+    _hidden_value = true
+  }
+  serviceid YieldingOliveNatividad {
+    _hidden_value = true
+  }
+  FellowAzureSibella = "What creature is smarter than a talking parrot? A spelling bee."
+  ClearGoldFernandina = 434
+  OverallIndigoBilly = 218
+  ImaginativeVioletMichaelina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  MobileAquaEilis = 1
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SuddenFuchsiaBiddy"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ImaginativeSapphireDevina"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "YieldingOliveNatividad"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "WorriedGoldMommy"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

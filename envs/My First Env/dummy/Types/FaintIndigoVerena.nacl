@@ -1,0 +1,80 @@
+type dummy.FaintIndigoVerena {
+  annotations {
+    json AbleAquaGrayce {
+    }
+    string PublicRedGlenna {
+    }
+    boolean ComingTurquoiseCally {
+    }
+    boolean EntireBrownNolie {
+    }
+    boolean CoherentGreenSylvia {
+    }
+    boolean CircularBlackMoselle {
+    }
+  }
+  boolean OnlyMaroonValaree {
+    _hidden_value = true
+  }
+  hidden_boolean PregnantFuchsiaJania {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FitMaroonNadia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean CorrectPinkAlissa {
+    _hidden_value = true
+  }
+  json TopBlackSybil {
+    _hidden_value = true
+  }
+  json FellowMoccasinMaggy {
+    _hidden_value = true
+  }
+  string TallBrownBrooke {
+    _hidden_value = true
+  }
+  serviceid_number MushyCoffeeTracie {
+    _hidden_value = true
+  }
+  serviceid DoubleVioletPier {
+    _hidden_value = true
+  }
+  json AsleepCrimsonLoutitia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AbsentSilverDorothy {
+    _hidden_value = true
+  }
+  serviceid SevereAmaranthAlfie {
+    _hidden_value = true
+  }
+  json RawVioletIsabelita {
+    _hidden_value = true
+  }
+  AbleAquaGrayce = "Im only familiar with 25 letters in the English language. I dont know why."
+  PublicRedGlenna = "Im only familiar with 25 letters in the English language. I dont know why."
+  ComingTurquoiseCally = true
+  EntireBrownNolie = true
+  CoherentGreenSylvia = true
+  CircularBlackMoselle = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FitMaroonNadia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CircularBlackMoselle"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

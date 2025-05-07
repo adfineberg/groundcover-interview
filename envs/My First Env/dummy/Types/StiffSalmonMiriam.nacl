@@ -1,0 +1,83 @@
+type dummy.StiffSalmonMiriam {
+  annotations {
+    serviceid StickyBeigeCodie {
+    }
+    json AccusedOrangeCarroll {
+    }
+    hidden_boolean AcademicCopperDarbie {
+    }
+    serviceid AwakeWhiteGus {
+    }
+    serviceid_number ChosenVioletDaffy {
+    }
+    number ClumsySapphireFionna {
+    }
+  }
+  string SpecificGreenJaney {
+    _hidden_value = true
+  }
+  serviceid JointLimeThomasine {
+    _hidden_value = true
+  }
+  serviceid_number NobleLavenderAlexandra {
+    _hidden_value = true
+  }
+  serviceid CriticalRoseValerie {
+    _hidden_value = true
+  }
+  serviceid_number RightCopperChristina {
+    _hidden_value = true
+  }
+  serviceid MotionlessJadeDeirdre {
+    _hidden_value = true
+  }
+  hidden_boolean LeftIndigoAlisha {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string ConservationOliveRafaelia {
+    _hidden_value = true
+  }
+  string DisabledPinkZsazsa {
+    _hidden_value = true
+  }
+  number OccupationalScarletShay {
+    _hidden_value = true
+  }
+  string DivineEmeraldAnaliese {
+    _hidden_value = true
+  }
+  json InnovativeCopperKaja {
+    _hidden_value = true
+  }
+  serviceid PresentCrimsonHestia {
+    _hidden_value = true
+  }
+  json TemporaryHarlequinJeane {
+    _hidden_value = true
+  }
+  StickyBeigeCodie = "To be Frank, I'd have to change my name."
+  AccusedOrangeCarroll = "A steak pun is a rare medium well done."
+  AwakeWhiteGus = "Did you know that protons have mass? I didn't even know they were catholic."
+  ChosenVioletDaffy = 208
+  ClumsySapphireFionna = 155
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ConservationOliveRafaelia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DivineEmeraldAnaliese"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DisabledPinkZsazsa"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

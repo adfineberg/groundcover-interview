@@ -1,0 +1,50 @@
+type dummy.MusicalGrayRanee {
+  annotations {
+    json MarvellousYellowMarrilee {
+    }
+    string NeighbouringRoseOlympie {
+    }
+    serviceid CarefulTanCinnamon {
+    }
+    dummy.InformalTurquoiseFaith EncouragingOliveDita {
+    }
+    string VastVioletKameko {
+    }
+    serviceid ControlledBronzeAnn {
+    }
+    dummy.TragicVioletDorisa FinalScarletAlayne {
+    }
+    boolean ContinentalGrayDarleen {
+    }
+    dummy.TragicAquamarineShelly HostileYellowFrederique {
+    }
+    number ScaryMaroonIngaborg {
+    }
+    dummy.DirectLavenderKelsey MilitaryBrownMadelon {
+    }
+    string NearbyCoffeeVikki {
+    }
+    hidden_boolean ItchySilverCherianne {
+    }
+    hidden_boolean CoastalIvoryDarcie {
+    }
+    serviceid_number DoubleAmberCarmela {
+    }
+    hidden_boolean ExtensiveHarlequinConsuelo {
+    }
+    boolean ColourfulIvoryBobbee {
+    }
+  }
+  MarvellousYellowMarrilee = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  NeighbouringRoseOlympie = "Why was it called the dark ages? Because of all the knights. "
+  CarefulTanCinnamon = "Did you know that protons have mass? I didn't even know they were catholic."
+  EncouragingOliveDita = false
+  VastVioletKameko = "Slept like a log last night  woke up in the fireplace."
+  ControlledBronzeAnn = "What creature is smarter than a talking parrot? A spelling bee."
+  ContinentalGrayDarleen = false
+  ScaryMaroonIngaborg = 317
+  NearbyCoffeeVikki = "How come the stadium got hot after the game? Because all of the fans left."
+  DoubleAmberCarmela = 643
+  ColourfulIvoryBobbee = false
+  _alias = "MusicalGrayRanee_alias"
+}

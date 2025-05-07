@@ -1,0 +1,60 @@
+type dummy.TremendousYellowMarguerite {
+  annotations {
+    serviceid ExtraordinaryCoralFarra {
+    }
+    string VastRoseSelina {
+    }
+    serviceid EndlessIvoryFernanda {
+    }
+    json SpecialRoseRobbyn {
+    }
+    dummy.SorryCyanVinnie TerritorialCoralCate {
+    }
+    boolean SoreCyanVanna {
+    }
+    dummy.AccessibleTurquoiseEssie SatisfiedCoffeeRahel {
+    }
+  }
+  string NursingAmberMartica {
+    _hidden_value = true
+  }
+  boolean QualifiedIndigoSheilakathryn {
+    _hidden_value = true
+  }
+  serviceid FellowPlumTallia {
+    _hidden_value = true
+  }
+  hidden_boolean StaleRedDeeanne {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean LargeAquaLynnette {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number OrganisationalAmberJocelin {
+    _hidden_value = true
+  }
+  ExtraordinaryCoralFarra = "Im only familiar with 25 letters in the English language. I dont know why."
+  VastRoseSelina = "What did one nut say as he chased another nut?  I'm a cashew!"
+  EndlessIvoryFernanda = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SpecialRoseRobbyn = "I'll tell you what often gets over looked... garden fences."
+  TerritorialCoralCate = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SoreCyanVanna = true
+  SatisfiedCoffeeRahel = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "NursingAmberMartica"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FellowPlumTallia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

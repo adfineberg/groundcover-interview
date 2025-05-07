@@ -1,0 +1,147 @@
+type dummy.PeculiarLavenderBlanche {
+  annotations {
+    serviceid_number RemainingAquaMellie {
+    }
+    hidden_boolean FellowAmethystCinnamon {
+    }
+    number BusyBeigeBrittne {
+    }
+    json CriticalBlackNathalia {
+    }
+    boolean ClumsyVioletEdythe {
+    }
+    dummy.DiverseTurquoiseMariya RigidRedGilbertine {
+    }
+  }
+  dummy.DEFAULT ProminentAquamarineGaby {
+    _hidden_value = true
+  }
+  boolean ComparablePurpleColleen {
+    _hidden_value = true
+  }
+  number UnfairMaroonLeontine {
+    _hidden_value = true
+  }
+  boolean SensitiveMagentaBeret {
+    _hidden_value = true
+  }
+  serviceid_number AcuteAzureEden {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CriticalRoseNetti {
+    _hidden_value = true
+  }
+  number ThoroughLavenderSharyl {
+    _hidden_value = true
+  }
+  boolean CollectiveLimeJinny {
+    _hidden_value = true
+  }
+  serviceid_number WealthySapphireAimil {
+    _hidden_value = true
+  }
+  string YappyBlushAshli {
+    _hidden_value = true
+  }
+  string StrikingGreenPeggie {
+    _hidden_value = true
+  }
+  hidden_boolean RetiredLavenderMellicent {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string ChillyPurpleKerrin {
+    _hidden_value = true
+  }
+  number FortunateSapphireOthelia {
+    _hidden_value = true
+  }
+  hidden_boolean UnableCrimsonWinona {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT SickMaroonCris {
+    _hidden_value = true
+  }
+  serviceid RoastedMoccasinDorelle {
+    _hidden_value = true
+  }
+  serviceid EvidentMagentaCorene {
+    _hidden_value = true
+  }
+  boolean MatureHarlequinTerrie {
+    _hidden_value = true
+  }
+  serviceid SmoggyAmberLeda {
+    _hidden_value = true
+  }
+  "List<json>" AshamedMagentaAnny {
+    _hidden_value = true
+  }
+  number ProgressiveAzureAndriana {
+    _hidden_value = true
+  }
+  boolean DevelopedBlueLorelei {
+    _hidden_value = true
+  }
+  dummy.ViciousGoldTessi ShyYellowAurlie {
+    YtterbicTomatoJobie = "Dad Im hungry  Hi hungry Im dad"
+    FatTurquoiseKiersten = "Why did the tomato blush? Because it saw the salad dressing."
+    RelativeBlackGlennis = 771
+    SkilledCrimsonMargi = 975
+    EfficientTurquoiseRasla = 835
+    ThoroughIvoryJanette = 519
+    FineTurquoiseCorry = "Why didnt the skeleton cross the road? Because he had no guts."
+    EfficientTomatoMerci = 834
+    OverwhelmingGreenStephine = "What do you do on a remote island? Try and find the TV island it belongs to."
+    UnpleasantGreenKristin = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    StraightforwardChocolateGermaine = 613
+    PermanentPinkOthella = true
+    _hidden_value = true
+  }
+  dummy.ResultingCrimsonArdath GrossCyanJilly {
+    SuddenSalmonLissa = 803
+    LiableMaroonFrank = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    QuintessentialLavenderCorenda = "Whoever invented the knock-knock joke should get a no bell prize."
+    SexualIvoryNannette = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SplendidTomatoNesta = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    SkinnyLavenderKorry = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    _hidden_value = true
+  }
+  json HonestAquaJoanie {
+    _hidden_value = true
+  }
+  json DutchGreenSharyl {
+    _hidden_value = true
+  }
+  string AverageRoseRosette {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NakedAmberSherry {
+    _hidden_value = true
+  }
+  RemainingAquaMellie = 664
+  BusyBeigeBrittne = 690
+  CriticalBlackNathalia = "What do you call two barracuda fish?  A Pairacuda!"
+  ClumsyVioletEdythe = false
+  RigidRedGilbertine = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CriticalRoseNetti"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FellowAmethystCinnamon"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

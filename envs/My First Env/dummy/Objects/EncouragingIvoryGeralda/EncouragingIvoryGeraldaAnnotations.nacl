@@ -1,0 +1,126 @@
+type dummy.EncouragingIvoryGeralda {
+  annotations {
+    number BasicApricotMyrlene {
+    }
+    serviceid_number WeirdSapphireGoldarina {
+    }
+    string AnxiousTurquoiseNelli {
+    }
+    number CleanMaroonIdell {
+    }
+    string ThunderingRoseLanae {
+    }
+    serviceid_number ImportantTomatoSelinda {
+    }
+    dummy.ContinentalSapphireDarlene MetropolitanMaroonAdelaide {
+    }
+    boolean NakedPeachShaylah {
+    }
+    boolean CloudyApricotCarmelia {
+    }
+    string PotentialTurquoiseAubree {
+    }
+    number PaleBlackBrigitta {
+    }
+    serviceid DecentRoseFlorrie {
+    }
+    json DelicateGoldEmilia {
+    }
+    serviceid DevelopedPurpleTerra {
+    }
+    number SuspiciousTurquoiseAudry {
+    }
+    serviceid_number SmoggyBlueAshly {
+    }
+    dummy.LeftAmaranthRosmunda GentleBronzeSara {
+    }
+    json ObviousBlushGertie {
+    }
+    dummy.ArrogantGoldDarsie PaleIndigoVerena {
+    }
+    string FaithfulPurpleCamellia {
+    }
+  }
+  BasicApricotMyrlene = 486
+  WeirdSapphireGoldarina = 248
+  AnxiousTurquoiseNelli = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CleanMaroonIdell = 796
+  ThunderingRoseLanae = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ImportantTomatoSelinda = 57
+  NakedPeachShaylah = true
+  CloudyApricotCarmelia = false
+  PotentialTurquoiseAubree = "Why do birds fly south for the winter? Because it's too far to walk."
+  PaleBlackBrigitta = 974
+  DecentRoseFlorrie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DelicateGoldEmilia = "Why is Peter Pan always flying? Because he Neverlands."
+  DevelopedPurpleTerra = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SuspiciousTurquoiseAudry = 914
+  SmoggyBlueAshly = 205
+  ObviousBlushGertie = "I'll tell you what often gets over looked... garden fences."
+  FaithfulPurpleCamellia = "Im only familiar with 25 letters in the English language. I dont know why."
+  _important_values = [
+    {
+      value = "TiredRedIsadora"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LuckySapphireCordey"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "YodellingCopperMaribelle"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "WarmCoffeeMari"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CompulsoryAmberEmilie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CloudyApricotCarmelia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ThunderingRoseLanae"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DecentRoseFlorrie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CleanMaroonIdell"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DevelopedPurpleTerra"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DelicateGoldEmilia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WeirdSapphireGoldarina"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "EncouragingIvoryGeralda_alias"
+}

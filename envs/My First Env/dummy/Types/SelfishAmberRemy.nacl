@@ -1,0 +1,36 @@
+type dummy.SelfishAmberRemy {
+  annotations {
+    boolean WelcomeIndigoToni {
+    }
+    number GlobalBronzeEllen {
+    }
+    serviceid_number GreatTanTammi {
+    }
+    serviceid_number InitialOliveGeorgeanna {
+    }
+  }
+  string SharpJadeArdeen {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SubjectiveLavenderAdelind {
+    _hidden_value = true
+  }
+  string HandsomeAmethystLind {
+    _hidden_value = true
+  }
+  number ExplicitPurpleCaren {
+    _hidden_value = true
+  }
+  WelcomeIndigoToni = true
+  GlobalBronzeEllen = 177
+  GreatTanTammi = 554
+  InitialOliveGeorgeanna = 894
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HandsomeAmethystLind"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

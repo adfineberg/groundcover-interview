@@ -1,0 +1,107 @@
+type dummy.IntimateAzurePetrina {
+  annotations {
+    serviceid_number VariedBlueAlidia {
+    }
+    dummy.MaleVioletLari DevelopingAquaBunni {
+    }
+    hidden_boolean ClassicalSilverNadine {
+    }
+    hidden_boolean StatutoryCrimsonPhillie {
+    }
+    boolean SocialistGoldElle {
+    }
+    json WeeVioletLaurie {
+    }
+  }
+  hidden_boolean EverydayYellowLurline {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AwareIndigoFidelia {
+    _hidden_value = true
+  }
+  string SillyAmethystDarby {
+    _hidden_value = true
+  }
+  number StrictBronzeDesirae {
+    _hidden_value = true
+  }
+  string AdministrativeAquamarineDanyelle {
+    _hidden_value = true
+  }
+  serviceid_number LovelyBronzeKarol {
+    _hidden_value = true
+  }
+  json KeyGreenHanny {
+    _hidden_value = true
+  }
+  json AdditionalCopperCarley {
+    _hidden_value = true
+  }
+  string DampTealRhodie {
+    _hidden_value = true
+  }
+  string MainCoffeeLeeanne {
+    _hidden_value = true
+  }
+  serviceid_number TotalMoccasinDebi {
+    _hidden_value = true
+  }
+  number UniqueSilverGoldarina {
+    _hidden_value = true
+  }
+  "List<string>" MissingCopperRozele {
+    _hidden_value = true
+  }
+  number GorgeousSalmonFianna {
+    _hidden_value = true
+  }
+  serviceid WilfulTurquoiseMerline {
+    _hidden_value = true
+  }
+  "List<boolean>" OnlyLavenderSarene {
+    _hidden_value = true
+  }
+  "List<boolean>" WastefulYellowTamarra {
+    _hidden_value = true
+  }
+  dummy.AccessibleTurquoiseEssie GratefulWhiteShaylah {
+    BrilliantMaroonBonni = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    SupposedIndigoDusty = false
+    _hidden_value = true
+  }
+  hidden_boolean GoldenGoldFianna {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string AmazingGrayElysee {
+    _hidden_value = true
+  }
+  string GoodMoccasinTallulah {
+    _hidden_value = true
+  }
+  hidden_boolean AlrightAmberShanda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT EquivalentBlushJeane {
+    _hidden_value = true
+  }
+  VariedBlueAlidia = 245
+  DevelopingAquaBunni = false
+  SocialistGoldElle = true
+  WeeVioletLaurie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "StatutoryCrimsonPhillie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

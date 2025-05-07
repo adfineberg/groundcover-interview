@@ -1,0 +1,55 @@
+type dummy.ConsciousIvoryDoralyn {
+  annotations {
+    json SemanticPinkAilee {
+    }
+    serviceid OrganisationalWhiteCleopatra {
+    }
+    hidden_boolean AshamedEmeraldSelia {
+    }
+    json GrimIndigoLavina {
+    }
+    json NeatAmaranthHeloise {
+    }
+    json LinguisticGreenMabelle {
+    }
+  }
+  number LeadingAmaranthLorrayne {
+    _hidden_value = true
+  }
+  hidden_boolean VisitingIndigoElyn {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SureAquaVeda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string AngryPlumNelli {
+    _hidden_value = true
+  }
+  serviceid AssociatedVioletAleta {
+    _hidden_value = true
+  }
+  SemanticPinkAilee = "Did you know that protons have mass? I didn't even know they were catholic."
+  OrganisationalWhiteCleopatra = "I'll tell you what often gets over looked... garden fences."
+  GrimIndigoLavina = "Im only familiar with 25 letters in the English language. I dont know why."
+  NeatAmaranthHeloise = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  LinguisticGreenMabelle = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AngryPlumNelli"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "LinguisticGreenMabelle"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

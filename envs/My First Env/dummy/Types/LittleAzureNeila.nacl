@@ -1,0 +1,148 @@
+type dummy.LittleAzureNeila {
+  annotations {
+    hidden_boolean ComplicatedRedInesita {
+    }
+    serviceid_number ConcernedVioletNerta {
+    }
+    boolean RottenYellowCon {
+    }
+  }
+  hidden_boolean PrivateGrayMaria {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT AshamedFuchsiaWilmette {
+    _hidden_value = true
+  }
+  serviceid FairPinkDacie {
+    _hidden_value = true
+  }
+  serviceid FamousEmeraldVivia {
+    _hidden_value = true
+  }
+  dummy.DelightedTealLynna SelectBronzeAviva {
+    _hidden_value = true
+  }
+  hidden_boolean ObligedChocolateBrena {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean WorryingIndigoCinnamon {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT FrozenOrangeMaible {
+    _hidden_value = true
+  }
+  serviceid EverydayScarletKatharina {
+    _hidden_value = true
+  }
+  "List<json>" JoyousGrayNinette {
+    _hidden_value = true
+  }
+  boolean ColouredJadeZorah {
+    _hidden_value = true
+  }
+  serviceid_number TraditionalPlumChrystal {
+    _hidden_value = true
+  }
+  serviceid SubstantialPlumAlanna {
+    _hidden_value = true
+  }
+  serviceid_number BrightLimeCharmaine {
+    _hidden_value = true
+  }
+  serviceid_number SympatheticAmethystGlyn {
+    _hidden_value = true
+  }
+  serviceid ImmediateAzureAgnella {
+    _hidden_value = true
+  }
+  string PrimaryBlackLenka {
+    _hidden_value = true
+  }
+  hidden_boolean WorryingJadeElianora {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string EldestBeigeRozalin {
+    _hidden_value = true
+  }
+  json ArbitraryMoccasinConni {
+    _hidden_value = true
+  }
+  json EarlyBrownStephannie {
+    _hidden_value = true
+  }
+  hidden_boolean WorryingEmeraldDulcine {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json OkPurpleRenee {
+    _hidden_value = true
+  }
+  number OperationalAzureNanine {
+    _hidden_value = true
+  }
+  serviceid BrokenMoccasinMinne {
+    _hidden_value = true
+  }
+  json BasicEmeraldAnnabella {
+    _hidden_value = true
+  }
+  json YellingEmeraldIssi {
+    _hidden_value = true
+  }
+  ConcernedVioletNerta = 568
+  RottenYellowCon = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "YellingEmeraldIssi"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "EverydayScarletKatharina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PrivateGrayMaria"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "WorryingJadeElianora"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "TraditionalPlumChrystal"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "JoyousGrayNinette"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ColouredJadeZorah"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ConcernedVioletNerta"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

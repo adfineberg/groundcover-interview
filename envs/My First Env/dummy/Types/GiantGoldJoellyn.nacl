@@ -1,0 +1,174 @@
+type dummy.GiantGoldJoellyn {
+  annotations {
+    dummy.EventualSilverMerrilee SharedCyanRoxane {
+    }
+    string AccusedBeigeRyann {
+    }
+    json CourageousLimeMadelena {
+    }
+    serviceid_number PunyPeachPetronilla {
+    }
+    serviceid TartCoffeeJsandye {
+    }
+    number MentalAzureBarbie {
+    }
+  }
+  boolean SteadyAquaMargo {
+    _hidden_value = true
+  }
+  serviceid_number VisualAmaranthYoshiko {
+    _hidden_value = true
+  }
+  serviceid TerribleRoseRonda {
+    _hidden_value = true
+  }
+  dummy.NervousCyanBlisse ShinyPlumTeresina {
+    _hidden_value = true
+  }
+  string YummySapphireStefanie {
+    _hidden_value = true
+  }
+  number MultipleJadeKyle {
+    _hidden_value = true
+  }
+  dummy.UpperTanDebby CombinedCoralDix {
+    SocialCyanBlondelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    CompatibleLimeKarleen = true
+    _hidden_value = true
+  }
+  json WorthyPurpleSusanne {
+    _hidden_value = true
+  }
+  hidden_boolean ActiveSilverMerl {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number SimpleBlackLida {
+    _hidden_value = true
+  }
+  json MereTurquoiseAustin {
+    _hidden_value = true
+  }
+  string AbsentBlackLatrena {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SoleIvoryPerry {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SelfishLimeDarryl {
+    _hidden_value = true
+  }
+  serviceid_number WrongJadeAloisia {
+    _hidden_value = true
+  }
+  number CautiousLavenderKamila {
+    _hidden_value = true
+  }
+  string FuriousScarletYetty {
+    _hidden_value = true
+  }
+  json IntactBrownMicheline {
+    _hidden_value = true
+  }
+  string PuzzledBeigeMaryjo {
+    _hidden_value = true
+  }
+  "List<serviceid>" LexicalOliveEllissa {
+    _hidden_value = true
+  }
+  json VisitingSalmonCarlota {
+    _hidden_value = true
+  }
+  number EffectiveBeigePrudi {
+    _hidden_value = true
+  }
+  boolean PrimeWhiteQuinta {
+    _hidden_value = true
+  }
+  string WetScarletAllix {
+    _hidden_value = true
+  }
+  boolean PuzzledChocolateClementine {
+    _hidden_value = true
+  }
+  string CautiousBeigeShaylynn {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SolarTanBettina {
+    _hidden_value = true
+  }
+  serviceid_number FantasticChocolateLynnell {
+    _hidden_value = true
+  }
+  hidden_boolean InformalChocolateBertine {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.PreparedChocolateVanny BadJadeHelene {
+    DampCrimsonDacia = 762
+    FlyingFuchsiaAlfreda = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    ConceptualOrangeJana = "Why did the kid cross the playground? To get to the other slide."
+    VividCyanShina = 417
+    _hidden_value = true
+  }
+  SharedCyanRoxane = true
+  AccusedBeigeRyann = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  CourageousLimeMadelena = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  PunyPeachPetronilla = 765
+  TartCoffeeJsandye = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  MentalAzureBarbie = 943
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "VisitingSalmonCarlota"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "IntactBrownMicheline"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ShinyPlumTeresina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "WetScarletAllix"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FantasticChocolateLynnell"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "WorthyPurpleSusanne"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SolarTanBettina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CautiousBeigeShaylynn"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "TartCoffeeJsandye"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

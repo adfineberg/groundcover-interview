@@ -1,0 +1,63 @@
+type dummy.DarkRedJehanna {
+  json StrangePlumMireille {
+  }
+  json YawningMagentaAngy {
+  }
+  string PureSalmonTricia {
+  }
+  string AbsoluteBlushBeulah {
+  }
+  boolean RomanticTanAbbey {
+  }
+  serviceid HardBrownNovelia {
+  }
+  hidden_boolean SpontaneousEmeraldFrayda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.ForwardPurpleEstel SorryAmethystCharin {
+    PureAmaranthGwennie = file("RawPinkNoami.txt")
+    ScreechingAmaranthRebe = 862
+    VoluntaryBlackSuzy = "Did you know that protons have mass? I didn't even know they were catholic."
+    ExcellentTealIlysa = true
+    SubsequentPinkCindra = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    WilyRoseAmelie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  json AdministrativeOrangeDulce {
+  }
+  serviceid WiseBlushJayme {
+  }
+  json NeutralApricotDaffy {
+  }
+  boolean WearyEmeraldMasha {
+  }
+  serviceid_number OccupationalCrimsonNicolette {
+  }
+  number YummyLimeAdelle {
+  }
+  string XerothermicTomatoSimonne {
+  }
+  dummy.ObedientAmberLeisha YummyBlushJoellyn {
+    CondemnedIvorySherri = 823
+    RepulsiveAmberLana = file("DryBrownDanica.txt")
+    RelievedIndigoGeorgiana = true
+  }
+  boolean AgreeableMagentaCarmel {
+  }
+  hidden_boolean FlyingGoldOralee {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number UncertainPurplePriscella {
+  }
+  serviceid_number SingleOliveCoreen {
+  }
+  serviceid SlimyTomatoTarah {
+  }
+  json UnexpectedTomatoShirline {
+  }
+  boolean ProductiveCyanVicki {
+  }
+}

@@ -1,0 +1,127 @@
+type dummy.BraveTanOdelia {
+  annotations {
+    serviceid_number GenerousBeigeVanna {
+    }
+    hidden_boolean UselessSilverEdna {
+    }
+    hidden_boolean DeafBeigeArda {
+    }
+    hidden_boolean FineChocolateFran {
+    }
+    serviceid_number OralOliveAgnese {
+    }
+  }
+  number AcceptableScarletAigneis {
+    _hidden_value = true
+  }
+  number RareAquaDulcia {
+    _hidden_value = true
+  }
+  serviceid_number ProfitableBeigeKendre {
+    _hidden_value = true
+  }
+  serviceid_number CondemnedChocolateVonny {
+    _hidden_value = true
+  }
+  serviceid_number LatinVioletOlivie {
+    _hidden_value = true
+  }
+  json AcceptableAmberGay {
+    _hidden_value = true
+  }
+  string OutstandingChocolateTandi {
+    _hidden_value = true
+  }
+  hidden_boolean CompleteCoralNatka {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean JuniorAquaAllyce {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT ActualScarletTootsie {
+    _hidden_value = true
+  }
+  serviceid RainySapphireLaurice {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" PuzzledVioletDulcinea {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<number>" FreshOliveAbbi {
+    _hidden_value = true
+  }
+  json DistinctTealEydie {
+    _hidden_value = true
+  }
+  serviceid_number ArmedGreenAthena {
+    _hidden_value = true
+  }
+  number ZestfulBeigeCristabel {
+    _hidden_value = true
+  }
+  string CruelAzureTisha {
+    _hidden_value = true
+  }
+  json StingyScarletKathi {
+    _hidden_value = true
+  }
+  string JuniorChocolateCorri {
+    _hidden_value = true
+  }
+  number SlowPlumSacha {
+    _hidden_value = true
+  }
+  GenerousBeigeVanna = 370
+  OralOliveAgnese = 182
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DistinctTealEydie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "OutstandingChocolateTandi"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FreshOliveAbbi"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SlowPlumSacha"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CompleteCoralNatka"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RainySapphireLaurice"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "UselessSilverEdna"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GenerousBeigeVanna"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,86 @@
+type dummy.FrightenedOrangeEnrika {
+  annotations {
+    boolean MaximumCopperTami {
+    }
+    dummy.DEFAULT EfficientLimeLorain {
+    }
+    serviceid OfficialCrimsonNatasha {
+    }
+  }
+  boolean HungryOrangeHarrietta {
+    _hidden_value = true
+  }
+  json SuperOrangeJasmine {
+    _hidden_value = true
+  }
+  dummy.YawningTomatoBlaire EmbarrassingBeigeNeely {
+    DirectRedMadelon = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    NativeIvoryDella = "What do you call two barracuda fish?  A Pairacuda!"
+    UnableSalmonDianemarie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ThinVioletSheilah = "Why is Peter Pan always flying? Because he Neverlands."
+    _hidden_value = true
+  }
+  dummy.DEFAULT CommunistRedFerdinande {
+    _hidden_value = true
+  }
+  boolean SuperbRedFania {
+    _hidden_value = true
+  }
+  number VictoriousSapphireCorene {
+    _hidden_value = true
+  }
+  json IndividualRedLexine {
+    _hidden_value = true
+  }
+  dummy.ImaginativeCyanEmmalynn GayHarlequinGenvieve {
+    ScatteredIndigoHildegarde = 505
+    DistinguishedIndigoSile = 409
+    RepresentativeBronzeAlika = 167
+    ImpressedOrangeAnnecorinne = "What creature is smarter than a talking parrot? A spelling bee."
+    HotTurquoiseDarb = "Why did the kid cross the playground? To get to the other slide."
+    YabberingGoldStevana = "To be Frank, I'd have to change my name."
+    ThinBrownTory = "Did you know that protons have mass? I didn't even know they were catholic."
+    MolecularBeigeKettie = true
+    JudicialOrangeCally = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  boolean FriendlyApricotJoly {
+    _hidden_value = true
+  }
+  json DetailedMagentaNyssa {
+    _hidden_value = true
+  }
+  serviceid_number SeniorApricotGenni {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConcernedAmberKellia {
+    _hidden_value = true
+  }
+  "Map<boolean>" OkMagentaLisetta {
+    _hidden_value = true
+  }
+  hidden_boolean WorldwideAmethystGerianna {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ComplicatedYellowCharmion {
+    _hidden_value = true
+  }
+  number BrainySapphireEstrellita {
+    _hidden_value = true
+  }
+  MaximumCopperTami = false
+  EfficientLimeLorain = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  OfficialCrimsonNatasha = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "MaximumCopperTami"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

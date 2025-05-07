@@ -1,0 +1,65 @@
+type dummy.WiseJadeDodi {
+  annotations {
+    json ProudRedLynnette {
+    }
+    boolean ElectoralCoralMireielle {
+    }
+    boolean VisualPurpleGeorgianne {
+    }
+    boolean LovelyFuchsiaHilde {
+    }
+    serviceid_number ExcitingMaroonGael {
+    }
+    serviceid WilfulHarlequinFanchon {
+    }
+    number SuperIndigoNatividad {
+    }
+  }
+  json CombinedAzureLucy {
+    _hidden_value = true
+  }
+  string SelectRoseElsy {
+    _hidden_value = true
+  }
+  serviceid BrainyAzureAngelique {
+    _hidden_value = true
+  }
+  serviceid_number CompetentTomatoAgnese {
+    _hidden_value = true
+  }
+  string SemanticPeachJillian {
+    _hidden_value = true
+  }
+  ProudRedLynnette = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ElectoralCoralMireielle = true
+  VisualPurpleGeorgianne = false
+  LovelyFuchsiaHilde = false
+  ExcitingMaroonGael = 741
+  WilfulHarlequinFanchon = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SuperIndigoNatividad = 918
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BrainyAzureAngelique"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ElectoralCoralMireielle"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LovelyFuchsiaHilde"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ExcitingMaroonGael"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

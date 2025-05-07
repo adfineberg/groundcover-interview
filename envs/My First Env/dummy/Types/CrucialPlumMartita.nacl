@@ -1,0 +1,30 @@
+type dummy.CrucialPlumMartita {
+  annotations {
+    serviceid_number ConsistentCoralMarci {
+    }
+    string LiquidSilverMargy {
+    }
+    serviceid EqualIvoryMatty {
+    }
+  }
+  boolean SemanticBlushCalli {
+    _hidden_value = true
+  }
+  string CleanRoseLaraine {
+    _hidden_value = true
+  }
+  serviceid_number DomesticAmethystRaychel {
+    _hidden_value = true
+  }
+  ConsistentCoralMarci = 254
+  LiquidSilverMargy = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  EqualIvoryMatty = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ConsistentCoralMarci"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

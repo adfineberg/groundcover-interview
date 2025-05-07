@@ -1,0 +1,167 @@
+type dummy.FundamentalAquaRobbie {
+  annotations {
+    hidden_boolean ToryAquamarineLynde {
+    }
+    serviceid_number ProvincialMoccasinZsazsa {
+    }
+    serviceid_number FondLavenderAnnamarie {
+    }
+    hidden_boolean TotalSalmonMalina {
+    }
+    string IdenticalHarlequinFlorencia {
+    }
+    json SwiftBlackBarbi {
+    }
+  }
+  string RenewedBeigeJacquetta {
+    _hidden_value = true
+  }
+  string AddedPlumLou {
+    _hidden_value = true
+  }
+  string RapidFuchsiaNert {
+    _hidden_value = true
+  }
+  number NeutralWhiteBonny {
+    _hidden_value = true
+  }
+  serviceid PanickyPeachJana {
+    _hidden_value = true
+  }
+  hidden_boolean PastFuchsiaElianora {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid EntitledCoffeeHeddie {
+    _hidden_value = true
+  }
+  boolean ExtraordinaryTomatoVivia {
+    _hidden_value = true
+  }
+  hidden_boolean FastIvoryLynea {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json NegativeMaroonBrina {
+    _hidden_value = true
+  }
+  string LovelyAquaDarell {
+    _hidden_value = true
+  }
+  serviceid_number ConcernedBrownIlyse {
+    _hidden_value = true
+  }
+  number StiffYellowArdys {
+    _hidden_value = true
+  }
+  hidden_boolean ObligedOrangeMireielle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean HistoricAzureLola {
+    _hidden_value = true
+  }
+  serviceid FascinatingBlueLeisha {
+    _hidden_value = true
+  }
+  dummy.DelightedVioletLiv DelicateCoffeeLeah {
+    PartialApricotRodie = "Why is Peter Pan always flying? Because he Neverlands."
+    ChiefRoseSadie = "Im only familiar with 25 letters in the English language. I dont know why."
+    UpsetAquaLyndsay = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    PsychologicalMagentaFidelity = "Dad Im hungry  Hi hungry Im dad"
+    AdministrativeAmaranthMaighdiln = 864
+    SoundJadeUlrica = true
+    ExuberantOliveCleopatra = "I'll tell you what often gets over looked... garden fences."
+    DemocraticAmaranthJanaya = true
+    FlyingAquamarineCristionna = "Did you know that protons have mass? I didn't even know they were catholic."
+    GrotesqueTanRonni = 805
+    DutchPinkAnnice = "Why is Peter Pan always flying? Because he Neverlands."
+    _hidden_value = true
+  }
+  hidden_boolean RelativeAmaranthSena {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean RepresentativeChocolateAnjanette {
+    _hidden_value = true
+  }
+  dummy.LatinHarlequinDarbie NetSalmonKalli {
+    UnnecessarySalmonScarlett = true
+    ElatedBlackVeronike = 72
+    SlipperySalmonDaisy = 764
+    SwiftBlushMeryl = "Whoever invented the knock-knock joke should get a no bell prize."
+    WholeSapphireShirlee = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    AdditionalCrimsonPaulita = true
+    CrucialHarlequinDorri = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    UnevenTurquoiseJodie = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    PsychologicalMaroonLetisha = "To be Frank, I'd have to change my name."
+    FrozenPurpleTrula = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    CourageousPlumJane = "What do you do on a remote island? Try and find the TV island it belongs to."
+    HiddenMagentaRonica = "Whoever invented the knock-knock joke should get a no bell prize."
+    WorthyAmethystGiorgia = "Why didnt the skeleton cross the road? Because he had no guts."
+    RichApricotEvita = "What do you call two barracuda fish?  A Pairacuda!"
+    NervousSalmonSashenka = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    TenderFuchsiaElly = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    RespectableYellowJanet = "Why was it called the dark ages? Because of all the knights. "
+    ChangingCoralVanni = false
+    AmusedLavenderJenine = 154
+    ExcessiveTurquoiseDorothee = 452
+    PrimitiveApricotVilma = true
+    WorthwhileIvoryShanda = 126
+    ComprehensivePurpleKerstin = "What do you call two barracuda fish?  A Pairacuda!"
+    CorrespondingTurquoiseAdi = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    _hidden_value = true
+  }
+  ProvincialMoccasinZsazsa = 912
+  FondLavenderAnnamarie = 638
+  IdenticalHarlequinFlorencia = "Dad Im hungry  Hi hungry Im dad"
+  SwiftBlackBarbi = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RenewedBeigeJacquetta"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "NeutralWhiteBonny"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FascinatingBlueLeisha"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "StiffYellowArdys"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FastIvoryLynea"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ConcernedBrownIlyse"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FondLavenderAnnamarie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

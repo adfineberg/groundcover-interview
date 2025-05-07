@@ -1,0 +1,24 @@
+type dummy.ShortYellowFrances {
+  serviceid FragileGoldKalli {
+  }
+  serviceid_number LtdAzureCarlyn {
+  }
+  number ExuberantAmaranthPaola {
+  }
+  serviceid CurvedEmeraldRemy {
+  }
+  hidden_boolean ThenTealMyrle {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  hidden_boolean MetropolitanChocolateEalasaid {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number PregnantLavenderPerla {
+  }
+  string SelectBlackBilly {
+  }
+}

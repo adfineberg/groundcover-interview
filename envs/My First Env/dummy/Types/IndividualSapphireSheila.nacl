@@ -1,0 +1,28 @@
+type dummy.IndividualSapphireSheila {
+  annotations {
+    boolean RigidGrayKatherina {
+    }
+    hidden_boolean EnormousScarletDaniela {
+    }
+    string UsualLavenderKaria {
+    }
+    hidden_boolean JollyBeigeWillabella {
+    }
+    serviceid RightCrimsonSheba {
+    }
+  }
+  json ColorfulGreenMillicent {
+    _hidden_value = true
+  }
+  RigidGrayKatherina = true
+  UsualLavenderKaria = "Why do birds fly south for the winter? Because it's too far to walk."
+  RightCrimsonSheba = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "RightCrimsonSheba"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

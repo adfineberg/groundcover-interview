@@ -1,0 +1,91 @@
+type dummy.CapableBlueMarylin {
+  annotations {
+    serviceid_number RegisteredOrangeCalli {
+    }
+    dummy.IndependentOliveClaudetta LonelyTealNikki {
+    }
+    boolean NumerousLavenderJanette {
+    }
+    serviceid_number EconomicGrayNoami {
+    }
+  }
+  json CarefulCoralCoralyn {
+    _hidden_value = true
+  }
+  hidden_boolean FunCoralBathsheba {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<boolean>" WeirdLavenderAgatha {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BlankVioletVivienne {
+    _hidden_value = true
+  }
+  json LimitedCyanGerti {
+    _hidden_value = true
+  }
+  serviceid_number SportingGreenInez {
+    _hidden_value = true
+  }
+  number ComparativeWhiteCherin {
+    _hidden_value = true
+  }
+  serviceid ImmenseMagentaLeoline {
+    _hidden_value = true
+  }
+  hidden_boolean VisualBronzeMaura {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number MammothRoseGuglielma {
+    _hidden_value = true
+  }
+  number IdeologicalSilverShandra {
+    _hidden_value = true
+  }
+  hidden_boolean ComplicatedYellowBrooke {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ToughBrownCalla {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid BareLimeLucine {
+    _hidden_value = true
+  }
+  RegisteredOrangeCalli = 361
+  LonelyTealNikki = 72
+  NumerousLavenderJanette = true
+  EconomicGrayNoami = 291
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BlankVioletVivienne"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "VisualBronzeMaura"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ImmenseMagentaLeoline"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RegisteredOrangeCalli"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

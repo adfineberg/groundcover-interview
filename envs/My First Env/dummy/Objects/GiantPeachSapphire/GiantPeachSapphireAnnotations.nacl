@@ -1,0 +1,141 @@
+type dummy.GiantPeachSapphire {
+  annotations {
+    serviceid NativeTealKetti {
+    }
+    dummy.MassYellowCorina DirectTanMarisa {
+    }
+    hidden_boolean AdorableAzureLois {
+    }
+    boolean CapableIndigoHarlene {
+    }
+    serviceid BloodyApricotNonie {
+    }
+    json CondemnedAmethystKameko {
+    }
+    number HeavyPinkBrittney {
+    }
+    serviceid DirectBlushTiphany {
+    }
+    string LevelJadeVeronike {
+    }
+    number FlyingTurquoiseElnora {
+    }
+    serviceid_number ChangingVioletMoreen {
+    }
+    string GladTomatoJanela {
+    }
+    serviceid PersonalHarlequinAridatha {
+    }
+    boolean HilariousPinkTierney {
+    }
+    json ThickRoseBonny {
+    }
+    string DeterminedPeachSandi {
+    }
+    number GayAmethystBenedetta {
+    }
+    number ControversialAmethystClarisse {
+    }
+    json EeriePinkNatividad {
+    }
+    serviceid MagneticTanKaitlynn {
+    }
+    serviceid ConsiderableGrayGabrila {
+    }
+    serviceid_number SpectacularOliveEllen {
+    }
+    serviceid GratefulTealAdrian {
+    }
+    serviceid_number NeatBlackMarianne {
+    }
+    dummy.InformalTurquoiseFaith MeanTomatoJosey {
+    }
+    json VerticalIndigoRaynell {
+    }
+  }
+  NativeTealKetti = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DirectTanMarisa = file("IntactTurquoiseClaire.txt")
+  CapableIndigoHarlene = true
+  BloodyApricotNonie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CondemnedAmethystKameko = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  HeavyPinkBrittney = 744
+  DirectBlushTiphany = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  LevelJadeVeronike = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FlyingTurquoiseElnora = 481
+  ChangingVioletMoreen = 331
+  GladTomatoJanela = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PersonalHarlequinAridatha = "Why didnt the skeleton cross the road? Because he had no guts."
+  HilariousPinkTierney = true
+  ThickRoseBonny = "What do you call two barracuda fish?  A Pairacuda!"
+  DeterminedPeachSandi = "What do you do on a remote island? Try and find the TV island it belongs to."
+  GayAmethystBenedetta = 709
+  ControversialAmethystClarisse = 620
+  EeriePinkNatividad = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MagneticTanKaitlynn = "To be Frank, I'd have to change my name."
+  ConsiderableGrayGabrila = "How come the stadium got hot after the game? Because all of the fans left."
+  SpectacularOliveEllen = 260
+  GratefulTealAdrian = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  NeatBlackMarianne = 679
+  MeanTomatoJosey = true
+  VerticalIndigoRaynell = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _important_values = [
+    {
+      value = "WorryingOrangeKendre"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CompulsoryLavenderRosalynd"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PersonalHarlequinAridatha"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MeanTomatoJosey"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ChangingVioletMoreen"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CondemnedAmethystKameko"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EeriePinkNatividad"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GratefulTealAdrian"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GayAmethystBenedetta"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CapableIndigoHarlene"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BloodyApricotNonie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "GiantPeachSapphire_alias"
+}

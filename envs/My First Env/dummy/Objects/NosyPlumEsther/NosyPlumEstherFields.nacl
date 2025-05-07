@@ -1,0 +1,33 @@
+type dummy.NosyPlumEsther {
+  string VastAmaranthRomona {
+  }
+  dummy.StaleSilverLillian ElaborateAquamarinePaulie {
+    ValuableGoldAudra = 83
+    RequiredCyanPaulie = 950
+    ProbableYellowNoemi = true
+    ToxicGrayGoldia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  hidden_boolean MagneticAquaPhil {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  string FreshGoldKerstin {
+  }
+  string MagneticCoffeeTamra {
+  }
+  number SpiritualAmaranthLoraine {
+  }
+  json TiredOrangePatti {
+  }
+  dummy.SupremeMaroonLynelle InclinedBeigeHappy {
+    IndirectScarletSteffi = true
+    EasternIvoryMorgan = 519
+    ObligedAquaSusan = true
+    FederalChocolateRosene = 340
+  }
+  serviceid VeryYellowSophey {
+  }
+  string ClassicWhiteNatalie {
+  }
+}

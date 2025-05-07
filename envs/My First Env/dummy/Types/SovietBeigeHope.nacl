@@ -1,0 +1,53 @@
+type dummy.SovietBeigeHope {
+  annotations {
+    serviceid_number MaleAmberNorma {
+    }
+    hidden_boolean CircularRoseRosaleen {
+    }
+    hidden_boolean FondBlushRoselin {
+    }
+    boolean ThinAzureFrancisca {
+    }
+  }
+  serviceid_number VagueSalmonAnitra {
+    _hidden_value = true
+  }
+  string LoyalEmeraldJohnath {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" RearJadeCarena {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ImpressiveBlackDeidre {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean CleanTanAllyn {
+    _hidden_value = true
+  }
+  string EthicalWhiteTeodora {
+    _hidden_value = true
+  }
+  json VisibleBlackLissy {
+    _hidden_value = true
+  }
+  boolean MagicGreenDenny {
+    _hidden_value = true
+  }
+  number EligiblePeachDanell {
+    _hidden_value = true
+  }
+  MaleAmberNorma = 444
+  ThinAzureFrancisca = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ImpressiveBlackDeidre"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

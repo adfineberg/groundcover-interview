@@ -1,0 +1,71 @@
+type dummy.EmotionalSilverFrayda {
+  annotations {
+    json VocalAmberMyranda {
+    }
+    serviceid_number ChiefHarlequinJessamyn {
+    }
+    json CloseTomatoMerrie {
+    }
+    serviceid OverwhelmingBeigeKipp {
+    }
+    boolean GrimSilverAddi {
+    }
+  }
+  boolean SaltyChocolateAnneliese {
+    _hidden_value = true
+  }
+  number AvailableBrownKizzie {
+    _hidden_value = true
+  }
+  serviceid_number WeirdCoralLaure {
+    _hidden_value = true
+  }
+  serviceid_number ExpectedMagentaJanina {
+    _hidden_value = true
+  }
+  boolean AloneRedGilbertine {
+    _hidden_value = true
+  }
+  serviceid_number SocialistBlushEmalee {
+    _hidden_value = true
+  }
+  boolean XenaciousCrimsonAilene {
+    _hidden_value = true
+  }
+  string CentralTomatoJehanna {
+    _hidden_value = true
+  }
+  json SpatialMoccasinGretchen {
+    _hidden_value = true
+  }
+  VocalAmberMyranda = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ChiefHarlequinJessamyn = 679
+  CloseTomatoMerrie = "Why didnt the skeleton cross the road? Because he had no guts."
+  OverwhelmingBeigeKipp = "A steak pun is a rare medium well done."
+  GrimSilverAddi = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "WeirdCoralLaure"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SocialistBlushEmalee"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SaltyChocolateAnneliese"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ChiefHarlequinJessamyn"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

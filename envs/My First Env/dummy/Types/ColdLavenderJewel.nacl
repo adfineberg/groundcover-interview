@@ -1,0 +1,54 @@
+type dummy.ColdLavenderJewel {
+  annotations {
+    serviceid_number PresentCrimsonDorolice {
+    }
+    dummy.DEFAULT YeastyBlueAlison {
+    }
+    serviceid_number SquealingRoseSteffie {
+    }
+    serviceid AccessiblePlumRenell {
+    }
+  }
+  dummy.CombinedCyanNatasha XenophobicMoccasinAlana {
+    FrozenCyanClaudette = "Why didnt the skeleton cross the road? Because he had no guts."
+    WideCyanRhoda = 965
+    EnergeticGoldPauli = "Why did the kid cross the playground? To get to the other slide."
+    SpotlessCopperKyla = "Slept like a log last night  woke up in the fireplace."
+    VitreousBrownJolee = 408
+    AdjacentSalmonLura = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SpotlessCoffeeJaneva = false
+    UselessSalmonDarlleen = "What do you do on a remote island? Try and find the TV island it belongs to."
+    PreviousTealBerri = 334
+    RegionalTomatoLorilee = 266
+    NoisyPlumGiustina = false
+    SharedPurpleAdele = "Why did the tomato blush? Because it saw the salad dressing."
+    RottenAmaranthPhillie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ImprovedIvoryGenna = "Why was it called the dark ages? Because of all the knights. "
+    RoyalTurquoiseRonny = true
+    _hidden_value = true
+  }
+  serviceid ComfortableTomatoIvory {
+    _hidden_value = true
+  }
+  PresentCrimsonDorolice = 491
+  YeastyBlueAlison = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  SquealingRoseSteffie = 221
+  AccessiblePlumRenell = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "XenophobicMoccasinAlana"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SquealingRoseSteffie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,111 @@
+type dummy.ExuberantMagentaSosanna {
+  annotations {
+    boolean ComprehensiveApricotLiv {
+    }
+    serviceid WittyBlackErena {
+    }
+    dummy.DEFAULT AbleCyanClemmy {
+    }
+    serviceid_number SmoothOrangeLorette {
+    }
+  }
+  string SmartAmberEbony {
+    _hidden_value = true
+  }
+  serviceid_number AwakeGreenSofia {
+    _hidden_value = true
+  }
+  serviceid_number NeutralSalmonAnni {
+    _hidden_value = true
+  }
+  json SmilingMaroonCeline {
+    _hidden_value = true
+  }
+  hidden_boolean VocalIndigoNeila {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json AfraidYellowEvey {
+    _hidden_value = true
+  }
+  serviceid VicariousIvoryDarlene {
+    _hidden_value = true
+  }
+  boolean RoastedChocolateTerrijo {
+    _hidden_value = true
+  }
+  hidden_boolean EerieBronzeArdisj {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AloneMagentaJosepha {
+    _hidden_value = true
+  }
+  string ZestyEmeraldBari {
+    _hidden_value = true
+  }
+  boolean RollingBronzeRuperta {
+    _hidden_value = true
+  }
+  serviceid AwakeVioletAnia {
+    _hidden_value = true
+  }
+  dummy.MuteGrayAlexi ApparentAquaBrandise {
+    ComplexGrayKerstin = 669
+    BigYellowAsia = 343
+    DreadfulGreenDagmar = "What creature is smarter than a talking parrot? A spelling bee."
+    CooperativeTomatoNora = false
+    EnviousCoffeeWallie = "What creature is smarter than a talking parrot? A spelling bee."
+    CrudeIvoryJoli = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    LuckyFuchsiaSher = "What do you do on a remote island? Try and find the TV island it belongs to."
+    DiverseHarlequinKaleena = "Why did the tomato blush? Because it saw the salad dressing."
+    AngryFuchsiaVivianne = 9
+    OnlyGreenArdella = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  boolean GiantPurpleJeannie {
+    _hidden_value = true
+  }
+  "List<serviceid>" TechnicalTomatoAlejandra {
+    _hidden_value = true
+  }
+  string SubstantialAquamarineIsahella {
+    _hidden_value = true
+  }
+  hidden_boolean DevelopingRoseKristin {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.StillMagentaWendi BlushingAmaranthKessia {
+    DevelopedFuchsiaLilllie = 170
+    DirectMagentaSharyl = "Im only familiar with 25 letters in the English language. I dont know why."
+    FascinatingOrangeTheressa = "What do you call two barracuda fish?  A Pairacuda!"
+    RulingBrownSamantha = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    QuietCoffeeBlinni = 377
+    TotalAmethystRisa = false
+    InstitutionalYellowMariska = "What creature is smarter than a talking parrot? A spelling bee."
+    SafeGoldGabriell = "Why was it called the dark ages? Because of all the knights. "
+    SoreScarletTed = "Why did the kid cross the playground? To get to the other slide."
+    EntitledPinkLeta = "I'll tell you what often gets over looked... garden fences."
+    YappiestGreenFawne = 838
+    YammeringSapphireLiv = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    NoisyMaroonMirabel = true
+    _hidden_value = true
+  }
+  boolean GrimCoffeeCoretta {
+    _hidden_value = true
+  }
+  serviceid WetAmaranthAurora {
+    _hidden_value = true
+  }
+  ComprehensiveApricotLiv = false
+  WittyBlackErena = "What do you do on a remote island? Try and find the TV island it belongs to."
+  AbleCyanClemmy = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  SmoothOrangeLorette = 229
+  _hidden_value = true
+}

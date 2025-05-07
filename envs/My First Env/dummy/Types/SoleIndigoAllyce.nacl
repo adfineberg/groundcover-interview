@@ -1,0 +1,39 @@
+type dummy.SoleIndigoAllyce {
+  annotations {
+    hidden_boolean RadicalAmberClem {
+    }
+    serviceid_number MarvellousSapphireMalva {
+    }
+    serviceid RelatedRedRaina {
+    }
+    boolean CivicLimeBecky {
+    }
+    serviceid_number DeadEmeraldBertina {
+    }
+    serviceid_number SocialistScarletLelia {
+    }
+  }
+  hidden_boolean PartialCyanGiralda {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  MarvellousSapphireMalva = 729
+  RelatedRedRaina = "Why was it called the dark ages? Because of all the knights. "
+  CivicLimeBecky = false
+  DeadEmeraldBertina = 887
+  SocialistScarletLelia = 451
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "SocialistScarletLelia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CivicLimeBecky"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,128 @@
+type dummy.FragileBronzeSheela {
+  annotations {
+    json ContemporaryGreenDosi {
+    }
+    number FunctionalCoralWynn {
+    }
+    json YappyMoccasinShina {
+    }
+    number StripedAmberMarget {
+    }
+    string TopCrimsonYvonne {
+    }
+  }
+  serviceid ShortAmberIsabella {
+    _hidden_value = true
+  }
+  dummy.DiverseTurquoiseMariya SolidCoralTomasine {
+    AdversePlumLadonna = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SupremeCopperMellisa = "Did you know that protons have mass? I didn't even know they were catholic."
+    ForthcomingMaroonAda = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    FunIndigoRaine = "To be Frank, I'd have to change my name."
+    WonderfulBlushSonnnie = "What did one nut say as he chased another nut?  I'm a cashew!"
+    FreshBlackDasha = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    NastyCrimsonVinni = false
+    _hidden_value = true
+  }
+  boolean DistinguishedSilverMaryjo {
+    _hidden_value = true
+  }
+  boolean ShockedWhiteElayne {
+    _hidden_value = true
+  }
+  serviceid_number ThirstySapphireTrenna {
+    _hidden_value = true
+  }
+  serviceid_number OverwhelmingIvoryLeanora {
+    _hidden_value = true
+  }
+  boolean PresidentialBlushVere {
+    _hidden_value = true
+  }
+  boolean MelodicTealFreddi {
+    _hidden_value = true
+  }
+  serviceid_number UnderlyingGoldDaveta {
+    _hidden_value = true
+  }
+  string SunnyAmaranthSorcha {
+    _hidden_value = true
+  }
+  string TightOrangeDemetris {
+    _hidden_value = true
+  }
+  number UniqueEmeraldBrietta {
+    _hidden_value = true
+  }
+  boolean LooseLimeDasya {
+    _hidden_value = true
+  }
+  serviceid ProtestantScarletLoraine {
+    _hidden_value = true
+  }
+  string DisappointedBrownAmeline {
+    _hidden_value = true
+  }
+  boolean AmusedSilverEvelyn {
+    _hidden_value = true
+  }
+  string WorthyAquamarineKizzee {
+    _hidden_value = true
+  }
+  hidden_boolean ExcitedBronzeAngela {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number MoaningPlumLorilee {
+    _hidden_value = true
+  }
+  json LogicalCoralBria {
+    _hidden_value = true
+  }
+  hidden_boolean ChubbyRedRosette {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  ContemporaryGreenDosi = "How come the stadium got hot after the game? Because all of the fans left."
+  FunctionalCoralWynn = 182
+  YappyMoccasinShina = "What do you call two barracuda fish?  A Pairacuda!"
+  StripedAmberMarget = 146
+  TopCrimsonYvonne = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LooseLimeDasya"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DisappointedBrownAmeline"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ProtestantScarletLoraine"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ShortAmberIsabella"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "TopCrimsonYvonne"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FunctionalCoralWynn"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

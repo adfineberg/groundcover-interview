@@ -1,0 +1,68 @@
+type dummy.RelievedAmaranthAilee {
+  annotations {
+    hidden_boolean DemocraticOliveDaphne {
+    }
+    hidden_boolean WoodenYellowCathi {
+    }
+    boolean ConfusedTomatoMerrielle {
+    }
+    json CheerfulIvoryMatty {
+    }
+    json IdealBrownSharl {
+    }
+    number ColonialBronzeKaylil {
+    }
+    number ConvincedMagentaDasha {
+    }
+    serviceid_number ControlledBlueTheresina {
+    }
+    hidden_boolean ExoticBrownRamonda {
+    }
+    json AgreeableTealTiphanie {
+    }
+    string ComprehensiveRedPennie {
+    }
+    hidden_boolean DevelopingCopperChlo {
+    }
+    boolean ElderlyAmberRasla {
+    }
+    string RivalCyanAmitie {
+    }
+    number YelpingMoccasinManya {
+    }
+    string PoorBeigeKatrinka {
+    }
+    hidden_boolean ExcitedSilverMarybelle {
+    }
+    string OutrageousPeachCaralie {
+    }
+  }
+  ConfusedTomatoMerrielle = false
+  CheerfulIvoryMatty = "A steak pun is a rare medium well done."
+  IdealBrownSharl = "Slept like a log last night  woke up in the fireplace."
+  ColonialBronzeKaylil = 550
+  ConvincedMagentaDasha = 256
+  ControlledBlueTheresina = 884
+  AgreeableTealTiphanie = "Why was it called the dark ages? Because of all the knights. "
+  ComprehensiveRedPennie = "Did you know that protons have mass? I didn't even know they were catholic."
+  ElderlyAmberRasla = false
+  RivalCyanAmitie = "Slept like a log last night  woke up in the fireplace."
+  YelpingMoccasinManya = 918
+  PoorBeigeKatrinka = "Im only familiar with 25 letters in the English language. I dont know why."
+  OutrageousPeachCaralie = "Why is Peter Pan always flying? Because he Neverlands."
+  _important_values = [
+    {
+      value = "PetiteSapphireMargaux"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ExoticBrownRamonda"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "RelievedAmaranthAilee_alias"
+}

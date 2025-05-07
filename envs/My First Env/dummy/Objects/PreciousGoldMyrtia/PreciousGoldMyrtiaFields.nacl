@@ -1,0 +1,67 @@
+type dummy.PreciousGoldMyrtia {
+  serviceid_number ConfusedPurpleJillayne {
+  }
+  serviceid_number FiscalAzureUta {
+  }
+  serviceid ItchyFuchsiaPriscilla {
+  }
+  hidden_boolean DeliciousAquaBetteann {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number AvailableOrangeMyriam {
+  }
+  serviceid ExclusiveFuchsiaGwenora {
+  }
+  dummy.LogicalLimeAlethea DryAzureBlake {
+    MotionlessMoccasinCate = false
+    PreliminaryAquamarineBrooke = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    GiantPinkTheresa = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    MarkedFuchsiaAilene = 575
+    AfraidTomatoCarlynne = 34
+    MeanAmberChantalle = 657
+  }
+  json AlrightAmberAuguste {
+  }
+  serviceid_number SatisfiedGreenCarilyn {
+  }
+  string DelightedAmaranthMarge {
+  }
+  serviceid SpatialYellowAila {
+  }
+  hidden_boolean AfraidGoldKiersten {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.ThoughtfulChocolateLorelei HarshGoldCassandre {
+    GrowingApricotMeriel = "Why didnt the skeleton cross the road? Because he had no guts."
+    SleepyYellowKathi = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    LongPeachPrisca = "Slept like a log last night  woke up in the fireplace."
+    FlyingMagentaSabine = true
+    VagueCopperMufi = 169
+    BrainyMagentaSonni = false
+  }
+  "List<hidden_boolean>" ScaredTurquoiseRowe {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string HuskyVioletAilis {
+  }
+  json AmbitiousApricotDavina {
+  }
+  number UnhappyBlueMelonie {
+  }
+  serviceid ExpectedRedAdrienne {
+  }
+  serviceid AwareGrayGarnette {
+  }
+  json CrookedLavenderViola {
+  }
+}

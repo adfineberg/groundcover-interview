@@ -1,0 +1,94 @@
+type dummy.OutstandingAmberUrsala {
+  annotations {
+    boolean UnsightlySapphireEudora {
+    }
+    number SpatialRoseFlorida {
+    }
+    serviceid EducationalVioletMerla {
+    }
+    hidden_boolean LiableAmaranthMalynda {
+    }
+    hidden_boolean ConventionalMaroonDarcy {
+    }
+    dummy.DEFAULT EventualGrayElfrieda {
+    }
+  }
+  json MobileRoseRuperta {
+    _hidden_value = true
+  }
+  serviceid ConventionalMoccasinMonique {
+    _hidden_value = true
+  }
+  boolean ParentalMoccasinGenia {
+    _hidden_value = true
+  }
+  serviceid SmilingLimeLeonie {
+    _hidden_value = true
+  }
+  string StatisticalPlumChristi {
+    _hidden_value = true
+  }
+  number NorthernAquaNichole {
+    _hidden_value = true
+  }
+  number VitreousGoldRaynell {
+    _hidden_value = true
+  }
+  serviceid FamiliarRedViv {
+    _hidden_value = true
+  }
+  dummy.DelightedVioletLiv TerribleBlushDomini {
+    PartialApricotRodie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ChiefRoseSadie = "I'll tell you what often gets over looked... garden fences."
+    UpsetAquaLyndsay = "Why was it called the dark ages? Because of all the knights. "
+    PsychologicalMagentaFidelity = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    AdministrativeAmaranthMaighdiln = 143
+    SoundJadeUlrica = true
+    ExuberantOliveCleopatra = "Did you know that protons have mass? I didn't even know they were catholic."
+    DemocraticAmaranthJanaya = false
+    FlyingAquamarineCristionna = "Dad Im hungry  Hi hungry Im dad"
+    GrotesqueTanRonni = 830
+    DutchPinkAnnice = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    _hidden_value = true
+  }
+  string SeparateApricotDahlia {
+    _hidden_value = true
+  }
+  serviceid_number ThickAmaranthFlorette {
+    _hidden_value = true
+  }
+  string RegularTanNessie {
+    _hidden_value = true
+  }
+  UnsightlySapphireEudora = false
+  SpatialRoseFlorida = 340
+  EducationalVioletMerla = "What do you do on a remote island? Try and find the TV island it belongs to."
+  EventualGrayElfrieda = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SeparateApricotDahlia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ParentalMoccasinGenia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "LiableAmaranthMalynda"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ConventionalMaroonDarcy"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,81 @@
+type dummy.ObnoxiousLimeAndra {
+  annotations {
+    hidden_boolean FrailCoralKeely {
+    }
+    number PrettySapphireAinslie {
+    }
+    string MedievalBeigeKippy {
+    }
+    serviceid_number InherentLimeKitty {
+    }
+    hidden_boolean CalmJadeDamara {
+    }
+  }
+  dummy.StaleSilverLillian DelicateSilverCelestine {
+    ValuableGoldAudra = 978
+    RequiredCyanPaulie = 590
+    ProbableYellowNoemi = false
+    ToxicGrayGoldia = "Slept like a log last night  woke up in the fireplace."
+    _hidden_value = true
+  }
+  number MusicalFuchsiaAura {
+    _hidden_value = true
+  }
+  dummy.DEFAULT InfluentialTealConni {
+    _hidden_value = true
+  }
+  string SorryPurpleImelda {
+    _hidden_value = true
+  }
+  serviceid_number CollectiveSilverJaneta {
+    _hidden_value = true
+  }
+  hidden_boolean ItchyChocolateIlka {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DiverseTurquoiseMariya LoyalCoralRanice {
+    AdversePlumLadonna = "What do you do on a remote island? Try and find the TV island it belongs to."
+    SupremeCopperMellisa = "To be Frank, I'd have to change my name."
+    ForthcomingMaroonAda = "Why did the tomato blush? Because it saw the salad dressing."
+    FunIndigoRaine = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    WonderfulBlushSonnnie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    FreshBlackDasha = "What did one nut say as he chased another nut?  I'm a cashew!"
+    NastyCrimsonVinni = false
+    _hidden_value = true
+  }
+  serviceid SensibleBronzeMary {
+    _hidden_value = true
+  }
+  boolean HeavyOliveSuzann {
+    _hidden_value = true
+  }
+  boolean CommunistBrownAlbina {
+    _hidden_value = true
+  }
+  serviceid YabberingTurquoiseAstrix {
+    _hidden_value = true
+  }
+  hidden_boolean UsualChocolateJanith {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  PrettySapphireAinslie = 100
+  MedievalBeigeKippy = "Why is Peter Pan always flying? Because he Neverlands."
+  InherentLimeKitty = 558
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LoyalCoralRanice"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DelicateSilverCelestine"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

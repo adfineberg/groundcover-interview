@@ -1,0 +1,49 @@
+type dummy.FastVioletDaniela is string {
+  annotations {
+    number YieldingGreenRosamond {
+    }
+    dummy.DEFAULT CleverPeachEngracia {
+    }
+    serviceid_number YtterbicTealGaylene {
+    }
+    number YammeringPinkMarcelline {
+    }
+    string OverwhelmingYellowKariotta {
+    }
+    serviceid_number JuicyApricotMercie {
+    }
+    string IntimateIvoryAnnissa {
+    }
+    hidden_boolean KnownOliveAura {
+    }
+    serviceid SpectacularMagentaMellicent {
+    }
+    serviceid_number ShiveringScarletMilka {
+    }
+    boolean FrontChocolateLucinda {
+    }
+    number SexualGoldAlicia {
+    }
+    serviceid_number MonetaryIvoryDawna {
+    }
+    serviceid PoisedLavenderAndeee {
+    }
+    hidden_boolean RandomSalmonEllette {
+    }
+  }
+  YieldingGreenRosamond = 937
+  CleverPeachEngracia = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  YtterbicTealGaylene = 762
+  YammeringPinkMarcelline = 189
+  OverwhelmingYellowKariotta = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  JuicyApricotMercie = 381
+  IntimateIvoryAnnissa = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SpectacularMagentaMellicent = "What creature is smarter than a talking parrot? A spelling bee."
+  ShiveringScarletMilka = 649
+  FrontChocolateLucinda = false
+  SexualGoldAlicia = 156
+  MonetaryIvoryDawna = 107
+  PoisedLavenderAndeee = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+}

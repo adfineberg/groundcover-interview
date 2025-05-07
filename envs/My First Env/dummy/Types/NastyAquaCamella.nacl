@@ -1,0 +1,92 @@
+type dummy.NastyAquaCamella {
+  annotations {
+    boolean OutdoorEmeraldArdine {
+    }
+    dummy.DEFAULT NaturalBrownJannelle {
+    }
+    boolean ContinentalMaroonRodie {
+    }
+    boolean InappropriateTealKeriann {
+    }
+    serviceid SubjectiveAmaranthDeanne {
+    }
+    string FamiliarAquamarineAlexa {
+    }
+  }
+  serviceid_number ConstitutionalScarletShirlene {
+    _hidden_value = true
+  }
+  boolean ShrillVioletLorrin {
+    _hidden_value = true
+  }
+  json HelpfulBronzeGladys {
+    _hidden_value = true
+  }
+  boolean HissingLimeLeisha {
+    _hidden_value = true
+  }
+  boolean RegularCyanGiulietta {
+    _hidden_value = true
+  }
+  serviceid_number ChronicCoralFreddi {
+    _hidden_value = true
+  }
+  serviceid_number ReliableSapphireMinerva {
+    _hidden_value = true
+  }
+  string ContinentalJadeYasmin {
+    _hidden_value = true
+  }
+  number ClassicalCoralHeddie {
+    _hidden_value = true
+  }
+  string PregnantBlueFawne {
+    _hidden_value = true
+  }
+  number SpareOliveHarriott {
+    _hidden_value = true
+  }
+  string SheerAmaranthNedda {
+    _hidden_value = true
+  }
+  boolean DizzyMaroonStefanie {
+    _hidden_value = true
+  }
+  serviceid_number SuddenCrimsonJessalin {
+    _hidden_value = true
+  }
+  number VictoriousSilverSusanetta {
+    _hidden_value = true
+  }
+  string LimitedAquamarineGisela {
+    _hidden_value = true
+  }
+  serviceid_number NearbyBlueAbbey {
+    _hidden_value = true
+  }
+  boolean ObviousYellowFred {
+    _hidden_value = true
+  }
+  serviceid_number SafeApricotAli {
+    _hidden_value = true
+  }
+  number GiganticBeigeGuenna {
+    _hidden_value = true
+  }
+  OutdoorEmeraldArdine = true
+  NaturalBrownJannelle = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  ContinentalMaroonRodie = true
+  InappropriateTealKeriann = true
+  SubjectiveAmaranthDeanne = "What do you call two barracuda fish?  A Pairacuda!"
+  FamiliarAquamarineAlexa = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "NaturalBrownJannelle"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

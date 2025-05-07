@@ -1,0 +1,58 @@
+type dummy.CapableIvoryAngele {
+  annotations {
+    dummy.MathematicalLavenderUlrica CharmingFuchsiaLola {
+    }
+    number PremierBronzeAggie {
+    }
+    hidden_boolean GrowingPinkAmity {
+    }
+    number RacialPinkEloisa {
+    }
+  }
+  serviceid_number PleasedRedTanya {
+    _hidden_value = true
+  }
+  boolean JuniorBrownFenelia {
+    _hidden_value = true
+  }
+  json RipeBlueSadye {
+    _hidden_value = true
+  }
+  number EncouragingTurquoiseVinny {
+    _hidden_value = true
+  }
+  number UnwillingPlumSadye {
+    _hidden_value = true
+  }
+  boolean TerritorialAmaranthKiley {
+    _hidden_value = true
+  }
+  hidden_boolean HandicappedTurquoiseMichaella {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  CharmingFuchsiaLola = 789
+  PremierBronzeAggie = 174
+  RacialPinkEloisa = 319
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RipeBlueSadye"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "HandicappedTurquoiseMichaella"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CharmingFuchsiaLola"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

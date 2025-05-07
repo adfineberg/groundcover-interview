@@ -1,0 +1,29 @@
+type dummy.HelplessChocolateScarlett {
+  annotations {
+    boolean BrainyIndigoBobbi {
+    }
+    serviceid ImperialAmberJaime {
+    }
+    serviceid ConfidentRedAnita {
+    }
+    json JitterySapphirePearla {
+    }
+    string ImpossibleTomatoAddie {
+    }
+    number CourageousApricotMelamie {
+    }
+    dummy.StaleSilverLillian ArbitrarySalmonChristyna {
+    }
+  }
+  serviceid VastMoccasinHarriot {
+    _hidden_value = true
+  }
+  BrainyIndigoBobbi = false
+  ImperialAmberJaime = "Why did the kid cross the playground? To get to the other slide."
+  ConfidentRedAnita = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  JitterySapphirePearla = "I'll tell you what often gets over looked... garden fences."
+  ImpossibleTomatoAddie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CourageousApricotMelamie = 994
+  ArbitrarySalmonChristyna = 925
+  _hidden_value = true
+}

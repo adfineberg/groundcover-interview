@@ -1,0 +1,42 @@
+type dummy.IndependentOliveClaudetta is number {
+  annotations {
+    serviceid_number WelcomeCoffeeRanique {
+    }
+    number ActualVioletRozelle {
+    }
+    json DearOrangeBobbe {
+    }
+    json UninterestedTanMaddi {
+    }
+    boolean EventualLavenderFern {
+    }
+    hidden_boolean WorldwideCopperOttilie {
+    }
+    boolean ManagerialAquaMeagan {
+    }
+    hidden_boolean MonthlyGoldCasey {
+    }
+    hidden_boolean CompactBlushKrystyna {
+    }
+    dummy.DEFAULT UnconsciousAmaranthSuzie {
+    }
+    boolean TastyMagentaAnnice {
+    }
+    serviceid_number InadequateChocolateAnnmarie {
+    }
+    serviceid UnconsciousLavenderArdelle {
+    }
+  }
+  WelcomeCoffeeRanique = 737
+  ActualVioletRozelle = 226
+  DearOrangeBobbe = "What creature is smarter than a talking parrot? A spelling bee."
+  UninterestedTanMaddi = "Why do birds fly south for the winter? Because it's too far to walk."
+  EventualLavenderFern = false
+  ManagerialAquaMeagan = false
+  UnconsciousAmaranthSuzie = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  TastyMagentaAnnice = true
+  InadequateChocolateAnnmarie = 422
+  UnconsciousLavenderArdelle = "Dad Im hungry  Hi hungry Im dad"
+}

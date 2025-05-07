@@ -1,0 +1,61 @@
+type dummy.IntenseLimeJemmie {
+  annotations {
+    json SurprisingBlushMeghann {
+    }
+    string ExcessiveApricotMommy {
+    }
+    json OptimisticAmethystDorry {
+    }
+    boolean ClumsyBrownAugusta {
+    }
+    string WoodenAzureJoelynn {
+    }
+    serviceid_number HolyAmethystEstel {
+    }
+  }
+  json BoldAmberMarilee {
+    _hidden_value = true
+  }
+  hidden_boolean SlimyIvoryCammie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ObviousGoldClaudina {
+    _hidden_value = true
+  }
+  string DeliciousTomatoPerri {
+    _hidden_value = true
+  }
+  hidden_boolean CooingAzureRorie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  SurprisingBlushMeghann = "To be Frank, I'd have to change my name."
+  ExcessiveApricotMommy = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  OptimisticAmethystDorry = "Why did the kid cross the playground? To get to the other slide."
+  ClumsyBrownAugusta = false
+  WoodenAzureJoelynn = "Whoever invented the knock-knock joke should get a no bell prize."
+  HolyAmethystEstel = 651
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SlimyIvoryCammie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SurprisingBlushMeghann"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "OptimisticAmethystDorry"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

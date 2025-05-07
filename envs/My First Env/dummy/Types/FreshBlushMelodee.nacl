@@ -1,0 +1,19 @@
+type dummy.FreshBlushMelodee {
+  annotations {
+    dummy.DEFAULT FormalEmeraldMarybelle {
+    }
+    number FrontTealIngeborg {
+    }
+    string LiteraryGoldSibel {
+    }
+  }
+  boolean OrthodoxPeachNady {
+    _hidden_value = true
+  }
+  FormalEmeraldMarybelle = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  FrontTealIngeborg = 317
+  LiteraryGoldSibel = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

@@ -1,0 +1,61 @@
+type dummy.SpatialYellowTawnya {
+  annotations {
+    json StrangeTurquoiseKatleen {
+    }
+    string ValuableAzureLorette {
+    }
+    serviceid_number QualifiedOliveWillabella {
+    }
+    serviceid_number LinguisticAmethystNicholle {
+    }
+    serviceid CombinedChocolateTiena {
+    }
+    serviceid RobustSalmonHyacintha {
+    }
+  }
+  boolean NotableCoffeeMyra {
+    _hidden_value = true
+  }
+  serviceid BloodyBeigeArdith {
+    _hidden_value = true
+  }
+  number SupposedCoffeeCleopatra {
+    _hidden_value = true
+  }
+  json ExtraordinaryBronzeDacy {
+    _hidden_value = true
+  }
+  boolean ComparativeYellowCarmel {
+    _hidden_value = true
+  }
+  hidden_boolean TrickyGrayKirsteni {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json SpectacularLavenderLelah {
+    _hidden_value = true
+  }
+  hidden_boolean AlertAquaWilli {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string GrandAquaMinda {
+    _hidden_value = true
+  }
+  StrangeTurquoiseKatleen = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ValuableAzureLorette = "Did you know that protons have mass? I didn't even know they were catholic."
+  QualifiedOliveWillabella = 29
+  LinguisticAmethystNicholle = 133
+  CombinedChocolateTiena = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  RobustSalmonHyacintha = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "StrangeTurquoiseKatleen"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

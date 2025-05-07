@@ -1,0 +1,68 @@
+type dummy.SelectedMaroonNinette {
+  annotations {
+    json TinyTealHannah {
+    }
+    dummy.EventualGreenMargaux RealisticMoccasinCarmelia {
+    }
+    serviceid LostAquaNatty {
+    }
+    serviceid NuclearYellowOpaline {
+    }
+    serviceid_number FlyingChocolateDdene {
+    }
+    dummy.FineAmethystKiri SubsequentAquaConstantine {
+    }
+    serviceid GreasyTomatoAshlee {
+    }
+    hidden_boolean RobustTomatoDorri {
+    }
+    serviceid BitterMoccasinMaribelle {
+    }
+    string SuccessfulGreenKerrill {
+    }
+    dummy.ElectoralTurquoiseJaquith AshamedYellowLeilah {
+    }
+    serviceid_number SunnyPeachLivvyy {
+    }
+    serviceid_number ChosenBeigeJorrie {
+    }
+    string DifferentTomatoBunnie {
+    }
+    dummy.RivalGreenMindy NearAquamarineDeerdre {
+    }
+    serviceid_number AddedIvoryKatrina {
+    }
+    serviceid_number ViolentLimeUrsala {
+    }
+  }
+  TinyTealHannah = "I'll tell you what often gets over looked... garden fences."
+  LostAquaNatty = "What did one nut say as he chased another nut?  I'm a cashew!"
+  NuclearYellowOpaline = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  FlyingChocolateDdene = 350
+  GreasyTomatoAshlee = "What did one nut say as he chased another nut?  I'm a cashew!"
+  BitterMoccasinMaribelle = "Dad Im hungry  Hi hungry Im dad"
+  SuccessfulGreenKerrill = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SunnyPeachLivvyy = 949
+  ChosenBeigeJorrie = 641
+  DifferentTomatoBunnie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AddedIvoryKatrina = 406
+  ViolentLimeUrsala = 632
+  _important_values = [
+    {
+      value = "DearTurquoiseEryn"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CleanApricotNada"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CuteIndigoLeona"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "SelectedMaroonNinette_alias"
+}

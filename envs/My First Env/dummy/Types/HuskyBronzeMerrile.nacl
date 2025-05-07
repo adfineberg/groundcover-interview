@@ -1,0 +1,113 @@
+type dummy.HuskyBronzeMerrile {
+  annotations {
+    serviceid_number MiserableBlackBirgit {
+    }
+    hidden_boolean ShiveringOrangeHarmonia {
+    }
+    serviceid CautiousWhiteCarolynn {
+    }
+    serviceid_number SuitableFuchsiaErinn {
+    }
+    boolean TensePeachCristie {
+    }
+  }
+  json TheoreticalFuchsiaJenine {
+    _hidden_value = true
+  }
+  boolean ResultingBlueTrude {
+    _hidden_value = true
+  }
+  serviceid AdjacentAquaCarol {
+    _hidden_value = true
+  }
+  dummy.PreparedChocolateVanny UsualAmethystDaphene {
+    DampCrimsonDacia = 378
+    FlyingFuchsiaAlfreda = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    ConceptualOrangeJana = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    VividCyanShina = 695
+    _hidden_value = true
+  }
+  string LuckyGreenCarlene {
+    _hidden_value = true
+  }
+  string CarefulLavenderCari {
+    _hidden_value = true
+  }
+  serviceid_number StupidGrayMuire {
+    _hidden_value = true
+  }
+  "List<serviceid>" MeaningfulIndigoRobbie {
+    _hidden_value = true
+  }
+  serviceid_number SignificantGoldDelinda {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SimilarPeachMillie {
+    _hidden_value = true
+  }
+  serviceid_number ControlledOrangeSelestina {
+    _hidden_value = true
+  }
+  serviceid PsychiatricMoccasinVioletta {
+    _hidden_value = true
+  }
+  boolean VaryingJadeDari {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HistoricalTanGui {
+    _hidden_value = true
+  }
+  serviceid_number VivaciousAzureTherese {
+    _hidden_value = true
+  }
+  dummy.SplendidAmberFlorance WispyBrownVerene {
+    WhisperingTurquoiseMildred = "Whoever invented the knock-knock joke should get a no bell prize."
+    RelevantSalmonGaby = "Did you know that protons have mass? I didn't even know they were catholic."
+    VictoriousLimeEthel = "Why is Peter Pan always flying? Because he Neverlands."
+    ImaginativeGreenGale = 231
+    FamousAquaZondra = 762
+    _hidden_value = true
+  }
+  serviceid IncreasedAmberCarole {
+    _hidden_value = true
+  }
+  MiserableBlackBirgit = 973
+  CautiousWhiteCarolynn = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SuitableFuchsiaErinn = 648
+  TensePeachCristie = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "VivaciousAzureTherese"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HistoricalTanGui"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SignificantGoldDelinda"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "StupidGrayMuire"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ControlledOrangeSelestina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "TheoreticalFuchsiaJenine"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

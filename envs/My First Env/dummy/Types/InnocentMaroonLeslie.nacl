@@ -1,0 +1,186 @@
+type dummy.InnocentMaroonLeslie {
+  annotations {
+    number HealthyAmaranthHelli {
+    }
+    hidden_boolean MissingGreenPattie {
+    }
+    serviceid ArmedAmaranthBabbette {
+    }
+    json NastyRoseDoris {
+    }
+    json FierceAquaMoll {
+    }
+    string SaltyTealGray {
+    }
+  }
+  string CasualSilverGeorgeanne {
+    _hidden_value = true
+  }
+  json AnxiousGoldFannie {
+    _hidden_value = true
+  }
+  json FluffyYellowBertie {
+    _hidden_value = true
+  }
+  number AncientPurpleJoelie {
+    _hidden_value = true
+  }
+  number GrumpyApricotRanna {
+    _hidden_value = true
+  }
+  number ViolentBlueSheelagh {
+    _hidden_value = true
+  }
+  string ForthcomingMoccasinJacki {
+    _hidden_value = true
+  }
+  hidden_boolean LegislativeOrangeMallissa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number PowerfulIvoryBibi {
+    _hidden_value = true
+  }
+  serviceid DistinctiveTanCourtnay {
+    _hidden_value = true
+  }
+  dummy.ImaginativeCyanEmmalynn DefensiveTealArlina {
+    ScatteredIndigoHildegarde = 606
+    DistinguishedIndigoSile = 949
+    RepresentativeBronzeAlika = 197
+    ImpressedOrangeAnnecorinne = "Why did the tomato blush? Because it saw the salad dressing."
+    HotTurquoiseDarb = "What did one nut say as he chased another nut?  I'm a cashew!"
+    YabberingGoldStevana = "Did you know that protons have mass? I didn't even know they were catholic."
+    ThinBrownTory = "Did you know that protons have mass? I didn't even know they were catholic."
+    MolecularBeigeKettie = true
+    JudicialOrangeCally = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  json MolecularRoseLorita {
+    _hidden_value = true
+  }
+  serviceid_number ClumsyBrownPeggy {
+    _hidden_value = true
+  }
+  serviceid_number ConsciousSapphireSallyanne {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SunnyPinkChristian {
+    _hidden_value = true
+  }
+  serviceid_number ProbableOrangeFrancoise {
+    _hidden_value = true
+  }
+  serviceid LoyalWhiteSofia {
+    _hidden_value = true
+  }
+  string FrightenedSapphireClarissa {
+    _hidden_value = true
+  }
+  boolean ExcitedCrimsonCorene {
+    _hidden_value = true
+  }
+  number IdenticalCrimsonKarissa {
+    _hidden_value = true
+  }
+  boolean AdorableRoseNatalee {
+    _hidden_value = true
+  }
+  string SelfishBlushElyssa {
+    _hidden_value = true
+  }
+  serviceid_number ActiveFuchsiaTabitha {
+    _hidden_value = true
+  }
+  boolean DisastrousSilverYetty {
+    _hidden_value = true
+  }
+  hidden_boolean RightHarlequinMartha {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean MarineScarletEvvie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number UnacceptableTurquoiseNanice {
+    _hidden_value = true
+  }
+  boolean EnviousMagentaBritta {
+    _hidden_value = true
+  }
+  serviceid ObnoxiousAmethystGerhardine {
+    _hidden_value = true
+  }
+  dummy.StillMagentaWendi AcuteBlackDenna {
+    DevelopedFuchsiaLilllie = 505
+    DirectMagentaSharyl = "Slept like a log last night  woke up in the fireplace."
+    FascinatingOrangeTheressa = "Dad Im hungry  Hi hungry Im dad"
+    RulingBrownSamantha = "A steak pun is a rare medium well done."
+    QuietCoffeeBlinni = 900
+    TotalAmethystRisa = false
+    InstitutionalYellowMariska = "Im only familiar with 25 letters in the English language. I dont know why."
+    SafeGoldGabriell = "Why was it called the dark ages? Because of all the knights. "
+    SoreScarletTed = "My first time using an elevator was an uplifting experience. The second time let me down."
+    EntitledPinkLeta = "Did you know that protons have mass? I didn't even know they were catholic."
+    YappiestGreenFawne = 19
+    YammeringSapphireLiv = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    NoisyMaroonMirabel = true
+    _hidden_value = true
+  }
+  dummy.AccessibleTurquoiseEssie LiberalJadeZahara {
+    BrilliantMaroonBonni = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    SupposedIndigoDusty = false
+    _hidden_value = true
+  }
+  HealthyAmaranthHelli = 735
+  ArmedAmaranthBabbette = "Why was it called the dark ages? Because of all the knights. "
+  NastyRoseDoris = "Dad Im hungry  Hi hungry Im dad"
+  FierceAquaMoll = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SaltyTealGray = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ConsciousSapphireSallyanne"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LoyalWhiteSofia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ClumsyBrownPeggy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DistinctiveTanCourtnay"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DefensiveTealArlina"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SaltyTealGray"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MissingGreenPattie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

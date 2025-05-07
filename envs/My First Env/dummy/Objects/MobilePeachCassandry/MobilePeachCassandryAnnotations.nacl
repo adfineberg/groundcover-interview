@@ -1,0 +1,76 @@
+type dummy.MobilePeachCassandry {
+  annotations {
+    boolean ConcreteSapphireLynelle {
+    }
+    serviceid StaleHarlequinMelony {
+    }
+    hidden_boolean InteriorJadeMathilda {
+    }
+    serviceid_number OpenTurquoiseOrsola {
+    }
+    json EmotionalYellowKaycee {
+    }
+    dummy.GlobalLimeMatti EstablishedApricotAndee {
+    }
+    hidden_boolean WesternAquaNoellyn {
+    }
+    serviceid_number RelaxedChocolateVerena {
+    }
+    dummy.GrimCrimsonNancy ConstitutionalBlackCaryn {
+    }
+    serviceid_number RuralPlumGlad {
+    }
+    dummy.SplendidAmberFlorance KnownCrimsonMaryellen {
+    }
+    serviceid_number ContinentalOliveJosepha {
+    }
+    string EntitledMagentaRiannon {
+    }
+    boolean SportingEmeraldArlette {
+    }
+    serviceid AggressiveBlueDarice {
+    }
+    string IntactChocolateCheri {
+    }
+    hidden_boolean SlipperyAmethystFrankie {
+    }
+    serviceid_number LoyalMaroonCari {
+    }
+    serviceid_number SocialistTomatoOlivia {
+    }
+    serviceid_number ModestAquamarineKizzee {
+    }
+    serviceid_number ManagingBeigeLacey {
+    }
+  }
+  ConcreteSapphireLynelle = true
+  StaleHarlequinMelony = "What do you call two barracuda fish?  A Pairacuda!"
+  OpenTurquoiseOrsola = 495
+  EmotionalYellowKaycee = "Dad Im hungry  Hi hungry Im dad"
+  EstablishedApricotAndee = file("UnevenSapphireWilma.txt")
+  RelaxedChocolateVerena = 991
+  RuralPlumGlad = 101
+  KnownCrimsonMaryellen = file("FrailPurpleMerry.txt")
+  ContinentalOliveJosepha = 730
+  EntitledMagentaRiannon = "Why did the tomato blush? Because it saw the salad dressing."
+  SportingEmeraldArlette = true
+  AggressiveBlueDarice = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  IntactChocolateCheri = "Why didnt the skeleton cross the road? Because he had no guts."
+  LoyalMaroonCari = 687
+  SocialistTomatoOlivia = 626
+  ModestAquamarineKizzee = 314
+  ManagingBeigeLacey = 607
+  _important_values = [
+    {
+      value = "SoreBeigeMoyra"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MaximumRoseCorie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "MobilePeachCassandry_alias"
+}

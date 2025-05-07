@@ -1,0 +1,15 @@
+type dummy.FormidableTealBelinda {
+  "Map<number>" TotalApricotDyann {
+  }
+  json RacialJadeCornelia {
+  }
+  string MonetaryBeigeBernardine {
+  }
+  hidden_boolean TemporaryPeachTiffie {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  boolean PartialAzureAlfreda {
+  }
+}

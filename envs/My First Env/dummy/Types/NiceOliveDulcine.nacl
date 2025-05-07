@@ -1,0 +1,31 @@
+type dummy.NiceOliveDulcine {
+  annotations {
+    json RidiculousAquaZabrina {
+    }
+    json SpontaneousTealDasie {
+    }
+    json RationalBeigeEthel {
+    }
+    number HumanScarletFey {
+    }
+    boolean FewOliveSonny {
+    }
+    dummy.DEFAULT TheoreticalYellowCynthea {
+    }
+    number YawningBlueChrysler {
+    }
+  }
+  boolean AbundantApricotAtlante {
+    _hidden_value = true
+  }
+  RidiculousAquaZabrina = "What do you call two barracuda fish?  A Pairacuda!"
+  SpontaneousTealDasie = "Why did the kid cross the playground? To get to the other slide."
+  RationalBeigeEthel = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  HumanScarletFey = 252
+  FewOliveSonny = true
+  TheoreticalYellowCynthea = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  YawningBlueChrysler = 772
+  _hidden_value = true
+}

@@ -1,0 +1,93 @@
+type dummy.SpecialVioletJesselyn {
+  annotations {
+    json SubtleBlueBecca {
+    }
+    serviceid VariousPinkMatty {
+    }
+    string ConventionalCoffeeSuzette {
+    }
+  }
+  serviceid PreliminaryPeachNerte {
+    _hidden_value = true
+  }
+  serviceid ConsistentBrownMinnie {
+    _hidden_value = true
+  }
+  hidden_boolean GoldenPurpleTarrah {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number FunBlueBrandie {
+    _hidden_value = true
+  }
+  serviceid_number StrategicBlackBrier {
+    _hidden_value = true
+  }
+  number PotentialCyanMyrta {
+    _hidden_value = true
+  }
+  hidden_boolean PreferredVioletLouisette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ActualSilverErminia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string ConvincedCrimsonArlie {
+    _hidden_value = true
+  }
+  hidden_boolean IdenticalCyanPetrina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string LengthyAzureElisa {
+    _hidden_value = true
+  }
+  serviceid_number SaltyGoldLorine {
+    _hidden_value = true
+  }
+  number FrontApricotJaney {
+    _hidden_value = true
+  }
+  hidden_boolean SparklingChocolateMarcie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json RattyVioletBelvia {
+    _hidden_value = true
+  }
+  SubtleBlueBecca = "Im only familiar with 25 letters in the English language. I dont know why."
+  VariousPinkMatty = "What creature is smarter than a talking parrot? A spelling bee."
+  ConventionalCoffeeSuzette = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PreliminaryPeachNerte"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PotentialCyanMyrta"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "StrategicBlackBrier"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "VariousPinkMatty"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

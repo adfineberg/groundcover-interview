@@ -1,0 +1,89 @@
+type dummy.IntactGrayMaryjo {
+  dummy.EstimatedCopperLee SupposedPinkBriny {
+    WrittenVioletRona = "To be Frank, I'd have to change my name."
+    RuralBrownSandye = 321
+    IllTomatoYasmeen = "What did one nut say as he chased another nut?  I'm a cashew!"
+    LivingPurpleGratiana = true
+    IdealLimeLexie = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    LateIndigoBren = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+  }
+  dummy.MentalChocolateDulsea ExuberantLavenderBonita {
+    HomelessSalmonDell = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ObnoxiousPlumClarissa = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    FragilePurpleWynne = false
+    IncreasingAzureSelena = false
+    GiantAmaranthGabriell = false
+  }
+  serviceid_number YabberingOrangeGennie {
+  }
+  boolean MushyVioletSibbie {
+  }
+  serviceid_number WarmRoseKonstanze {
+  }
+  boolean OutstandingSalmonNancy {
+  }
+  dummy.YoungestBlackMurielle DelicateChocolateFanchette {
+    BusyIndigoEsta = 212
+    StrikingOrangeBinnie = "What creature is smarter than a talking parrot? A spelling bee."
+    CuteWhiteCarri = true
+  }
+  boolean RoughCoffeeCarrissa {
+  }
+  json BottomMaroonAngele {
+  }
+  dummy.ImaginativeCyanEmmalynn YeastyRedMadelina {
+    ScatteredIndigoHildegarde = 944
+    DistinguishedIndigoSile = 786
+    RepresentativeBronzeAlika = 962
+    ImpressedOrangeAnnecorinne = "Why didnt the skeleton cross the road? Because he had no guts."
+    HotTurquoiseDarb = "My first time using an elevator was an uplifting experience. The second time let me down."
+    YabberingGoldStevana = "What do you call two barracuda fish?  A Pairacuda!"
+    ThinBrownTory = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    MolecularBeigeKettie = true
+    JudicialOrangeCally = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  number StraightTanJemmy {
+  }
+  hidden_boolean DeliciousAmethystBethanne {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string StatutoryVioletCathyleen {
+  }
+  hidden_boolean ParentalLimeLeesa {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean LesserTanAmeline {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number DearAquamarineHyacinthe {
+  }
+  string MinorVioletSuzie {
+  }
+  serviceid_number YoungestWhiteClarey {
+  }
+  hidden_boolean BasicCoralSarine {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean NormalRedConcettina {
+  }
+  number BlankScarletLida {
+  }
+  number DirectAmethystCari {
+  }
+  boolean UnwillingFuchsiaTobe {
+  }
+}

@@ -1,0 +1,52 @@
+type dummy.ZoophagousLimeMaxie {
+  annotations {
+    number InappropriateBrownPenelope {
+    }
+    boolean SlimyTanEirena {
+    }
+    serviceid CrucialLimeCristal {
+    }
+    boolean UniversalGreenPetronia {
+    }
+    hidden_boolean AwkwardAzureIolanthe {
+    }
+  }
+  serviceid PrimeTomatoJodi {
+    _hidden_value = true
+  }
+  number PrincipalRedCarmine {
+    _hidden_value = true
+  }
+  hidden_boolean ChosenPurpleFanechka {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number ImaginativeChocolateRina {
+    _hidden_value = true
+  }
+  hidden_boolean HonestOrangeCarolee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  InappropriateBrownPenelope = 724
+  SlimyTanEirena = false
+  CrucialLimeCristal = "What did one nut say as he chased another nut?  I'm a cashew!"
+  UniversalGreenPetronia = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ImaginativeChocolateRina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "UniversalGreenPetronia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

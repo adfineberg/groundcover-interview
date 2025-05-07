@@ -1,0 +1,52 @@
+type dummy.TragicVioletDorisa {
+  annotations {
+    hidden_boolean RelativePinkFilide {
+    }
+    boolean CorrespondingApricotUta {
+    }
+    serviceid_number SatisfactoryMoccasinSarena {
+    }
+    dummy.LatinHarlequinDarbie WanderingSilverDemetria {
+    }
+    hidden_boolean TheoreticalCoralSharona {
+    }
+    serviceid_number InnovativeSalmonAmelia {
+    }
+  }
+  boolean DetailedYellowGratiana {
+    _hidden_value = true
+  }
+  json DiplomaticJadeRosemary {
+    _hidden_value = true
+  }
+  "List<json>" ProtectiveBlackPearla {
+    _hidden_value = true
+  }
+  string FairCrimsonZoe {
+    _hidden_value = true
+  }
+  number ApparentPlumCarine {
+    _hidden_value = true
+  }
+  boolean WitteringChocolateDacey {
+    _hidden_value = true
+  }
+  json HomelessAmaranthBel {
+    _hidden_value = true
+  }
+  serviceid_number LabourSilverSamaria {
+    _hidden_value = true
+  }
+  CorrespondingApricotUta = false
+  SatisfactoryMoccasinSarena = 513
+  WanderingSilverDemetria = 832
+  InnovativeSalmonAmelia = 530
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ProtectiveBlackPearla"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

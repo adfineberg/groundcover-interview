@@ -1,0 +1,31 @@
+type dummy.SoftAquamarineMaurene {
+  annotations {
+    serviceid SuddenVioletAdelaide {
+    }
+    json CharacteristicCoffeeLinnell {
+    }
+    number BindingAzureThalia {
+    }
+    hidden_boolean GrandAquaGigi {
+    }
+    number SelectEmeraldAshlen {
+    }
+  }
+  hidden_boolean ImplicitScarletLeonora {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  SuddenVioletAdelaide = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CharacteristicCoffeeLinnell = "I'll tell you what often gets over looked... garden fences."
+  BindingAzureThalia = 359
+  SelectEmeraldAshlen = 939
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "CharacteristicCoffeeLinnell"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

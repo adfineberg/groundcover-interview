@@ -1,0 +1,99 @@
+type dummy.DecentAmaranthHarli {
+  annotations {
+    string UsualBronzeJackquelin {
+    }
+    hidden_boolean AcademicOrangePaule {
+    }
+    hidden_boolean YearlingBeigeMae {
+    }
+    number StandardCoralRozina {
+    }
+    json ModernBeigeShawnee {
+    }
+  }
+  hidden_boolean RegisteredTanLetisha {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number HolyMoccasinOdelia {
+    _hidden_value = true
+  }
+  hidden_boolean SquareCoffeeNickie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean RegulatoryBlushLiane {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FastFuchsiaKimberlyn {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number ExplicitBlueMirabelle {
+    _hidden_value = true
+  }
+  boolean IsolatedGreenCarola {
+    _hidden_value = true
+  }
+  boolean HungryScarletGwennie {
+    _hidden_value = true
+  }
+  serviceid_number DisciplinaryMagentaWenona {
+    _hidden_value = true
+  }
+  hidden_boolean YieldingJadeYolanthe {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean RottenPinkDusty {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.UpperTanDebby GratefulGreenLynnett {
+    SocialCyanBlondelle = "What did one nut say as he chased another nut?  I'm a cashew!"
+    CompatibleLimeKarleen = false
+    _hidden_value = true
+  }
+  json RegionalAmaranthEugenie {
+    _hidden_value = true
+  }
+  serviceid QuickGoldMarybeth {
+    _hidden_value = true
+  }
+  string CulturalGoldStafani {
+    _hidden_value = true
+  }
+  number FortunateGrayAleece {
+    _hidden_value = true
+  }
+  serviceid EvolutionaryGoldFreida {
+    _hidden_value = true
+  }
+  number MiniatureCopperAndra {
+    _hidden_value = true
+  }
+  json ProposedHarlequinRaychel {
+    _hidden_value = true
+  }
+  string ToughIndigoRoze {
+    _hidden_value = true
+  }
+  UsualBronzeJackquelin = "Why did the tomato blush? Because it saw the salad dressing."
+  StandardCoralRozina = 723
+  ModernBeigeShawnee = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "YearlingBeigeMae"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

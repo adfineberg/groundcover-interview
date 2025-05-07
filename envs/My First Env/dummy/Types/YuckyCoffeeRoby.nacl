@@ -1,0 +1,27 @@
+type dummy.YuckyCoffeeRoby {
+  annotations {
+    string SeniorCoralTorie {
+    }
+    string UncertainCrimsonLelia {
+    }
+    number ElderlyLimeDelcina {
+    }
+    hidden_boolean DryPurpleKellina {
+    }
+    hidden_boolean ChubbyLimeKristy {
+    }
+    serviceid HorizontalAquaEran {
+    }
+    serviceid_number MilitaryAquaCarmine {
+    }
+  }
+  serviceid_number NeighbouringAzureDonella {
+    _hidden_value = true
+  }
+  SeniorCoralTorie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  UncertainCrimsonLelia = "I'll tell you what often gets over looked... garden fences."
+  ElderlyLimeDelcina = 486
+  HorizontalAquaEran = "What creature is smarter than a talking parrot? A spelling bee."
+  MilitaryAquaCarmine = 989
+  _hidden_value = true
+}

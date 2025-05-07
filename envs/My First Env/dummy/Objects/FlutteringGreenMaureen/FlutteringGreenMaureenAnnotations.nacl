@@ -1,0 +1,85 @@
+type dummy.FlutteringGreenMaureen {
+  annotations {
+    hidden_boolean TenderRedMahala {
+    }
+    string VoluntaryGrayAnnora {
+    }
+    serviceid_number UnemployedMagentaArliene {
+    }
+    hidden_boolean ConcreteCopperAnastassia {
+    }
+    string DyingBeigeNataline {
+    }
+    hidden_boolean CircularRoseLarine {
+    }
+    json ReliableGoldGilly {
+    }
+    json EmpiricalWhiteLoretta {
+    }
+    dummy.MuteGrayAlexi AnnoyedAquaAjay {
+    }
+    dummy.EventualSilverMerrilee PreferredGreenFulvia {
+    }
+    string RegularChocolateSydel {
+    }
+    boolean OrthodoxRoseLayney {
+    }
+    serviceid_number TeenageCoralMaddalena {
+    }
+    boolean WonderfulVioletMalina {
+    }
+    boolean SpontaneousCoralMeade {
+    }
+    dummy.NeighbouringGrayGusty ApparentJadeEstele {
+    }
+    dummy.DisastrousSalmonAshly RemoteBrownJennifer {
+    }
+    dummy.MotionlessCopperMable TeenageBrownGwenny {
+    }
+    boolean FixedLavenderLeena {
+    }
+    number StingyOrangeKaterine {
+    }
+    number LtdTealAnabella {
+    }
+  }
+  VoluntaryGrayAnnora = "Whoever invented the knock-knock joke should get a no bell prize."
+  UnemployedMagentaArliene = 181
+  DyingBeigeNataline = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ReliableGoldGilly = "Why didnt the skeleton cross the road? Because he had no guts."
+  EmpiricalWhiteLoretta = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  AnnoyedAquaAjay = 41
+  PreferredGreenFulvia = false
+  RegularChocolateSydel = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  OrthodoxRoseLayney = false
+  TeenageCoralMaddalena = 580
+  WonderfulVioletMalina = false
+  SpontaneousCoralMeade = false
+  ApparentJadeEstele = 665
+  FixedLavenderLeena = true
+  StingyOrangeKaterine = 72
+  LtdTealAnabella = 692
+  _self_important_values = [
+    {
+      value = "OrthodoxRoseLayney"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "VoluntaryGrayAnnora"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "StingyOrangeKaterine"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RemoteBrownJennifer"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "FlutteringGreenMaureen_alias"
+}

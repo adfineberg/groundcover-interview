@@ -1,0 +1,27 @@
+type dummy.SickSalmonAllis {
+  annotations {
+    serviceid_number ClearWhiteCristin {
+    }
+    string WrittenPlumMaritsa {
+    }
+    json OtherOrangeJuli {
+    }
+    number GoldenLavenderBonnibelle {
+    }
+  }
+  serviceid ArtisticApricotFaye {
+    _hidden_value = true
+  }
+  ClearWhiteCristin = 227
+  WrittenPlumMaritsa = "My first time using an elevator was an uplifting experience. The second time let me down."
+  OtherOrangeJuli = "Dad Im hungry  Hi hungry Im dad"
+  GoldenLavenderBonnibelle = 518
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "OtherOrangeJuli"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

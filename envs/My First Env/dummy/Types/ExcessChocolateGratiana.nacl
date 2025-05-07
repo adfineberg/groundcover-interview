@@ -1,0 +1,100 @@
+type dummy.ExcessChocolateGratiana {
+  annotations {
+    serviceid_number StaticBronzeCammy {
+    }
+    number InternalCopperCara {
+    }
+    string RetiredIndigoDaphna {
+    }
+    serviceid ElectronicJadeKarlie {
+    }
+    serviceid ContentAmberRoch {
+    }
+    string PartialGreenKaleena {
+    }
+  }
+  hidden_boolean BarePurpleElicia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number SacredAquaBea {
+    _hidden_value = true
+  }
+  json StableCopperPeggy {
+    _hidden_value = true
+  }
+  string AlliedCoralConsuelo {
+    _hidden_value = true
+  }
+  number ExuberantIvoryOra {
+    _hidden_value = true
+  }
+  "List<number>" FirmBeigeWallis {
+    _hidden_value = true
+  }
+  boolean CoastalSalmonLola {
+    _hidden_value = true
+  }
+  json AbstractBrownShandra {
+    _hidden_value = true
+  }
+  dummy.DEFAULT NearSilverNerissa {
+    _hidden_value = true
+  }
+  "List<boolean>" IntensiveCyanNeilla {
+    _hidden_value = true
+  }
+  boolean CharmingAquaGeorgeanne {
+    _hidden_value = true
+  }
+  serviceid_number ElderlyTomatoReina {
+    _hidden_value = true
+  }
+  number UsedBronzeArleyne {
+    _hidden_value = true
+  }
+  serviceid_number ProfitableAquaJoanie {
+    _hidden_value = true
+  }
+  serviceid MammothBlueLorne {
+    _hidden_value = true
+  }
+  hidden_boolean FlakyMoccasinKarry {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number InlandChocolateVerene {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StrongHarlequinNada {
+    _hidden_value = true
+  }
+  StaticBronzeCammy = 536
+  InternalCopperCara = 371
+  RetiredIndigoDaphna = "Why did the kid cross the playground? To get to the other slide."
+  ElectronicJadeKarlie = "Dad Im hungry  Hi hungry Im dad"
+  ContentAmberRoch = "How come the stadium got hot after the game? Because all of the fans left."
+  PartialGreenKaleena = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ProfitableAquaJoanie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "StaticBronzeCammy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ContentAmberRoch"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

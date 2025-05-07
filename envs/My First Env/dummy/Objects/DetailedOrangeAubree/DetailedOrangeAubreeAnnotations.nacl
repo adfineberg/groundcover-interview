@@ -1,0 +1,63 @@
+type dummy.DetailedOrangeAubree {
+  annotations {
+    dummy.GentleScarletAlbina AccurateRoseKimmy {
+    }
+    string QuixoticAmaranthCourtenay {
+    }
+    dummy.CuteCyanLizabeth ExperimentalGreenHendrika {
+    }
+    json ShyAmaranthKimmi {
+    }
+    serviceid_number DullEmeraldNerty {
+    }
+    json ExtremeTanMarlyn {
+    }
+    json UnawareTanGarnet {
+    }
+    dummy.StillMagentaWendi ExtendedAmethystHyacinthie {
+    }
+    hidden_boolean DelicateSilverCora {
+    }
+    dummy.AccessibleTurquoiseEssie MechanicalMagentaTamma {
+    }
+    dummy.MassYellowCorina TraditionalCoffeeSelina {
+    }
+    number ConcernedMaroonLexie {
+    }
+    json TechnologicalIvoryCharyl {
+    }
+    boolean UncertainTanDenys {
+    }
+    dummy.AcademicLavenderKiley PaleRedManon {
+    }
+    dummy.LivelyIvoryBonnie VariousAzureJeniffer {
+    }
+    hidden_boolean ForeignBlueMaureen {
+    }
+    dummy.AccessibleTurquoiseEssie FuriousOliveChristen {
+    }
+    hidden_boolean StrongRedBarbee {
+    }
+  }
+  AccurateRoseKimmy = file("TotalSapphireValenka.txt")
+  QuixoticAmaranthCourtenay = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ShyAmaranthKimmi = "Dad Im hungry  Hi hungry Im dad"
+  DullEmeraldNerty = 342
+  ExtremeTanMarlyn = "What creature is smarter than a talking parrot? A spelling bee."
+  UnawareTanGarnet = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ExtendedAmethystHyacinthie = true
+  MechanicalMagentaTamma = file("DeliberateScarletTabina.txt")
+  TraditionalCoffeeSelina = file("MixedTomatoTedi.txt")
+  ConcernedMaroonLexie = 621
+  TechnologicalIvoryCharyl = "Slept like a log last night  woke up in the fireplace."
+  UncertainTanDenys = true
+  FuriousOliveChristen = file("WelcomeAquamarineAurie.txt")
+  _self_important_values = [
+    {
+      value = "ShyAmaranthKimmi"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "DetailedOrangeAubree_alias"
+}

@@ -1,0 +1,25 @@
+type dummy.CivilianAmethystEloise {
+  boolean FullSalmonDesiree {
+  }
+  json PreferredLavenderJanela {
+  }
+  serviceid_number OldVioletIvonne {
+  }
+  serviceid ExpectedRoseStacey {
+  }
+  serviceid ProposedIndigoCheslie {
+  }
+  serviceid_number BloodyFuchsiaLetitia {
+  }
+  hidden_boolean WonderfulCoralAleece {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  boolean OrdinaryLimeWendye {
+  }
+  "List<string>" SecondaryTanNatty {
+  }
+  serviceid BloodySapphireAudre {
+  }
+}

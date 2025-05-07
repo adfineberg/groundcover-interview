@@ -1,0 +1,89 @@
+type dummy.StormyGoldGussy {
+  annotations {
+    dummy.SuddenRoseBonnee SlimyMoccasinDeloris {
+    }
+    number SympatheticBeigeKassie {
+    }
+    boolean ComprehensiveMagentaKetty {
+    }
+    serviceid_number DamagedGrayLeshia {
+    }
+    boolean EnormousAmberAlexa {
+    }
+    boolean MixedOrangeElenore {
+    }
+    json GiantWhiteSibylla {
+    }
+    hidden_boolean PureMaroonPatrica {
+    }
+    boolean JustSilverShalna {
+    }
+    serviceid SolarAzureBunnie {
+    }
+    serviceid HeadPlumRanice {
+    }
+    serviceid_number GrandAquaEleanora {
+    }
+    string WoodenBlueAubrette {
+    }
+    serviceid DearSalmonTedi {
+    }
+    hidden_boolean HomelessJadeAdey {
+    }
+    number SquareYellowNoemi {
+    }
+    serviceid_number WhisperingOliveEmelyne {
+    }
+    boolean EvidentAzureOphelie {
+    }
+    serviceid_number PartialCrimsonArlette {
+    }
+    serviceid_number YawningScarletCarolin {
+    }
+  }
+  SympatheticBeigeKassie = 10
+  ComprehensiveMagentaKetty = true
+  DamagedGrayLeshia = 686
+  EnormousAmberAlexa = true
+  MixedOrangeElenore = true
+  GiantWhiteSibylla = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  JustSilverShalna = false
+  SolarAzureBunnie = "What do you call two barracuda fish?  A Pairacuda!"
+  HeadPlumRanice = "What creature is smarter than a talking parrot? A spelling bee."
+  GrandAquaEleanora = 9
+  WoodenBlueAubrette = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DearSalmonTedi = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SquareYellowNoemi = 63
+  WhisperingOliveEmelyne = 596
+  EvidentAzureOphelie = true
+  PartialCrimsonArlette = 187
+  YawningScarletCarolin = 3
+  _important_values = [
+    {
+      value = "SuccessiveAmberVita"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "WorkingCyanAshlie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CharmingRoseShelly"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LatinMaroonNixie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LateChocolateBertina"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "StormyGoldGussy_alias"
+}

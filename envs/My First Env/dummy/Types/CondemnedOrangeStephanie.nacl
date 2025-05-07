@@ -1,0 +1,31 @@
+type dummy.CondemnedOrangeStephanie {
+  annotations {
+    number FinalOliveNetta {
+    }
+    string ElectricalTealMelesa {
+    }
+    string ConvincingPlumAnderea {
+    }
+    hidden_boolean AlertPinkCthrine {
+    }
+  }
+  json SensitiveWhiteCarol {
+    _hidden_value = true
+  }
+  FinalOliveNetta = 176
+  ElectricalTealMelesa = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ConvincingPlumAnderea = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ConvincingPlumAnderea"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FinalOliveNetta"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

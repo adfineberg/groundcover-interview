@@ -1,0 +1,95 @@
+type dummy.EmotionalOrangeGena {
+  annotations {
+    boolean ChangingHarlequinCassandre {
+    }
+    number FixedSapphireCiel {
+    }
+    number CompatibleBlushMaryanna {
+    }
+    number NastyCoralHoney {
+    }
+    serviceid BoredTurquoiseCharis {
+    }
+    serviceid UnderlyingScarletCarey {
+    }
+  }
+  hidden_boolean MotionlessAmethystAinsley {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ThenCoffeeSybyl {
+    _hidden_value = true
+  }
+  hidden_boolean VitalGreenAugusta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SmoothRedJuliette {
+    _hidden_value = true
+  }
+  string ScrawnyHarlequinJami {
+    _hidden_value = true
+  }
+  string ReluctantAmethystViolante {
+    _hidden_value = true
+  }
+  hidden_boolean FascinatingMaroonTrista {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number MaleTealBettina {
+    _hidden_value = true
+  }
+  serviceid AdvisoryCyanMarylee {
+    _hidden_value = true
+  }
+  boolean ParticularLimeFifi {
+    _hidden_value = true
+  }
+  serviceid FullYellowKynthia {
+    _hidden_value = true
+  }
+  json ColouredMaroonFreida {
+    _hidden_value = true
+  }
+  serviceid_number CreepyMoccasinRobenia {
+    _hidden_value = true
+  }
+  json SubstantialApricotSusann {
+    _hidden_value = true
+  }
+  boolean MainBlackKarolina {
+    _hidden_value = true
+  }
+  hidden_boolean PhysicalAmaranthHilda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SensibleAquaAugustina {
+    _hidden_value = true
+  }
+  boolean CorrespondingSalmonDoralynne {
+    _hidden_value = true
+  }
+  boolean MagnificentBronzeElnore {
+    _hidden_value = true
+  }
+  ChangingHarlequinCassandre = true
+  FixedSapphireCiel = 35
+  CompatibleBlushMaryanna = 207
+  NastyCoralHoney = 205
+  BoredTurquoiseCharis = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  UnderlyingScarletCarey = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "CompatibleBlushMaryanna"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

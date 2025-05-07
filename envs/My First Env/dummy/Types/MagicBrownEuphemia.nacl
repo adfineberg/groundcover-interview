@@ -1,0 +1,47 @@
+type dummy.MagicBrownEuphemia {
+  annotations {
+    number CurrentCrimsonMelamie {
+    }
+    number ElderlyAmberMarrilee {
+    }
+    boolean RulingLavenderRosabella {
+    }
+    dummy.ViciousGoldTessi AverageIndigoSile {
+    }
+    number OralTurquoiseBarb {
+    }
+    serviceid QuietMagentaElie {
+    }
+  }
+  json MiddleIvoryMaible {
+    _hidden_value = true
+  }
+  "List<serviceid>" CheapTanEaster {
+    _hidden_value = true
+  }
+  serviceid GratefulLimeMyriam {
+    _hidden_value = true
+  }
+  string ForthcomingTanElbertina {
+    _hidden_value = true
+  }
+  CurrentCrimsonMelamie = 708
+  ElderlyAmberMarrilee = 15
+  RulingLavenderRosabella = true
+  AverageIndigoSile = 990
+  OralTurquoiseBarb = 281
+  QuietMagentaElie = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "CurrentCrimsonMelamie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RulingLavenderRosabella"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

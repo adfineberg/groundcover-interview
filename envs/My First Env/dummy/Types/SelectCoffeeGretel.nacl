@@ -1,0 +1,38 @@
+type dummy.SelectCoffeeGretel {
+  annotations {
+    dummy.DEFAULT ImpressiveIndigoAthene {
+    }
+    json OverallAquaTrixie {
+    }
+    hidden_boolean ArbitraryOrangeCharita {
+    }
+    hidden_boolean TotalGoldAthena {
+    }
+    number MusicalBronzeDarya {
+    }
+    serviceid ReligiousTurquoiseDorry {
+    }
+  }
+  boolean WorriedPinkElyse {
+    _hidden_value = true
+  }
+  ImpressiveIndigoAthene = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  OverallAquaTrixie = "Why didnt the skeleton cross the road? Because he had no guts."
+  MusicalBronzeDarya = 874
+  ReligiousTurquoiseDorry = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "TotalGoldAthena"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ReligiousTurquoiseDorry"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

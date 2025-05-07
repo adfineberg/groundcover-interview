@@ -1,0 +1,33 @@
+type dummy.GivenMagentaManon {
+  annotations {
+    json RegisteredSilverChelsy {
+    }
+    json StrongBlushSalome {
+    }
+    string SwiftSapphireJoby {
+    }
+    boolean AboveHarlequinKendra {
+    }
+    serviceid_number GreasyAmaranthNani {
+    }
+    string EntitledChocolateJuliann {
+    }
+  }
+  json AbstractTealDorelia {
+    _hidden_value = true
+  }
+  RegisteredSilverChelsy = "Why do birds fly south for the winter? Because it's too far to walk."
+  StrongBlushSalome = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SwiftSapphireJoby = "Whoever invented the knock-knock joke should get a no bell prize."
+  AboveHarlequinKendra = false
+  GreasyAmaranthNani = 70
+  EntitledChocolateJuliann = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "EntitledChocolateJuliann"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

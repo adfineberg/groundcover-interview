@@ -1,0 +1,103 @@
+type dummy.ScreechingMaroonKrystal {
+  annotations {
+    boolean InclinedPlumDevonne {
+    }
+    serviceid_number DecentLimeNatalina {
+    }
+    boolean GenuineRedViv {
+    }
+    json VerbalJadeMiquela {
+    }
+    boolean MonthlyWhitePhaidra {
+    }
+  }
+  serviceid_number LikelyAmberMoyna {
+    _hidden_value = true
+  }
+  hidden_boolean SatisfactorySalmonArdra {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid RobustRedRonni {
+    _hidden_value = true
+  }
+  dummy.DelightedVioletLiv GrievingBeigeRiki {
+    PartialApricotRodie = "Why did the tomato blush? Because it saw the salad dressing."
+    ChiefRoseSadie = "Why didnt the skeleton cross the road? Because he had no guts."
+    UpsetAquaLyndsay = "Why was it called the dark ages? Because of all the knights. "
+    PsychologicalMagentaFidelity = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    AdministrativeAmaranthMaighdiln = 858
+    SoundJadeUlrica = true
+    ExuberantOliveCleopatra = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    DemocraticAmaranthJanaya = false
+    FlyingAquamarineCristionna = "Dad Im hungry  Hi hungry Im dad"
+    GrotesqueTanRonni = 733
+    DutchPinkAnnice = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  number ExtensiveAzureLaurianne {
+    _hidden_value = true
+  }
+  hidden_boolean RichBlueSileas {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean RegionalGoldCharla {
+    _hidden_value = true
+  }
+  serviceid_number ConservativeRedClo {
+    _hidden_value = true
+  }
+  boolean FlyingCoffeeCelle {
+    _hidden_value = true
+  }
+  hidden_boolean WoodenHarlequinEnriqueta {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean CreativePeachJoelynn {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json OralGrayDorise {
+    _hidden_value = true
+  }
+  serviceid_number EqualHarlequinNanon {
+    _hidden_value = true
+  }
+  json DueLavenderKrystalle {
+    _hidden_value = true
+  }
+  InclinedPlumDevonne = true
+  DecentLimeNatalina = 35
+  GenuineRedViv = true
+  VerbalJadeMiquela = "Why did the tomato blush? Because it saw the salad dressing."
+  MonthlyWhitePhaidra = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RobustRedRonni"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "EqualHarlequinNanon"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FlyingCoffeeCelle"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RichBlueSileas"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

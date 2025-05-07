@@ -1,0 +1,104 @@
+type dummy.BalancedLimeGilbertina {
+  annotations {
+    serviceid_number IcyBeigeDody {
+    }
+    hidden_boolean DevelopedCoffeeArdelia {
+    }
+    string ExoticOliveRiannon {
+    }
+  }
+  json GrubbyFuchsiaIlyssa {
+    _hidden_value = true
+  }
+  number OccasionalCoffeeRicki {
+    _hidden_value = true
+  }
+  dummy.EstablishedRoseGussie UnexpectedLavenderAngelica {
+    ActiveScarletMartguerita = "Dad Im hungry  Hi hungry Im dad"
+    LogicalAmethystCristine = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    EligibleChocolateTrudey = false
+    RenewedAquaFlori = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    GiganticLimeShena = "What did one nut say as he chased another nut?  I'm a cashew!"
+    DynamicAzureLaverne = 683
+    RichTurquoiseKiah = "Why did the tomato blush? Because it saw the salad dressing."
+    RightMoccasinPavla = 487
+    ViciousLimeHannis = "To be Frank, I'd have to change my name."
+    GratefulPlumLaetitia = 784
+    FrightenedBronzeCarey = 882
+    _hidden_value = true
+  }
+  serviceid_number ObnoxiousRoseReine {
+    _hidden_value = true
+  }
+  serviceid_number OccupationalEmeraldAmber {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OriginalPinkCarma {
+    _hidden_value = true
+  }
+  serviceid_number MisleadingIvoryKatalin {
+    _hidden_value = true
+  }
+  hidden_boolean ProtectiveBeigeTeri {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json ParallelMoccasinEffie {
+    _hidden_value = true
+  }
+  json RemoteBlueKelli {
+    _hidden_value = true
+  }
+  json ContinentalMagentaCasandra {
+    _hidden_value = true
+  }
+  serviceid WealthyJadeBev {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RemoteIvoryJanifer {
+    _hidden_value = true
+  }
+  IcyBeigeDody = 538
+  ExoticOliveRiannon = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RemoteIvoryJanifer"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RemoteBlueKelli"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UnexpectedLavenderAngelica"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ContinentalMagentaCasandra"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ObnoxiousRoseReine"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GrubbyFuchsiaIlyssa"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ExoticOliveRiannon"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

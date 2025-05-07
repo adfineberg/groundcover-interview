@@ -1,0 +1,11 @@
+type dummy.MelodicHarlequinNesta {
+  string OnlyIndigoNorina {
+  }
+  hidden_boolean VagueAmethystMaryanne {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json DelightedAquaAugustina {
+  }
+}

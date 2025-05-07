@@ -1,0 +1,109 @@
+type dummy.OpenSalmonDevi {
+  annotations {
+    serviceid FollowingBrownEleanor {
+    }
+    boolean GleamingBronzePenelope {
+    }
+    boolean ItchyAquaEdi {
+    }
+    string GoodLavenderNovelia {
+    }
+    string BrightCoffeeDenni {
+    }
+    hidden_boolean SpectacularTurquoiseAmberly {
+    }
+    boolean CrookedGreenEda {
+    }
+    json DrabBlackArdisj {
+    }
+    string BoredOliveShirline {
+    }
+    dummy.YawningTomatoBlaire PositiveCrimsonAlisun {
+    }
+    boolean SkilledCopperJessamine {
+    }
+    serviceid_number ExtraordinaryMagentaElset {
+    }
+    number ImmenseCoffeeOlva {
+    }
+    number EnormousMagentaFlorella {
+    }
+    serviceid OldBronzeFawnia {
+    }
+    dummy.DisastrousMaroonTerrye DetailedAquamarineVirgie {
+    }
+    json ImplicitAmberTatiania {
+    }
+    serviceid_number DirectAzureAmalle {
+    }
+    dummy.ViciousGoldTessi WonderfulPinkChere {
+    }
+    boolean MinimumAquaSibley {
+    }
+    serviceid_number CombinedOrangeTandi {
+    }
+    json ObviousCopperZitella {
+    }
+  }
+  FollowingBrownEleanor = "Whoever invented the knock-knock joke should get a no bell prize."
+  GleamingBronzePenelope = false
+  ItchyAquaEdi = true
+  GoodLavenderNovelia = "Why do birds fly south for the winter? Because it's too far to walk."
+  BrightCoffeeDenni = "Why is Peter Pan always flying? Because he Neverlands."
+  CrookedGreenEda = true
+  DrabBlackArdisj = "Why was it called the dark ages? Because of all the knights. "
+  BoredOliveShirline = "Did you know that protons have mass? I didn't even know they were catholic."
+  PositiveCrimsonAlisun = file("AggressiveAmethystJennie.txt")
+  SkilledCopperJessamine = false
+  ExtraordinaryMagentaElset = 405
+  ImmenseCoffeeOlva = 116
+  EnormousMagentaFlorella = 211
+  OldBronzeFawnia = "What creature is smarter than a talking parrot? A spelling bee."
+  DetailedAquamarineVirgie = 249
+  ImplicitAmberTatiania = "Im only familiar with 25 letters in the English language. I dont know why."
+  DirectAzureAmalle = 387
+  WonderfulPinkChere = 771
+  MinimumAquaSibley = true
+  CombinedOrangeTandi = 494
+  ObviousCopperZitella = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _important_values = [
+    {
+      value = "AssistantMaroonThekla"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "GleamingBronzePenelope"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "EnormousMagentaFlorella"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BrightCoffeeDenni"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ObviousCopperZitella"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ImmenseCoffeeOlva"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DrabBlackArdisj"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "OpenSalmonDevi_alias"
+}

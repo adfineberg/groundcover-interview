@@ -1,0 +1,71 @@
+type dummy.BlindLimeCharita {
+  annotations {
+    string QuietHarlequinAnabal {
+    }
+    string SuccessfulPinkMignonne {
+    }
+    number StrictPinkCherye {
+    }
+    json PossibleBlushCharity {
+    }
+    json OppositeOrangeHephzibah {
+    }
+    boolean YodellingAmethystNinette {
+    }
+    serviceid_number SheerOliveTiffy {
+    }
+    string ExternalTealEliza {
+    }
+  }
+  dummy.DEFAULT FunnyLimeDonella {
+    _hidden_value = true
+  }
+  hidden_boolean GoldenTurquoiseCorina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SunnyAquaEleanor {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean CollectiveBronzeChery {
+    _hidden_value = true
+  }
+  serviceid FamiliarAmethystIleana {
+    _hidden_value = true
+  }
+  string OrdinaryYellowEssie {
+    _hidden_value = true
+  }
+  number GrossBrownSammy {
+    _hidden_value = true
+  }
+  number BoredCopperLorianna {
+    _hidden_value = true
+  }
+  hidden_boolean WhisperingCrimsonJacinda {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT MolecularEmeraldAlexia {
+    _hidden_value = true
+  }
+  serviceid SlipperySilverDi {
+    _hidden_value = true
+  }
+  serviceid BurningCopperIvory {
+    _hidden_value = true
+  }
+  QuietHarlequinAnabal = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SuccessfulPinkMignonne = "What did one nut say as he chased another nut?  I'm a cashew!"
+  StrictPinkCherye = 938
+  PossibleBlushCharity = "Whoever invented the knock-knock joke should get a no bell prize."
+  OppositeOrangeHephzibah = "I'll tell you what often gets over looked... garden fences."
+  YodellingAmethystNinette = true
+  SheerOliveTiffy = 722
+  ExternalTealEliza = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

@@ -1,0 +1,109 @@
+type dummy.InfluentialAmethystMalanie {
+  annotations {
+    boolean AlonePeachTracee {
+    }
+    serviceid PassiveAquaLeela {
+    }
+    dummy.ImaginativeCyanEmmalynn DailyBronzeIdette {
+    }
+    json CulturalSalmonEmily {
+    }
+    dummy.DEFAULT UnnecessaryBeigeCally {
+    }
+    hidden_boolean PsychologicalMaroonMagdalena {
+    }
+    serviceid_number ExcellentTanEva {
+    }
+  }
+  json WetGoldAudra {
+    _hidden_value = true
+  }
+  boolean RubberMoccasinSibel {
+    _hidden_value = true
+  }
+  string CoastalGoldAdrianne {
+    _hidden_value = true
+  }
+  json ThickCyanSandye {
+    _hidden_value = true
+  }
+  json HeavyBlushMollie {
+    _hidden_value = true
+  }
+  serviceid_number RunningTanHildagard {
+    _hidden_value = true
+  }
+  serviceid CharacteristicAquaAnya {
+    _hidden_value = true
+  }
+  string MixedMaroonFilippa {
+    _hidden_value = true
+  }
+  serviceid DepressedBlushMarla {
+    _hidden_value = true
+  }
+  dummy.IndependentOliveClaudetta MassiveEmeraldJilly {
+    WelcomeCoffeeRanique = 21
+    ActualVioletRozelle = 889
+    DearOrangeBobbe = "Why do birds fly south for the winter? Because it's too far to walk."
+    UninterestedTanMaddi = "Why didnt the skeleton cross the road? Because he had no guts."
+    EventualLavenderFern = true
+    ManagerialAquaMeagan = true
+    UnconsciousAmaranthSuzie = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    TastyMagentaAnnice = false
+    InadequateChocolateAnnmarie = 441
+    UnconsciousLavenderArdelle = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    _hidden_value = true
+  }
+  dummy.LegitimateBlushGoldie MinisterialTealOpal {
+    RealisticCoffeeRoberta = "Did you know that protons have mass? I didn't even know they were catholic."
+    ConvincingJadeNorma = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  number OrganicHarlequinEugine {
+    _hidden_value = true
+  }
+  number LeadingCoralKyrstin {
+    _hidden_value = true
+  }
+  hidden_boolean CommonOliveMarchelle {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  AlonePeachTracee = false
+  PassiveAquaLeela = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  DailyBronzeIdette = false
+  CulturalSalmonEmily = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  UnnecessaryBeigeCally = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  ExcellentTanEva = 266
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CharacteristicAquaAnya"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MassiveEmeraldJilly"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RunningTanHildagard"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PsychologicalMaroonMagdalena"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

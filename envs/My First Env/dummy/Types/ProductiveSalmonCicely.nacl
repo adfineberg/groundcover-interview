@@ -1,0 +1,77 @@
+type dummy.ProductiveSalmonCicely {
+  annotations {
+    serviceid DustyJadeAgace {
+    }
+    serviceid PreciseSalmonPearl {
+    }
+    string LiberalOrangeKesley {
+    }
+    json GrandHarlequinRoxi {
+    }
+    dummy.DEFAULT NearJadeMarcelle {
+    }
+    dummy.AcceptableAmaranthGertrudis SadLimeLia {
+    }
+    json TameOrangeRosella {
+    }
+  }
+  json FuriousBlackGinger {
+    _hidden_value = true
+  }
+  serviceid GastricCyanSarena {
+    _hidden_value = true
+  }
+  json YellingMaroonLorelei {
+    _hidden_value = true
+  }
+  number StiffWhiteBinny {
+    _hidden_value = true
+  }
+  string LevelFuchsiaKellsie {
+    _hidden_value = true
+  }
+  number CombinedBeigeAnnnora {
+    _hidden_value = true
+  }
+  "Map<string>" MusicalBeigeAmberly {
+    _hidden_value = true
+  }
+  string FantasticPurpleTabby {
+    _hidden_value = true
+  }
+  boolean OverwhelmingCyanAuroora {
+    _hidden_value = true
+  }
+  number SatisfactoryMaroonJordan {
+    _hidden_value = true
+  }
+  serviceid ShallowTealEvangeline {
+    _hidden_value = true
+  }
+  boolean MisleadingEmeraldRikki {
+    _hidden_value = true
+  }
+  number RenewedPlumRana {
+    _hidden_value = true
+  }
+  string DoubtfulMaroonLillis {
+    _hidden_value = true
+  }
+  DustyJadeAgace = "Did you know that protons have mass? I didn't even know they were catholic."
+  PreciseSalmonPearl = "Why did the kid cross the playground? To get to the other slide."
+  LiberalOrangeKesley = "Slept like a log last night  woke up in the fireplace."
+  GrandHarlequinRoxi = "Why was it called the dark ages? Because of all the knights. "
+  NearJadeMarcelle = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  SadLimeLia = 200
+  TameOrangeRosella = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "OverwhelmingCyanAuroora"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

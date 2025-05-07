@@ -1,0 +1,74 @@
+type dummy.RepulsiveCoffeeSaba {
+  annotations {
+    serviceid MoralPurpleLucy {
+    }
+    serviceid RawVioletMareah {
+    }
+    serviceid_number MusicalLavenderBunni {
+    }
+    json ValidOliveMarabel {
+    }
+  }
+  boolean RequiredBlushDoti {
+    _hidden_value = true
+  }
+  hidden_boolean InnerHarlequinErmengarde {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json DailyBlackTheresita {
+    _hidden_value = true
+  }
+  serviceid_number YappiestPinkKiri {
+    _hidden_value = true
+  }
+  string RidiculousLimeAgretha {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LeftCoffeeMelessa {
+    _hidden_value = true
+  }
+  json OrganisationalBlackPaloma {
+    _hidden_value = true
+  }
+  string UsualIndigoAubrey {
+    _hidden_value = true
+  }
+  number MadYellowMinna {
+    _hidden_value = true
+  }
+  serviceid UnacceptableAmberNeda {
+    _hidden_value = true
+  }
+  string DearBlushHilliary {
+    _hidden_value = true
+  }
+  MoralPurpleLucy = "Dad Im hungry  Hi hungry Im dad"
+  RawVioletMareah = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MusicalLavenderBunni = 302
+  ValidOliveMarabel = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RequiredBlushDoti"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MadYellowMinna"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UnacceptableAmberNeda"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RidiculousLimeAgretha"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

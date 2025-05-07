@@ -1,0 +1,21 @@
+type dummy.FinalOliveKoressa {
+  annotations {
+    number TemporarySilverDyan {
+    }
+    boolean ElectoralTurquoiseWynn {
+    }
+  }
+  string ImportantChocolateBarbi {
+    _hidden_value = true
+  }
+  TemporarySilverDyan = 60
+  ElectoralTurquoiseWynn = false
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ElectoralTurquoiseWynn"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

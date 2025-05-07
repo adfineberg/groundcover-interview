@@ -1,0 +1,27 @@
+type dummy.TraditionalLimeFarah {
+  annotations {
+    number AfraidBronzeNerita {
+    }
+    boolean CommercialVioletFanchette {
+    }
+    number DesirableFuchsiaRaf {
+    }
+    json FunctionalMoccasinHetty {
+    }
+  }
+  boolean PreparedSalmonRosella {
+    _hidden_value = true
+  }
+  AfraidBronzeNerita = 541
+  CommercialVioletFanchette = true
+  DesirableFuchsiaRaf = 443
+  FunctionalMoccasinHetty = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "FunctionalMoccasinHetty"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

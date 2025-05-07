@@ -1,0 +1,64 @@
+type dummy.CloseCopperAlidia {
+  annotations {
+    serviceid_number PerfectLavenderDaphene {
+    }
+    boolean JudicialAquaDoretta {
+    }
+    string WittyMagentaBell {
+    }
+    serviceid_number OrthodoxMagentaValma {
+    }
+    serviceid BlindCoralHarriette {
+    }
+    string SupposedAquamarineKatee {
+    }
+  }
+  string FatalRoseCaterina {
+    _hidden_value = true
+  }
+  boolean NervousIvoryLois {
+    _hidden_value = true
+  }
+  number PetiteEmeraldFaydra {
+    _hidden_value = true
+  }
+  hidden_boolean DecentTurquoiseMilka {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number MinorJadeMichelina {
+    _hidden_value = true
+  }
+  boolean GuiltyJadeMurielle {
+    _hidden_value = true
+  }
+  json SuitableWhiteGreer {
+    _hidden_value = true
+  }
+  json RetailAmberGrazia {
+    _hidden_value = true
+  }
+  json OutsideCoffeeLiuka {
+    _hidden_value = true
+  }
+  PerfectLavenderDaphene = 123
+  JudicialAquaDoretta = false
+  WittyMagentaBell = "A steak pun is a rare medium well done."
+  OrthodoxMagentaValma = 497
+  BlindCoralHarriette = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SupposedAquamarineKatee = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "PerfectLavenderDaphene"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WittyMagentaBell"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

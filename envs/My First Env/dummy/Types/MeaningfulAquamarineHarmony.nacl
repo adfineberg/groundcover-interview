@@ -1,0 +1,19 @@
+type dummy.MeaningfulAquamarineHarmony {
+  annotations {
+    number PoorBlushAime {
+    }
+    dummy.DisastrousMaroonTerrye OkMoccasinAidan {
+    }
+    json SkilledApricotRenell {
+    }
+    hidden_boolean SpectacularCoralDonica {
+    }
+  }
+  dummy.DEFAULT IndividualCopperCharity {
+    _hidden_value = true
+  }
+  PoorBlushAime = 671
+  OkMoccasinAidan = 151
+  SkilledApricotRenell = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

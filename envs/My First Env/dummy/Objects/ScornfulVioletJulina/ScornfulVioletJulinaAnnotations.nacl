@@ -1,0 +1,91 @@
+type dummy.ScornfulVioletJulina {
+  annotations {
+    number EssentialCopperAlysa {
+    }
+    dummy.SorryCyanVinnie MechanicalMoccasinNikaniki {
+    }
+    number StrongCyanTruda {
+    }
+    number UsedAquamarineKirbee {
+    }
+    dummy.SubjectivePeachSelie ElatedSapphireCorey {
+    }
+    hidden_boolean PastChocolateClaudie {
+    }
+    json ShrillBlueDorothee {
+    }
+    serviceid_number XenogeneicAquamarineEmilie {
+    }
+    serviceid_number DevelopedAquaJohnna {
+    }
+    serviceid_number EthicalApricotAntonina {
+    }
+    serviceid ThunderingEmeraldHermia {
+    }
+    string DisturbedScarletRobinetta {
+    }
+    dummy.LatinHarlequinDarbie EndlessYellowChiarra {
+    }
+    boolean WesternTomatoNydia {
+    }
+    serviceid SymbolicYellowEdi {
+    }
+    serviceid ZonalJadeJuliann {
+    }
+    string SmoggyCrimsonFionna {
+    }
+    boolean RemoteTealRicca {
+    }
+    boolean RealisticGreenAdorne {
+    }
+    string InitialGreenMerrill {
+    }
+    serviceid ViciousBlackDrucie {
+    }
+    boolean YellingBeigeMallorie {
+    }
+  }
+  EssentialCopperAlysa = 965
+  MechanicalMoccasinNikaniki = file("EnergeticSilverLeena.txt")
+  StrongCyanTruda = 211
+  UsedAquamarineKirbee = 121
+  ShrillBlueDorothee = "What creature is smarter than a talking parrot? A spelling bee."
+  XenogeneicAquamarineEmilie = 516
+  DevelopedAquaJohnna = 945
+  EthicalApricotAntonina = 486
+  ThunderingEmeraldHermia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DisturbedScarletRobinetta = "Why do birds fly south for the winter? Because it's too far to walk."
+  EndlessYellowChiarra = 174
+  WesternTomatoNydia = false
+  SymbolicYellowEdi = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ZonalJadeJuliann = "Why didnt the skeleton cross the road? Because he had no guts."
+  SmoggyCrimsonFionna = "I'll tell you what often gets over looked... garden fences."
+  RemoteTealRicca = true
+  RealisticGreenAdorne = true
+  InitialGreenMerrill = "Why didnt the skeleton cross the road? Because he had no guts."
+  ViciousBlackDrucie = "How come the stadium got hot after the game? Because all of the fans left."
+  YellingBeigeMallorie = true
+  _self_important_values = [
+    {
+      value = "ViciousBlackDrucie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MechanicalMoccasinNikaniki"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SmoggyCrimsonFionna"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "StrongCyanTruda"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "ScornfulVioletJulina_alias"
+}

@@ -1,0 +1,86 @@
+type dummy.EligibleRoseTansy {
+  annotations {
+    hidden_boolean ConstitutionalCrimsonLottie {
+    }
+    json MinimalPinkArda {
+    }
+    serviceid CrowdedSalmonJenine {
+    }
+    json AwakeOrangeTabitha {
+    }
+    string CommunistAmethystEvonne {
+    }
+    dummy.EventualSilverMerrilee UnemployedChocolateTomi {
+    }
+    string ResponsibleSalmonCorri {
+    }
+    string SmartSapphireRheta {
+    }
+  }
+  hidden_boolean CentralJadeBecky {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number CoolLavenderTana {
+    _hidden_value = true
+  }
+  number ConservativeRedTova {
+    _hidden_value = true
+  }
+  boolean ClumsyBronzeCamille {
+    _hidden_value = true
+  }
+  boolean EerieBlushSandie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LonelyGreenLucie {
+    _hidden_value = true
+  }
+  number BeautifulAquamarineEmmey {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" LiveEmeraldKassey {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.WitteringTomatoMufinella BetterIndigoDari {
+    SemanticSapphireDeedee = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    ConservativeOrangeStarla = 351
+    VivaciousLavenderSuzie = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    InevitableRoseLucila = 743
+    VariousPinkDenny = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    PunyBeigeDagmar = 710
+    NetBrownLanita = 171
+    UnfairCoffeeTheressa = 2
+    _hidden_value = true
+  }
+  serviceid PreciseIvoryJewelle {
+    _hidden_value = true
+  }
+  hidden_boolean SubjectiveRoseEnrica {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  MinimalPinkArda = "What do you call two barracuda fish?  A Pairacuda!"
+  CrowdedSalmonJenine = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AwakeOrangeTabitha = "I'll tell you what often gets over looked... garden fences."
+  CommunistAmethystEvonne = "Did you know that protons have mass? I didn't even know they were catholic."
+  UnemployedChocolateTomi = false
+  ResponsibleSalmonCorri = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SmartSapphireRheta = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ConservativeRedTova"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

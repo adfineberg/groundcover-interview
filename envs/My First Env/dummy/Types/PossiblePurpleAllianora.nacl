@@ -1,0 +1,83 @@
+type dummy.PossiblePurpleAllianora {
+  annotations {
+    hidden_boolean InquisitiveChocolatePhilippe {
+    }
+    json SelectedCoffeeEvy {
+    }
+    string MistyAmethystDinah {
+    }
+  }
+  number TastyCrimsonBlair {
+    _hidden_value = true
+  }
+  string NecessaryLavenderBarbara {
+    _hidden_value = true
+  }
+  number LiteraryCrimsonArdis {
+    _hidden_value = true
+  }
+  number GracefulGoldSuki {
+    _hidden_value = true
+  }
+  serviceid_number PrimitiveTomatoRuth {
+    _hidden_value = true
+  }
+  json AtomicOrangeJacquelyn {
+    _hidden_value = true
+  }
+  serviceid_number PermanentIvoryReeva {
+    _hidden_value = true
+  }
+  boolean FairSilverLauri {
+    _hidden_value = true
+  }
+  string YearningPurpleRicki {
+    _hidden_value = true
+  }
+  serviceid ComprehensiveMoccasinHoney {
+    _hidden_value = true
+  }
+  string CausalPurpleAlisha {
+    _hidden_value = true
+  }
+  serviceid SlimyAquaDannye {
+    _hidden_value = true
+  }
+  dummy.SorryCyanVinnie FirmWhiteCyndi {
+    HistoricAzureDorry = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    PartialBeigeLanie = false
+    SoundGrayJenelle = true
+    MusicalTomatoMollie = "What did one nut say as he chased another nut?  I'm a cashew!"
+    AshamedCoralNoel = 415
+    FamiliarGrayWinny = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ImportantPlumBerget = {
+      legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    }
+    TerribleGrayJoelie = 686
+    FriendlyCoffeeJackie = 385
+    RoyalBlackCarol = "Slept like a log last night  woke up in the fireplace."
+    RacialBrownDorolisa = "Whoever invented the knock-knock joke should get a no bell prize."
+    ThickAquamarineNatalina = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    CourageousCopperQuinta = "A steak pun is a rare medium well done."
+    MeanAzureFrancesca = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    SuperbVioletMarti = "Why do birds fly south for the winter? Because it's too far to walk."
+    RightSapphireIvory = "What do you call two barracuda fish?  A Pairacuda!"
+    DelicatePinkJulita = false
+    _hidden_value = true
+  }
+  SelectedCoffeeEvy = "Why do birds fly south for the winter? Because it's too far to walk."
+  MistyAmethystDinah = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LiteraryCrimsonArdis"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "TastyCrimsonBlair"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

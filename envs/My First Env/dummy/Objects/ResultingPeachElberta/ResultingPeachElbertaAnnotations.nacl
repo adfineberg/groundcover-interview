@@ -1,0 +1,68 @@
+type dummy.ResultingPeachElberta {
+  annotations {
+    dummy.HelplessChocolateScarlett RevolutionaryPeachDevina {
+    }
+    hidden_boolean CivilianAquamarineSusie {
+    }
+    serviceid DemocraticTealHattie {
+    }
+    boolean PuzzledPinkFara {
+    }
+    dummy.ConsciousAquaMahalia JealousBrownJoye {
+    }
+    string RoundVioletLeslie {
+    }
+    serviceid_number AutomaticCopperKathryn {
+    }
+    hidden_boolean MushyAmaranthIrena {
+    }
+    serviceid_number ToughPeachVanda {
+    }
+    hidden_boolean BurningBlueVeronique {
+    }
+    json DizzyGreenFerdinande {
+    }
+    boolean MagneticJadeJohanna {
+    }
+    hidden_boolean InvisibleIndigoAlessandra {
+    }
+    serviceid DemocraticPurpleReena {
+    }
+    hidden_boolean DomesticRedGwendolyn {
+    }
+  }
+  DemocraticTealHattie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  PuzzledPinkFara = false
+  JealousBrownJoye = file("SatisfiedGreenAmbur.txt")
+  RoundVioletLeslie = "What do you call two barracuda fish?  A Pairacuda!"
+  AutomaticCopperKathryn = 388
+  ToughPeachVanda = 15
+  DizzyGreenFerdinande = "A steak pun is a rare medium well done."
+  MagneticJadeJohanna = false
+  DemocraticPurpleReena = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _important_values = [
+    {
+      value = "YeastyBronzeEvelyn"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DemocraticPurpleReena"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ToughPeachVanda"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "BurningBlueVeronique"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "ResultingPeachElberta_alias"
+}

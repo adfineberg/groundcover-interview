@@ -1,0 +1,118 @@
+type dummy.CompactRedSusanna {
+  annotations {
+    serviceid InadequateTanAlmira {
+    }
+    json FixedPinkCecilia {
+    }
+    boolean VictoriousAmberSamaria {
+    }
+    string LengthyYellowBebe {
+    }
+    dummy.PastScarletAnnabelle ShallowCrimsonShelli {
+    }
+    boolean YawningLimeEmelyne {
+    }
+    string MechanicalMoccasinClarette {
+    }
+    dummy.ImplicitHarlequinAnita QuintessentialPeachEvanne {
+    }
+    serviceid DesirableRedKylie {
+    }
+    serviceid SoundHarlequinMair {
+    }
+    number BusyBlushCarilyn {
+    }
+    boolean YouthfulTealAnatola {
+    }
+    serviceid_number AtomicMagentaCortney {
+    }
+    serviceid_number ArtificialBlackStephine {
+    }
+    json EntitledBronzeGenna {
+    }
+    number NeutralLimeMonica {
+    }
+    hidden_boolean LoyalPeachAlla {
+    }
+    serviceid EnviousOrangePrudi {
+    }
+    serviceid_number ConfidentSalmonJuli {
+    }
+  }
+  InadequateTanAlmira = "Why didnt the skeleton cross the road? Because he had no guts."
+  FixedPinkCecilia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  VictoriousAmberSamaria = true
+  LengthyYellowBebe = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  YawningLimeEmelyne = false
+  MechanicalMoccasinClarette = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  DesirableRedKylie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SoundHarlequinMair = "Why did the kid cross the playground? To get to the other slide."
+  BusyBlushCarilyn = 417
+  YouthfulTealAnatola = true
+  AtomicMagentaCortney = 355
+  ArtificialBlackStephine = 858
+  EntitledBronzeGenna = "What creature is smarter than a talking parrot? A spelling bee."
+  NeutralLimeMonica = 230
+  EnviousOrangePrudi = "I'll tell you what often gets over looked... garden fences."
+  ConfidentSalmonJuli = 595
+  _important_values = [
+    {
+      value = "NotableBlushJacky"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PrimitiveTurquoiseCarmella"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ImmediatePinkCherice"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "YoungPurpleGlennie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BadAmberSean"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WesternBlackDiane"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "InfluentialScarletErnesta"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "NeutralLimeMonica"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DesirableRedKylie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "BusyBlushCarilyn"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ShallowCrimsonShelli"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "CompactRedSusanna_alias"
+}

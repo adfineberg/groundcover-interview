@@ -1,0 +1,55 @@
+type dummy.SelectMoccasinWendeline {
+  annotations {
+    number BrilliantIvoryPerla {
+    }
+    hidden_boolean PartialSilverChloe {
+    }
+    boolean FuzzyCrimsonAimee {
+    }
+    number VicariousFuchsiaIsobel {
+    }
+    string WateryTanCrissy {
+    }
+  }
+  serviceid ProfessionalGreenCorrianne {
+    _hidden_value = true
+  }
+  "List<string>" ChiefIndigoKathy {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AestheticAquaCindra {
+    _hidden_value = true
+  }
+  serviceid MajorCoffeeMelodee {
+    _hidden_value = true
+  }
+  number TragicCoralJannel {
+    _hidden_value = true
+  }
+  "List<json>" ClassicJadeCharmine {
+    _hidden_value = true
+  }
+  dummy.MassYellowCorina UsualVioletDorolisa {
+    _hidden_value = true
+  }
+  hidden_boolean DiplomaticAquaMaisie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SecurePinkStevana {
+    _hidden_value = true
+  }
+  BrilliantIvoryPerla = 561
+  FuzzyCrimsonAimee = false
+  VicariousFuchsiaIsobel = 162
+  WateryTanCrissy = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DiplomaticAquaMaisie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

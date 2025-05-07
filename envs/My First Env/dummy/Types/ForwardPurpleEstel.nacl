@@ -1,0 +1,172 @@
+type dummy.ForwardPurpleEstel {
+  annotations {
+    dummy.ResultingCrimsonArdath PureAmaranthGwennie {
+    }
+    serviceid_number ScreechingAmaranthRebe {
+    }
+    serviceid VoluntaryBlackSuzy {
+    }
+    boolean ExcellentTealIlysa {
+    }
+    serviceid SubsequentPinkCindra {
+    }
+    json WilyRoseAmelie {
+    }
+  }
+  hidden_boolean MolecularIndigoLetitia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ArchitecturalJadeJyoti {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT UrbanAmaranthPepita {
+    _hidden_value = true
+  }
+  json DependentGoldCarlota {
+    _hidden_value = true
+  }
+  boolean SickFuchsiaTybie {
+    _hidden_value = true
+  }
+  json NiceHarlequinKorry {
+    _hidden_value = true
+  }
+  json RemainingLimeAlexi {
+    _hidden_value = true
+  }
+  string HugeCopperHelyn {
+    _hidden_value = true
+  }
+  string ShyTanBerni {
+    _hidden_value = true
+  }
+  number XericBrownAdriena {
+    _hidden_value = true
+  }
+  json WispyTomatoDevora {
+    _hidden_value = true
+  }
+  boolean SpicyJadeVivia {
+    _hidden_value = true
+  }
+  serviceid_number AnnoyedAmethystNannette {
+    _hidden_value = true
+  }
+  boolean ModestOliveMellicent {
+    _hidden_value = true
+  }
+  boolean StatisticalAquaAshlie {
+    _hidden_value = true
+  }
+  boolean ParliamentaryTanJoyce {
+    _hidden_value = true
+  }
+  json GrumpyAquamarineStephana {
+    _hidden_value = true
+  }
+  json ProductiveCyanChristian {
+    _hidden_value = true
+  }
+  serviceid ProfoundHarlequinGerry {
+    _hidden_value = true
+  }
+  serviceid RobustBlackMelinde {
+    _hidden_value = true
+  }
+  number FederalMaroonMirelle {
+    _hidden_value = true
+  }
+  string UptightGreenAggi {
+    _hidden_value = true
+  }
+  json SickAmaranthTarah {
+    _hidden_value = true
+  }
+  number JoyousBronzeEmelina {
+    _hidden_value = true
+  }
+  string InherentCyanNikkie {
+    _hidden_value = true
+  }
+  serviceid WesternTealVinita {
+    _hidden_value = true
+  }
+  boolean RelativeBlackTrixy {
+    _hidden_value = true
+  }
+  boolean TenseAmberJasmin {
+    _hidden_value = true
+  }
+  serviceid_number NaturalCoralHalette {
+    _hidden_value = true
+  }
+  dummy.ThoughtfulRedElka ConvincedApricotAlysa {
+    PrimitiveTealSissie = "A steak pun is a rare medium well done."
+    SystematicOrangeSallee = "Why was it called the dark ages? Because of all the knights. "
+    AutonomousGoldCaye = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    EventualSalmonAveril = "A steak pun is a rare medium well done."
+    XenophobicBronzeGayleen = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  string ShinyAquaValli {
+    _hidden_value = true
+  }
+  PureAmaranthGwennie = "A steak pun is a rare medium well done."
+  ScreechingAmaranthRebe = 541
+  VoluntaryBlackSuzy = "Why didnt the skeleton cross the road? Because he had no guts."
+  ExcellentTealIlysa = true
+  SubsequentPinkCindra = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  WilyRoseAmelie = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ShinyAquaValli"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NaturalCoralHalette"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WesternTealVinita"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ConvincedApricotAlysa"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FederalMaroonMirelle"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ModestOliveMellicent"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SickFuchsiaTybie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ProductiveCyanChristian"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ArchitecturalJadeJyoti"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,67 @@
+type dummy.FantasticBronzeElise {
+  annotations {
+    hidden_boolean ComplicatedBeigeMavra {
+    }
+    serviceid_number DelightfulLavenderShandeigh {
+    }
+    hidden_boolean MistyBrownPhilomena {
+    }
+    boolean PhysicalScarletRenae {
+    }
+  }
+  string NiceChocolateNicolea {
+    _hidden_value = true
+  }
+  number MetropolitanRedErda {
+    _hidden_value = true
+  }
+  hidden_boolean ObjectiveWhiteSuzanne {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number HandsomePeachNorri {
+    _hidden_value = true
+  }
+  serviceid CuddlyAmberKelila {
+    _hidden_value = true
+  }
+  hidden_boolean JuicyIndigoAilee {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ConvincingApricotNyssa {
+    _hidden_value = true
+  }
+  hidden_boolean NoisyIndigoKirstin {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json DivinePinkElicia {
+    _hidden_value = true
+  }
+  DelightfulLavenderShandeigh = 701
+  PhysicalScarletRenae = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "NoisyIndigoKirstin"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ObjectiveWhiteSuzanne"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PhysicalScarletRenae"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

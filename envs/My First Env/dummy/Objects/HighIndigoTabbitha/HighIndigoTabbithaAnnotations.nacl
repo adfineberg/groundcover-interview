@@ -1,0 +1,86 @@
+type dummy.HighIndigoTabbitha {
+  annotations {
+    number PrettyMoccasinArlette {
+    }
+    hidden_boolean ViciousPlumLind {
+    }
+    serviceid OutsideCoffeeStarr {
+    }
+    serviceid DeafMaroonGeorgianna {
+    }
+    string AcceptableBlueAveryl {
+    }
+    json LoyalCoffeeShina {
+    }
+    json FinalBrownCher {
+    }
+    dummy.WarmCopperBlondell OrdinaryOliveStace {
+    }
+    hidden_boolean DesperateIndigoGeralda {
+    }
+    serviceid_number StillHarlequinMindy {
+    }
+    boolean MonthlySalmonJess {
+    }
+    boolean ConsciousPurpleWillie {
+    }
+    string DisappointedBronzeEveline {
+    }
+    json ReligiousAmberValry {
+    }
+    serviceid GenuineCopperLark {
+    }
+    string ReligiousTomatoDemeter {
+    }
+    dummy.FragileBronzeSheela HostileOrangeMadella {
+    }
+  }
+  PrettyMoccasinArlette = 124
+  OutsideCoffeeStarr = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DeafMaroonGeorgianna = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AcceptableBlueAveryl = "Did you know that protons have mass? I didn't even know they were catholic."
+  LoyalCoffeeShina = "A steak pun is a rare medium well done."
+  FinalBrownCher = "What creature is smarter than a talking parrot? A spelling bee."
+  StillHarlequinMindy = 488
+  MonthlySalmonJess = false
+  ConsciousPurpleWillie = true
+  DisappointedBronzeEveline = "A steak pun is a rare medium well done."
+  ReligiousAmberValry = "What do you call two barracuda fish?  A Pairacuda!"
+  GenuineCopperLark = "Im only familiar with 25 letters in the English language. I dont know why."
+  ReligiousTomatoDemeter = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _important_values = [
+    {
+      value = "DelightfulPlumChristiane"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "NakedAmberNorma"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CapableCrimsonKiley"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "HappyAquaJeanne"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AcceptableBlueAveryl"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DesperateIndigoGeralda"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "HighIndigoTabbitha_alias"
+}

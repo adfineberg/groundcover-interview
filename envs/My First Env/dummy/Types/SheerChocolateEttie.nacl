@@ -1,0 +1,101 @@
+type dummy.SheerChocolateEttie {
+  annotations {
+    hidden_boolean RidiculousGrayAubine {
+    }
+    serviceid_number WittyAzureValeda {
+    }
+    json YearningBeigeKati {
+    }
+    boolean AngryTurquoiseLiliane {
+    }
+    hidden_boolean AcademicSilverTedda {
+    }
+    json JuicyMagentaNoel {
+    }
+  }
+  json AdjacentSilverMarylee {
+    _hidden_value = true
+  }
+  hidden_boolean ElectricalBlushJade {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ElegantBlackMozelle {
+    _hidden_value = true
+  }
+  serviceid ScornfulOrangeSimonne {
+    _hidden_value = true
+  }
+  serviceid_number CruelSalmonLibbi {
+    _hidden_value = true
+  }
+  hidden_boolean IncreasingAmaranthWren {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number EverydayRoseJacqueline {
+    _hidden_value = true
+  }
+  string ExuberantRoseEvangelina {
+    _hidden_value = true
+  }
+  json OrdinaryBronzeCelisse {
+    _hidden_value = true
+  }
+  serviceid_number SurvivingTanDulcy {
+    _hidden_value = true
+  }
+  "List<boolean>" ConvincingAmethystConsuela {
+    _hidden_value = true
+  }
+  number DrabLimeDebbi {
+    _hidden_value = true
+  }
+  string OlympicRoseTabby {
+    _hidden_value = true
+  }
+  serviceid ConsiderablePurpleJoan {
+    _hidden_value = true
+  }
+  number DueAmethystCary {
+    _hidden_value = true
+  }
+  boolean SolarIvoryAdel {
+    _hidden_value = true
+  }
+  string LovelyBlushCarie {
+    _hidden_value = true
+  }
+  boolean SensibleBlackHelsa {
+    _hidden_value = true
+  }
+  number PrimeLavenderCorine {
+    _hidden_value = true
+  }
+  WittyAzureValeda = 583
+  YearningBeigeKati = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AngryTurquoiseLiliane = false
+  JuicyMagentaNoel = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "IncreasingAmaranthWren"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CruelSalmonLibbi"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "YearningBeigeKati"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

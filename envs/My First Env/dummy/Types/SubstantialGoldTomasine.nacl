@@ -1,0 +1,109 @@
+type dummy.SubstantialGoldTomasine {
+  annotations {
+    serviceid_number OccasionalBeigeAurelia {
+    }
+    dummy.PreparedChocolateVanny LevelPinkHelyn {
+    }
+    json MusicalSilverChristean {
+    }
+    json ManualBrownJosepha {
+    }
+    serviceid GrotesqueEmeraldJamima {
+    }
+    serviceid ProfoundIvoryElli {
+    }
+  }
+  hidden_boolean ClassicalApricotChlo {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid AttractiveSapphireHilary {
+    _hidden_value = true
+  }
+  number FunnyAzureBarbabra {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CapableVioletDody {
+    _hidden_value = true
+  }
+  boolean OralScarletDevina {
+    _hidden_value = true
+  }
+  string AncientMagentaSal {
+    _hidden_value = true
+  }
+  serviceid_number UrgentMaroonMirelle {
+    _hidden_value = true
+  }
+  serviceid ReadyBlueMarielle {
+    _hidden_value = true
+  }
+  serviceid LegislativeBrownBernelle {
+    _hidden_value = true
+  }
+  json GlobalSilverKimmie {
+    _hidden_value = true
+  }
+  serviceid PresidentialBeigeLorena {
+    _hidden_value = true
+  }
+  dummy.DEFAULT VerbalLavenderIsabelle {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" UnableMaroonBridgette {
+    _hidden_value = true
+  }
+  boolean QuaintAmberRani {
+    _hidden_value = true
+  }
+  number BoldCrimsonJessy {
+    _hidden_value = true
+  }
+  hidden_boolean MarxistVioletTed {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  OccasionalBeigeAurelia = 830
+  LevelPinkHelyn = false
+  MusicalSilverChristean = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ManualBrownJosepha = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  GrotesqueEmeraldJamima = "What do you call two barracuda fish?  A Pairacuda!"
+  ProfoundIvoryElli = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BoldCrimsonJessy"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AncientMagentaSal"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PresidentialBeigeLorena"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UrgentMaroonMirelle"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AttractiveSapphireHilary"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ProfoundIvoryElli"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

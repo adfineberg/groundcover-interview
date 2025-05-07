@@ -1,0 +1,68 @@
+type dummy.LiberalFuchsiaDona {
+  annotations {
+    json EducationalLavenderUrsala {
+    }
+    hidden_boolean IntactIndigoSal {
+    }
+    hidden_boolean EntireAmaranthKali {
+    }
+    string GorgeousBeigeEbony {
+    }
+  }
+  boolean CombinedIndigoNell {
+    _hidden_value = true
+  }
+  "List<json>" AppropriateTurquoiseGilemette {
+    _hidden_value = true
+  }
+  string RelaxedMagentaEmlynn {
+    _hidden_value = true
+  }
+  serviceid SmoothMaroonBessy {
+    _hidden_value = true
+  }
+  number CurlyLavenderSunshine {
+    _hidden_value = true
+  }
+  string ZestyHarlequinMarlyn {
+    _hidden_value = true
+  }
+  string MissingPeachDawna {
+    _hidden_value = true
+  }
+  json EffectiveJadeRow {
+    _hidden_value = true
+  }
+  EducationalLavenderUrsala = "Im only familiar with 25 letters in the English language. I dont know why."
+  GorgeousBeigeEbony = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MissingPeachDawna"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SmoothMaroonBessy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AppropriateTurquoiseGilemette"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "EducationalLavenderUrsala"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GorgeousBeigeEbony"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

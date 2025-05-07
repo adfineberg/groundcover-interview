@@ -1,0 +1,50 @@
+type dummy.AestheticLimeGlory {
+  annotations {
+    serviceid_number FondTurquoiseDorotea {
+    }
+    serviceid ConsciousSapphireMerle {
+    }
+    hidden_boolean FaithfulAquamarineMerridie {
+    }
+    dummy.DEFAULT EnthusiasticCrimsonPhyllida {
+    }
+    json SilkyTomatoMiriam {
+    }
+  }
+  serviceid JoyousEmeraldWilma {
+    _hidden_value = true
+  }
+  number ArtisticTurquoiseKimberlee {
+    _hidden_value = true
+  }
+  json MistyMagentaCrystal {
+    _hidden_value = true
+  }
+  boolean FarTealDominica {
+    _hidden_value = true
+  }
+  string SoleVioletMyrtie {
+    _hidden_value = true
+  }
+  FondTurquoiseDorotea = 48
+  ConsciousSapphireMerle = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  EnthusiasticCrimsonPhyllida = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  SilkyTomatoMiriam = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ArtisticTurquoiseKimberlee"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FaithfulAquamarineMerridie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

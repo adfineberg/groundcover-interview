@@ -1,0 +1,117 @@
+type dummy.EventualSalmonHally {
+  annotations {
+    serviceid RegionalMoccasinPhyllis {
+    }
+    hidden_boolean MutualMoccasinEvania {
+    }
+    boolean WanderingFuchsiaFilippa {
+    }
+    dummy.WitteringTomatoMufinella ColouredCyanJinny {
+    }
+    boolean ManualEmeraldDevi {
+    }
+  }
+  serviceid_number OkAmaranthDoretta {
+    _hidden_value = true
+  }
+  hidden_boolean GrotesqueSapphireBinnie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean CombinedOrangeEleanor {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string AwkwardOrangeSydney {
+    _hidden_value = true
+  }
+  json CorporateTomatoRina {
+    _hidden_value = true
+  }
+  hidden_boolean SpecifiedRoseMariana {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number CuddlyJadeThomasine {
+    _hidden_value = true
+  }
+  serviceid_number DisciplinaryBronzeToma {
+    _hidden_value = true
+  }
+  serviceid_number IntermediatePinkGerrilee {
+    _hidden_value = true
+  }
+  number FunnyAquaAntonina {
+    _hidden_value = true
+  }
+  string OldBlueShannon {
+    _hidden_value = true
+  }
+  serviceid_number AbundantBlackNelli {
+    _hidden_value = true
+  }
+  "Map<dummy.DEFAULT>" UnhappyRoseGayla {
+    _hidden_value = true
+  }
+  number ProtectiveBronzeStace {
+    _hidden_value = true
+  }
+  json FairLimeDonia {
+    _hidden_value = true
+  }
+  dummy.QualifiedHarlequinJolee RobustTomatoLanna {
+    ConvenientSalmonKristin = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    ArmedYellowAmeline = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    ShiveringCoffeePammy = true
+    CasualEmeraldEmilee = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  boolean PainfulMoccasinAgatha {
+    _hidden_value = true
+  }
+  serviceid_number YtterbicOliveMerline {
+    _hidden_value = true
+  }
+  json ShallowPurpleLeontine {
+    _hidden_value = true
+  }
+  boolean InternalIndigoMargie {
+    _hidden_value = true
+  }
+  RegionalMoccasinPhyllis = "What did one nut say as he chased another nut?  I'm a cashew!"
+  WanderingFuchsiaFilippa = true
+  ColouredCyanJinny = false
+  ManualEmeraldDevi = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ProtectiveBronzeStace"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AwkwardOrangeSydney"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CorporateTomatoRina"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ManualEmeraldDevi"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

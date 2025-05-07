@@ -1,0 +1,192 @@
+type dummy.AlrightMaroonFarra {
+  annotations {
+    serviceid_number IncreasingJadeTrish {
+    }
+    dummy.IndependentOliveClaudetta OnlyTurquoiseAlicea {
+    }
+    serviceid PlannedBronzeChristina {
+    }
+    string ChemicalAmethystLivvie {
+    }
+    serviceid DizzyBlackClem {
+    }
+  }
+  dummy.DEFAULT SelectedPlumLetisha {
+    _hidden_value = true
+  }
+  hidden_boolean KeenRoseJoscelin {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.ConsciousAquaMahalia BlindAquamarineSydney {
+    ComingCyanMaddi = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    EfficientRoseAdrienne = "Slept like a log last night  woke up in the fireplace."
+    ConsistentBeigeTonya = 113
+    LiterarySapphireAila = false
+    SystematicAquaMead = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RoyalIvorySal = 337
+    PreviousLavenderMignonne = true
+    AbsentAquamarineIra = true
+    AdditionalRoseAlthea = 824
+    GlamorousJadeGates = 88
+    _hidden_value = true
+  }
+  hidden_boolean ImpressedPinkGladi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string AfraidTurquoiseOndrea {
+    _hidden_value = true
+  }
+  hidden_boolean CharmingSilverTine {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT MagnificentMoccasinCalli {
+    _hidden_value = true
+  }
+  serviceid_number AbleAmberKellsie {
+    _hidden_value = true
+  }
+  string GrubbyApricotBobbie {
+    _hidden_value = true
+  }
+  serviceid_number SaltyApricotEmeline {
+    _hidden_value = true
+  }
+  serviceid_number FuriousTomatoTrudi {
+    _hidden_value = true
+  }
+  boolean HappyAzureSidonia {
+    _hidden_value = true
+  }
+  serviceid_number VariableSalmonOdelia {
+    _hidden_value = true
+  }
+  dummy.ConsciousAquaMahalia DeepTomatoLynnet {
+    ComingCyanMaddi = "I'll tell you what often gets over looked... garden fences."
+    EfficientRoseAdrienne = "Why didnt the skeleton cross the road? Because he had no guts."
+    ConsistentBeigeTonya = 248
+    LiterarySapphireAila = true
+    SystematicAquaMead = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    RoyalIvorySal = 166
+    PreviousLavenderMignonne = true
+    AbsentAquamarineIra = false
+    AdditionalRoseAlthea = 640
+    GlamorousJadeGates = 592
+    _hidden_value = true
+  }
+  string TiredBeigeLorri {
+    _hidden_value = true
+  }
+  serviceid CombinedSilverBethina {
+    _hidden_value = true
+  }
+  hidden_boolean RevolutionaryMoccasinRosie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string ConvincingGreenChlo {
+    _hidden_value = true
+  }
+  dummy.CombinedCyanNatasha PanickyAmethystDominica {
+    FrozenCyanClaudette = "Why was it called the dark ages? Because of all the knights. "
+    WideCyanRhoda = 971
+    EnergeticGoldPauli = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SpotlessCopperKyla = "Dad Im hungry  Hi hungry Im dad"
+    VitreousBrownJolee = 251
+    AdjacentSalmonLura = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SpotlessCoffeeJaneva = false
+    UselessSalmonDarlleen = "What did one nut say as he chased another nut?  I'm a cashew!"
+    PreviousTealBerri = 56
+    RegionalTomatoLorilee = 714
+    NoisyPlumGiustina = false
+    SharedPurpleAdele = "What creature is smarter than a talking parrot? A spelling bee."
+    RottenAmaranthPhillie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ImprovedIvoryGenna = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    RoyalTurquoiseRonny = true
+    _hidden_value = true
+  }
+  boolean MadSilverSharline {
+    _hidden_value = true
+  }
+  boolean EvolutionaryCoralChloe {
+    _hidden_value = true
+  }
+  boolean AboveCrimsonTobey {
+    _hidden_value = true
+  }
+  serviceid InherentApricotHedvig {
+    _hidden_value = true
+  }
+  boolean ColourfulBronzeHarriette {
+    _hidden_value = true
+  }
+  json RegularRoseAndreana {
+    _hidden_value = true
+  }
+  hidden_boolean InterestingSalmonDasie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  IncreasingJadeTrish = 501
+  OnlyTurquoiseAlicea = 465
+  PlannedBronzeChristina = "How come the stadium got hot after the game? Because all of the fans left."
+  ChemicalAmethystLivvie = "Why didnt the skeleton cross the road? Because he had no guts."
+  DizzyBlackClem = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HappyAzureSidonia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "InherentApricotHedvig"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "KeenRoseJoscelin"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CharmingSilverTine"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SelectedPlumLetisha"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EvolutionaryCoralChloe"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GrubbyApricotBobbie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AboveCrimsonTobey"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "OnlyTurquoiseAlicea"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,36 @@
+type dummy.MistyRedMelba {
+  annotations {
+    hidden_boolean ImmenseCyanPhyllys {
+    }
+    boolean ContemporaryPinkJoline {
+    }
+    serviceid_number SpectacularMaroonAmi {
+    }
+    boolean CombinedBlueCornie {
+    }
+    dummy.DEFAULT GothicAquaCon {
+    }
+    hidden_boolean LegitimateTurquoiseNorean {
+    }
+    json ZonalAzureMyriam {
+    }
+  }
+  string SureEmeraldJessamyn {
+    _hidden_value = true
+  }
+  ContemporaryPinkJoline = true
+  SpectacularMaroonAmi = 343
+  CombinedBlueCornie = true
+  GothicAquaCon = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  ZonalAzureMyriam = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "GothicAquaCon"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

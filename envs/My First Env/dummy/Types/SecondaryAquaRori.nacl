@@ -1,0 +1,23 @@
+type dummy.SecondaryAquaRori {
+  annotations {
+    dummy.AccessibleTurquoiseEssie FoolishIndigoLorelei {
+    }
+    number DirtyAmethystNellie {
+    }
+    json MysteriousAzureBlaire {
+    }
+    json LiteraryOrangeBrear {
+    }
+    serviceid_number ZonalAquamarineEden {
+    }
+  }
+  "List<serviceid_number>" StiffAmaranthAviva {
+    _hidden_value = true
+  }
+  FoolishIndigoLorelei = "What do you call two barracuda fish?  A Pairacuda!"
+  DirtyAmethystNellie = 455
+  MysteriousAzureBlaire = "Why did the kid cross the playground? To get to the other slide."
+  LiteraryOrangeBrear = "Dad Im hungry  Hi hungry Im dad"
+  ZonalAquamarineEden = 935
+  _hidden_value = true
+}

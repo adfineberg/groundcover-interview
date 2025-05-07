@@ -1,0 +1,77 @@
+type dummy.MuddyGoldCarina {
+  annotations {
+    boolean SupposedSalmonDorelia {
+    }
+    serviceid_number MentalTanMil {
+    }
+    boolean CivilEmeraldEdith {
+    }
+    string AverageYellowLotta {
+    }
+    dummy.DEFAULT YearlingFuchsiaSharla {
+    }
+    hidden_boolean ScatteredEmeraldBunni {
+    }
+  }
+  boolean IntelligentJadeJaclin {
+    _hidden_value = true
+  }
+  string DeafBlackMaggy {
+    _hidden_value = true
+  }
+  number ObjectiveJadeHeather {
+    _hidden_value = true
+  }
+  number WillowyPurpleBea {
+    _hidden_value = true
+  }
+  boolean LexicalApricotColetta {
+    _hidden_value = true
+  }
+  serviceid_number LivingLimeSasha {
+    _hidden_value = true
+  }
+  json RespectableCrimsonTomasina {
+    _hidden_value = true
+  }
+  number LimitedOliveReggi {
+    _hidden_value = true
+  }
+  serviceid ConstitutionalPinkKyla {
+    _hidden_value = true
+  }
+  number BlushingAquamarineCortney {
+    _hidden_value = true
+  }
+  string DivineGoldAnnamarie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ReligiousAmethystVevay {
+    _hidden_value = true
+  }
+  hidden_boolean SilkyVioletMelania {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid AgriculturalOliveMariel {
+    _hidden_value = true
+  }
+  number AggregateLavenderCornie {
+    _hidden_value = true
+  }
+  number AnonymousVioletDevonne {
+    _hidden_value = true
+  }
+  boolean BlankJadeChrissy {
+    _hidden_value = true
+  }
+  SupposedSalmonDorelia = true
+  MentalTanMil = 954
+  CivilEmeraldEdith = false
+  AverageYellowLotta = "I'll tell you what often gets over looked... garden fences."
+  YearlingFuchsiaSharla = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  _hidden_value = true
+}

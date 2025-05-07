@@ -1,0 +1,40 @@
+type dummy.InteriorFuchsiaBarbie {
+  annotations {
+    number LegitimateCrimsonDoralyn {
+    }
+    serviceid PaleTanRhodia {
+    }
+    hidden_boolean FortunatePinkGlenna {
+    }
+    serviceid_number PatientApricotLishe {
+    }
+    boolean ColorfulSapphireAlexa {
+    }
+    serviceid_number UnableAzureNannette {
+    }
+    hidden_boolean PrimitiveBlueShanda {
+    }
+  }
+  dummy.DEFAULT AdequateFuchsiaElayne {
+    _hidden_value = true
+  }
+  string ChiefChocolateAmmamaria {
+    _hidden_value = true
+  }
+  json SickApricotBianca {
+    _hidden_value = true
+  }
+  LegitimateCrimsonDoralyn = 265
+  PaleTanRhodia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  PatientApricotLishe = 168
+  ColorfulSapphireAlexa = true
+  UnableAzureNannette = 368
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ChiefChocolateAmmamaria"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

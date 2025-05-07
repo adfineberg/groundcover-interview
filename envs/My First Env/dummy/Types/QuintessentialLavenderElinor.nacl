@@ -1,0 +1,139 @@
+type dummy.QuintessentialLavenderElinor {
+  annotations {
+    boolean MeanCyanAllissa {
+    }
+    string FoolishEmeraldWillamina {
+    }
+    serviceid FriendlyFuchsiaLilia {
+    }
+    string PossibleYellowJenine {
+    }
+    serviceid YuckyGreenBeulah {
+    }
+    string DecisiveMagentaGinnie {
+    }
+  }
+  serviceid_number VariedSapphireBillye {
+    _hidden_value = true
+  }
+  json VoluntaryTanZonda {
+    _hidden_value = true
+  }
+  string EmbarrassedSilverJacinda {
+    _hidden_value = true
+  }
+  json FastAmberVirginia {
+    _hidden_value = true
+  }
+  number DeterminedIvoryThalia {
+    _hidden_value = true
+  }
+  json GeneralChocolateMelisenda {
+    _hidden_value = true
+  }
+  serviceid CrucialGrayNike {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ScientificGrayDeirdre {
+    _hidden_value = true
+  }
+  json MedievalGrayWylma {
+    _hidden_value = true
+  }
+  serviceid_number GiganticJadeJorrie {
+    _hidden_value = true
+  }
+  string ReligiousMagentaLizette {
+    _hidden_value = true
+  }
+  hidden_boolean DeliciousBrownDemetria {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json BrokenRedDeloria {
+    _hidden_value = true
+  }
+  json ConfusedBeigeLivvy {
+    _hidden_value = true
+  }
+  serviceid DueAmethystImogene {
+    _hidden_value = true
+  }
+  number IntensiveBlueCher {
+    _hidden_value = true
+  }
+  dummy.InformalTurquoiseFaith IncreasedYellowMarla {
+    RottenScarletGiustina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    DefeatedBlushChere = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    VoluntaryOliveAriana = "To be Frank, I'd have to change my name."
+    YearningTomatoHedvige = {
+      legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    }
+    BlushingBlushViola = "Im only familiar with 25 letters in the English language. I dont know why."
+    InjuredCoralKatusha = true
+    XenaciousPlumGusty = false
+    IdealCopperSheba = 748
+    DisabledMaroonPaulina = 224
+    _hidden_value = true
+  }
+  string MassiveCoffeeEleonora {
+    _hidden_value = true
+  }
+  number DampTealDarryl {
+    _hidden_value = true
+  }
+  serviceid_number InvolvedAzureBarbee {
+    _hidden_value = true
+  }
+  boolean WoodenOrangeHyacinthe {
+    _hidden_value = true
+  }
+  serviceid_number UnknownLimeAnet {
+    _hidden_value = true
+  }
+  MeanCyanAllissa = false
+  FoolishEmeraldWillamina = "Why did the tomato blush? Because it saw the salad dressing."
+  FriendlyFuchsiaLilia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  PossibleYellowJenine = "What creature is smarter than a talking parrot? A spelling bee."
+  YuckyGreenBeulah = "Im only familiar with 25 letters in the English language. I dont know why."
+  DecisiveMagentaGinnie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DeterminedIvoryThalia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UnknownLimeAnet"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CrucialGrayNike"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FastAmberVirginia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BrokenRedDeloria"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "InvolvedAzureBarbee"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "VoluntaryTanZonda"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

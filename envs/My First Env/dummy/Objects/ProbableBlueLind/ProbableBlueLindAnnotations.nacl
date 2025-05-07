@@ -1,0 +1,64 @@
+type dummy.ProbableBlueLind {
+  annotations {
+    boolean FollowingCoffeeLilla {
+    }
+    serviceid_number LtdGoldEalasaid {
+    }
+    number WidespreadMagentaMiguela {
+    }
+    serviceid SubtleRoseMinnie {
+    }
+    dummy.IllegalAquaBrooke ExtendedVioletBasia {
+    }
+    json VivaciousOrangeKatherine {
+    }
+    string RollingFuchsiaShel {
+    }
+    hidden_boolean AvailableSapphireAriella {
+    }
+    hidden_boolean RacialAquaGeorgetta {
+    }
+    json GorgeousBeigeRodina {
+    }
+    string InvisibleMagentaSal {
+    }
+    string ObjectiveSapphireLetty {
+    }
+    boolean YearlingRedBamby {
+    }
+    serviceid DeadOrangeRhoda {
+    }
+    boolean FiscalTurquoiseTorey {
+    }
+    hidden_boolean SmilingCrimsonLianne {
+    }
+    json FunBlackMatilda {
+    }
+    string PlainScarletLizzy {
+    }
+    dummy.BeneficialRoseSacha SophisticatedRedConny {
+    }
+  }
+  FollowingCoffeeLilla = true
+  LtdGoldEalasaid = 796
+  WidespreadMagentaMiguela = 706
+  SubtleRoseMinnie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  VivaciousOrangeKatherine = "Whoever invented the knock-knock joke should get a no bell prize."
+  RollingFuchsiaShel = "I'll tell you what often gets over looked... garden fences."
+  GorgeousBeigeRodina = "A steak pun is a rare medium well done."
+  InvisibleMagentaSal = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ObjectiveSapphireLetty = "Did you know that protons have mass? I didn't even know they were catholic."
+  YearlingRedBamby = false
+  DeadOrangeRhoda = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FiscalTurquoiseTorey = true
+  FunBlackMatilda = "I'll tell you what often gets over looked... garden fences."
+  PlainScarletLizzy = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _important_values = [
+    {
+      value = "AbsoluteCoralShoshana"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "ProbableBlueLind_alias"
+}

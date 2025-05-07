@@ -1,0 +1,192 @@
+type dummy.DetailedChocolateBethanne {
+  annotations {
+    boolean SlimyTomatoGretel {
+    }
+    json XenaciousHarlequinSiusan {
+    }
+    hidden_boolean QuixoticCoralJena {
+    }
+    json ActualAquamarineChristal {
+    }
+  }
+  string BareEmeraldRebeca {
+    _hidden_value = true
+  }
+  number EasternPeachRana {
+    _hidden_value = true
+  }
+  hidden_boolean ComfortableGrayKeelia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean CriminalBrownCristionna {
+    _hidden_value = true
+  }
+  boolean MarriedBlackAlayne {
+    _hidden_value = true
+  }
+  serviceid_number MeanJadeThelma {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AttractiveAmethystKayle {
+    _hidden_value = true
+  }
+  boolean DevelopingIvoryAurelia {
+    _hidden_value = true
+  }
+  serviceid_number PsychologicalMaroonGretchen {
+    _hidden_value = true
+  }
+  json CivicCrimsonWrennie {
+    _hidden_value = true
+  }
+  serviceid SeparateSapphireAlika {
+    _hidden_value = true
+  }
+  number StormyPeachAnaliese {
+    _hidden_value = true
+  }
+  serviceid ParallelPeachVerla {
+    _hidden_value = true
+  }
+  string PriorGoldMegen {
+    _hidden_value = true
+  }
+  string ProfitableWhiteAndriette {
+    _hidden_value = true
+  }
+  json MistyMaroonRubie {
+    _hidden_value = true
+  }
+  serviceid_number EfficientYellowJanean {
+    _hidden_value = true
+  }
+  json EverydayGrayFaun {
+    _hidden_value = true
+  }
+  serviceid ExcessMoccasinGillie {
+    _hidden_value = true
+  }
+  number FrailAmethystIrita {
+    _hidden_value = true
+  }
+  json RespectableCopperKittie {
+    _hidden_value = true
+  }
+  "List<number>" ConcernedIndigoShayna {
+    _hidden_value = true
+  }
+  dummy.ResultingCrimsonArdath InterestedRoseGiulia {
+    SuddenSalmonLissa = 400
+    LiableMaroonFrank = "Why did the kid cross the playground? To get to the other slide."
+    QuintessentialLavenderCorenda = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    SexualIvoryNannette = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    SplendidTomatoNesta = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    SkinnyLavenderKorry = {
+      legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    }
+    _hidden_value = true
+  }
+  "List<string>" PopularBronzeDorthea {
+    _hidden_value = true
+  }
+  boolean RegularSilverDiane {
+    _hidden_value = true
+  }
+  serviceid_number ZestfulBlackNeda {
+    _hidden_value = true
+  }
+  serviceid ReadyMagentaCassondra {
+    _hidden_value = true
+  }
+  serviceid_number DistinguishedBronzeRobbie {
+    _hidden_value = true
+  }
+  hidden_boolean EarlyCoralAggi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid EthnicPeachAinsley {
+    _hidden_value = true
+  }
+  hidden_boolean SupportingPurpleMaryanna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ZygoticBlueKippy {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT AdvancedGrayHildagard {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" BumpyTanLucia {
+    _hidden_value = true
+  }
+  number VividPinkRosita {
+    _hidden_value = true
+  }
+  string DevotedVioletKelcey {
+    _hidden_value = true
+  }
+  json TechnicalCyanElsbeth {
+    _hidden_value = true
+  }
+  SlimyTomatoGretel = false
+  XenaciousHarlequinSiusan = "Im only familiar with 25 letters in the English language. I dont know why."
+  ActualAquamarineChristal = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BareEmeraldRebeca"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SupportingPurpleMaryanna"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ZestfulBlackNeda"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CriminalBrownCristionna"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "TechnicalCyanElsbeth"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ExcessMoccasinGillie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RespectableCopperKittie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "QuixoticCoralJena"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "XenaciousHarlequinSiusan"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

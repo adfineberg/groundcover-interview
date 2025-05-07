@@ -1,0 +1,103 @@
+type dummy.SymbolicBronzeUla {
+  annotations {
+    string CriminalBlackDevonne {
+    }
+    serviceid_number EagerBlueAmbur {
+    }
+    json RipeFuchsiaTera {
+    }
+    json StraightforwardAquaVonny {
+    }
+    hidden_boolean GrubbyCrimsonCharlean {
+    }
+    number HotScarletKirsteni {
+    }
+    serviceid_number PermanentChocolateSarajane {
+    }
+    serviceid_number ClosedBlueKira {
+    }
+    serviceid NavalCopperAlecia {
+    }
+    number YappiestWhitePamela {
+    }
+    boolean MiserableCopperHedda {
+    }
+    number FundamentalYellowWally {
+    }
+    serviceid_number PatientCoralConny {
+    }
+    string ReadySapphireSukey {
+    }
+    number GrievingChocolateTerrijo {
+    }
+    serviceid ZonalHarlequinAlyse {
+    }
+    serviceid_number BraveApricotJen {
+    }
+    hidden_boolean MainMaroonNerte {
+    }
+    string WeirdMoccasinLonna {
+    }
+    string ProposedPlumSavina {
+    }
+    json SecureOliveClarey {
+    }
+    number ArbitraryPeachCyndy {
+    }
+    dummy.CombativeBlushSuzi UnknownPurpleLeoline {
+    }
+  }
+  CriminalBlackDevonne = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  EagerBlueAmbur = 218
+  RipeFuchsiaTera = "Slept like a log last night  woke up in the fireplace."
+  StraightforwardAquaVonny = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  HotScarletKirsteni = 72
+  PermanentChocolateSarajane = 900
+  ClosedBlueKira = 533
+  NavalCopperAlecia = "Slept like a log last night  woke up in the fireplace."
+  YappiestWhitePamela = 38
+  MiserableCopperHedda = false
+  FundamentalYellowWally = 280
+  PatientCoralConny = 808
+  ReadySapphireSukey = "Why did the kid cross the playground? To get to the other slide."
+  GrievingChocolateTerrijo = 232
+  ZonalHarlequinAlyse = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  BraveApricotJen = 454
+  WeirdMoccasinLonna = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ProposedPlumSavina = "Whoever invented the knock-knock joke should get a no bell prize."
+  SecureOliveClarey = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ArbitraryPeachCyndy = 45
+  _self_important_values = [
+    {
+      value = "NavalCopperAlecia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GrubbyCrimsonCharlean"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RipeFuchsiaTera"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ProposedPlumSavina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EagerBlueAmbur"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ReadySapphireSukey"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "SymbolicBronzeUla_alias"
+}

@@ -1,0 +1,66 @@
+type dummy.ObjectiveGoldTrish {
+  annotations {
+    string CriminalBlackConsuelo {
+    }
+    serviceid_number TightAzureLira {
+    }
+    hidden_boolean AlrightBlushZahara {
+    }
+    number GladEmeraldTerza {
+    }
+    serviceid_number SlimGrayRuthi {
+    }
+  }
+  string BindingIndigoMignon {
+    _hidden_value = true
+  }
+  hidden_boolean MinimumOrangeCaroline {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean RawPurpleKarlotte {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean OverwhelmingMoccasinMiguelita {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string OverwhelmingOliveDina {
+    _hidden_value = true
+  }
+  serviceid_number CrudeYellowRosabelle {
+    _hidden_value = true
+  }
+  serviceid_number VocationalBlueLoria {
+    _hidden_value = true
+  }
+  json WonderfulWhiteNariko {
+    _hidden_value = true
+  }
+  boolean MetropolitanLimeFlory {
+    _hidden_value = true
+  }
+  number SymbolicSilverDorene {
+    _hidden_value = true
+  }
+  number ChillyBlushSilvana {
+    _hidden_value = true
+  }
+  boolean CrookedAmberKerri {
+    _hidden_value = true
+  }
+  hidden_boolean OrganisationalMoccasinMary {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  CriminalBlackConsuelo = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  TightAzureLira = 504
+  GladEmeraldTerza = 148
+  SlimGrayRuthi = 938
+  _hidden_value = true
+}

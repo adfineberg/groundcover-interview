@@ -1,0 +1,22 @@
+type dummy.GeographicalOrangeShaina is string {
+  annotations {
+    string ZonalBrownShaina {
+    }
+    serviceid FixedTanLorrin {
+    }
+    boolean SubsequentTanEricha {
+    }
+    string UninterestedOliveLicha {
+    }
+    boolean MagnificentJadeJuliet {
+    }
+    serviceid_number XerothermicChocolateMarjory {
+    }
+  }
+  ZonalBrownShaina = "Dad Im hungry  Hi hungry Im dad"
+  FixedTanLorrin = "What creature is smarter than a talking parrot? A spelling bee."
+  SubsequentTanEricha = true
+  UninterestedOliveLicha = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MagnificentJadeJuliet = true
+  XerothermicChocolateMarjory = 828
+}

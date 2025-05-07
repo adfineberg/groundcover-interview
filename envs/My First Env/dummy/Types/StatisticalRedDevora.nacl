@@ -1,0 +1,27 @@
+type dummy.StatisticalRedDevora {
+  annotations {
+    hidden_boolean ElectoralBeigeIssi {
+    }
+    string CircularTurquoiseAnnadiana {
+    }
+    json ImmediateYellowJaquelin {
+    }
+    dummy.DEFAULT SquareAquaMuire {
+    }
+    boolean DominantCrimsonCarola {
+    }
+    json EnvironmentalLimeArdyth {
+    }
+  }
+  number ProtestantPinkMechelle {
+    _hidden_value = true
+  }
+  CircularTurquoiseAnnadiana = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ImmediateYellowJaquelin = "What creature is smarter than a talking parrot? A spelling bee."
+  SquareAquaMuire = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  DominantCrimsonCarola = true
+  EnvironmentalLimeArdyth = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

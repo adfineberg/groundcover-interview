@@ -1,0 +1,232 @@
+type dummy.NoisyMagentaDeloria {
+  annotations {
+    string ComparativeVioletSileas {
+    }
+    string GentleWhiteIleane {
+    }
+    serviceid EagerBeigeHenryetta {
+    }
+    serviceid_number HeavyFuchsiaMargaretta {
+    }
+    serviceid_number ParentalTurquoiseMaxy {
+    }
+  }
+  dummy.DEFAULT FrequentJadeMarena {
+    _hidden_value = true
+  }
+  hidden_boolean LovelyScarletDamita {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ExcitingYellowSondra {
+    _hidden_value = true
+  }
+  serviceid_number ProtestantCrimsonSheela {
+    _hidden_value = true
+  }
+  hidden_boolean DisturbedSalmonIris {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string JitteryTanKerri {
+    _hidden_value = true
+  }
+  boolean CautiousGrayBarbabra {
+    _hidden_value = true
+  }
+  hidden_boolean GrimMaroonElke {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number FineApricotMaryjo {
+    _hidden_value = true
+  }
+  boolean WeakBlueLaurene {
+    _hidden_value = true
+  }
+  number IntermediateVioletRosalia {
+    _hidden_value = true
+  }
+  boolean SubsequentGoldJeanie {
+    _hidden_value = true
+  }
+  hidden_boolean GorgeousHarlequinMeggy {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number InternationalRedCathryn {
+    _hidden_value = true
+  }
+  hidden_boolean CompactJadeCrysta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT LevelCoralDareen {
+    _hidden_value = true
+  }
+  boolean DefeatedRedMadalyn {
+    _hidden_value = true
+  }
+  hidden_boolean ReducedRoseKellia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string SuperbMoccasinGuinevere {
+    _hidden_value = true
+  }
+  hidden_boolean PregnantCoralGaby {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean BiologicalYellowNatividad {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ProperSalmonMarinna {
+    _hidden_value = true
+  }
+  string AgreedChocolateZarah {
+    _hidden_value = true
+  }
+  serviceid_number MuddySilverKeriann {
+    _hidden_value = true
+  }
+  serviceid AliveGoldSharline {
+    _hidden_value = true
+  }
+  serviceid ImpressedCrimsonAndi {
+    _hidden_value = true
+  }
+  serviceid_number AgreeableMaroonEnrika {
+    _hidden_value = true
+  }
+  number TameLimeAthene {
+    _hidden_value = true
+  }
+  hidden_boolean TremendousGrayOnida {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean JustAquamarineFiann {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json RaspyRoseJuli {
+    _hidden_value = true
+  }
+  boolean IntegratedApricotLeigh {
+    _hidden_value = true
+  }
+  serviceid DepressedTomatoRoselle {
+    _hidden_value = true
+  }
+  boolean SportingBlackJoli {
+    _hidden_value = true
+  }
+  number TechnologicalScarletEuphemia {
+    _hidden_value = true
+  }
+  serviceid_number YappyGoldAdorne {
+    _hidden_value = true
+  }
+  string FortunateMaroonMoselle {
+    _hidden_value = true
+  }
+  hidden_boolean OptimisticBlackEdithe {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number SeniorHarlequinValeria {
+    _hidden_value = true
+  }
+  string ArrogantRoseYoshi {
+    _hidden_value = true
+  }
+  hidden_boolean IntensiveIvoryRosie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ExtraSalmonFlora {
+    _hidden_value = true
+  }
+  hidden_boolean ElectronicPurpleLorrayne {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.EstablishedRoseGussie XenialHarlequinAbagael {
+    ActiveScarletMartguerita = "Why was it called the dark ages? Because of all the knights. "
+    LogicalAmethystCristine = "Dad Im hungry  Hi hungry Im dad"
+    EligibleChocolateTrudey = false
+    RenewedAquaFlori = "What do you do on a remote island? Try and find the TV island it belongs to."
+    GiganticLimeShena = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    DynamicAzureLaverne = 817
+    RichTurquoiseKiah = "My first time using an elevator was an uplifting experience. The second time let me down."
+    RightMoccasinPavla = 96
+    ViciousLimeHannis = "My first time using an elevator was an uplifting experience. The second time let me down."
+    GratefulPlumLaetitia = 649
+    FrightenedBronzeCarey = 220
+    _hidden_value = true
+  }
+  json IdealSapphireJosefina {
+    _hidden_value = true
+  }
+  json RenewedAmaranthAtlante {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" GayBronzeKelley {
+    _hidden_value = true
+  }
+  ComparativeVioletSileas = "What creature is smarter than a talking parrot? A spelling bee."
+  GentleWhiteIleane = "A steak pun is a rare medium well done."
+  EagerBeigeHenryetta = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  HeavyFuchsiaMargaretta = 458
+  ParentalTurquoiseMaxy = 503
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RenewedAmaranthAtlante"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AliveGoldSharline"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "IntermediateVioletRosalia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LovelyScarletDamita"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ElectronicPurpleLorrayne"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "EagerBeigeHenryetta"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

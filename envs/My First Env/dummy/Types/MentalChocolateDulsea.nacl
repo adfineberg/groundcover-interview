@@ -1,0 +1,117 @@
+type dummy.MentalChocolateDulsea {
+  annotations {
+    json HomelessSalmonDell {
+    }
+    dummy.DEFAULT ObnoxiousPlumClarissa {
+    }
+    hidden_boolean ThoroughTurquoiseKalila {
+    }
+    boolean FragilePurpleWynne {
+    }
+    boolean IncreasingAzureSelena {
+    }
+    boolean GiantAmaranthGabriell {
+    }
+  }
+  "List<hidden_boolean>" SharedYellowRosanne {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string UncomfortableTanMadelin {
+    _hidden_value = true
+  }
+  boolean InstitutionalPurpleVanni {
+    _hidden_value = true
+  }
+  serviceid_number ItchyBronzeLaverne {
+    _hidden_value = true
+  }
+  "List<number>" CheerfulWhiteNanny {
+    _hidden_value = true
+  }
+  dummy.AutomaticAmberEditha SpecificRoseNoelle {
+    HardFuchsiaLenette = true
+    ProfessionalRedGermaine = 924
+    SteadyPinkDebbie = 638
+    SlightVioletElinor = "Why didnt the skeleton cross the road? Because he had no guts."
+    WrittenTurquoiseEsther = false
+    InstitutionalAmberNadiya = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    AdjacentGreenRubie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SpontaneousBrownRosana = true
+    FarBrownKellie = true
+    StandardBronzeOthilie = 264
+    DiverseLimeEdie = 494
+    RelaxedWhiteNara = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    CreativeAquaMerle = 151
+    ArrogantTanKeriann = 71
+    _hidden_value = true
+  }
+  json CentralBrownGabriela {
+    _hidden_value = true
+  }
+  boolean ExplicitGrayKylynn {
+    _hidden_value = true
+  }
+  serviceid_number SplendidAquamarineFania {
+    _hidden_value = true
+  }
+  serviceid_number FoolishLimeAnastasie {
+    _hidden_value = true
+  }
+  json FierceTealHeddi {
+    _hidden_value = true
+  }
+  serviceid_number StrongLavenderAmye {
+    _hidden_value = true
+  }
+  serviceid_number RubberBronzeMagdalene {
+    _hidden_value = true
+  }
+  number IncrediblePlumChristie {
+    _hidden_value = true
+  }
+  serviceid EmotionalCyanGenny {
+    _hidden_value = true
+  }
+  serviceid_number ArchitecturalEmeraldCorissa {
+    _hidden_value = true
+  }
+  HomelessSalmonDell = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ObnoxiousPlumClarissa = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  FragilePurpleWynne = true
+  IncreasingAzureSelena = false
+  GiantAmaranthGabriell = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FierceTealHeddi"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ItchyBronzeLaverne"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UncomfortableTanMadelin"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FragilePurpleWynne"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HomelessSalmonDell"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

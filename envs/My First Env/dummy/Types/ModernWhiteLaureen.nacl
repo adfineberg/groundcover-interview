@@ -1,0 +1,68 @@
+type dummy.ModernWhiteLaureen {
+  annotations {
+    string SmilingSapphireStephenie {
+    }
+    json ForwardGrayDarline {
+    }
+    string ZestyOrangeVilhelmina {
+    }
+    dummy.DEFAULT ProtestantPeachArleen {
+    }
+    serviceid_number SteepPurpleAddie {
+    }
+    hidden_boolean MarginalSilverSharleen {
+    }
+  }
+  serviceid_number SlimBrownNoni {
+    _hidden_value = true
+  }
+  serviceid_number CrucialApricotWenona {
+    _hidden_value = true
+  }
+  boolean HeadTanAnne {
+    _hidden_value = true
+  }
+  number PowerfulIndigoRycca {
+    _hidden_value = true
+  }
+  serviceid RoundMagentaNara {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BlindBlueMariejeanne {
+    _hidden_value = true
+  }
+  hidden_boolean TropicalMoccasinKelley {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number FrightenedApricotGiorgia {
+    _hidden_value = true
+  }
+  serviceid_number YellingPeachRena {
+    _hidden_value = true
+  }
+  number PremierSalmonAudi {
+    _hidden_value = true
+  }
+  SmilingSapphireStephenie = "What do you call two barracuda fish?  A Pairacuda!"
+  ForwardGrayDarline = "Why is Peter Pan always flying? Because he Neverlands."
+  ZestyOrangeVilhelmina = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ProtestantPeachArleen = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  SteepPurpleAddie = 887
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FrightenedApricotGiorgia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HeadTanAnne"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

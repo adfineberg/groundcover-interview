@@ -1,0 +1,57 @@
+type dummy.WesternOrangeIbbie {
+  boolean ManyBeigeKoral {
+  }
+  hidden_boolean HomelyBlackChandra {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string IntermediateSilverNanci {
+  }
+  json DualAzureRyann {
+  }
+  dummy.EventualSilverMerrilee StandardMoccasinOrtensia {
+  }
+  serviceid_number GrandWhiteJennette {
+  }
+  serviceid CompactCyanLaure {
+  }
+  json OpenSapphireCorly {
+  }
+  serviceid_number ParentalAmaranthIona {
+  }
+  json VitalMagentaRosetta {
+  }
+  dummy.LatinHarlequinDarbie MiniatureMaroonKirsteni {
+    UnnecessarySalmonScarlett = true
+    ElatedBlackVeronike = 442
+    SlipperySalmonDaisy = 137
+    SwiftBlushMeryl = "Im only familiar with 25 letters in the English language. I dont know why."
+    WholeSapphireShirlee = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    AdditionalCrimsonPaulita = false
+    CrucialHarlequinDorri = "Whoever invented the knock-knock joke should get a no bell prize."
+    UnevenTurquoiseJodie = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    PsychologicalMaroonLetisha = "How come the stadium got hot after the game? Because all of the fans left."
+    FrozenPurpleTrula = "Did you know that protons have mass? I didn't even know they were catholic."
+    CourageousPlumJane = "What did one nut say as he chased another nut?  I'm a cashew!"
+    HiddenMagentaRonica = "What do you call two barracuda fish?  A Pairacuda!"
+    WorthyAmethystGiorgia = "Why do birds fly south for the winter? Because it's too far to walk."
+    RichApricotEvita = "To be Frank, I'd have to change my name."
+    NervousSalmonSashenka = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    TenderFuchsiaElly = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    RespectableYellowJanet = "Im only familiar with 25 letters in the English language. I dont know why."
+    ChangingCoralVanni = true
+    AmusedLavenderJenine = 433
+    ExcessiveTurquoiseDorothee = 649
+    PrimitiveApricotVilma = true
+    WorthwhileIvoryShanda = 15
+    ComprehensivePurpleKerstin = "Why didnt the skeleton cross the road? Because he had no guts."
+    CorrespondingTurquoiseAdi = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  serviceid BroadMagentaAlayne {
+  }
+}

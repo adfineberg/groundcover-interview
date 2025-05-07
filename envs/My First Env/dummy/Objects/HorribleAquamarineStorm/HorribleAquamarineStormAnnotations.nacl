@@ -1,0 +1,70 @@
+type dummy.HorribleAquamarineStorm {
+  annotations {
+    string VitreousWhiteMargalo {
+    }
+    string HorizontalTomatoAnetta {
+    }
+    number ZoophagousChocolateAnaliese {
+    }
+    dummy.DiverseTurquoiseMariya CapableCoralFlorencia {
+    }
+    hidden_boolean ReligiousChocolateKathye {
+    }
+    json SurprisingJadeTerese {
+    }
+    hidden_boolean InvolvedVioletElfie {
+    }
+    number PersonalCoralMildrid {
+    }
+    boolean HiddenBlackEsmaria {
+    }
+    serviceid_number ElatedAmethystBlinny {
+    }
+    number ReducedYellowMiguelita {
+    }
+    string ZonalCoralGiulia {
+    }
+    serviceid FemaleAquaOlly {
+    }
+    json RoastedHarlequinChristina {
+    }
+    serviceid_number DiverseApricotMerilee {
+    }
+    serviceid IntellectualScarletRebeka {
+    }
+    dummy.ContemporaryLimeHedda DoubleGrayJosee {
+    }
+    string HandsomeLavenderFrank {
+    }
+    hidden_boolean GrimPeachEmmi {
+    }
+  }
+  VitreousWhiteMargalo = "Slept like a log last night  woke up in the fireplace."
+  HorizontalTomatoAnetta = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ZoophagousChocolateAnaliese = 57
+  CapableCoralFlorencia = false
+  SurprisingJadeTerese = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  PersonalCoralMildrid = 858
+  HiddenBlackEsmaria = false
+  ElatedAmethystBlinny = 3
+  ReducedYellowMiguelita = 39
+  ZonalCoralGiulia = "What do you call two barracuda fish?  A Pairacuda!"
+  FemaleAquaOlly = "Did you know that protons have mass? I didn't even know they were catholic."
+  RoastedHarlequinChristina = "Whoever invented the knock-knock joke should get a no bell prize."
+  DiverseApricotMerilee = 533
+  IntellectualScarletRebeka = "To be Frank, I'd have to change my name."
+  HandsomeLavenderFrank = "Why do birds fly south for the winter? Because it's too far to walk."
+  _self_important_values = [
+    {
+      value = "HandsomeLavenderFrank"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GrimPeachEmmi"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "HorribleAquamarineStorm_alias"
+}

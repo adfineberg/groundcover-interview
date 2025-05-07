@@ -1,0 +1,75 @@
+type dummy.LoudMaroonCorny {
+  annotations {
+    dummy.DEFAULT BrokenMoccasinJanella {
+    }
+    boolean MadTomatoShaine {
+    }
+    number CentralTealRakel {
+    }
+    serviceid_number VicariousOrangeHedy {
+    }
+    serviceid ExtraBlackFloris {
+    }
+    json LogicalGreenCrin {
+    }
+    boolean LowAmethystMariska {
+    }
+  }
+  string HuskyCoffeeLudovika {
+    _hidden_value = true
+  }
+  number AmbitiousPinkVeronique {
+    _hidden_value = true
+  }
+  json NumerousBlushSal {
+    _hidden_value = true
+  }
+  json AdvisoryCyanHeather {
+    _hidden_value = true
+  }
+  string CriminalAzureSarah {
+    _hidden_value = true
+  }
+  boolean VictoriousSapphireConsuelo {
+    _hidden_value = true
+  }
+  hidden_boolean VerbalTanTerry {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  BrokenMoccasinJanella = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  MadTomatoShaine = true
+  CentralTealRakel = 384
+  VicariousOrangeHedy = 747
+  ExtraBlackFloris = "To be Frank, I'd have to change my name."
+  LogicalGreenCrin = "Why didnt the skeleton cross the road? Because he had no guts."
+  LowAmethystMariska = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AdvisoryCyanHeather"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "LogicalGreenCrin"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MadTomatoShaine"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CentralTealRakel"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

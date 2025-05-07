@@ -1,0 +1,97 @@
+type dummy.AbsoluteGrayBlanch {
+  annotations {
+    hidden_boolean FundamentalJadeMadelyn {
+    }
+    serviceid_number ObligedTurquoiseLenna {
+    }
+    string SpottyIndigoEssa {
+    }
+    json SignificantPeachCathrin {
+    }
+    number JitteryLimeCarlen {
+    }
+  }
+  hidden_boolean EquivalentCyanSharron {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number VoicelessBronzeFannie {
+    _hidden_value = true
+  }
+  serviceid PunyAmaranthTiena {
+    _hidden_value = true
+  }
+  json AwareCoralRikki {
+    _hidden_value = true
+  }
+  number LegitimateBronzeVanni {
+    _hidden_value = true
+  }
+  json CompatibleTomatoAlisha {
+    _hidden_value = true
+  }
+  hidden_boolean IndirectOrangeJanela {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ProductiveTomatoJaquenette {
+    _hidden_value = true
+  }
+  serviceid_number HorizontalApricotTiffy {
+    _hidden_value = true
+  }
+  serviceid CivilRoseCarrissa {
+    _hidden_value = true
+  }
+  json PuzzledBeigeMarcy {
+    _hidden_value = true
+  }
+  number MeaningfulCoffeeCorly {
+    _hidden_value = true
+  }
+  json MathematicalBlackRomola {
+    _hidden_value = true
+  }
+  hidden_boolean AwfulAzureKasey {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.NervousCyanBlisse ThunderingTanArlina {
+    _hidden_value = true
+  }
+  serviceid_number KnownBlackDesiree {
+    _hidden_value = true
+  }
+  ObligedTurquoiseLenna = 728
+  SpottyIndigoEssa = "What do you call two barracuda fish?  A Pairacuda!"
+  SignificantPeachCathrin = "Whoever invented the knock-knock joke should get a no bell prize."
+  JitteryLimeCarlen = 917
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AwareCoralRikki"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "HorizontalApricotTiffy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MathematicalBlackRomola"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FundamentalJadeMadelyn"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

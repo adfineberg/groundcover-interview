@@ -1,0 +1,67 @@
+type dummy.FlexibleWhiteTerrye {
+  annotations {
+    serviceid PrimaryGrayClaude {
+    }
+    number NeutralAmaranthNaoma {
+    }
+    hidden_boolean HotJadeEmma {
+    }
+    boolean RedundantLavenderAnallise {
+    }
+    json FinancialAmethystDrusi {
+    }
+  }
+  serviceid EmpiricalRedElvera {
+    _hidden_value = true
+  }
+  boolean DearLavenderAriella {
+    _hidden_value = true
+  }
+  serviceid_number InlandAzureMari {
+    _hidden_value = true
+  }
+  hidden_boolean EmbarrassingRedPatty {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean IcyCrimsonLaetitia {
+    _hidden_value = true
+  }
+  string FrequentAquaDelly {
+    _hidden_value = true
+  }
+  number OutsidePurpleLetti {
+    _hidden_value = true
+  }
+  json PrettyChocolateDiann {
+    _hidden_value = true
+  }
+  serviceid DisgustedGoldElyse {
+    _hidden_value = true
+  }
+  PrimaryGrayClaude = "Why was it called the dark ages? Because of all the knights. "
+  NeutralAmaranthNaoma = 563
+  RedundantLavenderAnallise = false
+  FinancialAmethystDrusi = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DearLavenderAriella"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FrequentAquaDelly"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PrimaryGrayClaude"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

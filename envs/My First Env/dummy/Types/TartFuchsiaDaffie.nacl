@@ -1,0 +1,147 @@
+type dummy.TartFuchsiaDaffie {
+  annotations {
+    number VeryLimeLindie {
+    }
+    dummy.DelightedVioletLiv ShiveringAmberAnnamarie {
+    }
+    dummy.ThoughtfulRedElka XenaciousLavenderLynea {
+    }
+    string DevotedBronzeAimee {
+    }
+    json UniformRedAthena {
+    }
+  }
+  serviceid_number MarineMoccasinMaryanne {
+    _hidden_value = true
+  }
+  json AdequateMaroonZilvia {
+    _hidden_value = true
+  }
+  json ForwardLimeJulia {
+    _hidden_value = true
+  }
+  "List<number>" AloneIvoryKorella {
+    _hidden_value = true
+  }
+  serviceid_number RipeWhiteBarbaraanne {
+    _hidden_value = true
+  }
+  "List<serviceid>" CombativeAmberMagdaia {
+    _hidden_value = true
+  }
+  string LoudYellowMalynda {
+    _hidden_value = true
+  }
+  serviceid_number WorriedSapphireCharisse {
+    _hidden_value = true
+  }
+  serviceid ProgressiveLimeDominique {
+    _hidden_value = true
+  }
+  serviceid_number QuarrelsomeGrayBernie {
+    _hidden_value = true
+  }
+  number DreadfulCoffeeCristen {
+    _hidden_value = true
+  }
+  string RaspyEmeraldRomy {
+    _hidden_value = true
+  }
+  hidden_boolean GrowingSapphireAmalie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean AngryJadeErika {
+    _hidden_value = true
+  }
+  serviceid AutonomousOliveShayla {
+    _hidden_value = true
+  }
+  serviceid EligibleIndigoKrystalle {
+    _hidden_value = true
+  }
+  string PuzzledLimeElsa {
+    _hidden_value = true
+  }
+  serviceid OtherFuchsiaLind {
+    _hidden_value = true
+  }
+  serviceid_number FarOliveDianemarie {
+    _hidden_value = true
+  }
+  json RobustAzureTheresita {
+    _hidden_value = true
+  }
+  serviceid ThenEmeraldErminie {
+    _hidden_value = true
+  }
+  string VariousOliveAlvira {
+    _hidden_value = true
+  }
+  hidden_boolean GeneralFuchsiaLauralee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number EverydayTurquoiseBernita {
+    _hidden_value = true
+  }
+  dummy.EstablishedRoseGussie MissingLavenderEmlyn {
+    ActiveScarletMartguerita = "Why is Peter Pan always flying? Because he Neverlands."
+    LogicalAmethystCristine = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    EligibleChocolateTrudey = true
+    RenewedAquaFlori = "How come the stadium got hot after the game? Because all of the fans left."
+    GiganticLimeShena = "Slept like a log last night  woke up in the fireplace."
+    DynamicAzureLaverne = 723
+    RichTurquoiseKiah = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    RightMoccasinPavla = 135
+    ViciousLimeHannis = "How come the stadium got hot after the game? Because all of the fans left."
+    GratefulPlumLaetitia = 467
+    FrightenedBronzeCarey = 838
+    _hidden_value = true
+  }
+  serviceid_number BrilliantOliveWynne {
+    _hidden_value = true
+  }
+  VeryLimeLindie = 588
+  ShiveringAmberAnnamarie = "Why did the tomato blush? Because it saw the salad dressing."
+  XenaciousLavenderLynea = false
+  DevotedBronzeAimee = "To be Frank, I'd have to change my name."
+  UniformRedAthena = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PuzzledLimeElsa"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RipeWhiteBarbaraanne"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DreadfulCoffeeCristen"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AngryJadeErika"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "QuarrelsomeGrayBernie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ShiveringAmberAnnamarie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

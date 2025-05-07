@@ -1,0 +1,171 @@
+type dummy.SensibleCyanLita {
+  annotations {
+    hidden_boolean ImprovedSapphireRowe {
+    }
+    hidden_boolean EfficientRoseSherill {
+    }
+    number AmateurRedArabella {
+    }
+    number ZestfulEmeraldMerilee {
+    }
+    number ControversialOrangeCairistiona {
+    }
+    number ShortPinkHelsa {
+    }
+  }
+  boolean RudeRoseSadie {
+    _hidden_value = true
+  }
+  serviceid_number AcademicGreenAdan {
+    _hidden_value = true
+  }
+  serviceid SubjectiveAquaEmmey {
+    _hidden_value = true
+  }
+  boolean TropicalAzureKaterina {
+    _hidden_value = true
+  }
+  number CircularBlushKassandra {
+    _hidden_value = true
+  }
+  string MelodicMoccasinCarolina {
+    _hidden_value = true
+  }
+  number FaithfulPurpleArleta {
+    _hidden_value = true
+  }
+  "List<boolean>" HandsomeIndigoFilide {
+    _hidden_value = true
+  }
+  dummy.ThoughtfulRedElka CourageousJadeSteffi {
+    PrimitiveTealSissie = "Did you know that protons have mass? I didn't even know they were catholic."
+    SystematicOrangeSallee = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    AutonomousGoldCaye = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    EventualSalmonAveril = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    XenophobicBronzeGayleen = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  serviceid AddedBeigeAleta {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WispySilverGrete {
+    _hidden_value = true
+  }
+  hidden_boolean RoughPurpleMandie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number StrikingEmeraldCissy {
+    _hidden_value = true
+  }
+  json IcyGrayMyriam {
+    _hidden_value = true
+  }
+  serviceid_number FemaleCrimsonSharon {
+    _hidden_value = true
+  }
+  string ArmedPurpleBatsheva {
+    _hidden_value = true
+  }
+  serviceid_number RightTurquoiseMarisa {
+    _hidden_value = true
+  }
+  boolean StingyAmethystAbbye {
+    _hidden_value = true
+  }
+  json VisualPeachCorrinne {
+    _hidden_value = true
+  }
+  serviceid_number MonetaryRoseGray {
+    _hidden_value = true
+  }
+  string ExperiencedAmaranthLorilee {
+    _hidden_value = true
+  }
+  serviceid_number DistinguishedIvoryEllynn {
+    _hidden_value = true
+  }
+  serviceid SophisticatedGoldMeggy {
+    _hidden_value = true
+  }
+  "List<boolean>" FragileCyanPhyllys {
+    _hidden_value = true
+  }
+  number GeneralRedLeland {
+    _hidden_value = true
+  }
+  boolean ExcessiveApricotAuroora {
+    _hidden_value = true
+  }
+  hidden_boolean RaspyBeigeMarena {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number VariedRoseNorina {
+    _hidden_value = true
+  }
+  serviceid_number HorizontalPurpleElbertina {
+    _hidden_value = true
+  }
+  hidden_boolean ManagerialCoralMolli {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  AmateurRedArabella = 757
+  ZestfulEmeraldMerilee = 463
+  ControversialOrangeCairistiona = 639
+  ShortPinkHelsa = 467
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FaithfulPurpleArleta"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WispySilverGrete"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MelodicMoccasinCarolina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FemaleCrimsonSharon"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "HorizontalPurpleElbertina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CircularBlushKassandra"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FragileCyanPhyllys"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ExperiencedAmaranthLorilee"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ImprovedSapphireRowe"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

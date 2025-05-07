@@ -1,0 +1,123 @@
+type dummy.PrivateIndigoCaroljean {
+  annotations {
+    string FineCrimsonTimmie {
+    }
+    dummy.DisastrousMaroonTerrye UnwillingPeachMagda {
+    }
+    dummy.SuddenRoseBonnee MadBlackKata {
+    }
+    serviceid_number UninterestedAquaOrelee {
+    }
+    serviceid EffectiveAquaGale {
+    }
+    number RevolutionaryCoralBee {
+    }
+    number ProfessionalAquaAnalise {
+    }
+    boolean OralBlackTami {
+    }
+    boolean QuixoticBeigeSharleen {
+    }
+    hidden_boolean DevelopedMaroonAnn {
+    }
+    hidden_boolean SympatheticFuchsiaTiphanie {
+    }
+    json DeafeningIvoryMaggy {
+    }
+    string DramaticMoccasinAnabella {
+    }
+    string ElatedWhiteColly {
+    }
+    serviceid_number QuickestPlumLaurice {
+    }
+    string FiscalBlackVivi {
+    }
+    serviceid_number ProfessionalYellowMarley {
+    }
+    number GayAmethystMeryl {
+    }
+    string CivilAmaranthNissy {
+    }
+    number CruelMaroonChristabel {
+    }
+    serviceid SquealingOrangeGabbi {
+    }
+    dummy.SecureSilverDelphinia AestheticMagentaScarlet {
+    }
+    hidden_boolean AnnoyedAquaFlorella {
+    }
+  }
+  FineCrimsonTimmie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  UnwillingPeachMagda = 879
+  UninterestedAquaOrelee = 664
+  EffectiveAquaGale = "Why did the kid cross the playground? To get to the other slide."
+  RevolutionaryCoralBee = 299
+  ProfessionalAquaAnalise = 402
+  OralBlackTami = false
+  QuixoticBeigeSharleen = true
+  DeafeningIvoryMaggy = "Im only familiar with 25 letters in the English language. I dont know why."
+  DramaticMoccasinAnabella = "Why was it called the dark ages? Because of all the knights. "
+  ElatedWhiteColly = "A steak pun is a rare medium well done."
+  QuickestPlumLaurice = 912
+  FiscalBlackVivi = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ProfessionalYellowMarley = 133
+  GayAmethystMeryl = 807
+  CivilAmaranthNissy = "Why did the tomato blush? Because it saw the salad dressing."
+  CruelMaroonChristabel = 731
+  SquealingOrangeGabbi = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _important_values = [
+    {
+      value = "MedievalBlueBel"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "IntellectualAmaranthPris"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CourageousCoffeeAlexandra"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DramaticMoccasinAnabella"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GayAmethystMeryl"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ProfessionalYellowMarley"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FineCrimsonTimmie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CruelMaroonChristabel"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DevelopedMaroonAnn"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UnwillingPeachMagda"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "PrivateIndigoCaroljean_alias"
+}

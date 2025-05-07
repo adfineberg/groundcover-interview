@@ -1,0 +1,36 @@
+type dummy.ToughAmberRoxine {
+  annotations {
+    serviceid LateRoseMaurita {
+    }
+    serviceid HotJadeTara {
+    }
+    number DryLimeStepha {
+    }
+    string ClassicalWhiteLeodora {
+    }
+  }
+  boolean UncomfortableTealNerta {
+    _hidden_value = true
+  }
+  serviceid QuintessentialAmberAloysia {
+    _hidden_value = true
+  }
+  number QuixoticMaroonAmabel {
+    _hidden_value = true
+  }
+  json KeyPinkOthelia {
+    _hidden_value = true
+  }
+  LateRoseMaurita = "Why did the tomato blush? Because it saw the salad dressing."
+  HotJadeTara = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DryLimeStepha = 476
+  ClassicalWhiteLeodora = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "KeyPinkOthelia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

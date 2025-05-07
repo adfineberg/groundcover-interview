@@ -1,0 +1,92 @@
+type dummy.InnovativeFuchsiaFaun {
+  annotations {
+    serviceid LazyAmaranthFern {
+    }
+    string SimilarCyanBridie {
+    }
+    serviceid YouthfulSalmonFrancine {
+    }
+    hidden_boolean ExcitedBlackErinn {
+    }
+    boolean StaticTomatoCelestina {
+    }
+    serviceid_number ExcessRoseVanna {
+    }
+    dummy.MixedSalmonRosaleen MiniatureIndigoKetti {
+    }
+    json UgliestFuchsiaJoann {
+    }
+    boolean MotionlessBlackLin {
+    }
+    serviceid_number LikelyApricotKrystalle {
+    }
+    boolean ColdMoccasinGunilla {
+    }
+    boolean StrictSalmonMeris {
+    }
+    number EerieRedRenata {
+    }
+    dummy.UpperTanDebby RainyScarletDode {
+    }
+    serviceid_number CostlyAzureJessamyn {
+    }
+    string DustyGoldKaila {
+    }
+    hidden_boolean DrivingCyanEkaterina {
+    }
+    number BlondeBlueMichel {
+    }
+    json DualCoralAurel {
+    }
+    json JollyBlushTerese {
+    }
+    serviceid_number AbstractSapphireMichaella {
+    }
+  }
+  LazyAmaranthFern = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SimilarCyanBridie = "I'll tell you what often gets over looked... garden fences."
+  YouthfulSalmonFrancine = "Did you know that protons have mass? I didn't even know they were catholic."
+  StaticTomatoCelestina = true
+  ExcessRoseVanna = 348
+  UgliestFuchsiaJoann = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  MotionlessBlackLin = true
+  LikelyApricotKrystalle = 338
+  ColdMoccasinGunilla = true
+  StrictSalmonMeris = false
+  EerieRedRenata = 25
+  RainyScarletDode = true
+  CostlyAzureJessamyn = 625
+  DustyGoldKaila = "My first time using an elevator was an uplifting experience. The second time let me down."
+  BlondeBlueMichel = 525
+  DualCoralAurel = "Did you know that protons have mass? I didn't even know they were catholic."
+  JollyBlushTerese = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  AbstractSapphireMichaella = 857
+  _self_important_values = [
+    {
+      value = "EerieRedRenata"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DrivingCyanEkaterina"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DustyGoldKaila"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "JollyBlushTerese"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MotionlessBlackLin"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "InnovativeFuchsiaFaun_alias"
+}

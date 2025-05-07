@@ -1,0 +1,107 @@
+type dummy.NationalSapphireJemimah {
+  annotations {
+    number PrincipalCopperJenilee {
+    }
+    serviceid ConvincedScarletSheryl {
+    }
+    dummy.MuteGrayAlexi SuitableIvoryBernie {
+    }
+    json PregnantBlackLida {
+    }
+    hidden_boolean GreatTealJemie {
+    }
+    serviceid ImplicitFuchsiaGermaine {
+    }
+    serviceid TrickyBrownThia {
+    }
+    dummy.ThoughtfulRedElka AbsentRoseAllys {
+    }
+    serviceid UrbanPurpleMeggy {
+    }
+    json MagicWhitePansy {
+    }
+    serviceid_number LazyHarlequinStefania {
+    }
+    number GreatRoseLori {
+    }
+    string CoherentCoffeeMarisa {
+    }
+    json HonestScarletSilva {
+    }
+    string MelodicJadeSibelle {
+    }
+    boolean ChillyTomatoTwyla {
+    }
+    serviceid_number DomesticTealBliss {
+    }
+    string LittleAmaranthAdena {
+    }
+  }
+  PrincipalCopperJenilee = 19
+  ConvincedScarletSheryl = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SuitableIvoryBernie = 868
+  PregnantBlackLida = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ImplicitFuchsiaGermaine = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  TrickyBrownThia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  AbsentRoseAllys = true
+  UrbanPurpleMeggy = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  MagicWhitePansy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  LazyHarlequinStefania = 493
+  GreatRoseLori = 309
+  CoherentCoffeeMarisa = "My first time using an elevator was an uplifting experience. The second time let me down."
+  HonestScarletSilva = "Dad Im hungry  Hi hungry Im dad"
+  MelodicJadeSibelle = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ChillyTomatoTwyla = true
+  DomesticTealBliss = 21
+  LittleAmaranthAdena = "Did you know that protons have mass? I didn't even know they were catholic."
+  _important_values = [
+    {
+      value = "ProbableMagentaKylie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ReluctantMagentaLudovika"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UncertainRoseLotte"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ImplicitFuchsiaGermaine"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GreatTealJemie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PregnantBlackLida"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GreatRoseLori"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "TrickyBrownThia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PrincipalCopperJenilee"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "NationalSapphireJemimah_alias"
+}

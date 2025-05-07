@@ -1,0 +1,33 @@
+type dummy.WeeBronzeBrandais {
+  annotations {
+    json VivaciousAmethystCatherina {
+    }
+    json UsedJadeRobina {
+    }
+    serviceid SpecialAzureCharity {
+    }
+    serviceid CorrectTomatoKimmi {
+    }
+    serviceid_number ElectoralChocolatePierette {
+    }
+    string AppallingCyanBrina {
+    }
+  }
+  serviceid_number PrincipalFuchsiaArleta {
+    _hidden_value = true
+  }
+  VivaciousAmethystCatherina = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  UsedJadeRobina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SpecialAzureCharity = "Whoever invented the knock-knock joke should get a no bell prize."
+  CorrectTomatoKimmi = "What creature is smarter than a talking parrot? A spelling bee."
+  ElectoralChocolatePierette = 739
+  AppallingCyanBrina = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "SpecialAzureCharity"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

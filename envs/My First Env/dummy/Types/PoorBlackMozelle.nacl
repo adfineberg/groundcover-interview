@@ -1,0 +1,27 @@
+type dummy.PoorBlackMozelle {
+  annotations {
+    serviceid BroadBronzeCorrina {
+    }
+    dummy.DEFAULT OperationalCopperAnsley {
+    }
+    hidden_boolean UnevenAmethystBrett {
+    }
+    number VividSilverJeannine {
+    }
+    serviceid NewGreenCasandra {
+    }
+    string AllegedLavenderEloise {
+    }
+  }
+  serviceid UnfortunateAmberJany {
+    _hidden_value = true
+  }
+  BroadBronzeCorrina = "To be Frank, I'd have to change my name."
+  OperationalCopperAnsley = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  VividSilverJeannine = 541
+  NewGreenCasandra = "Why did the tomato blush? Because it saw the salad dressing."
+  AllegedLavenderEloise = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

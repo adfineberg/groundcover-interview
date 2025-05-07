@@ -1,0 +1,37 @@
+type dummy.MidCoffeeNixie {
+  annotations {
+    serviceid_number YoungestHarlequinBabbie {
+    }
+    string TerribleIvoryJoice {
+    }
+    number BoilingHarlequinJeni {
+    }
+    serviceid NarrowSapphireTybie {
+    }
+    number SuperIvoryAleta {
+    }
+  }
+  "List<hidden_boolean>" LegalJadeLane {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  YoungestHarlequinBabbie = 930
+  TerribleIvoryJoice = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  BoilingHarlequinJeni = 301
+  NarrowSapphireTybie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SuperIvoryAleta = 419
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "BoilingHarlequinJeni"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "NarrowSapphireTybie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

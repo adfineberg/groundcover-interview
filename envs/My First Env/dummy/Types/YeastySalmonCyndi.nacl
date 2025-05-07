@@ -1,0 +1,53 @@
+type dummy.YeastySalmonCyndi {
+  annotations {
+    hidden_boolean ContinuingAquaAllina {
+    }
+    dummy.UpperTanDebby NursingWhiteReba {
+    }
+    hidden_boolean IdeologicalBlackTallulah {
+    }
+    number ZygomorphicTurquoiseAviva {
+    }
+    string SpecificBronzeTasia {
+    }
+  }
+  serviceid_number RealisticOrangeNancy {
+    _hidden_value = true
+  }
+  serviceid ShortPinkLynnelle {
+    _hidden_value = true
+  }
+  boolean UnsightlyGrayEba {
+    _hidden_value = true
+  }
+  serviceid_number EconomicSapphireNedi {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MusicalBlueMady {
+    _hidden_value = true
+  }
+  string ReliableMagentaDodi {
+    _hidden_value = true
+  }
+  boolean EvilAmberPamelina {
+    _hidden_value = true
+  }
+  NursingWhiteReba = false
+  ZygomorphicTurquoiseAviva = 102
+  SpecificBronzeTasia = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RealisticOrangeNancy"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "IdeologicalBlackTallulah"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,51 @@
+type dummy.GlobalLimeMatti is string {
+  annotations {
+    dummy.DEFAULT ArrogantPurpleMadelene {
+    }
+    hidden_boolean PatientCopperQuentin {
+    }
+    json InsufficientTomatoHetti {
+    }
+    boolean UltimateRosePandora {
+    }
+    number SilentCyanMelina {
+    }
+    boolean MeltedAquamarinePatsy {
+    }
+    hidden_boolean RequiredMoccasinDale {
+    }
+    number AppallingRedMegen {
+    }
+    boolean StuckVioletLynette {
+    }
+    serviceid_number PersistentChocolateNicolina {
+    }
+    boolean PanickyJadeBianka {
+    }
+    string FunIvoryCristionna {
+    }
+    dummy.DEFAULT HardCopperCahra {
+    }
+    json ProtectiveSalmonLiza {
+    }
+    string SacredCyanRakel {
+    }
+  }
+  ArrogantPurpleMadelene = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  InsufficientTomatoHetti = "What did one nut say as he chased another nut?  I'm a cashew!"
+  UltimateRosePandora = true
+  SilentCyanMelina = 690
+  MeltedAquamarinePatsy = false
+  AppallingRedMegen = 801
+  StuckVioletLynette = true
+  PersistentChocolateNicolina = 207
+  PanickyJadeBianka = true
+  FunIvoryCristionna = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  HardCopperCahra = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  ProtectiveSalmonLiza = "What creature is smarter than a talking parrot? A spelling bee."
+  SacredCyanRakel = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+}

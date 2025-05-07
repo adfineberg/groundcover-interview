@@ -1,0 +1,41 @@
+type dummy.PoliteGrayTiena {
+  annotations {
+    number ColonialGreenLarina {
+    }
+    hidden_boolean BumpySapphireEsta {
+    }
+    json PrettyOliveMoria {
+    }
+    hidden_boolean UninterestedScarletCorrena {
+    }
+    hidden_boolean RepulsiveLavenderLeisha {
+    }
+  }
+  serviceid_number DynamicIvoryAmalle {
+    _hidden_value = true
+  }
+  serviceid_number OverallBrownDona {
+    _hidden_value = true
+  }
+  json DrivingTanAnica {
+    _hidden_value = true
+  }
+  serviceid_number HurtIvoryDeloria {
+    _hidden_value = true
+  }
+  ColonialGreenLarina = 255
+  PrettyOliveMoria = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HurtIvoryDeloria"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DrivingTanAnica"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

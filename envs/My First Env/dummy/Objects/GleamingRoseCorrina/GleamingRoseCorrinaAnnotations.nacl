@@ -1,0 +1,65 @@
+type dummy.GleamingRoseCorrina {
+  annotations {
+    serviceid CapableCopperTally {
+    }
+    boolean ComingPurpleLina {
+    }
+    serviceid SweetBlushDeena {
+    }
+    hidden_boolean SkinnyGoldEkaterina {
+    }
+    dummy.EmotionalSilverFrayda WrittenYellowMaddy {
+    }
+    hidden_boolean LinearScarletKip {
+    }
+    serviceid DyingOrangeAlysia {
+    }
+    hidden_boolean ComparativeBronzeAlisa {
+    }
+    hidden_boolean OkOrangePietra {
+    }
+    string FrightenedTealVirginie {
+    }
+    string RaspyWhiteAnselma {
+    }
+    serviceid_number PhilosophicalSapphireFaydra {
+    }
+    boolean XenophobicScarletAllis {
+    }
+    dummy.DivineLimeKlarrisa CuriousMoccasinSandye {
+    }
+    hidden_boolean WearyCoralRuth {
+    }
+    serviceid_number PeacefulAmethystLeese {
+    }
+    number FemaleCyanAridatha {
+    }
+    boolean WillingGrayVania {
+    }
+    dummy.DisastrousMaroonTerrye SkilledBlackLindi {
+    }
+    json LinearGoldMorgen {
+    }
+  }
+  CapableCopperTally = "Im only familiar with 25 letters in the English language. I dont know why."
+  ComingPurpleLina = false
+  SweetBlushDeena = "Im only familiar with 25 letters in the English language. I dont know why."
+  DyingOrangeAlysia = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FrightenedTealVirginie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  RaspyWhiteAnselma = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  PhilosophicalSapphireFaydra = 763
+  XenophobicScarletAllis = false
+  PeacefulAmethystLeese = 35
+  FemaleCyanAridatha = 894
+  WillingGrayVania = false
+  SkilledBlackLindi = 481
+  LinearGoldMorgen = "Did you know that protons have mass? I didn't even know they were catholic."
+  _self_important_values = [
+    {
+      value = "CuriousMoccasinSandye"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "GleamingRoseCorrina_alias"
+}

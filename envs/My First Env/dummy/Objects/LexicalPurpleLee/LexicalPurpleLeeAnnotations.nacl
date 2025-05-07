@@ -1,0 +1,103 @@
+type dummy.LexicalPurpleLee {
+  annotations {
+    number ComplicatedBronzeBreena {
+    }
+    number AloneAmethystMartita {
+    }
+    serviceid_number OutrageousCrimsonAdda {
+    }
+    string WearyAmethystBlair {
+    }
+    serviceid_number YappiestGoldSherry {
+    }
+    serviceid FriendlyPeachCelestina {
+    }
+    json DistinctBronzeKessiah {
+    }
+    boolean QuintessentialOrangeNedi {
+    }
+    dummy.DelightedVioletLiv FreeGrayKris {
+    }
+    string UnderlyingApricotRoby {
+    }
+    json HomelessTanGratia {
+    }
+    serviceid TraditionalAquaHildegarde {
+    }
+    serviceid ChemicalBronzeJammie {
+    }
+    json IntenseHarlequinMonique {
+    }
+    serviceid LightScarletMadeleine {
+    }
+    serviceid PersonalSilverTherine {
+    }
+    json ResidentPinkEulalie {
+    }
+    boolean QuerulousAmaranthChastity {
+    }
+    number ResonantBeigeChloette {
+    }
+    hidden_boolean ResidentVioletJeniece {
+    }
+  }
+  ComplicatedBronzeBreena = 418
+  AloneAmethystMartita = 617
+  OutrageousCrimsonAdda = 543
+  WearyAmethystBlair = "I'll tell you what often gets over looked... garden fences."
+  YappiestGoldSherry = 542
+  FriendlyPeachCelestina = "What do you call two barracuda fish?  A Pairacuda!"
+  DistinctBronzeKessiah = "What do you call two barracuda fish?  A Pairacuda!"
+  QuintessentialOrangeNedi = false
+  FreeGrayKris = file("UselessMaroonCarmine.txt")
+  UnderlyingApricotRoby = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  HomelessTanGratia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  TraditionalAquaHildegarde = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ChemicalBronzeJammie = "Slept like a log last night  woke up in the fireplace."
+  IntenseHarlequinMonique = "What creature is smarter than a talking parrot? A spelling bee."
+  LightScarletMadeleine = "Why did the tomato blush? Because it saw the salad dressing."
+  PersonalSilverTherine = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ResidentPinkEulalie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  QuerulousAmaranthChastity = false
+  ResonantBeigeChloette = 818
+  _important_values = [
+    {
+      value = "TestyMoccasinMagdalene"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AloneAmethystMartita"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PersonalSilverTherine"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FriendlyPeachCelestina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "QuerulousAmaranthChastity"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ResidentVioletJeniece"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FreeGrayKris"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "LexicalPurpleLee_alias"
+}

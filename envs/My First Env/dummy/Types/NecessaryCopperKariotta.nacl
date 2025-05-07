@@ -1,0 +1,54 @@
+type dummy.NecessaryCopperKariotta {
+  annotations {
+    boolean OverwhelmingWhiteAlexandra {
+    }
+    json OutstandingIvoryAlthea {
+    }
+    json ExtraordinaryChocolateGloriana {
+    }
+    hidden_boolean ParliamentaryGreenElianora {
+    }
+    serviceid WellBlueEmeline {
+    }
+    string AlrightCoffeeAgneta {
+    }
+  }
+  dummy.GlobalLimeMatti OccupationalLimeKaroly {
+    ArrogantPurpleMadelene = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    InsufficientTomatoHetti = "Slept like a log last night  woke up in the fireplace."
+    UltimateRosePandora = true
+    SilentCyanMelina = 905
+    MeltedAquamarinePatsy = true
+    AppallingRedMegen = 133
+    StuckVioletLynette = true
+    PersistentChocolateNicolina = 477
+    PanickyJadeBianka = true
+    FunIvoryCristionna = "Dad Im hungry  Hi hungry Im dad"
+    HardCopperCahra = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    ProtectiveSalmonLiza = "What creature is smarter than a talking parrot? A spelling bee."
+    SacredCyanRakel = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    _hidden_value = true
+  }
+  OverwhelmingWhiteAlexandra = true
+  OutstandingIvoryAlthea = "Why is Peter Pan always flying? Because he Neverlands."
+  ExtraordinaryChocolateGloriana = "What did one nut say as he chased another nut?  I'm a cashew!"
+  WellBlueEmeline = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AlrightCoffeeAgneta = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "AlrightCoffeeAgneta"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "OverwhelmingWhiteAlexandra"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

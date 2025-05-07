@@ -1,0 +1,23 @@
+type dummy.OccasionalCrimsonStormi {
+  annotations {
+    json ScaredPurpleCaren {
+    }
+    hidden_boolean ClassicRoseKaye {
+    }
+    dummy.SplendidAmberFlorance SuperiorGoldHonor {
+    }
+    boolean IntermediateRedVida {
+    }
+    hidden_boolean RecentSalmonLiz {
+    }
+  }
+  hidden_boolean ShallowPinkGabbi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  ScaredPurpleCaren = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SuperiorGoldHonor = "Why was it called the dark ages? Because of all the knights. "
+  IntermediateRedVida = true
+  _hidden_value = true
+}

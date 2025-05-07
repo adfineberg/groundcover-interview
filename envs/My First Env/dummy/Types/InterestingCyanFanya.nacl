@@ -1,0 +1,27 @@
+type dummy.InterestingCyanFanya {
+  annotations {
+    boolean SelectedTealSheba {
+    }
+    serviceid_number CharmingRedJoella {
+    }
+    boolean SparklingWhiteMadelyn {
+    }
+  }
+  number YuckyGreenAlexa {
+    _hidden_value = true
+  }
+  dummy.DEFAULT OlympicFuchsiaHilliary {
+    _hidden_value = true
+  }
+  SelectedTealSheba = true
+  CharmingRedJoella = 930
+  SparklingWhiteMadelyn = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "YuckyGreenAlexa"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

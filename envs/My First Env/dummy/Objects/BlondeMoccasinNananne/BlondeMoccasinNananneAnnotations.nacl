@@ -1,0 +1,61 @@
+type dummy.BlondeMoccasinNananne {
+  annotations {
+    number BitterChocolateAudrye {
+    }
+    string BrilliantPeachRegine {
+    }
+    json DelightedMagentaValene {
+    }
+    number OperationalAmberKerstin {
+    }
+    hidden_boolean AliveTurquoiseDi {
+    }
+    serviceid_number DeepScarletGinelle {
+    }
+    json ObnoxiousHarlequinJori {
+    }
+    hidden_boolean SubsequentTealBellanca {
+    }
+    string RegulatoryPlumMelitta {
+    }
+    number WetMagentaElyssa {
+    }
+    string WelcomeScarletBrittaney {
+    }
+    hidden_boolean OccupationalLimeJonell {
+    }
+    hidden_boolean ConsiderableCopperMarleah {
+    }
+    json ClosedCopperViolette {
+    }
+    serviceid ViolentApricotAbigale {
+    }
+    string WildTurquoiseNorrie {
+    }
+    json DeepBrownLisabeth {
+    }
+    hidden_boolean AncientBlushPatrica {
+    }
+  }
+  BitterChocolateAudrye = 585
+  BrilliantPeachRegine = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DelightedMagentaValene = "Why do birds fly south for the winter? Because it's too far to walk."
+  OperationalAmberKerstin = 147
+  DeepScarletGinelle = 471
+  ObnoxiousHarlequinJori = "To be Frank, I'd have to change my name."
+  RegulatoryPlumMelitta = "To be Frank, I'd have to change my name."
+  WetMagentaElyssa = 333
+  WelcomeScarletBrittaney = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ClosedCopperViolette = "What do you call two barracuda fish?  A Pairacuda!"
+  ViolentApricotAbigale = "A steak pun is a rare medium well done."
+  WildTurquoiseNorrie = "Why did the kid cross the playground? To get to the other slide."
+  DeepBrownLisabeth = "Im only familiar with 25 letters in the English language. I dont know why."
+  _important_values = [
+    {
+      value = "SurprisingMoccasinBrit"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "BlondeMoccasinNananne_alias"
+}

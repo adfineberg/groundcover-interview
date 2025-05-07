@@ -1,0 +1,68 @@
+type dummy.ZerothHarlequinBritni {
+  annotations {
+    serviceid_number SoreBronzeUla {
+    }
+    hidden_boolean VagueRoseBianka {
+    }
+    string CompetitiveIndigoBrandie {
+    }
+    dummy.DEFAULT ChronicBrownCarolann {
+    }
+    boolean MarvellousBlackClaribel {
+    }
+  }
+  boolean ArtisticRedManon {
+    _hidden_value = true
+  }
+  hidden_boolean EldestBlackZarah {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number BottomBlushLeonie {
+    _hidden_value = true
+  }
+  hidden_boolean DeadTomatoHope {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string DisturbedBronzeLeigha {
+    _hidden_value = true
+  }
+  boolean EvidentTealMadelaine {
+    _hidden_value = true
+  }
+  "List<serviceid>" StiffCoralEloisa {
+    _hidden_value = true
+  }
+  string MinimalIvoryDanell {
+    _hidden_value = true
+  }
+  SoreBronzeUla = 474
+  CompetitiveIndigoBrandie = "Why didnt the skeleton cross the road? Because he had no guts."
+  ChronicBrownCarolann = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  MarvellousBlackClaribel = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "StiffCoralEloisa"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ArtisticRedManon"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SoreBronzeUla"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

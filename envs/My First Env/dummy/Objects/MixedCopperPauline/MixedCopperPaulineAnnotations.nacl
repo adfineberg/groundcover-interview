@@ -1,0 +1,99 @@
+type dummy.MixedCopperPauline {
+  annotations {
+    hidden_boolean RationalWhiteHope {
+    }
+    hidden_boolean AwfulJadePeggi {
+    }
+    serviceid_number NuttyGoldDeeyn {
+    }
+    boolean PositiveAquamarineKimberly {
+    }
+    serviceid_number OppositeTanYvette {
+    }
+    number VicariousChocolateDanni {
+    }
+    serviceid_number HilariousEmeraldDanila {
+    }
+    serviceid_number InlandTealRickie {
+    }
+    serviceid DiverseGrayRobin {
+    }
+    string DecentOrangeFlory {
+    }
+    serviceid_number IndependentScarletJanine {
+    }
+    number StaticHarlequinReba {
+    }
+    serviceid_number LiableYellowCharmine {
+    }
+    serviceid_number UnfortunatePeachGilly {
+    }
+    dummy.SurroundingSilverDeanna InterimSilverGwen {
+    }
+    dummy.EstablishedRoseGussie ShallowAquamarineDodi {
+    }
+    string PlainLavenderBarbabra {
+    }
+    dummy.MolecularSalmonHenryetta KnownCopperAudry {
+    }
+    hidden_boolean WanderingApricotRoslyn {
+    }
+    serviceid OkScarletJocelyn {
+    }
+  }
+  NuttyGoldDeeyn = 306
+  PositiveAquamarineKimberly = false
+  OppositeTanYvette = 851
+  VicariousChocolateDanni = 222
+  HilariousEmeraldDanila = 16
+  InlandTealRickie = 802
+  DiverseGrayRobin = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DecentOrangeFlory = "Why didnt the skeleton cross the road? Because he had no guts."
+  IndependentScarletJanine = 558
+  StaticHarlequinReba = 221
+  LiableYellowCharmine = 325
+  UnfortunatePeachGilly = 444
+  ShallowAquamarineDodi = true
+  PlainLavenderBarbabra = "What do you do on a remote island? Try and find the TV island it belongs to."
+  OkScarletJocelyn = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _important_values = [
+    {
+      value = "DailyChocolateVerna"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "OuterPinkGoldy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PeacefulLavenderCariotta"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "VicariousChocolateDanni"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "NuttyGoldDeeyn"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "InterimSilverGwen"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UnfortunatePeachGilly"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "MixedCopperPauline_alias"
+}

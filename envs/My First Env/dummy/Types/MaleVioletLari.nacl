@@ -1,0 +1,29 @@
+type dummy.MaleVioletLari is boolean {
+  annotations {
+    serviceid ComprehensiveAmaranthGenna {
+    }
+    serviceid_number CompetitiveTomatoLezlie {
+    }
+    string WelcomeBlackDora {
+    }
+    serviceid SeriousSilverCaroljean {
+    }
+    serviceid_number EvilWhiteAustin {
+    }
+    string StrategicOrangeHarriott {
+    }
+    hidden_boolean InnocentPinkPrudy {
+    }
+    number FrightenedPinkCatlee {
+    }
+    hidden_boolean UnhappyJadeDebbi {
+    }
+  }
+  ComprehensiveAmaranthGenna = "To be Frank, I'd have to change my name."
+  CompetitiveTomatoLezlie = 797
+  WelcomeBlackDora = "Im only familiar with 25 letters in the English language. I dont know why."
+  SeriousSilverCaroljean = "Why is Peter Pan always flying? Because he Neverlands."
+  EvilWhiteAustin = 114
+  StrategicOrangeHarriott = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FrightenedPinkCatlee = 15
+}

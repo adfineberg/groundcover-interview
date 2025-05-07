@@ -1,0 +1,138 @@
+type dummy.WilfulTomatoRhea {
+  annotations {
+    json UniformMoccasinBess {
+    }
+    number ElectricalFuchsiaGladi {
+    }
+    boolean FluffyCyanCorissa {
+    }
+    number GrumpyMaroonIdell {
+    }
+    serviceid MarkedTomatoOlivia {
+    }
+    serviceid NativeAmethystColene {
+    }
+    serviceid_number HelpfulSalmonCaterina {
+    }
+    serviceid MedicalAmethystMahala {
+    }
+    number FamiliarIndigoBevvy {
+    }
+    string AwkwardCrimsonGinny {
+    }
+    boolean SensitiveCopperRose {
+    }
+    boolean MaleCoffeeEleanor {
+    }
+    number ConcernedHarlequinEmilie {
+    }
+    boolean CentralLimeAlexi {
+    }
+    boolean WeeklyAquaAlice {
+    }
+    dummy.SecureSilverDelphinia FaithfulBronzeBeckie {
+    }
+    number AwfulGrayNerti {
+    }
+    string ConstantTealBilli {
+    }
+    dummy.RespectableSapphireSheri HomelyBrownBarbara {
+    }
+    boolean ChristianTurquoiseAmi {
+    }
+    serviceid ColdPlumRebekkah {
+    }
+    dummy.TechnologicalOliveReta RacialMoccasinZora {
+    }
+    boolean GenerousHarlequinMia {
+    }
+    number ArchitecturalIndigoDevina {
+    }
+  }
+  UniformMoccasinBess = "Im only familiar with 25 letters in the English language. I dont know why."
+  ElectricalFuchsiaGladi = 168
+  FluffyCyanCorissa = false
+  GrumpyMaroonIdell = 699
+  MarkedTomatoOlivia = "What do you call two barracuda fish?  A Pairacuda!"
+  NativeAmethystColene = "Why didnt the skeleton cross the road? Because he had no guts."
+  HelpfulSalmonCaterina = 426
+  MedicalAmethystMahala = "What do you call two barracuda fish?  A Pairacuda!"
+  FamiliarIndigoBevvy = 779
+  AwkwardCrimsonGinny = "Whoever invented the knock-knock joke should get a no bell prize."
+  SensitiveCopperRose = true
+  MaleCoffeeEleanor = true
+  ConcernedHarlequinEmilie = 695
+  CentralLimeAlexi = false
+  WeeklyAquaAlice = false
+  AwfulGrayNerti = 980
+  ConstantTealBilli = "Why did the tomato blush? Because it saw the salad dressing."
+  ChristianTurquoiseAmi = false
+  ColdPlumRebekkah = "Why didnt the skeleton cross the road? Because he had no guts."
+  GenerousHarlequinMia = false
+  ArchitecturalIndigoDevina = 732
+  _important_values = [
+    {
+      value = "PotentialIndigoAnnalee"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AsleepOliveAmmamaria"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "IdealBrownMarin"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "NeatTurquoiseAlecia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SilkyScarletCorina"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ElectricalFuchsiaGladi"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FluffyCyanCorissa"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GrumpyMaroonIdell"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HelpfulSalmonCaterina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ConcernedHarlequinEmilie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "WeeklyAquaAlice"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FaithfulBronzeBeckie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "WilfulTomatoRhea_alias"
+}

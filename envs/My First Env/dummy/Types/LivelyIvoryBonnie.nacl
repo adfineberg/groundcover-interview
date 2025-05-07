@@ -1,0 +1,123 @@
+type dummy.LivelyIvoryBonnie {
+  annotations {
+    json FutureFuchsiaTrudey {
+    }
+    boolean FitIvoryKatharyn {
+    }
+    number SkinnyCopperVioletta {
+    }
+    number GloriousIndigoLorry {
+    }
+    serviceid AddedMoccasinRandi {
+    }
+    number QuickestAmberCherice {
+    }
+  }
+  string RidiculousAmberCelle {
+    _hidden_value = true
+  }
+  "List<boolean>" AccessibleBlackShalna {
+    _hidden_value = true
+  }
+  serviceid BigBlushVevay {
+    _hidden_value = true
+  }
+  json ViciousPinkJammie {
+    _hidden_value = true
+  }
+  "Map<json>" MistySalmonAleen {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HotRedAnnis {
+    _hidden_value = true
+  }
+  serviceid_number DisciplinaryBeigeRanda {
+    _hidden_value = true
+  }
+  boolean LiteraryRedMargy {
+    _hidden_value = true
+  }
+  serviceid FarBronzeDarda {
+    _hidden_value = true
+  }
+  string RedundantCyanSonnnie {
+    _hidden_value = true
+  }
+  json YoungestOliveHaily {
+    _hidden_value = true
+  }
+  serviceid_number AsleepCrimsonFancy {
+    _hidden_value = true
+  }
+  serviceid_number IntegralSapphireJammie {
+    _hidden_value = true
+  }
+  json OralTurquoiseVeronike {
+    _hidden_value = true
+  }
+  dummy.EventualSilverMerrilee YouthfulWhiteIlyse {
+    _hidden_value = true
+  }
+  hidden_boolean SupremeSalmonAnestassia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid PrincipalJadePattie {
+    _hidden_value = true
+  }
+  json RoastedGreenFulvia {
+    _hidden_value = true
+  }
+  "List<string>" ScrawnyAmaranthSheeree {
+    _hidden_value = true
+  }
+  boolean ScaredAquamarineIsa {
+    _hidden_value = true
+  }
+  dummy.PreparedChocolateVanny NoisyOrangeRoselle {
+    DampCrimsonDacia = 229
+    FlyingFuchsiaAlfreda = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    ConceptualOrangeJana = "I'll tell you what often gets over looked... garden fences."
+    VividCyanShina = 328
+    _hidden_value = true
+  }
+  FutureFuchsiaTrudey = "Whoever invented the knock-knock joke should get a no bell prize."
+  FitIvoryKatharyn = false
+  SkinnyCopperVioletta = 952
+  GloriousIndigoLorry = 475
+  AddedMoccasinRandi = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  QuickestAmberCherice = 977
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AsleepCrimsonFancy"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "NoisyOrangeRoselle"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MistySalmonAleen"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RedundantCyanSonnnie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FitIvoryKatharyn"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

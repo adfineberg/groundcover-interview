@@ -1,0 +1,33 @@
+type dummy.CostlyRedRhody {
+  annotations {
+    number WildBlueAlfie {
+    }
+    serviceid_number ConfidentApricotMalina {
+    }
+    dummy.MaleVioletLari ArmedEmeraldTeri {
+    }
+    serviceid_number SlightPlumJaney {
+    }
+    serviceid_number PatientBlueDyana {
+    }
+    string ValidLavenderLyndel {
+    }
+  }
+  string ClearBronzeRosalynd {
+    _hidden_value = true
+  }
+  WildBlueAlfie = 885
+  ConfidentApricotMalina = 525
+  ArmedEmeraldTeri = false
+  SlightPlumJaney = 32
+  PatientBlueDyana = 847
+  ValidLavenderLyndel = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "WildBlueAlfie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

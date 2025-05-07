@@ -1,0 +1,35 @@
+type dummy.FederalSalmonLotty {
+  annotations {
+    string AutonomousCyanLucille {
+    }
+    boolean SlipperyOrangeChere {
+    }
+    serviceid ExoticPeachJohnath {
+    }
+    number ReasonableGreenCorinne {
+    }
+  }
+  serviceid KeenBlackPierette {
+    _hidden_value = true
+  }
+  json UsefulPeachMavra {
+    _hidden_value = true
+  }
+  string HurtGreenAlisun {
+    _hidden_value = true
+  }
+  json EmbarrassingCopperCarlita {
+    _hidden_value = true
+  }
+  number IndividualIndigoFrederica {
+    _hidden_value = true
+  }
+  string RemainingMaroonLeola {
+    _hidden_value = true
+  }
+  AutonomousCyanLucille = "Dad Im hungry  Hi hungry Im dad"
+  SlipperyOrangeChere = false
+  ExoticPeachJohnath = "Why did the tomato blush? Because it saw the salad dressing."
+  ReasonableGreenCorinne = 465
+  _hidden_value = true
+}

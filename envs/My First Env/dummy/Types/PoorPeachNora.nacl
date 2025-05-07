@@ -1,0 +1,101 @@
+type dummy.PoorPeachNora {
+  annotations {
+    boolean FancyGreenAlejandrina {
+    }
+    json StandardPurpleLian {
+    }
+    serviceid_number OkJadeCarmita {
+    }
+    boolean OutstandingRoseIdalia {
+    }
+    hidden_boolean DeafeningWhiteLynelle {
+    }
+  }
+  dummy.AccessibleTurquoiseEssie AgreeableLavenderSelina {
+    BrilliantMaroonBonni = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    SupposedIndigoDusty = true
+    _hidden_value = true
+  }
+  serviceid_number CorrespondingCyanLoleta {
+    _hidden_value = true
+  }
+  boolean ScornfulAquaCourtney {
+    _hidden_value = true
+  }
+  boolean FoolishVioletMarillin {
+    _hidden_value = true
+  }
+  hidden_boolean VisualSapphireDeerdre {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string DelicateAzureRachael {
+    _hidden_value = true
+  }
+  json DeafeningTealLeilah {
+    _hidden_value = true
+  }
+  hidden_boolean ExtraordinaryGoldDennie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json PreciseBlackAdria {
+    _hidden_value = true
+  }
+  serviceid_number CasualApricotYvonne {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TerribleMoccasinHollie {
+    _hidden_value = true
+  }
+  serviceid_number DisgustedBeigeClarabelle {
+    _hidden_value = true
+  }
+  "List<json>" ReasonableIndigoDora {
+    _hidden_value = true
+  }
+  string FriendlyMaroonOlivia {
+    _hidden_value = true
+  }
+  number HistoricalAmberMelisa {
+    _hidden_value = true
+  }
+  number ShockedOrangeAdina {
+    _hidden_value = true
+  }
+  string SevereCopperCally {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ObligedChocolateBili {
+    _hidden_value = true
+  }
+  serviceid XericMaroonBlinnie {
+    _hidden_value = true
+  }
+  FancyGreenAlejandrina = true
+  StandardPurpleLian = "Did you know that protons have mass? I didn't even know they were catholic."
+  OkJadeCarmita = 87
+  OutstandingRoseIdalia = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DisgustedBeigeClarabelle"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "TerribleMoccasinHollie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PreciseBlackAdria"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

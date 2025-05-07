@@ -1,0 +1,27 @@
+type dummy.WeakEmeraldOrel {
+  annotations {
+    boolean ProudJadeMaisey {
+    }
+    dummy.DelightedVioletLiv CurrentMoccasinSuki {
+    }
+    string InnerCoffeeChristal {
+    }
+    number RepresentativeWhiteCalley {
+    }
+  }
+  json XerothermicTurquoiseKorella {
+    _hidden_value = true
+  }
+  ProudJadeMaisey = true
+  CurrentMoccasinSuki = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  InnerCoffeeChristal = "Why do birds fly south for the winter? Because it's too far to walk."
+  RepresentativeWhiteCalley = 601
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "RepresentativeWhiteCalley"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

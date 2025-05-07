@@ -1,0 +1,113 @@
+type dummy.BoringRoseCorrinne {
+  annotations {
+    number MultipleLimeMelisent {
+    }
+    number CloseAzureChelsey {
+    }
+    number GenerousJadeVicky {
+    }
+    string ActiveApricotBarbaraanne {
+    }
+    serviceid EstimatedPeachMartie {
+    }
+  }
+  boolean SmartCoralMarylynne {
+    _hidden_value = true
+  }
+  serviceid ConfusedTanDehlia {
+    _hidden_value = true
+  }
+  json ChristianTomatoCindelyn {
+    _hidden_value = true
+  }
+  "List<json>" PowerfulRoseZelda {
+    _hidden_value = true
+  }
+  json ExoticBlackNoreen {
+    _hidden_value = true
+  }
+  number ScaredSalmonDorie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DistinguishedCoralJanice {
+    _hidden_value = true
+  }
+  serviceid FutureRedHayley {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LengthyLavenderBerry {
+    _hidden_value = true
+  }
+  serviceid_number NovelRoseDebora {
+    _hidden_value = true
+  }
+  json WonderfulVioletClary {
+    _hidden_value = true
+  }
+  json DustyOrangeDulcie {
+    _hidden_value = true
+  }
+  string ReluctantAquamarineLindy {
+    _hidden_value = true
+  }
+  serviceid ClosedPinkEddi {
+    _hidden_value = true
+  }
+  boolean TheoreticalApricotAlis {
+    _hidden_value = true
+  }
+  string DevotedLimeMarley {
+    _hidden_value = true
+  }
+  "List<json>" SlightPurpleAnastasie {
+    _hidden_value = true
+  }
+  json LiveAzureAnya {
+    _hidden_value = true
+  }
+  dummy.IndependentOliveClaudetta BiologicalMoccasinChristean {
+    WelcomeCoffeeRanique = 320
+    ActualVioletRozelle = 438
+    DearOrangeBobbe = "Dad Im hungry  Hi hungry Im dad"
+    UninterestedTanMaddi = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    EventualLavenderFern = false
+    ManagerialAquaMeagan = true
+    UnconsciousAmaranthSuzie = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    TastyMagentaAnnice = false
+    InadequateChocolateAnnmarie = 779
+    UnconsciousLavenderArdelle = "Why did the kid cross the playground? To get to the other slide."
+    _hidden_value = true
+  }
+  hidden_boolean BackPlumConsuela {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  MultipleLimeMelisent = 71
+  CloseAzureChelsey = 8
+  GenerousJadeVicky = 634
+  ActiveApricotBarbaraanne = "Why do birds fly south for the winter? Because it's too far to walk."
+  EstimatedPeachMartie = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ChristianTomatoCindelyn"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "MultipleLimeMelisent"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CloseAzureChelsey"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

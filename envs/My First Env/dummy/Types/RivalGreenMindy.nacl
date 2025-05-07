@@ -1,0 +1,26 @@
+type dummy.RivalGreenMindy {
+  annotations {
+    boolean DemocraticPeachLayne {
+    }
+    json SparklingVioletKi {
+    }
+    string SmilingBeigeMissie {
+    }
+    number FrontTomatoQuintana {
+    }
+  }
+  serviceid_number QuixoticBlueGuinna {
+    _hidden_value = true
+  }
+  json CurvedCopperKandace {
+    _hidden_value = true
+  }
+  boolean CooperativeCopperRakel {
+    _hidden_value = true
+  }
+  DemocraticPeachLayne = true
+  SparklingVioletKi = "Why is Peter Pan always flying? Because he Neverlands."
+  SmilingBeigeMissie = "Slept like a log last night  woke up in the fireplace."
+  FrontTomatoQuintana = 132
+  _hidden_value = true
+}

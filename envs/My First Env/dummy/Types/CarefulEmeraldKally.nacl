@@ -1,0 +1,93 @@
+type dummy.CarefulEmeraldKally {
+  annotations {
+    json PoliticalTealCoralie {
+    }
+    serviceid_number CollectivePeachTawnya {
+    }
+    hidden_boolean ShinyChocolateSaidee {
+    }
+    number PotentialAmethystPatricia {
+    }
+    serviceid WorryingBlueRanda {
+    }
+  }
+  number BoredChocolateJenny {
+    _hidden_value = true
+  }
+  serviceid_number QuickestHarlequinKerstin {
+    _hidden_value = true
+  }
+  "List<dummy.DEFAULT>" ResponsibleScarletLynda {
+    _hidden_value = true
+  }
+  number FitMagentaHertha {
+    _hidden_value = true
+  }
+  serviceid_number ExtraTealCaro {
+    _hidden_value = true
+  }
+  json InadequateHarlequinJewelle {
+    _hidden_value = true
+  }
+  serviceid FinancialHarlequinDarya {
+    _hidden_value = true
+  }
+  boolean MagneticLavenderMarie {
+    _hidden_value = true
+  }
+  hidden_boolean HushedWhitePhaedra {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number DisgustedSilverDeedee {
+    _hidden_value = true
+  }
+  serviceid_number EntirePurpleRose {
+    _hidden_value = true
+  }
+  boolean WoodenAmberCaprice {
+    _hidden_value = true
+  }
+  number MistyAquamarineDagmar {
+    _hidden_value = true
+  }
+  json NearbyTealAndriana {
+    _hidden_value = true
+  }
+  json UnderlyingTurquoiseRoda {
+    _hidden_value = true
+  }
+  serviceid_number FemalePeachMichelle {
+    _hidden_value = true
+  }
+  serviceid_number GleamingGrayGleda {
+    _hidden_value = true
+  }
+  dummy.InformalTurquoiseFaith SuitableChocolateBettine {
+    RottenScarletGiustina = "Slept like a log last night  woke up in the fireplace."
+    DefeatedBlushChere = "To be Frank, I'd have to change my name."
+    VoluntaryOliveAriana = "To be Frank, I'd have to change my name."
+    YearningTomatoHedvige = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    BlushingBlushViola = "Why didnt the skeleton cross the road? Because he had no guts."
+    InjuredCoralKatusha = false
+    XenaciousPlumGusty = true
+    IdealCopperSheba = 265
+    DisabledMaroonPaulina = 158
+    _hidden_value = true
+  }
+  PoliticalTealCoralie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CollectivePeachTawnya = 6
+  PotentialAmethystPatricia = 788
+  WorryingBlueRanda = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "PotentialAmethystPatricia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

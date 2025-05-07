@@ -1,0 +1,16 @@
+type dummy.YawningTomatoBlaire is string {
+  annotations {
+    json DirectRedMadelon {
+    }
+    json NativeIvoryDella {
+    }
+    json UnableSalmonDianemarie {
+    }
+    serviceid ThinVioletSheilah {
+    }
+  }
+  DirectRedMadelon = "A steak pun is a rare medium well done."
+  NativeIvoryDella = "Im only familiar with 25 letters in the English language. I dont know why."
+  UnableSalmonDianemarie = "What do you call two barracuda fish?  A Pairacuda!"
+  ThinVioletSheilah = "I'll tell you what often gets over looked... garden fences."
+}

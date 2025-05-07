@@ -1,0 +1,37 @@
+type dummy.BumpyAzureVirgie {
+  annotations {
+    hidden_boolean ExperimentalOliveJoanne {
+    }
+    dummy.UpperTanDebby BindingRedFlorina {
+    }
+    json CompetentVioletLibby {
+    }
+    serviceid_number LeadingRoseGarland {
+    }
+    json ChubbyGreenGilli {
+    }
+    serviceid_number ImaginativePlumMoina {
+    }
+  }
+  boolean AbundantRoseDanell {
+    _hidden_value = true
+  }
+  BindingRedFlorina = true
+  CompetentVioletLibby = "Why do birds fly south for the winter? Because it's too far to walk."
+  LeadingRoseGarland = 523
+  ChubbyGreenGilli = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ImaginativePlumMoina = 210
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ExperimentalOliveJoanne"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LeadingRoseGarland"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

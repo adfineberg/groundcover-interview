@@ -1,0 +1,33 @@
+type dummy.ImaginativeCyanEmmalynn is boolean {
+  annotations {
+    serviceid_number ScatteredIndigoHildegarde {
+    }
+    number DistinguishedIndigoSile {
+    }
+    number RepresentativeBronzeAlika {
+    }
+    json ImpressedOrangeAnnecorinne {
+    }
+    serviceid HotTurquoiseDarb {
+    }
+    string YabberingGoldStevana {
+    }
+    serviceid ThinBrownTory {
+    }
+    boolean MolecularBeigeKettie {
+    }
+    hidden_boolean TameCoffeeBrigit {
+    }
+    string JudicialOrangeCally {
+    }
+  }
+  ScatteredIndigoHildegarde = 677
+  DistinguishedIndigoSile = 936
+  RepresentativeBronzeAlika = 581
+  ImpressedOrangeAnnecorinne = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  HotTurquoiseDarb = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  YabberingGoldStevana = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ThinBrownTory = "Why is Peter Pan always flying? Because he Neverlands."
+  MolecularBeigeKettie = true
+  JudicialOrangeCally = "Whoever invented the knock-knock joke should get a no bell prize."
+}

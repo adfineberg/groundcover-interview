@@ -1,0 +1,80 @@
+type dummy.UnsightlyCyanSunny {
+  annotations {
+    number AlliedCoffeeAuguste {
+    }
+    number ColourfulBlackAngelia {
+    }
+    json HarshJadeCalida {
+    }
+    hidden_boolean WeeJadeCornie {
+    }
+    hidden_boolean FormidableIvorySonny {
+    }
+    json MildGoldLaurie {
+    }
+  }
+  json ChubbyAmberMuffin {
+    _hidden_value = true
+  }
+  serviceid SuperMagentaCandis {
+    _hidden_value = true
+  }
+  json EndlessCyanCarlene {
+    _hidden_value = true
+  }
+  number LiableTanOlivia {
+    _hidden_value = true
+  }
+  hidden_boolean OccupationalMaroonFlorri {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string HissingApricotOla {
+    _hidden_value = true
+  }
+  string WeeklyBlushHelaine {
+    _hidden_value = true
+  }
+  hidden_boolean AcuteAmberJenda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ObligedGreenStefa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid GentleBronzeJudye {
+    _hidden_value = true
+  }
+  hidden_boolean SquealingChocolateMasha {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ResidentPinkFlo {
+    _hidden_value = true
+  }
+  string BrilliantJadeCassy {
+    _hidden_value = true
+  }
+  AlliedCoffeeAuguste = 938
+  ColourfulBlackAngelia = 583
+  HarshJadeCalida = "Why was it called the dark ages? Because of all the knights. "
+  MildGoldLaurie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "AlliedCoffeeAuguste"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FormidableIvorySonny"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

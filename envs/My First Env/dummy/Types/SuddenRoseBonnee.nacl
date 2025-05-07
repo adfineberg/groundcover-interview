@@ -1,0 +1,56 @@
+type dummy.SuddenRoseBonnee {
+  annotations {
+    dummy.DEFAULT InteriorPurpleMagdalen {
+    }
+    number EqualAmaranthAgnesse {
+    }
+    hidden_boolean AvailableAquaAlleen {
+    }
+    string FinancialLimeMaryl {
+    }
+    serviceid_number MarkedGreenTessie {
+    }
+  }
+  json LivingMaroonEmmalyn {
+    _hidden_value = true
+  }
+  string CorrespondingAmaranthCordy {
+    _hidden_value = true
+  }
+  serviceid EnergeticIvoryLeola {
+    _hidden_value = true
+  }
+  serviceid_number CleanLimeLynna {
+    _hidden_value = true
+  }
+  json DoubtfulCrimsonSher {
+    _hidden_value = true
+  }
+  json RearSalmonCatlee {
+    _hidden_value = true
+  }
+  InteriorPurpleMagdalen = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  EqualAmaranthAgnesse = 263
+  FinancialLimeMaryl = "What creature is smarter than a talking parrot? A spelling bee."
+  MarkedGreenTessie = 985
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RearSalmonCatlee"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "EnergeticIvoryLeola"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DoubtfulCrimsonSher"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

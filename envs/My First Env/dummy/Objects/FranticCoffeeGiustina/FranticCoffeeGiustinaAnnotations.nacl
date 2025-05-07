@@ -1,0 +1,58 @@
+type dummy.FranticCoffeeGiustina {
+  annotations {
+    string ColossalPurpleOpal {
+    }
+    number ArmedBlushJeanna {
+    }
+    serviceid MusicalHarlequinNelia {
+    }
+    boolean LostCoralRegina {
+    }
+    serviceid RelevantPlumLeeanne {
+    }
+    hidden_boolean SystematicPurpleMarji {
+    }
+    number ImportantPeachLurlene {
+    }
+    serviceid BetterGoldAgata {
+    }
+    string SweetLavenderHollyanne {
+    }
+    dummy.RandomMaroonDanit BareGrayHinda {
+    }
+    dummy.FormidableAquaCorliss CarefulGreenDeanna {
+    }
+    serviceid SteadyPlumDell {
+    }
+    boolean EmptyWhiteMarji {
+    }
+    dummy.EconomicCoffeeBria LeadingRoseKaela {
+    }
+    dummy.SecondaryAquaRori HistoricBlushSherri {
+    }
+    json ThirstyGrayKarita {
+    }
+    number GentlePinkCorenda {
+    }
+  }
+  ColossalPurpleOpal = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ArmedBlushJeanna = 705
+  MusicalHarlequinNelia = "My first time using an elevator was an uplifting experience. The second time let me down."
+  LostCoralRegina = false
+  RelevantPlumLeeanne = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ImportantPeachLurlene = 582
+  BetterGoldAgata = "Why was it called the dark ages? Because of all the knights. "
+  SweetLavenderHollyanne = "A steak pun is a rare medium well done."
+  SteadyPlumDell = "What do you do on a remote island? Try and find the TV island it belongs to."
+  EmptyWhiteMarji = true
+  ThirstyGrayKarita = "What creature is smarter than a talking parrot? A spelling bee."
+  GentlePinkCorenda = 159
+  _self_important_values = [
+    {
+      value = "LostCoralRegina"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "FranticCoffeeGiustina_alias"
+}

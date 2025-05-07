@@ -1,0 +1,92 @@
+type dummy.RearMoccasinTami {
+  annotations {
+    json FiercePinkAdora {
+    }
+    boolean SelectedCoralMaye {
+    }
+    number BigJadeMaribelle {
+    }
+    hidden_boolean DigitalSilverElvira {
+    }
+    boolean FreshMaroonKalie {
+    }
+  }
+  dummy.DEFAULT RelatedBlackCharmaine {
+    _hidden_value = true
+  }
+  json IntensivePinkBetty {
+    _hidden_value = true
+  }
+  boolean SmoggyWhiteMarlane {
+    _hidden_value = true
+  }
+  boolean GuiltyCoffeeKlarrisa {
+    _hidden_value = true
+  }
+  serviceid_number GentleMagentaElaine {
+    _hidden_value = true
+  }
+  string SharedMoccasinLynda {
+    _hidden_value = true
+  }
+  string ConvincedPurpleMirelle {
+    _hidden_value = true
+  }
+  serviceid BigOliveTamarra {
+    _hidden_value = true
+  }
+  hidden_boolean XenophobicGreenIndira {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SilkyAmberMarquita {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number FlatCoralArdine {
+    _hidden_value = true
+  }
+  string ReadyRedOlga {
+    _hidden_value = true
+  }
+  hidden_boolean PastOliveAggie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SuperWhiteHeather {
+    _hidden_value = true
+  }
+  json ShyScarletTiertza {
+    _hidden_value = true
+  }
+  string InadequateWhitePolly {
+    _hidden_value = true
+  }
+  hidden_boolean ComfortableMoccasinTomasine {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ParallelEmeraldRebecca {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid FlexibleBlackRanda {
+    _hidden_value = true
+  }
+  string WanderingGoldFlorencia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FuriousMaroonLibbey {
+    _hidden_value = true
+  }
+  FiercePinkAdora = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SelectedCoralMaye = true
+  BigJadeMaribelle = 153
+  FreshMaroonKalie = false
+  _hidden_value = true
+}

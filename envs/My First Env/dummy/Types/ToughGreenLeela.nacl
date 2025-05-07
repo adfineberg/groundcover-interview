@@ -1,0 +1,73 @@
+type dummy.ToughGreenLeela {
+  annotations {
+    boolean InformalMagentaColly {
+    }
+    serviceid_number IndividualPinkOdessa {
+    }
+    serviceid DemocraticScarletGeorgena {
+    }
+    dummy.DEFAULT ShiveringAzureLara {
+    }
+    boolean RepulsiveGrayLark {
+    }
+  }
+  boolean ExperiencedTealAmaleta {
+    _hidden_value = true
+  }
+  serviceid_number ArtisticOliveGweneth {
+    _hidden_value = true
+  }
+  number YuckyVioletKati {
+    _hidden_value = true
+  }
+  hidden_boolean CombinedVioletChristine {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json AsleepPinkTerri {
+    _hidden_value = true
+  }
+  serviceid WeeklyAmethystPris {
+    _hidden_value = true
+  }
+  serviceid_number AllegedIndigoDevinne {
+    _hidden_value = true
+  }
+  serviceid RigidSapphireFaythe {
+    _hidden_value = true
+  }
+  json LabourBeigeDee {
+    _hidden_value = true
+  }
+  json RelativeAmaranthDevina {
+    _hidden_value = true
+  }
+  InformalMagentaColly = true
+  IndividualPinkOdessa = 717
+  DemocraticScarletGeorgena = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ShiveringAzureLara = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  RepulsiveGrayLark = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ArtisticOliveGweneth"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WeeklyAmethystPris"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DemocraticScarletGeorgena"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

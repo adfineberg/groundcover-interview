@@ -1,0 +1,92 @@
+type dummy.HiddenGoldDamita {
+  annotations {
+    boolean InsufficientRoseFawne {
+    }
+    json LexicalIvoryPippa {
+    }
+    string FoolishAmaranthRhona {
+    }
+    serviceid ArrogantSalmonBerny {
+    }
+  }
+  serviceid SevereGreenHinda {
+    _hidden_value = true
+  }
+  hidden_boolean FullFuchsiaAviva {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<json>" RationalGoldSibilla {
+    _hidden_value = true
+  }
+  number LabourLavenderBenni {
+    _hidden_value = true
+  }
+  json GrossCrimsonCharmaine {
+    _hidden_value = true
+  }
+  serviceid NastyBronzeKathye {
+    _hidden_value = true
+  }
+  json DependentHarlequinGwennie {
+    _hidden_value = true
+  }
+  serviceid IntactEmeraldAlexina {
+    _hidden_value = true
+  }
+  boolean MathematicalTurquoiseDahlia {
+    _hidden_value = true
+  }
+  "List<json>" IndependentPurpleTabbatha {
+    _hidden_value = true
+  }
+  dummy.NervousCyanBlisse MistyCrimsonCarolan {
+    _hidden_value = true
+  }
+  serviceid_number FlatRedSamaria {
+    _hidden_value = true
+  }
+  serviceid ToughApricotMarieann {
+    _hidden_value = true
+  }
+  number SolidApricotAlika {
+    _hidden_value = true
+  }
+  string FashionableChocolateAdela {
+    _hidden_value = true
+  }
+  number DeliciousVioletAmargo {
+    _hidden_value = true
+  }
+  serviceid RobustAzureConstantina {
+    _hidden_value = true
+  }
+  serviceid_number ModerateLavenderAshlee {
+    _hidden_value = true
+  }
+  InsufficientRoseFawne = false
+  LexicalIvoryPippa = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  FoolishAmaranthRhona = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ArrogantSalmonBerny = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LabourLavenderBenni"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MistyCrimsonCarolan"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "LexicalIvoryPippa"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

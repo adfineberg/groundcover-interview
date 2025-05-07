@@ -1,0 +1,61 @@
+type dummy.PastScarletAnnabelle {
+  annotations {
+    number ScatteredTurquoiseMadeline {
+    }
+    json AbstractAmethystDarcy {
+    }
+    serviceid_number FrailTomatoOlympie {
+    }
+  }
+  number XenaciousCoralGlenine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImpressedAzureAmii {
+    _hidden_value = true
+  }
+  json SimilarCrimsonMarcelia {
+    _hidden_value = true
+  }
+  serviceid GreasyBeigeRobbin {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GlobalIvoryBrigitta {
+    _hidden_value = true
+  }
+  number FrequentAmaranthBamby {
+    _hidden_value = true
+  }
+  boolean ZygoticGrayTamarah {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MarriedEmeraldEdi {
+    _hidden_value = true
+  }
+  string HotTomatoStacey {
+    _hidden_value = true
+  }
+  string UniformGrayBrittan {
+    _hidden_value = true
+  }
+  hidden_boolean BackTomatoKatya {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean PoliticalOrangeBarbey {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  ScatteredTurquoiseMadeline = 556
+  AbstractAmethystDarcy = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FrailTomatoOlympie = 941
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ScatteredTurquoiseMadeline"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

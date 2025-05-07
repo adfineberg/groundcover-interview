@@ -1,0 +1,65 @@
+type dummy.HistoricalBluePammi {
+  annotations {
+    serviceid_number LivelyGreenColene {
+    }
+    number BitterLimeHannie {
+    }
+    serviceid_number ImpressiveVioletLauraine {
+    }
+    number PoisedOrangeMirabelle {
+    }
+    serviceid PatientAmaranthMagdaia {
+    }
+    serviceid ZygoticApricotCindi {
+    }
+  }
+  number ImmediateBeigeAlyson {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AssistantCoralDarya {
+    _hidden_value = true
+  }
+  serviceid_number HilariousAmaranthKailey {
+    _hidden_value = true
+  }
+  serviceid_number ThirstyCopperCristin {
+    _hidden_value = true
+  }
+  boolean DelightedCoralMelisandra {
+    _hidden_value = true
+  }
+  json ElaborateBrownErmina {
+    _hidden_value = true
+  }
+  LivelyGreenColene = 533
+  BitterLimeHannie = 671
+  ImpressiveVioletLauraine = 488
+  PoisedOrangeMirabelle = 313
+  PatientAmaranthMagdaia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ZygoticApricotCindi = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ThirstyCopperCristin"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ZygoticApricotCindi"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LivelyGreenColene"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ImpressiveVioletLauraine"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,84 @@
+type dummy.HeadPlumKayley {
+  annotations {
+    hidden_boolean PrivateMoccasinHildagarde {
+    }
+    dummy.DelightedVioletLiv FancyAquamarineMaris {
+    }
+    string TechnicalBlueLeland {
+    }
+    boolean CompactOrangeDonella {
+    }
+    hidden_boolean LatinWhiteNance {
+    }
+  }
+  json VisibleVioletGeorgia {
+    _hidden_value = true
+  }
+  hidden_boolean LesserBeigeAllis {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<serviceid>" UnsightlyPurpleScarlett {
+    _hidden_value = true
+  }
+  number AllegedFuchsiaDarice {
+    _hidden_value = true
+  }
+  serviceid_number InterimLavenderNanon {
+    _hidden_value = true
+  }
+  json YelpingVioletMarketa {
+    _hidden_value = true
+  }
+  json BareGreenMadonna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RealApricotJyoti {
+    _hidden_value = true
+  }
+  dummy.AcceptableAmaranthGertrudis YellingVioletRobin {
+    SportingGreenRachel = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    ColorfulAmberRhetta = "Im only familiar with 25 letters in the English language. I dont know why."
+    UsedLimeMia = 804
+    SharpAzureChandra = "My first time using an elevator was an uplifting experience. The second time let me down."
+    AnnualAquamarineAmii = true
+    UninterestedSalmonClaretta = false
+    IllTomatoKimberley = 3
+    TemporaryFuchsiaGuillema = "What do you do on a remote island? Try and find the TV island it belongs to."
+    MentalSalmonKori = "Whoever invented the knock-knock joke should get a no bell prize."
+    CarefulBlushSaraann = 949
+    TropicalWhiteLauralee = "Why didnt the skeleton cross the road? Because he had no guts."
+    PsychologicalFuchsiaAnnabal = "My first time using an elevator was an uplifting experience. The second time let me down."
+    _hidden_value = true
+  }
+  hidden_boolean DrivingAmberEda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.LegitimateBlushGoldie LargeAzureSuzanna {
+    RealisticCoffeeRoberta = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ConvincingJadeNorma = "How come the stadium got hot after the game? Because all of the fans left."
+    _hidden_value = true
+  }
+  number AfraidGreenMady {
+    _hidden_value = true
+  }
+  serviceid_number SpatialBlueBinny {
+    _hidden_value = true
+  }
+  FancyAquamarineMaris = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  TechnicalBlueLeland = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  CompactOrangeDonella = false
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "TechnicalBlueLeland"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

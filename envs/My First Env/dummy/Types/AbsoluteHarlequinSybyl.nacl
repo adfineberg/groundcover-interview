@@ -1,0 +1,127 @@
+type dummy.AbsoluteHarlequinSybyl {
+  annotations {
+    boolean AcademicBlushHoratia {
+    }
+    boolean RightRoseLeeann {
+    }
+    hidden_boolean ObedientPeachYettie {
+    }
+    hidden_boolean CausalScarletQueenie {
+    }
+    serviceid NewTomatoKesley {
+    }
+    serviceid InlandGrayAudrey {
+    }
+  }
+  boolean SilentMoccasinLaura {
+    _hidden_value = true
+  }
+  hidden_boolean DiverseEmeraldChristyna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.ImaginativeCyanEmmalynn FortunateAquaRori {
+    ScatteredIndigoHildegarde = 519
+    DistinguishedIndigoSile = 304
+    RepresentativeBronzeAlika = 42
+    ImpressedOrangeAnnecorinne = "Why didnt the skeleton cross the road? Because he had no guts."
+    HotTurquoiseDarb = "Whoever invented the knock-knock joke should get a no bell prize."
+    YabberingGoldStevana = "Why did the tomato blush? Because it saw the salad dressing."
+    ThinBrownTory = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    MolecularBeigeKettie = true
+    JudicialOrangeCally = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  number ContinuedYellowLouisa {
+    _hidden_value = true
+  }
+  number MeanApricotJemmie {
+    _hidden_value = true
+  }
+  json FormidableOrangeSimone {
+    _hidden_value = true
+  }
+  serviceid ProductiveIndigoArdeen {
+    _hidden_value = true
+  }
+  dummy.LegitimateBlushGoldie UninterestedOrangeKorella {
+    RealisticCoffeeRoberta = "Did you know that protons have mass? I didn't even know they were catholic."
+    ConvincingJadeNorma = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  serviceid_number PreviousAquamarineKelcie {
+    _hidden_value = true
+  }
+  serviceid BalancedMoccasinMalena {
+    _hidden_value = true
+  }
+  string AcceptableJadeEda {
+    _hidden_value = true
+  }
+  json FixedVioletCristie {
+    _hidden_value = true
+  }
+  number FunSilverGrissel {
+    _hidden_value = true
+  }
+  serviceid ModestOrangeShirline {
+    _hidden_value = true
+  }
+  string HushedBrownDorri {
+    _hidden_value = true
+  }
+  serviceid_number DyingSilverJulianna {
+    _hidden_value = true
+  }
+  json AcceptableHarlequinKelsy {
+    _hidden_value = true
+  }
+  boolean ExplicitJadeDarcy {
+    _hidden_value = true
+  }
+  AcademicBlushHoratia = true
+  RightRoseLeeann = false
+  NewTomatoKesley = "Slept like a log last night  woke up in the fireplace."
+  InlandGrayAudrey = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AcceptableJadeEda"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AcceptableHarlequinKelsy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FunSilverGrissel"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DyingSilverJulianna"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ModestOrangeShirline"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CausalScarletQueenie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AcademicBlushHoratia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

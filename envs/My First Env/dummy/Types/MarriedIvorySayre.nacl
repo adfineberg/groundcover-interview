@@ -1,0 +1,199 @@
+type dummy.MarriedIvorySayre {
+  annotations {
+    serviceid DullMaroonAmmamaria {
+    }
+    string WeeklyGoldMicki {
+    }
+    json IsolatedApricotCarlyn {
+    }
+    string ImplicitGreenJulienne {
+    }
+    serviceid_number InterimMoccasinElyse {
+    }
+    string ThickLavenderKarlene {
+    }
+  }
+  hidden_boolean AccessibleSapphireAndria {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FiscalLimeTerri {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean CollectiveBlushLarina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ModestAquaShirline {
+    _hidden_value = true
+  }
+  json ThunderingPlumJaneta {
+    _hidden_value = true
+  }
+  boolean SocialOrangeAggy {
+    _hidden_value = true
+  }
+  serviceid NeighbouringPurpleAbby {
+    _hidden_value = true
+  }
+  number ShockedSalmonLuce {
+    _hidden_value = true
+  }
+  boolean LittleBeigeTamra {
+    _hidden_value = true
+  }
+  boolean ComplexRoseAdrianne {
+    _hidden_value = true
+  }
+  serviceid_number SimilarBronzeNara {
+    _hidden_value = true
+  }
+  serviceid_number DutchSilverOpal {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FrequentApricotIbbie {
+    _hidden_value = true
+  }
+  json CorporateRoseEllynn {
+    _hidden_value = true
+  }
+  serviceid WorkingBlueLinnie {
+    _hidden_value = true
+  }
+  serviceid SourBeigeCindy {
+    _hidden_value = true
+  }
+  serviceid_number IcyBlackEleonore {
+    _hidden_value = true
+  }
+  boolean DreadfulBlushJanean {
+    _hidden_value = true
+  }
+  serviceid SoundGrayDeidre {
+    _hidden_value = true
+  }
+  hidden_boolean MagneticCyanKendre {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean RelevantLavenderDela {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json DrivingBeigeHarri {
+    _hidden_value = true
+  }
+  boolean LivingMaroonLeanor {
+    _hidden_value = true
+  }
+  serviceid_number DelicatePeachRosemonde {
+    _hidden_value = true
+  }
+  hidden_boolean MobileSapphireDasi {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SpontaneousBlueMaible {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json HilariousTurquoiseWillette {
+    _hidden_value = true
+  }
+  "List<boolean>" ParentalTanDona {
+    _hidden_value = true
+  }
+  boolean SillyAzureShaina {
+    _hidden_value = true
+  }
+  hidden_boolean ProfessionalCopperDonia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean UltimateAquamarineAveril {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SoleAmethystDaryl {
+    _hidden_value = true
+  }
+  string GrimIvoryCayla {
+    _hidden_value = true
+  }
+  number SickCrimsonCrin {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TremendousTealDolly {
+    _hidden_value = true
+  }
+  serviceid_number CautiousCrimsonElvira {
+    _hidden_value = true
+  }
+  number UptightSilverTheresina {
+    _hidden_value = true
+  }
+  number MammothFuchsiaMaren {
+    _hidden_value = true
+  }
+  hidden_boolean UnwillingRoseLeshia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  DullMaroonAmmamaria = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  WeeklyGoldMicki = "Why did the tomato blush? Because it saw the salad dressing."
+  IsolatedApricotCarlyn = "Why do birds fly south for the winter? Because it's too far to walk."
+  ImplicitGreenJulienne = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  InterimMoccasinElyse = 618
+  ThickLavenderKarlene = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SocialOrangeAggy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LittleBeigeTamra"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LivingMaroonLeanor"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MagneticCyanKendre"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SpontaneousBlueMaible"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "IsolatedApricotCarlyn"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "InterimMoccasinElyse"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

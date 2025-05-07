@@ -1,0 +1,16 @@
+type dummy.StaleSilverLillian is number {
+  annotations {
+    serviceid_number ValuableGoldAudra {
+    }
+    serviceid_number RequiredCyanPaulie {
+    }
+    boolean ProbableYellowNoemi {
+    }
+    json ToxicGrayGoldia {
+    }
+  }
+  ValuableGoldAudra = 914
+  RequiredCyanPaulie = 240
+  ProbableYellowNoemi = true
+  ToxicGrayGoldia = "Why did the kid cross the playground? To get to the other slide."
+}

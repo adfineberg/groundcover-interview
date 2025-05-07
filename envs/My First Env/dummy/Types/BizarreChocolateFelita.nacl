@@ -1,0 +1,33 @@
+type dummy.BizarreChocolateFelita {
+  annotations {
+    boolean LegalSapphireVi {
+    }
+    serviceid_number PrettyTurquoiseAlmire {
+    }
+    json IntelligentAquamarineRoseann {
+    }
+    dummy.WitteringTomatoMufinella AwfulSapphireAbigael {
+    }
+  }
+  number EquivalentRoseJanka {
+    _hidden_value = true
+  }
+  serviceid SlimSilverKristina {
+    _hidden_value = true
+  }
+  boolean WorthwhileIndigoBrandice {
+    _hidden_value = true
+  }
+  LegalSapphireVi = false
+  PrettyTurquoiseAlmire = 132
+  IntelligentAquamarineRoseann = "Why do birds fly south for the winter? Because it's too far to walk."
+  AwfulSapphireAbigael = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "IntelligentAquamarineRoseann"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

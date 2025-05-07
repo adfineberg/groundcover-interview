@@ -1,0 +1,39 @@
+type dummy.YouthfulIvoryHermina {
+  string ProperOliveEsta {
+  }
+  hidden_boolean SteadyOliveJosefina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string ContinuingCrimsonElsbeth {
+  }
+  string BlondeOliveMarjory {
+  }
+  boolean SplendidTealSheela {
+  }
+  number AbsolutePinkShirlee {
+  }
+  hidden_boolean RedundantBeigeJobina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean FavourableCyanElysee {
+  }
+  hidden_boolean NationalAmberValli {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  json GenerousTanAlanna {
+  }
+  serviceid LengthySalmonShelly {
+  }
+  serviceid_number CrookedBeigeMaureene {
+  }
+  number LiableCyanJunie {
+  }
+  string UnexpectedBlushCaresa {
+  }
+}

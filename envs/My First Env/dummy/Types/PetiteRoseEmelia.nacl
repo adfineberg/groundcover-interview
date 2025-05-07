@@ -1,0 +1,29 @@
+type dummy.PetiteRoseEmelia {
+  annotations {
+    dummy.DEFAULT CriminalIndigoAlysa {
+    }
+    hidden_boolean JollyAzureMead {
+    }
+    string ConfidentWhiteMarta {
+    }
+  }
+  serviceid TeenageJadeBrunhilde {
+    _hidden_value = true
+  }
+  serviceid_number SupportingIndigoEmmaline {
+    _hidden_value = true
+  }
+  hidden_boolean FuzzyOliveGretchen {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number DistinctiveIvoryTory {
+    _hidden_value = true
+  }
+  CriminalIndigoAlysa = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  ConfidentWhiteMarta = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

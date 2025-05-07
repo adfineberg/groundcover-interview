@@ -1,0 +1,208 @@
+type dummy.ExtensiveBeigeBeverly {
+  annotations {
+    hidden_boolean DoubleTealGrayce {
+    }
+    hidden_boolean VastAmethystFlorentia {
+    }
+    number OriginalBrownLizzie {
+    }
+    hidden_boolean ExistingGreenMae {
+    }
+    serviceid_number ChristianRoseClary {
+    }
+  }
+  json PhilosophicalGreenRuthanne {
+    _hidden_value = true
+  }
+  boolean RecentTurquoiseMariejeanne {
+    _hidden_value = true
+  }
+  json InteriorRedSaraann {
+    _hidden_value = true
+  }
+  boolean ColdScarletVale {
+    _hidden_value = true
+  }
+  string FaintGreenClaudina {
+    _hidden_value = true
+  }
+  serviceid_number SelfishOrangeTandi {
+    _hidden_value = true
+  }
+  serviceid_number MuddySapphireBerte {
+    _hidden_value = true
+  }
+  boolean OddMoccasinCookie {
+    _hidden_value = true
+  }
+  serviceid RisingMoccasinSapphire {
+    _hidden_value = true
+  }
+  number GuiltyIndigoLotti {
+    _hidden_value = true
+  }
+  json PersistentCrimsonKimmie {
+    _hidden_value = true
+  }
+  number TenderTomatoCristy {
+    _hidden_value = true
+  }
+  number FondWhiteCeciley {
+    _hidden_value = true
+  }
+  boolean ContemporaryLavenderZora {
+    _hidden_value = true
+  }
+  hidden_boolean SuspiciousEmeraldDesirae {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number SilentLimeAveril {
+    _hidden_value = true
+  }
+  string NutritiousCoralDemetris {
+    _hidden_value = true
+  }
+  boolean AccurateIvoryJennee {
+    _hidden_value = true
+  }
+  serviceid_number StrategicGoldAgnese {
+    _hidden_value = true
+  }
+  serviceid ViolentAquaBernita {
+    _hidden_value = true
+  }
+  serviceid_number LittleChocolateChristiane {
+    _hidden_value = true
+  }
+  hidden_boolean BrainyRedEkaterina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number TallRoseMarrissa {
+    _hidden_value = true
+  }
+  serviceid_number StrangeAzureJessamyn {
+    _hidden_value = true
+  }
+  "List<dummy.DisastrousMaroonTerrye>" BlondeAquaFeodora {
+    ElectricPlumCele = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    MiniatureYellowFlossi = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    IsolatedOrangeSusanne = true
+    WellLavenderBernete = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ExtraordinaryGrayJuditha = "A steak pun is a rare medium well done."
+    NetSilverMei = false
+    GoldenTurquoiseAdelaida = false
+    PoliticalRoseJeniece = "To be Frank, I'd have to change my name."
+    OutrageousSapphireLyda = false
+    NumerousOrangeBrietta = true
+    RemarkableTealBetty = 540
+    PreviousBrownHelsa = false
+    SimpleAquamarineRee = 345
+    LengthyLavenderRosabel = 112
+    BrainySalmonVale = false
+    AccessibleCrimsonJessica = "What did one nut say as he chased another nut?  I'm a cashew!"
+    _hidden_value = true
+  }
+  hidden_boolean PerfectGoldCostanza {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid InevitableJadeValene {
+    _hidden_value = true
+  }
+  serviceid DisastrousVioletMelli {
+    _hidden_value = true
+  }
+  dummy.GeographicalOrangeShaina FuzzyCopperTyne {
+    ZonalBrownShaina = "What creature is smarter than a talking parrot? A spelling bee."
+    FixedTanLorrin = "Dad Im hungry  Hi hungry Im dad"
+    SubsequentTanEricha = false
+    UninterestedOliveLicha = "Why did the tomato blush? Because it saw the salad dressing."
+    MagnificentJadeJuliet = true
+    XerothermicChocolateMarjory = 873
+    _hidden_value = true
+  }
+  json DeadIvoryEbba {
+    _hidden_value = true
+  }
+  boolean WidespreadTanWilone {
+    _hidden_value = true
+  }
+  serviceid_number OddPinkKrista {
+    _hidden_value = true
+  }
+  serviceid_number AwareJadeRaf {
+    _hidden_value = true
+  }
+  hidden_boolean DemocraticBeigeNannie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean VocalScarletJennee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  OriginalBrownLizzie = 251
+  ChristianRoseClary = 949
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PhilosophicalGreenRuthanne"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "TenderTomatoCristy"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "WidespreadTanWilone"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "StrangeAzureJessamyn"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BlondeAquaFeodora"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "StrategicGoldAgnese"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "OddPinkKrista"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FaintGreenClaudina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SuspiciousEmeraldDesirae"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "OriginalBrownLizzie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

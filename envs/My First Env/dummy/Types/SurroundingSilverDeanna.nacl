@@ -1,0 +1,146 @@
+type dummy.SurroundingSilverDeanna {
+  annotations {
+    serviceid SuccessiveGrayDarryl {
+    }
+    boolean SpecifiedPinkAlyce {
+    }
+    string LostLavenderDeeann {
+    }
+    serviceid_number RacialAmaranthFernandina {
+    }
+    number ConventionalIndigoBarbi {
+    }
+    boolean CulturalTanAlexandra {
+    }
+  }
+  json FoolishAzureHaley {
+    _hidden_value = true
+  }
+  string CuriousYellowErna {
+    _hidden_value = true
+  }
+  json CuriousTealLydie {
+    _hidden_value = true
+  }
+  dummy.FastVioletDaniela MiserableApricotMatilde {
+    YieldingGreenRosamond = 994
+    CleverPeachEngracia = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    YtterbicTealGaylene = 194
+    YammeringPinkMarcelline = 53
+    OverwhelmingYellowKariotta = "Why was it called the dark ages? Because of all the knights. "
+    JuicyApricotMercie = 941
+    IntimateIvoryAnnissa = "Whoever invented the knock-knock joke should get a no bell prize."
+    SpectacularMagentaMellicent = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ShiveringScarletMilka = 419
+    FrontChocolateLucinda = true
+    SexualGoldAlicia = 901
+    MonetaryIvoryDawna = 355
+    PoisedLavenderAndeee = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    _hidden_value = true
+  }
+  serviceid InternalChocolateMeridith {
+    _hidden_value = true
+  }
+  string ThunderingAmethystTally {
+    _hidden_value = true
+  }
+  number ToughCrimsonVallie {
+    _hidden_value = true
+  }
+  string CorrespondingAmethystLicha {
+    _hidden_value = true
+  }
+  boolean HomelessBronzeDannie {
+    _hidden_value = true
+  }
+  json ProgressiveBlushAnthiathia {
+    _hidden_value = true
+  }
+  serviceid LooseIvoryEmlynn {
+    _hidden_value = true
+  }
+  hidden_boolean BeautifulCyanBarbaraanne {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid VastLavenderEveleen {
+    _hidden_value = true
+  }
+  serviceid RightAmberLulita {
+    _hidden_value = true
+  }
+  dummy.IndirectSalmonTina CheapScarletDorella {
+    StrongCoffeeLoleta = true
+    SlimyIndigoFara = 996
+    KnownGrayCesya = "Dad Im hungry  Hi hungry Im dad"
+    LikePurpleBonni = 927
+    ArtisticGreenPearl = "What did one nut say as he chased another nut?  I'm a cashew!"
+    NiceAmethystCarole = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    MutualVioletLurline = 305
+    ExoticSilverNora = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    BewilderedHarlequinIrene = 248
+    DelightfulCopperKandy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ManualPinkNonah = 288
+    PresentMagentaCharla = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    SpotlessMagentaDamara = "Why was it called the dark ages? Because of all the knights. "
+    EfficientCyanGerty = 472
+    SmallCrimsonTimmi = "Im only familiar with 25 letters in the English language. I dont know why."
+    ScrawnyVioletAvrit = 34
+    WealthyCoralNorah = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    AlrightSalmonBrinn = 374
+    _hidden_value = true
+  }
+  string TemporaryBrownHettie {
+    _hidden_value = true
+  }
+  number ManagerialAquamarineFrancoise {
+    _hidden_value = true
+  }
+  json CivilCoralSophia {
+    _hidden_value = true
+  }
+  string AvailableTurquoiseBenetta {
+    _hidden_value = true
+  }
+  string FierceTurquoiseSephira {
+    _hidden_value = true
+  }
+  SuccessiveGrayDarryl = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SpecifiedPinkAlyce = false
+  LostLavenderDeeann = "What do you do on a remote island? Try and find the TV island it belongs to."
+  RacialAmaranthFernandina = 545
+  ConventionalIndigoBarbi = 403
+  CulturalTanAlexandra = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "VastLavenderEveleen"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MiserableApricotMatilde"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CuriousTealLydie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SuccessiveGrayDarryl"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

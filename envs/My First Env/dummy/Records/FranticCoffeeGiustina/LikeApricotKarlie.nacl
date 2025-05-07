@@ -1,0 +1,18 @@
+dummy.FranticCoffeeGiustina LikeApricotKarlie {
+  NoisyBlushLetisha = [
+    "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.",
+    "My first time using an elevator was an uplifting experience. The second time let me down.",
+    "Did you hear the joke about the wandering nun? She was a roman catholic.",
+    "Why do birds fly south for the winter? Because it's too far to walk.",
+    "What do you do on a remote island? Try and find the TV island it belongs to.",
+    "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face.",
+    "Dad Im hungry  Hi hungry Im dad",
+    "Why do birds fly south for the winter? Because it's too far to walk.",
+    "Did you hear the joke about the wandering nun? She was a roman catholic.",
+    "Why do birds fly south for the winter? Because it's too far to walk.",
+    "Slept like a log last night  woke up in the fireplace.",
+    "Why did the tomato blush? Because it saw the salad dressing.",
+  ]
+  _parent = dummy.AwakeRoseLayla
+  _alias = "LikeApricotKarlie_alias"
+}

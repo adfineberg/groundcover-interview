@@ -1,0 +1,79 @@
+type dummy.UnusualOliveErika {
+  annotations {
+    boolean TragicLavenderBlondie {
+    }
+    json RelievedMaroonBlondy {
+    }
+    dummy.IndirectSalmonTina SpiritualHarlequinGenia {
+    }
+    dummy.SplendidAmberFlorance SlimyBeigeSibel {
+    }
+    serviceid_number OldChocolateDeni {
+    }
+    boolean ReluctantHarlequinPhyllida {
+    }
+    string NotableBlushWaneta {
+    }
+    boolean UncomfortableLimeMadelon {
+    }
+    serviceid_number GeneticSapphireJanelle {
+    }
+    serviceid MagicYellowRosalie {
+    }
+    boolean ExtensiveAzureMariya {
+    }
+    boolean OriginalGoldCarlina {
+    }
+    hidden_boolean RawAmethystWilhelmina {
+    }
+    hidden_boolean AcademicAquamarineMerrielle {
+    }
+    serviceid ForeignPinkEdwina {
+    }
+    serviceid ForthcomingRedDonica {
+    }
+    boolean CharacteristicMagentaKerianne {
+    }
+    string MassiveBlackLettie {
+    }
+  }
+  TragicLavenderBlondie = false
+  RelievedMaroonBlondy = "Why didnt the skeleton cross the road? Because he had no guts."
+  SpiritualHarlequinGenia = false
+  SlimyBeigeSibel = file("SuperRedIvonne.txt")
+  OldChocolateDeni = 679
+  ReluctantHarlequinPhyllida = true
+  NotableBlushWaneta = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  UncomfortableLimeMadelon = false
+  GeneticSapphireJanelle = 629
+  MagicYellowRosalie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ExtensiveAzureMariya = false
+  OriginalGoldCarlina = false
+  ForeignPinkEdwina = "Whoever invented the knock-knock joke should get a no bell prize."
+  ForthcomingRedDonica = "Im only familiar with 25 letters in the English language. I dont know why."
+  CharacteristicMagentaKerianne = true
+  MassiveBlackLettie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _self_important_values = [
+    {
+      value = "CharacteristicMagentaKerianne"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UncomfortableLimeMadelon"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SpiritualHarlequinGenia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SlimyBeigeSibel"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "UnusualOliveErika_alias"
+}

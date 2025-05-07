@@ -1,0 +1,98 @@
+type dummy.UndergroundApricotPhilippine {
+  annotations {
+    json ExtraordinaryRoseMonah {
+    }
+    string SafeTurquoiseFlo {
+    }
+    serviceid CircularGrayZandra {
+    }
+    serviceid_number ParticularOrangeMorena {
+    }
+    serviceid DistinctFuchsiaReeba {
+    }
+    number SensiblePurpleKarita {
+    }
+    dummy.AccessibleTurquoiseEssie QuintessentialHarlequinSuzi {
+    }
+    dummy.DelightedTealLynna SovietLavenderTina {
+    }
+    serviceid VivaciousCoralClaudelle {
+    }
+    boolean IncBlushLeticia {
+    }
+    json YieldingFuchsiaMargo {
+    }
+    boolean InherentMoccasinLaryssa {
+    }
+    number VitalApricotFidelia {
+    }
+    string HelplessHarlequinIssie {
+    }
+    serviceid_number PleasantLavenderShanie {
+    }
+    serviceid SpecificSapphireHyacinthie {
+    }
+    serviceid_number ObligedBlueEilis {
+    }
+    string RationalPlumNady {
+    }
+    hidden_boolean WilfulPeachFelicia {
+    }
+    serviceid ExcellentAmberLeyla {
+    }
+  }
+  ExtraordinaryRoseMonah = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SafeTurquoiseFlo = "What do you call two barracuda fish?  A Pairacuda!"
+  CircularGrayZandra = "Why did the tomato blush? Because it saw the salad dressing."
+  ParticularOrangeMorena = 455
+  DistinctFuchsiaReeba = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SensiblePurpleKarita = 474
+  QuintessentialHarlequinSuzi = file("YearningTurquoiseMarley.txt")
+  SovietLavenderTina = true
+  VivaciousCoralClaudelle = "Im only familiar with 25 letters in the English language. I dont know why."
+  IncBlushLeticia = true
+  YieldingFuchsiaMargo = "What creature is smarter than a talking parrot? A spelling bee."
+  InherentMoccasinLaryssa = true
+  VitalApricotFidelia = 800
+  HelplessHarlequinIssie = "Slept like a log last night  woke up in the fireplace."
+  PleasantLavenderShanie = 852
+  SpecificSapphireHyacinthie = "Why was it called the dark ages? Because of all the knights. "
+  ObligedBlueEilis = 168
+  RationalPlumNady = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ExcellentAmberLeyla = "Why didnt the skeleton cross the road? Because he had no guts."
+  _important_values = [
+    {
+      value = "NobleMaroonShanie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HiddenAmaranthMarysa"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NorthernRoseHarlene"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ElectricCrimsonOrelee"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ExtraordinaryRoseMonah"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PleasantLavenderShanie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "UndergroundApricotPhilippine_alias"
+}

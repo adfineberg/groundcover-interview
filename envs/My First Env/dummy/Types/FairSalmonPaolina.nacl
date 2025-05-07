@@ -1,0 +1,25 @@
+type dummy.FairSalmonPaolina {
+  annotations {
+    number RightBlackCosette {
+    }
+    hidden_boolean HilariousJadeDesirae {
+    }
+    boolean CommonRedCathy {
+    }
+    json StaleApricotElwira {
+    }
+    serviceid_number SimpleSalmonRubetta {
+    }
+    number InitialBlackAubrette {
+    }
+  }
+  number DefiantPinkLeisha {
+    _hidden_value = true
+  }
+  RightBlackCosette = 778
+  CommonRedCathy = false
+  StaleApricotElwira = "Dad Im hungry  Hi hungry Im dad"
+  SimpleSalmonRubetta = 892
+  InitialBlackAubrette = 288
+  _hidden_value = true
+}

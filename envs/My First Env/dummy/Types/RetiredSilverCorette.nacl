@@ -1,0 +1,112 @@
+type dummy.RetiredSilverCorette {
+  annotations {
+    string LowLavenderMeghann {
+    }
+    json FuriousWhiteBellanca {
+    }
+    serviceid ZanyCoffeeMag {
+    }
+    boolean EmptyHarlequinAg {
+    }
+    serviceid UninterestedBlushMorgan {
+    }
+    boolean BitterIndigoAna {
+    }
+  }
+  number NaturalBronzeAgnese {
+    _hidden_value = true
+  }
+  hidden_boolean SoleMaroonTraci {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT MixedScarletCyndy {
+    _hidden_value = true
+  }
+  number LazyPeachCallie {
+    _hidden_value = true
+  }
+  serviceid_number RepresentativeRoseSonnie {
+    _hidden_value = true
+  }
+  dummy.InformalTurquoiseFaith SquealingJadeMelony {
+    RottenScarletGiustina = "Im only familiar with 25 letters in the English language. I dont know why."
+    DefeatedBlushChere = "Why do birds fly south for the winter? Because it's too far to walk."
+    VoluntaryOliveAriana = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    YearningTomatoHedvige = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    BlushingBlushViola = "Why is Peter Pan always flying? Because he Neverlands."
+    InjuredCoralKatusha = false
+    XenaciousPlumGusty = false
+    IdealCopperSheba = 435
+    DisabledMaroonPaulina = 588
+    _hidden_value = true
+  }
+  hidden_boolean WholeBlackOllie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number EvilFuchsiaDemetris {
+    _hidden_value = true
+  }
+  number DeafeningMagentaWanids {
+    _hidden_value = true
+  }
+  serviceid_number VoluntaryBlueMarietta {
+    _hidden_value = true
+  }
+  json StatutoryJadeIseabal {
+    _hidden_value = true
+  }
+  serviceid_number GreasyGreenPen {
+    _hidden_value = true
+  }
+  string SuccessfulCoralRoxine {
+    _hidden_value = true
+  }
+  hidden_boolean AddedTealSelene {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number PureMoccasinKaitlynn {
+    _hidden_value = true
+  }
+  boolean TiredGoldNoell {
+    _hidden_value = true
+  }
+  LowLavenderMeghann = "How come the stadium got hot after the game? Because all of the fans left."
+  FuriousWhiteBellanca = "Im only familiar with 25 letters in the English language. I dont know why."
+  ZanyCoffeeMag = "Did you know that protons have mass? I didn't even know they were catholic."
+  EmptyHarlequinAg = false
+  UninterestedBlushMorgan = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  BitterIndigoAna = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "VoluntaryBlueMarietta"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SoleMaroonTraci"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ZanyCoffeeMag"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BitterIndigoAna"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

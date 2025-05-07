@@ -1,0 +1,59 @@
+type dummy.QuaintGrayFelicle {
+  annotations {
+    json DecentFuchsiaBarbette {
+    }
+    dummy.DEFAULT ThoroughIvoryMimi {
+    }
+    json CriticalOrangeAdel {
+    }
+    serviceid MutualMoccasinMerrily {
+    }
+    string SwiftCrimsonRoselle {
+    }
+    json PatientIndigoRomola {
+    }
+    serviceid AvailableBlackMinnaminnie {
+    }
+    dummy.DEFAULT RelaxedPeachMargit {
+    }
+  }
+  json NumerousBrownRaina {
+    _hidden_value = true
+  }
+  boolean SoftOliveJillie {
+    _hidden_value = true
+  }
+  number BrilliantPurpleAnthia {
+    _hidden_value = true
+  }
+  DecentFuchsiaBarbette = "Did you know that protons have mass? I didn't even know they were catholic."
+  ThoroughIvoryMimi = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  CriticalOrangeAdel = "Did you know that protons have mass? I didn't even know they were catholic."
+  MutualMoccasinMerrily = "Im only familiar with 25 letters in the English language. I dont know why."
+  SwiftCrimsonRoselle = "Whoever invented the knock-knock joke should get a no bell prize."
+  PatientIndigoRomola = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AvailableBlackMinnaminnie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RelaxedPeachMargit = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "AvailableBlackMinnaminnie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ThoroughIvoryMimi"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PatientIndigoRomola"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,30 @@
+type dummy.TechnologicalOliveReta {
+  annotations {
+    serviceid FilthySalmonBeatriz {
+    }
+    dummy.UnhappyMagentaNorah GratefulSalmonRamona {
+    }
+    number AppallingPeachMarcelline {
+    }
+    serviceid LoudRoseShirley {
+    }
+    number PerfectOrangeMureil {
+    }
+  }
+  string ColdPlumBonita {
+    _hidden_value = true
+  }
+  FilthySalmonBeatriz = "Why was it called the dark ages? Because of all the knights. "
+  GratefulSalmonRamona = 883
+  AppallingPeachMarcelline = 3
+  LoudRoseShirley = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  PerfectOrangeMureil = 640
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "GratefulSalmonRamona"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

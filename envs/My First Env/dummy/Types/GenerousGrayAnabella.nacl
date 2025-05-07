@@ -1,0 +1,49 @@
+type dummy.GenerousGrayAnabella {
+  annotations {
+    serviceid_number ScaredRoseCherlyn {
+    }
+    string ConstantBrownMarena {
+    }
+    hidden_boolean BrightAzureAlexandra {
+    }
+    serviceid_number BigMaroonDanika {
+    }
+    number BoldRedAngelle {
+    }
+    dummy.LegitimateBlushGoldie SympatheticAmberChristyna {
+    }
+    hidden_boolean VaryingTomatoDenna {
+    }
+  }
+  json FeministCrimsonLynde {
+    _hidden_value = true
+  }
+  dummy.PreparedChocolateVanny PreciseTurquoisePenelopa {
+    DampCrimsonDacia = 862
+    FlyingFuchsiaAlfreda = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    ConceptualOrangeJana = "A steak pun is a rare medium well done."
+    VividCyanShina = 954
+    _hidden_value = true
+  }
+  serviceid_number BrightBlueMindy {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SuitableTomatoEve {
+    _hidden_value = true
+  }
+  ScaredRoseCherlyn = 262
+  ConstantBrownMarena = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  BigMaroonDanika = 503
+  BoldRedAngelle = 30
+  SympatheticAmberChristyna = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ScaredRoseCherlyn"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

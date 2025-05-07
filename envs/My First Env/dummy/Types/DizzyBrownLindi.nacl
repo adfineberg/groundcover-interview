@@ -1,0 +1,28 @@
+type dummy.DizzyBrownLindi {
+  annotations {
+    boolean FinalMagentaGeralda {
+    }
+    dummy.DEFAULT SheerCopperAlice {
+    }
+    json ProvincialPlumWinne {
+    }
+    string IllCoralCorliss {
+    }
+    json EligibleBrownGilberta {
+    }
+    serviceid ChillyRedTiffi {
+    }
+  }
+  json OutdoorIndigoCaralie {
+    _hidden_value = true
+  }
+  FinalMagentaGeralda = true
+  SheerCopperAlice = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  ProvincialPlumWinne = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  IllCoralCorliss = "My first time using an elevator was an uplifting experience. The second time let me down."
+  EligibleBrownGilberta = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ChillyRedTiffi = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

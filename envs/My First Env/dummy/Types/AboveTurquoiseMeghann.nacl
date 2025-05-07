@@ -1,0 +1,42 @@
+type dummy.AboveTurquoiseMeghann {
+  annotations {
+    serviceid_number UnnecessarySapphirePetronilla {
+    }
+    boolean UnlikelyApricotAnthia {
+    }
+    json DetailedLavenderGermain {
+    }
+    serviceid ExclusiveEmeraldBilly {
+    }
+    json CapableSalmonEnid {
+    }
+  }
+  number FarMaroonTricia {
+    _hidden_value = true
+  }
+  serviceid_number CooperativeIvoryPhaidra {
+    _hidden_value = true
+  }
+  number AwkwardScarletRomonda {
+    _hidden_value = true
+  }
+  "List<dummy.NervousCyanBlisse>" DoubleIvoryDevon {
+    _hidden_value = true
+  }
+  string JustIndigoMari {
+    _hidden_value = true
+  }
+  UnnecessarySapphirePetronilla = 142
+  UnlikelyApricotAnthia = true
+  DetailedLavenderGermain = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ExclusiveEmeraldBilly = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  CapableSalmonEnid = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DoubleIvoryDevon"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

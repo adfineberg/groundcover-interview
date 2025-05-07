@@ -1,0 +1,37 @@
+type dummy.SubjectivePeachSelie {
+  annotations {
+    json LovelyApricotElset {
+    }
+    hidden_boolean MaximumLavenderMartica {
+    }
+    string CurvedBlushCrysta {
+    }
+    string SoftAzureClaresta {
+    }
+    json YearlingLavenderMarget {
+    }
+    number SecretHarlequinMaryellen {
+    }
+  }
+  serviceid TestyCoffeeBabbie {
+    _hidden_value = true
+  }
+  LovelyApricotElset = "Did you know that protons have mass? I didn't even know they were catholic."
+  CurvedBlushCrysta = "A steak pun is a rare medium well done."
+  SoftAzureClaresta = "Why do birds fly south for the winter? Because it's too far to walk."
+  YearlingLavenderMarget = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SecretHarlequinMaryellen = 49
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "SecretHarlequinMaryellen"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LovelyApricotElset"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

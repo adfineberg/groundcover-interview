@@ -1,0 +1,45 @@
+type dummy.RecentOliveCele {
+  annotations {
+    number TheoreticalAmethystAshlie {
+    }
+    string OpenCoralLeola {
+    }
+    hidden_boolean CollectiveSapphireCortney {
+    }
+    dummy.CombinedCyanNatasha ShinyLimePrue {
+    }
+    json WelcomeApricotMargaretha {
+    }
+    string LazyIvoryCeciley {
+    }
+  }
+  serviceid WoodenPeachZelda {
+    _hidden_value = true
+  }
+  serviceid_number SleepyBlueBinny {
+    _hidden_value = true
+  }
+  string ItchyPinkMady {
+    _hidden_value = true
+  }
+  TheoreticalAmethystAshlie = 402
+  OpenCoralLeola = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ShinyLimePrue = false
+  WelcomeApricotMargaretha = "Dad Im hungry  Hi hungry Im dad"
+  LazyIvoryCeciley = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SleepyBlueBinny"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ShinyLimePrue"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

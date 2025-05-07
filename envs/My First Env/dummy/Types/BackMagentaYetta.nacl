@@ -1,0 +1,19 @@
+type dummy.BackMagentaYetta {
+  annotations {
+    boolean PotentialYellowMara {
+    }
+    json SocialBeigeKakalina {
+    }
+    hidden_boolean TypicalPinkGilly {
+    }
+    serviceid_number UnusualAmaranthAurie {
+    }
+  }
+  json SpiritualYellowJobie {
+    _hidden_value = true
+  }
+  PotentialYellowMara = false
+  SocialBeigeKakalina = "Why did the kid cross the playground? To get to the other slide."
+  UnusualAmaranthAurie = 596
+  _hidden_value = true
+}

@@ -1,0 +1,24 @@
+type dummy.ColourfulIvoryMaryanna {
+  annotations {
+    number DoubtfulOrangeBertie {
+    }
+    dummy.DEFAULT DepressedAmberJacquenetta {
+    }
+    hidden_boolean HistoricalAquaJonell {
+    }
+    number UsedBlackCordelia {
+    }
+    boolean StrategicBrownJanice {
+    }
+  }
+  string YuckyGrayRoze {
+    _hidden_value = true
+  }
+  DoubtfulOrangeBertie = 439
+  DepressedAmberJacquenetta = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  UsedBlackCordelia = 126
+  StrategicBrownJanice = true
+  _hidden_value = true
+}

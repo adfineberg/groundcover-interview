@@ -1,0 +1,82 @@
+type dummy.InterimIndigoChristel {
+  annotations {
+    number OverallHarlequinMalorie {
+    }
+    serviceid_number RuralHarlequinCiel {
+    }
+    string GrievingAmethystSerene {
+    }
+  }
+  boolean WeeMagentaLil {
+    _hidden_value = true
+  }
+  hidden_boolean SmoggyPeachAntonella {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ExtendedHarlequinEvania {
+    _hidden_value = true
+  }
+  hidden_boolean GrievingChocolateGodiva {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean PayableBlueDrusy {
+    _hidden_value = true
+  }
+  hidden_boolean NewGrayBlythe {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number SuddenOliveOpalina {
+    _hidden_value = true
+  }
+  hidden_boolean ThinBlushGaynor {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number DefensiveAzureGoldi {
+    _hidden_value = true
+  }
+  serviceid_number GoodIvoryYasmin {
+    _hidden_value = true
+  }
+  hidden_boolean AnxiousAmaranthEustacia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number MedicalRedLavinia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CompulsoryEmeraldMinerva {
+    _hidden_value = true
+  }
+  json ComplexCopperJillie {
+    _hidden_value = true
+  }
+  json LinearSilverStormy {
+    _hidden_value = true
+  }
+  string ExuberantCoffeeLoretta {
+    _hidden_value = true
+  }
+  string PreciousBlueEva {
+    _hidden_value = true
+  }
+  OverallHarlequinMalorie = 234
+  RuralHarlequinCiel = 137
+  GrievingAmethystSerene = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SuddenOliveOpalina"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

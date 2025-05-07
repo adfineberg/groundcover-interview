@@ -1,0 +1,78 @@
+type dummy.LongRedDanya {
+  annotations {
+    hidden_boolean SupremePurpleSibyl {
+    }
+    json PerfectGreenJonis {
+    }
+    hidden_boolean DramaticBlackDayle {
+    }
+    string ColourfulFuchsiaHortensia {
+    }
+  }
+  serviceid_number OutrageousMoccasinAurea {
+    _hidden_value = true
+  }
+  serviceid ScreechingGrayEalasaid {
+    _hidden_value = true
+  }
+  "List<string>" UnwillingMaroonLaurena {
+    _hidden_value = true
+  }
+  number VisibleScarletCristi {
+    _hidden_value = true
+  }
+  json GloriousMoccasinAugustina {
+    _hidden_value = true
+  }
+  json CreepySapphireBerna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AcademicMagentaMarcellina {
+    _hidden_value = true
+  }
+  boolean PartialCoffeeDorene {
+    _hidden_value = true
+  }
+  number PreciseOrangeTraci {
+    _hidden_value = true
+  }
+  hidden_boolean BlushingChocolateCindi {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json QuaintMoccasinLilas {
+    _hidden_value = true
+  }
+  serviceid_number RacialRoseWilhelmina {
+    _hidden_value = true
+  }
+  number FilthyApricotSimona {
+    _hidden_value = true
+  }
+  hidden_boolean ViolentAquamarineEdythe {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  PerfectGreenJonis = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ColourfulFuchsiaHortensia = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RacialRoseWilhelmina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PartialCoffeeDorene"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ViolentAquamarineEdythe"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

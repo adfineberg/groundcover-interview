@@ -1,0 +1,129 @@
+type dummy.SorryGrayMariele {
+  annotations {
+    number ThoroughCyanArabelle {
+    }
+    boolean ElderlyTomatoAddi {
+    }
+    serviceid AgriculturalVioletTasha {
+    }
+    serviceid StupidYellowMisti {
+    }
+  }
+  serviceid CleverRedChristal {
+    _hidden_value = true
+  }
+  serviceid_number ImmediateGreenRochette {
+    _hidden_value = true
+  }
+  number PanickyAzureModestia {
+    _hidden_value = true
+  }
+  "Map<dummy.MassYellowCorina>" EntireIndigoValerye {
+    _hidden_value = true
+  }
+  number SmoggyLavenderJacquie {
+    _hidden_value = true
+  }
+  number IdeologicalBlackMartguerita {
+    _hidden_value = true
+  }
+  json PreciseCrimsonKalila {
+    _hidden_value = true
+  }
+  hidden_boolean PositiveSapphireGusta {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ForthcomingAzureDelilah {
+    _hidden_value = true
+  }
+  boolean FormidableGrayLavinie {
+    _hidden_value = true
+  }
+  serviceid ContinentalLimeMarcelia {
+    _hidden_value = true
+  }
+  hidden_boolean VisitingVioletLavina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean CreepyAquamarineCarole {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number MysteriousIndigoJoane {
+    _hidden_value = true
+  }
+  string UnfortunateHarlequinJillana {
+    _hidden_value = true
+  }
+  number AddedHarlequinDyana {
+    _hidden_value = true
+  }
+  serviceid_number ArtificialGreenElfie {
+    _hidden_value = true
+  }
+  boolean JitteryCoralJuli {
+    _hidden_value = true
+  }
+  json MatureVioletAngeline {
+    _hidden_value = true
+  }
+  boolean PlasticMoccasinJoellen {
+    _hidden_value = true
+  }
+  json OddLimeLillis {
+    _hidden_value = true
+  }
+  serviceid_number ApplicableSilverOlivette {
+    _hidden_value = true
+  }
+  serviceid XenogeneicBlushDedie {
+    _hidden_value = true
+  }
+  boolean ObedientBlackAllx {
+    _hidden_value = true
+  }
+  ThoroughCyanArabelle = 752
+  ElderlyTomatoAddi = true
+  AgriculturalVioletTasha = "Why didnt the skeleton cross the road? Because he had no guts."
+  StupidYellowMisti = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "OddLimeLillis"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UnfortunateHarlequinJillana"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CleverRedChristal"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "VisitingVioletLavina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "EntireIndigoValerye"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AgriculturalVioletTasha"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

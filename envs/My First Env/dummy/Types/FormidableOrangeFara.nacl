@@ -1,0 +1,31 @@
+type dummy.FormidableOrangeFara {
+  annotations {
+    json IndustrialTurquoiseTraci {
+    }
+    hidden_boolean ExpectedHarlequinZitella {
+    }
+    json FunctionalIndigoMinette {
+    }
+    json RacialBlueGabrila {
+    }
+    boolean InnocentCoffeeDulcy {
+    }
+  }
+  number LooseGoldNessy {
+    _hidden_value = true
+  }
+  boolean ShrillMagentaMadelon {
+    _hidden_value = true
+  }
+  boolean LightBlueSheelagh {
+    _hidden_value = true
+  }
+  number StrictGreenRoxane {
+    _hidden_value = true
+  }
+  IndustrialTurquoiseTraci = "How come the stadium got hot after the game? Because all of the fans left."
+  FunctionalIndigoMinette = "Why did the tomato blush? Because it saw the salad dressing."
+  RacialBlueGabrila = "Whoever invented the knock-knock joke should get a no bell prize."
+  InnocentCoffeeDulcy = true
+  _hidden_value = true
+}

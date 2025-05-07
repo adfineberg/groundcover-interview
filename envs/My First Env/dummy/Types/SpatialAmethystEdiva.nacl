@@ -1,0 +1,67 @@
+type dummy.SpatialAmethystEdiva {
+  annotations {
+    boolean LinguisticOliveAridatha {
+    }
+    hidden_boolean StraightRoseRuth {
+    }
+    serviceid JuicyGrayGilemette {
+    }
+    serviceid_number EnchantingCopperRonnie {
+    }
+    string NativeBlushMarla {
+    }
+    string FrightenedTomatoLee {
+    }
+  }
+  number FormidableHarlequinMeghan {
+    _hidden_value = true
+  }
+  string FaintCoralChloe {
+    _hidden_value = true
+  }
+  boolean RearCyanElly {
+    _hidden_value = true
+  }
+  serviceid_number MildTealAudrye {
+    _hidden_value = true
+  }
+  serviceid SeniorOrangeBrenna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ObedientCoffeeAarika {
+    _hidden_value = true
+  }
+  hidden_boolean StillScarletRonnie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid CulturalOliveMillicent {
+    _hidden_value = true
+  }
+  LinguisticOliveAridatha = false
+  JuicyGrayGilemette = "Why was it called the dark ages? Because of all the knights. "
+  EnchantingCopperRonnie = 787
+  NativeBlushMarla = "To be Frank, I'd have to change my name."
+  FrightenedTomatoLee = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CulturalOliveMillicent"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MildTealAudrye"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "JuicyGrayGilemette"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

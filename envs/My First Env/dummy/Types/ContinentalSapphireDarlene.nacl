@@ -1,0 +1,99 @@
+type dummy.ContinentalSapphireDarlene {
+  annotations {
+    serviceid_number OverseasCoffeeTimmy {
+    }
+    hidden_boolean MarineCoralShandee {
+    }
+    dummy.MathematicalLavenderUlrica SillyAmethystSelle {
+    }
+    number ColdVioletBritt {
+    }
+  }
+  string UgliestBrownMelly {
+    _hidden_value = true
+  }
+  boolean GoldenIndigoRaquela {
+    _hidden_value = true
+  }
+  dummy.DelightedTealLynna FortunateMoccasinSarene {
+    _hidden_value = true
+  }
+  serviceid_number ScrawnyTealLanita {
+    _hidden_value = true
+  }
+  json RespectiveAmethystNatala {
+    _hidden_value = true
+  }
+  json DisgustedPlumCamellia {
+    _hidden_value = true
+  }
+  number IcyScarletRobinet {
+    _hidden_value = true
+  }
+  serviceid UnacceptableIvoryStaci {
+    _hidden_value = true
+  }
+  hidden_boolean DramaticFuchsiaIna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid StructuralBlueLethia {
+    _hidden_value = true
+  }
+  json NakedBlackChicky {
+    _hidden_value = true
+  }
+  boolean CriticalAmberEmmalynn {
+    _hidden_value = true
+  }
+  json SoundCopperAnnamaria {
+    _hidden_value = true
+  }
+  string XenogeneicSapphireMelly {
+    _hidden_value = true
+  }
+  OverseasCoffeeTimmy = 993
+  SillyAmethystSelle = 21
+  ColdVioletBritt = 679
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "UnacceptableIvoryStaci"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NakedBlackChicky"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "StructuralBlueLethia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "XenogeneicSapphireMelly"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UgliestBrownMelly"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SillyAmethystSelle"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ColdVioletBritt"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,46 @@
+type dummy.MetropolitanPlumNyssa {
+  annotations {
+    serviceid IllAquamarineTessy {
+    }
+    serviceid_number MereIndigoKeriann {
+    }
+    number LinearMoccasinMelosa {
+    }
+    hidden_boolean MinimumTanCamala {
+    }
+    boolean FancyAmaranthHillary {
+    }
+    boolean EasternMagentaKary {
+    }
+  }
+  serviceid_number OkayRoseSaundra {
+    _hidden_value = true
+  }
+  boolean SevereTomatoCharlotte {
+    _hidden_value = true
+  }
+  serviceid_number MushyIndigoJulita {
+    _hidden_value = true
+  }
+  dummy.UpperTanDebby ProspectiveSilverMelamie {
+    SocialCyanBlondelle = "Why did the tomato blush? Because it saw the salad dressing."
+    CompatibleLimeKarleen = true
+    _hidden_value = true
+  }
+  serviceid_number AmateurLimeJourdan {
+    _hidden_value = true
+  }
+  IllAquamarineTessy = "Slept like a log last night  woke up in the fireplace."
+  MereIndigoKeriann = 581
+  LinearMoccasinMelosa = 450
+  FancyAmaranthHillary = false
+  EasternMagentaKary = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "OkayRoseSaundra"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

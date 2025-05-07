@@ -1,0 +1,45 @@
+type dummy.YabberingChocolateEmmalyn {
+  annotations {
+    number CognitivePinkOdille {
+    }
+    dummy.MathematicalLavenderUlrica ScrawnyYellowQuerida {
+    }
+    serviceid_number ProfessionalTealHyacinthie {
+    }
+    serviceid QuintessentialAzureDrusy {
+    }
+  }
+  boolean AbsentApricotIsis {
+    _hidden_value = true
+  }
+  boolean UglyMagentaInga {
+    _hidden_value = true
+  }
+  serviceid_number ManagingOrangeKaralynn {
+    _hidden_value = true
+  }
+  number FineYellowHoratia {
+    _hidden_value = true
+  }
+  boolean EnergeticGreenKaylil {
+    _hidden_value = true
+  }
+  boolean EffectiveOrangeCordey {
+    _hidden_value = true
+  }
+  json DepressedCoffeeCarrie {
+    _hidden_value = true
+  }
+  CognitivePinkOdille = 310
+  ScrawnyYellowQuerida = 42
+  ProfessionalTealHyacinthie = 300
+  QuintessentialAzureDrusy = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "CognitivePinkOdille"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

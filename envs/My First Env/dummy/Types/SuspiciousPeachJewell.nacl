@@ -1,0 +1,73 @@
+type dummy.SuspiciousPeachJewell {
+  annotations {
+    boolean FavourableOliveSherye {
+    }
+    serviceid_number MammothAmaranthBrett {
+    }
+    json DefiantIndigoAdaline {
+    }
+  }
+  boolean DivineGoldJerry {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FellowSapphireLena {
+    _hidden_value = true
+  }
+  boolean EasternAmaranthJolynn {
+    _hidden_value = true
+  }
+  json StableOliveDanice {
+    _hidden_value = true
+  }
+  serviceid CruelTealNola {
+    _hidden_value = true
+  }
+  json DistantTurquoiseCatha {
+    _hidden_value = true
+  }
+  serviceid_number AbundantGreenFlorrie {
+    _hidden_value = true
+  }
+  hidden_boolean MidIvoryJolyn {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json RainyEmeraldLesly {
+    _hidden_value = true
+  }
+  boolean BoilingGreenBrittan {
+    _hidden_value = true
+  }
+  serviceid SupposedTurquoiseLauryn {
+    _hidden_value = true
+  }
+  FavourableOliveSherye = true
+  MammothAmaranthBrett = 103
+  DefiantIndigoAdaline = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FellowSapphireLena"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DivineGoldJerry"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "StableOliveDanice"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "MammothAmaranthBrett"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

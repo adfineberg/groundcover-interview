@@ -1,0 +1,43 @@
+type dummy.DelightedVioletLiv is string {
+  annotations {
+    hidden_boolean DamagedCopperShannah {
+    }
+    string PartialApricotRodie {
+    }
+    serviceid ChiefRoseSadie {
+    }
+    serviceid UpsetAquaLyndsay {
+    }
+    string PsychologicalMagentaFidelity {
+    }
+    number AdministrativeAmaranthMaighdiln {
+    }
+    boolean SoundJadeUlrica {
+    }
+    json ExuberantOliveCleopatra {
+    }
+    boolean DemocraticAmaranthJanaya {
+    }
+    hidden_boolean ReducedEmeraldCorrena {
+    }
+    hidden_boolean ImprovedPurpleLesly {
+    }
+    string FlyingAquamarineCristionna {
+    }
+    serviceid_number GrotesqueTanRonni {
+    }
+    serviceid DutchPinkAnnice {
+    }
+  }
+  PartialApricotRodie = "Slept like a log last night  woke up in the fireplace."
+  ChiefRoseSadie = "Why did the kid cross the playground? To get to the other slide."
+  UpsetAquaLyndsay = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PsychologicalMagentaFidelity = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  AdministrativeAmaranthMaighdiln = 217
+  SoundJadeUlrica = true
+  ExuberantOliveCleopatra = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DemocraticAmaranthJanaya = true
+  FlyingAquamarineCristionna = "I'll tell you what often gets over looked... garden fences."
+  GrotesqueTanRonni = 287
+  DutchPinkAnnice = "Chances are if you' ve seen one shopping center, you've seen a mall."
+}

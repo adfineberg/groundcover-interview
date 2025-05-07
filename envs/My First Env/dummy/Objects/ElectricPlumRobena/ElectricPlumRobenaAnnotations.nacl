@@ -1,0 +1,68 @@
+type dummy.ElectricPlumRobena {
+  annotations {
+    json EstablishedBeigePaule {
+    }
+    dummy.DisastrousMaroonTerrye RudeOrangePier {
+    }
+    boolean FantasticRoseCatherine {
+    }
+    string NewAmethystAlbertine {
+    }
+    number TypicalChocolateSharia {
+    }
+    number PrimaryJadeCarlynne {
+    }
+    number AdjacentCopperLeia {
+    }
+    serviceid_number OutrageousOliveKaylee {
+    }
+    hidden_boolean PermanentBlushAveline {
+    }
+    boolean GiantCoralCaritta {
+    }
+    number AccusedSapphireGussie {
+    }
+    number FlatLavenderOlia {
+    }
+    serviceid GastricCoralGabriellia {
+    }
+    number SpiritualLavenderKristy {
+    }
+    hidden_boolean PregnantSalmonDaniele {
+    }
+    hidden_boolean MarvellousLimeTallie {
+    }
+    boolean SpectacularSapphireRhianon {
+    }
+    number CreepyRedElli {
+    }
+  }
+  EstablishedBeigePaule = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  RudeOrangePier = 458
+  FantasticRoseCatherine = true
+  NewAmethystAlbertine = "What did one nut say as he chased another nut?  I'm a cashew!"
+  TypicalChocolateSharia = 988
+  PrimaryJadeCarlynne = 924
+  AdjacentCopperLeia = 77
+  OutrageousOliveKaylee = 420
+  GiantCoralCaritta = true
+  AccusedSapphireGussie = 372
+  FlatLavenderOlia = 665
+  GastricCoralGabriellia = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SpiritualLavenderKristy = 644
+  SpectacularSapphireRhianon = true
+  CreepyRedElli = 875
+  _self_important_values = [
+    {
+      value = "FantasticRoseCatherine"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NewAmethystAlbertine"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "ElectricPlumRobena_alias"
+}

@@ -1,0 +1,80 @@
+type dummy.SensitiveTomatoSuzy {
+  annotations {
+    number ZestfulBlueCristionna {
+    }
+    serviceid LegitimatePlumPetunia {
+    }
+    serviceid_number PassiveApricotJennie {
+    }
+    serviceid_number LengthyFuchsiaStacey {
+    }
+    serviceid_number InvisibleRoseGilli {
+    }
+    boolean LostAquaKarin {
+    }
+    serviceid_number GothicRoseEffie {
+    }
+  }
+  string GrumpyTealLida {
+    _hidden_value = true
+  }
+  hidden_boolean StillTanLibby {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean FriendlyRoseDaniela {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number OpenLimeCyndie {
+    _hidden_value = true
+  }
+  boolean IdenticalScarletAnny {
+    _hidden_value = true
+  }
+  number NotableEmeraldRoseanne {
+    _hidden_value = true
+  }
+  serviceid_number GiganticPeachGavrielle {
+    _hidden_value = true
+  }
+  serviceid_number ActiveCrimsonCordey {
+    _hidden_value = true
+  }
+  json ConventionalBrownGiralda {
+    _hidden_value = true
+  }
+  boolean RoundAzureJanis {
+    _hidden_value = true
+  }
+  hidden_boolean HarshAquamarineRubia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string AggressiveAquaHesther {
+    _hidden_value = true
+  }
+  ZestfulBlueCristionna = 617
+  LegitimatePlumPetunia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  PassiveApricotJennie = 30
+  LengthyFuchsiaStacey = 954
+  InvisibleRoseGilli = 479
+  LostAquaKarin = false
+  GothicRoseEffie = 61
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "IdenticalScarletAnny"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GiganticPeachGavrielle"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

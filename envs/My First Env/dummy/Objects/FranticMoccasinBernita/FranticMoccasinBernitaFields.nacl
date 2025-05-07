@@ -1,0 +1,36 @@
+type dummy.FranticMoccasinBernita {
+  serviceid LesserGoldNadiya {
+  }
+  hidden_boolean PanickyAquaBathsheba {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" TotalBronzeBrittaney {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DevotedScarletNolie ReadyLavenderFlorina {
+    DoubtfulIvoryFelita = "What do you do on a remote island? Try and find the TV island it belongs to."
+    GleamingSalmonDanna = "Dad Im hungry  Hi hungry Im dad"
+    ZealousBlackCami = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  "List<dummy.MoaningTomatoTamqrah>" AwakeBrownIdell {
+    CompactFuchsiaStacie = 243
+    MisleadingChocolateKordula = "Whoever invented the knock-knock joke should get a no bell prize."
+    ProminentVioletBrana = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    OpenWhiteCaritta = "Whoever invented the knock-knock joke should get a no bell prize."
+    YappyHarlequinCristionna = "Slept like a log last night  woke up in the fireplace."
+  }
+  string ConstantPeachDanika {
+  }
+  json LinearEmeraldAriana {
+  }
+  serviceid_number SuperbWhiteAntonie {
+  }
+  json AdequateAzureAuguste {
+  }
+  serviceid SignificantGreenHallie {
+  }
+}

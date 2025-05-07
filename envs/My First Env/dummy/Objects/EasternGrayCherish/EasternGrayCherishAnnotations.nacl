@@ -1,0 +1,71 @@
+type dummy.EasternGrayCherish {
+  annotations {
+    boolean OutsideChocolateDorine {
+    }
+    string InevitableTealVictoria {
+    }
+    dummy.MuteGrayAlexi InnocentAquamarineLilyan {
+    }
+    hidden_boolean PuzzledHarlequinCharlot {
+    }
+    string GlobalApricotLeonore {
+    }
+    dummy.DevelopingBronzeMisti FantasticRoseRhianna {
+    }
+    serviceid ExtendedCrimsonMarijo {
+    }
+    serviceid CollectiveApricotIdette {
+    }
+    json AddedApricotAppolonia {
+    }
+    dummy.AcceptableAmaranthGertrudis CleanMagentaAlie {
+    }
+    serviceid_number ScarySapphirePhillida {
+    }
+    serviceid KeyAmethystGabey {
+    }
+    hidden_boolean EconomicHarlequinSimonette {
+    }
+    json UltimatePlumCarley {
+    }
+    serviceid SignificantOliveHarlene {
+    }
+    dummy.FashionableVioletEolande PuzzledOrangeBabara {
+    }
+  }
+  OutsideChocolateDorine = true
+  InevitableTealVictoria = "Im only familiar with 25 letters in the English language. I dont know why."
+  InnocentAquamarineLilyan = 308
+  GlobalApricotLeonore = "Why didnt the skeleton cross the road? Because he had no guts."
+  ExtendedCrimsonMarijo = "How come the stadium got hot after the game? Because all of the fans left."
+  CollectiveApricotIdette = "A steak pun is a rare medium well done."
+  AddedApricotAppolonia = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  CleanMagentaAlie = 415
+  ScarySapphirePhillida = 90
+  KeyAmethystGabey = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  UltimatePlumCarley = "A steak pun is a rare medium well done."
+  SignificantOliveHarlene = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _self_important_values = [
+    {
+      value = "UltimatePlumCarley"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GlobalApricotLeonore"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "InnocentAquamarineLilyan"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CleanMagentaAlie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "EasternGrayCherish_alias"
+}

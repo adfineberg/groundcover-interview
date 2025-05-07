@@ -1,0 +1,37 @@
+type dummy.StatisticalPeachLoralie {
+  annotations {
+    serviceid ActualFuchsiaAppolonia {
+    }
+    serviceid ReliableEmeraldZea {
+    }
+    boolean ExcitedCoralClotilda {
+    }
+    dummy.CombinedCyanNatasha DifferentTealSosanna {
+    }
+    serviceid_number CondemnedWhiteRebeka {
+    }
+    hidden_boolean YuckyMoccasinJo {
+    }
+  }
+  serviceid TraditionalLavenderSherrie {
+    _hidden_value = true
+  }
+  boolean InstitutionalCrimsonPolly {
+    _hidden_value = true
+  }
+  serviceid_number AdvisoryGoldMarilee {
+    _hidden_value = true
+  }
+  serviceid_number FamousCoralEvangelia {
+    _hidden_value = true
+  }
+  json TastyAquaSelina {
+    _hidden_value = true
+  }
+  ActualFuchsiaAppolonia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ReliableEmeraldZea = "What creature is smarter than a talking parrot? A spelling bee."
+  ExcitedCoralClotilda = false
+  DifferentTealSosanna = false
+  CondemnedWhiteRebeka = 187
+  _hidden_value = true
+}

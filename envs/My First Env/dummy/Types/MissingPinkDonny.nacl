@@ -1,0 +1,68 @@
+type dummy.MissingPinkDonny {
+  annotations {
+    serviceid_number AvailableGrayPenni {
+    }
+    number FancyPurpleMaddy {
+    }
+    json ExactRoseCharmain {
+    }
+    dummy.DEFAULT ExclusiveBlackDelinda {
+    }
+    json DreadfulPlumDaile {
+    }
+  }
+  serviceid_number InstitutionalAmberJillayne {
+    _hidden_value = true
+  }
+  number ViciousApricotChristy {
+    _hidden_value = true
+  }
+  serviceid_number CorrectTurquoiseRois {
+    _hidden_value = true
+  }
+  number FrailSalmonAstra {
+    _hidden_value = true
+  }
+  boolean CompetitiveBlushBinny {
+    _hidden_value = true
+  }
+  number SteepAmaranthCorene {
+    _hidden_value = true
+  }
+  json ExcitingMaroonElset {
+    _hidden_value = true
+  }
+  serviceid_number IdeologicalIvoryPhaedra {
+    _hidden_value = true
+  }
+  hidden_boolean IdealSalmonMalorie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json VariousSalmonStacee {
+    _hidden_value = true
+  }
+  AvailableGrayPenni = 405
+  FancyPurpleMaddy = 852
+  ExactRoseCharmain = "Slept like a log last night  woke up in the fireplace."
+  ExclusiveBlackDelinda = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  DreadfulPlumDaile = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SteepAmaranthCorene"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DreadfulPlumDaile"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

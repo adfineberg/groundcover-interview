@@ -1,0 +1,84 @@
+type dummy.ShortYellowFrances {
+  annotations {
+    serviceid SillyBeigeMillicent {
+    }
+    serviceid_number SensitiveSilverCharita {
+    }
+    serviceid UniversalIndigoMoira {
+    }
+    dummy.JustBeigeShaylynn YodellingGoldTanya {
+    }
+    boolean EventualOrangePetronilla {
+    }
+    serviceid_number ForthcomingAmethystBrear {
+    }
+    serviceid_number NastyFuchsiaJoycelin {
+    }
+    boolean RulingJadeAlejandra {
+    }
+    json LinearYellowKalindi {
+    }
+    boolean AmateurSilverLatia {
+    }
+    hidden_boolean ClassicalScarletChanna {
+    }
+    boolean IncreasedIvoryMerline {
+    }
+    dummy.MassYellowCorina InternationalEmeraldJocelin {
+    }
+    serviceid OccupationalAmberStar {
+    }
+    boolean ShinyTurquoiseMaureen {
+    }
+    number SolidBlushRebekkah {
+    }
+    serviceid InternalBlushGabriella {
+    }
+    serviceid EnchantingGoldNorrie {
+    }
+    string EnergeticPlumDawna {
+    }
+    serviceid_number GeographicalIvoryCatharine {
+    }
+    number AssociatedPinkFernande {
+    }
+  }
+  SillyBeigeMillicent = "Why did the tomato blush? Because it saw the salad dressing."
+  SensitiveSilverCharita = 398
+  UniversalIndigoMoira = "Why did the kid cross the playground? To get to the other slide."
+  YodellingGoldTanya = true
+  EventualOrangePetronilla = true
+  ForthcomingAmethystBrear = 270
+  NastyFuchsiaJoycelin = 80
+  RulingJadeAlejandra = true
+  LinearYellowKalindi = "Why didnt the skeleton cross the road? Because he had no guts."
+  AmateurSilverLatia = false
+  IncreasedIvoryMerline = true
+  InternationalEmeraldJocelin = file("EssentialCyanPaige.txt")
+  OccupationalAmberStar = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ShinyTurquoiseMaureen = false
+  SolidBlushRebekkah = 216
+  InternalBlushGabriella = "Why did the kid cross the playground? To get to the other slide."
+  EnchantingGoldNorrie = "What creature is smarter than a talking parrot? A spelling bee."
+  EnergeticPlumDawna = "Why do birds fly south for the winter? Because it's too far to walk."
+  GeographicalIvoryCatharine = 986
+  AssociatedPinkFernande = 748
+  _self_important_values = [
+    {
+      value = "EnergeticPlumDawna"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RulingJadeAlejandra"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ForthcomingAmethystBrear"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "ShortYellowFrances_alias"
+}

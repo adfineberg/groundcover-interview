@@ -1,0 +1,223 @@
+type dummy.ConventionalWhiteKat {
+  annotations {
+    serviceid CheapGrayCarolan {
+    }
+    hidden_boolean ArchitecturalAmethystSusie {
+    }
+    hidden_boolean SpecificCrimsonShaun {
+    }
+    hidden_boolean ContentBrownBebe {
+    }
+    dummy.WitteringTomatoMufinella CostlyMoccasinFredia {
+    }
+    boolean PuzzledYellowAlysia {
+    }
+  }
+  boolean UnfortunatePlumAllyn {
+    _hidden_value = true
+  }
+  json RichGoldCalida {
+    _hidden_value = true
+  }
+  number BadGoldCodi {
+    _hidden_value = true
+  }
+  serviceid_number UnemployedLavenderCam {
+    _hidden_value = true
+  }
+  boolean QuerulousTomatoTwyla {
+    _hidden_value = true
+  }
+  boolean CloseGrayPrudence {
+    _hidden_value = true
+  }
+  serviceid BoringTealIlse {
+    _hidden_value = true
+  }
+  number TragicGreenIvett {
+    _hidden_value = true
+  }
+  number StandardPeachDianne {
+    _hidden_value = true
+  }
+  string StraightforwardAmethystLuella {
+    _hidden_value = true
+  }
+  number RecentVioletLeora {
+    _hidden_value = true
+  }
+  number ManualApricotAimil {
+    _hidden_value = true
+  }
+  boolean SatisfiedCopperMabel {
+    _hidden_value = true
+  }
+  json StupidLavenderJanella {
+    _hidden_value = true
+  }
+  serviceid StrikingTurquoiseLynett {
+    _hidden_value = true
+  }
+  boolean MiniatureBrownEdie {
+    _hidden_value = true
+  }
+  json DelightedIndigoIngeberg {
+    _hidden_value = true
+  }
+  boolean BalancedYellowTeddy {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SensibleOliveEdeline {
+    _hidden_value = true
+  }
+  dummy.DelightedVioletLiv UnsightlyBlushBrigitte {
+    PartialApricotRodie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ChiefRoseSadie = "Why was it called the dark ages? Because of all the knights. "
+    UpsetAquaLyndsay = "Why is Peter Pan always flying? Because he Neverlands."
+    PsychologicalMagentaFidelity = "Whoever invented the knock-knock joke should get a no bell prize."
+    AdministrativeAmaranthMaighdiln = 321
+    SoundJadeUlrica = true
+    ExuberantOliveCleopatra = "What creature is smarter than a talking parrot? A spelling bee."
+    DemocraticAmaranthJanaya = false
+    FlyingAquamarineCristionna = "A steak pun is a rare medium well done."
+    GrotesqueTanRonni = 606
+    DutchPinkAnnice = "Why is Peter Pan always flying? Because he Neverlands."
+    _hidden_value = true
+  }
+  hidden_boolean CommonGoldAdelind {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ElectricRedCasey {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AppropriateAmaranthDoti {
+    _hidden_value = true
+  }
+  hidden_boolean LtdCopperGuenevere {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json ExactTomatoKatherine {
+    _hidden_value = true
+  }
+  dummy.MathematicalLavenderUlrica PhilosophicalTanLia {
+    WanderingJadeAnestassia = "Whoever invented the knock-knock joke should get a no bell prize."
+    ContinuousPurpleAaren = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SeriousTomatoMaurine = 461
+    PainfulAmethystKrista = 881
+    BlushingJadeRici = 912
+    SelectiveEmeraldBathsheba = 885
+    EffectiveTanKathye = "What do you do on a remote island? Try and find the TV island it belongs to."
+    CheerfulAquaAdda = false
+    CommercialSapphireLeilah = 528
+    GrumpySilverWilly = 466
+    GrubbyPinkNanice = "What do you call two barracuda fish?  A Pairacuda!"
+    AboveSapphireCrysta = 616
+    InevitablePeachSal = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    _hidden_value = true
+  }
+  serviceid GayCyanMagdalene {
+    _hidden_value = true
+  }
+  serviceid InevitableOliveWini {
+    _hidden_value = true
+  }
+  number DyingOliveLia {
+    _hidden_value = true
+  }
+  serviceid_number GlobalTurquoiseAndra {
+    _hidden_value = true
+  }
+  boolean WelcomeTomatoRuperta {
+    _hidden_value = true
+  }
+  json NetLimeWillow {
+    _hidden_value = true
+  }
+  string EvidentPlumEsma {
+    _hidden_value = true
+  }
+  hidden_boolean UglyIndigoKora {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string DefiniteCoffeeDorolisa {
+    _hidden_value = true
+  }
+  number UpperBronzeCollen {
+    _hidden_value = true
+  }
+  json OccasionalPurpleZsazsa {
+    _hidden_value = true
+  }
+  hidden_boolean IntenseIvoryDrusi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean VividGreenElinor {
+    _hidden_value = true
+  }
+  CheapGrayCarolan = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  CostlyMoccasinFredia = true
+  PuzzledYellowAlysia = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "GlobalTurquoiseAndra"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "IntenseIvoryDrusi"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BalancedYellowTeddy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CloseGrayPrudence"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ExactTomatoKatherine"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AppropriateAmaranthDoti"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NetLimeWillow"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BadGoldCodi"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CostlyMoccasinFredia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ArchitecturalAmethystSusie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

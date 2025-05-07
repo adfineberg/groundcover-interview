@@ -1,0 +1,44 @@
+type dummy.ColouredYellowMerilyn {
+  annotations {
+    dummy.GentleScarletAlbina ResidentialWhiteKati {
+    }
+    string NorthernAmberAmbur {
+    }
+    serviceid LimitedLimeAilene {
+    }
+    json WrongCopperPetronille {
+    }
+  }
+  json VitalPinkPhilippa {
+    _hidden_value = true
+  }
+  serviceid MultipleCoffeeErma {
+    _hidden_value = true
+  }
+  string SharedCoralAlma {
+    _hidden_value = true
+  }
+  boolean RegionalTurquoiseRoxanna {
+    _hidden_value = true
+  }
+  number StraightforwardMaroonIngeborg {
+    _hidden_value = true
+  }
+  json DistinctFuchsiaNettle {
+    _hidden_value = true
+  }
+  serviceid RadicalGreenCornela {
+    _hidden_value = true
+  }
+  boolean HelplessBeigeSofia {
+    _hidden_value = true
+  }
+  number DifficultHarlequinAlaine {
+    _hidden_value = true
+  }
+  ResidentialWhiteKati = "Whoever invented the knock-knock joke should get a no bell prize."
+  NorthernAmberAmbur = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  LimitedLimeAilene = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  WrongCopperPetronille = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

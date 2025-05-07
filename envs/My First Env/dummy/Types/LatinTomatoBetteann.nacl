@@ -1,0 +1,141 @@
+type dummy.LatinTomatoBetteann {
+  annotations {
+    number TallPlumJannelle {
+    }
+    serviceid FoolishMagentaNissie {
+    }
+    hidden_boolean WetIndigoNatalee {
+    }
+    serviceid_number CurvedOrangeChristi {
+    }
+    string ColorfulLimeOdetta {
+    }
+  }
+  boolean SolidOrangeMillie {
+    _hidden_value = true
+  }
+  number FormidableFuchsiaOriana {
+    _hidden_value = true
+  }
+  hidden_boolean ComingBlackMarla {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string UgliestMagentaEde {
+    _hidden_value = true
+  }
+  json OccasionalWhiteNesta {
+    _hidden_value = true
+  }
+  serviceid LuckyMoccasinVeronica {
+    _hidden_value = true
+  }
+  number InternalCoffeeFidela {
+    _hidden_value = true
+  }
+  boolean JuniorPlumGenny {
+    _hidden_value = true
+  }
+  dummy.IndirectSalmonTina ComprehensiveLavenderGeorgena {
+    StrongCoffeeLoleta = true
+    SlimyIndigoFara = 661
+    KnownGrayCesya = "My first time using an elevator was an uplifting experience. The second time let me down."
+    LikePurpleBonni = 672
+    ArtisticGreenPearl = "What do you call two barracuda fish?  A Pairacuda!"
+    NiceAmethystCarole = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    MutualVioletLurline = 724
+    ExoticSilverNora = "What did one nut say as he chased another nut?  I'm a cashew!"
+    BewilderedHarlequinIrene = 577
+    DelightfulCopperKandy = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ManualPinkNonah = 776
+    PresentMagentaCharla = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SpotlessMagentaDamara = '''
+What do you call two barracuda fish?  A Pairacuda!
+What do you do on a remote island? Try and find the TV island it belongs to.
+'''
+    EfficientCyanGerty = 943
+    SmallCrimsonTimmi = "Why do birds fly south for the winter? Because it's too far to walk."
+    ScrawnyVioletAvrit = 123
+    WealthyCoralNorah = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    AlrightSalmonBrinn = 972
+    _hidden_value = true
+  }
+  hidden_boolean VictoriousBlueCybil {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SufficientGreenLorri {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AdorableGoldAliza {
+    _hidden_value = true
+  }
+  boolean DecisiveEmeraldFreddi {
+    _hidden_value = true
+  }
+  dummy.NervousCyanBlisse StaleCoralFey {
+    _hidden_value = true
+  }
+  string NewTomatoMyrta {
+    _hidden_value = true
+  }
+  json NeighbouringBrownAlyda {
+    _hidden_value = true
+  }
+  string MarriedGoldDahlia {
+    _hidden_value = true
+  }
+  number HushedGreenBennie {
+    _hidden_value = true
+  }
+  serviceid_number ColonialTealGigi {
+    _hidden_value = true
+  }
+  string NaturalAzureTiphanie {
+    _hidden_value = true
+  }
+  boolean ImmenseCoffeeAg {
+    _hidden_value = true
+  }
+  json FinalBlackFaun {
+    _hidden_value = true
+  }
+  json MarginalMoccasinMargit {
+    _hidden_value = true
+  }
+  number GladHarlequinJazmin {
+    _hidden_value = true
+  }
+  TallPlumJannelle = 864
+  FoolishMagentaNissie = "Why did the tomato blush? Because it saw the salad dressing."
+  CurvedOrangeChristi = 188
+  ColorfulLimeOdetta = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "InternalCoffeeFidela"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "StaleCoralFey"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "WetIndigoNatalee"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

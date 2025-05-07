@@ -1,0 +1,35 @@
+type dummy.ThoughtfulChocolateLorelei {
+  annotations {
+    serviceid GrowingApricotMeriel {
+    }
+    dummy.DEFAULT SleepyYellowKathi {
+    }
+    json LongPeachPrisca {
+    }
+    boolean FlyingMagentaSabine {
+    }
+    number VagueCopperMufi {
+    }
+    boolean BrainyMagentaSonni {
+    }
+  }
+  serviceid IntactCrimsonGabriella {
+    _hidden_value = true
+  }
+  GrowingApricotMeriel = "Whoever invented the knock-knock joke should get a no bell prize."
+  SleepyYellowKathi = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  LongPeachPrisca = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FlyingMagentaSabine = true
+  VagueCopperMufi = 802
+  BrainyMagentaSonni = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "LongPeachPrisca"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

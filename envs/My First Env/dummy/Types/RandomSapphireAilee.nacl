@@ -1,0 +1,50 @@
+type dummy.RandomSapphireAilee {
+  annotations {
+    serviceid SelectiveScarletLinell {
+    }
+    serviceid SeparateFuchsiaMichelina {
+    }
+    json BetterBlackAvie {
+    }
+    dummy.MassYellowCorina MetropolitanBeigeOndrea {
+    }
+    hidden_boolean RelievedSalmonTasia {
+    }
+    hidden_boolean ForeignTanSarine {
+    }
+  }
+  serviceid CrudeYellowHenrie {
+    _hidden_value = true
+  }
+  hidden_boolean YoungestTealTwila {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json HandicappedChocolateRenee {
+    _hidden_value = true
+  }
+  number ElderlyPurpleLeonora {
+    _hidden_value = true
+  }
+  hidden_boolean RelativePurpleHephzibah {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid MisleadingYellowEimile {
+    _hidden_value = true
+  }
+  SelectiveScarletLinell = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SeparateFuchsiaMichelina = "What creature is smarter than a talking parrot? A spelling bee."
+  BetterBlackAvie = "What creature is smarter than a talking parrot? A spelling bee."
+  MetropolitanBeigeOndrea = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HandicappedChocolateRenee"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

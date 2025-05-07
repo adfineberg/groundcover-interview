@@ -1,0 +1,77 @@
+type dummy.ComingTurquoiseDeena {
+  annotations {
+    serviceid SoftGoldMeghan {
+    }
+    dummy.DiverseTurquoiseMariya HelpfulMoccasinBibby {
+    }
+    hidden_boolean ThoughtlessOliveHannah {
+    }
+    json MutualMagentaAlexandrina {
+    }
+    string JudicialGreenAngie {
+    }
+  }
+  serviceid SickMaroonMeris {
+    _hidden_value = true
+  }
+  boolean BadCopperFranky {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PunyHarlequinFulvia {
+    _hidden_value = true
+  }
+  string SportingPinkCamille {
+    _hidden_value = true
+  }
+  number ContinuingBrownDawn {
+    _hidden_value = true
+  }
+  json NewMagentaLoralee {
+    _hidden_value = true
+  }
+  hidden_boolean HurtCyanOdelle {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string YabberingCoralHillary {
+    _hidden_value = true
+  }
+  dummy.DEFAULT IntellectualGoldErmentrude {
+    _hidden_value = true
+  }
+  number CapitalistBlushJanaya {
+    _hidden_value = true
+  }
+  "List<serviceid>" BrilliantTanDyanne {
+    _hidden_value = true
+  }
+  string PresidentialAmethystDagmar {
+    _hidden_value = true
+  }
+  string NakedPeachNada {
+    _hidden_value = true
+  }
+  number HistoricGoldBlythe {
+    _hidden_value = true
+  }
+  SoftGoldMeghan = "Slept like a log last night  woke up in the fireplace."
+  HelpfulMoccasinBibby = false
+  MutualMagentaAlexandrina = "I'll tell you what often gets over looked... garden fences."
+  JudicialGreenAngie = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PunyHarlequinFulvia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "MutualMagentaAlexandrina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

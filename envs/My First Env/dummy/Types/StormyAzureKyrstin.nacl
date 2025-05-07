@@ -1,0 +1,52 @@
+type dummy.StormyAzureKyrstin {
+  annotations {
+    serviceid OnlyTanGlad {
+    }
+    serviceid BeautifulPlumBilly {
+    }
+    boolean SmoothHarlequinWilone {
+    }
+    number VaryingAmaranthBrandi {
+    }
+    string FreshSilverLorette {
+    }
+    serviceid_number EagerAmaranthLisha {
+    }
+  }
+  serviceid DelightedSalmonLarissa {
+    _hidden_value = true
+  }
+  hidden_boolean MedievalCopperGuinna {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid MildAquaBobbe {
+    _hidden_value = true
+  }
+  serviceid_number FlatHarlequinNannette {
+    _hidden_value = true
+  }
+  number MedievalBlackFranni {
+    _hidden_value = true
+  }
+  OnlyTanGlad = "Im only familiar with 25 letters in the English language. I dont know why."
+  BeautifulPlumBilly = "Why didnt the skeleton cross the road? Because he had no guts."
+  SmoothHarlequinWilone = false
+  VaryingAmaranthBrandi = 679
+  FreshSilverLorette = "Why didnt the skeleton cross the road? Because he had no guts."
+  EagerAmaranthLisha = 91
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MildAquaBobbe"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MedievalCopperGuinna"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

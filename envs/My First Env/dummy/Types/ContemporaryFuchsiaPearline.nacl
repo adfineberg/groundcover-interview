@@ -1,0 +1,28 @@
+type dummy.ContemporaryFuchsiaPearline {
+  annotations {
+    hidden_boolean ExclusiveCrimsonDorthy {
+    }
+    boolean EstimatedAmethystTim {
+    }
+    serviceid HugeAzureBrooke {
+    }
+    serviceid RationalAzureElene {
+    }
+    boolean PlasticFuchsiaSandye {
+    }
+    serviceid_number SovietHarlequinFaydra {
+    }
+    number DoubtfulTomatoSean {
+    }
+  }
+  json StaleRedCharlot {
+    _hidden_value = true
+  }
+  EstimatedAmethystTim = false
+  HugeAzureBrooke = "Why was it called the dark ages? Because of all the knights. "
+  RationalAzureElene = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  PlasticFuchsiaSandye = false
+  SovietHarlequinFaydra = 344
+  DoubtfulTomatoSean = 312
+  _hidden_value = true
+}

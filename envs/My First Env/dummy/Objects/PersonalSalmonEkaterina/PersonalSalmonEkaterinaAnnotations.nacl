@@ -1,0 +1,99 @@
+type dummy.PersonalSalmonEkaterina {
+  annotations {
+    json SpareCyanMillie {
+    }
+    string GlobalAmaranthDarleen {
+    }
+    hidden_boolean YuckyTurquoiseJosey {
+    }
+    string RealisticCoffeeLarine {
+    }
+    json RetailAmethystHalie {
+    }
+    json FuzzyRedMarigold {
+    }
+    dummy.AnnualPurpleRyann NeighbouringIvoryKlarrisa {
+    }
+    serviceid NorthernAmberEvangelia {
+    }
+    boolean TraditionalOliveGerrie {
+    }
+    serviceid_number VaryingVioletArluene {
+    }
+    hidden_boolean CorrectAmaranthGoldarina {
+    }
+    boolean BadPlumCeil {
+    }
+    number AdditionalAmaranthHedvige {
+    }
+    json SystematicGreenBlanche {
+    }
+    string RichIndigoJuliane {
+    }
+    json CurvedPinkLinea {
+    }
+    serviceid_number NavalWhiteHortensia {
+    }
+    json UnchangedYellowMarjy {
+    }
+    serviceid AngryWhiteMaxine {
+    }
+  }
+  SpareCyanMillie = "A steak pun is a rare medium well done."
+  GlobalAmaranthDarleen = "I'll tell you what often gets over looked... garden fences."
+  RealisticCoffeeLarine = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RetailAmethystHalie = "Why was it called the dark ages? Because of all the knights. "
+  FuzzyRedMarigold = "To be Frank, I'd have to change my name."
+  NeighbouringIvoryKlarrisa = true
+  NorthernAmberEvangelia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  TraditionalOliveGerrie = false
+  VaryingVioletArluene = 43
+  BadPlumCeil = true
+  AdditionalAmaranthHedvige = 664
+  SystematicGreenBlanche = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  RichIndigoJuliane = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  CurvedPinkLinea = "Slept like a log last night  woke up in the fireplace."
+  NavalWhiteHortensia = 731
+  UnchangedYellowMarjy = "Why did the kid cross the playground? To get to the other slide."
+  AngryWhiteMaxine = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _important_values = [
+    {
+      value = "SpontaneousWhiteKatha"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RealisticCoffeeLarine"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GlobalAmaranthDarleen"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NorthernAmberEvangelia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CurvedPinkLinea"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NeighbouringIvoryKlarrisa"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SpareCyanMillie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "PersonalSalmonEkaterina_alias"
+}

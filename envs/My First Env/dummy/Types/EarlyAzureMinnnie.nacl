@@ -1,0 +1,34 @@
+type dummy.EarlyAzureMinnnie {
+  annotations {
+    string MathematicalJadeStacia {
+    }
+    number SufficientMaroonCymbre {
+    }
+    serviceid UselessTurquoiseWenona {
+    }
+    string StrategicCopperNola {
+    }
+    number UniversalLavenderDolli {
+    }
+    hidden_boolean LazyBrownMarylou {
+    }
+    hidden_boolean RespectableHarlequinFanchette {
+    }
+  }
+  boolean UniformOliveDion {
+    _hidden_value = true
+  }
+  MathematicalJadeStacia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SufficientMaroonCymbre = 339
+  UselessTurquoiseWenona = "Did you know that protons have mass? I didn't even know they were catholic."
+  StrategicCopperNola = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  UniversalLavenderDolli = 285
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "StrategicCopperNola"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

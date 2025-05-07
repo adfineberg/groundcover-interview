@@ -1,0 +1,34 @@
+type dummy.DisturbedAquamarineDaffy {
+  annotations {
+    dummy.InformalTurquoiseFaith ProminentBlushQuintana {
+    }
+    boolean ProminentRoseKristine {
+    }
+    number VocationalAquamarineTony {
+    }
+    hidden_boolean FinancialFuchsiaPeria {
+    }
+    string EvilJadeMala {
+    }
+  }
+  serviceid_number PricklyTurquoiseAriel {
+    _hidden_value = true
+  }
+  number CriminalWhiteHalli {
+    _hidden_value = true
+  }
+  serviceid_number LiableMagentaCecile {
+    _hidden_value = true
+  }
+  boolean ArbitraryLimeNatassia {
+    _hidden_value = true
+  }
+  boolean InstantWhiteSam {
+    _hidden_value = true
+  }
+  ProminentBlushQuintana = false
+  ProminentRoseKristine = true
+  VocationalAquamarineTony = 106
+  EvilJadeMala = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

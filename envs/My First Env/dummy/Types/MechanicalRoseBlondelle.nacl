@@ -1,0 +1,33 @@
+type dummy.MechanicalRoseBlondelle {
+  annotations {
+    json LevelAquamarineEmmalynn {
+    }
+    serviceid FaithfulPurpleMirabelle {
+    }
+    serviceid_number CoherentAmberJoanne {
+    }
+    serviceid_number DelicateIvoryWillette {
+    }
+    serviceid IndividualApricotPeri {
+    }
+    number ShortSilverSeka {
+    }
+  }
+  serviceid_number GeneralTurquoiseCilka {
+    _hidden_value = true
+  }
+  LevelAquamarineEmmalynn = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FaithfulPurpleMirabelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CoherentAmberJoanne = 690
+  DelicateIvoryWillette = 66
+  IndividualApricotPeri = "What do you call two barracuda fish?  A Pairacuda!"
+  ShortSilverSeka = 150
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "FaithfulPurpleMirabelle"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

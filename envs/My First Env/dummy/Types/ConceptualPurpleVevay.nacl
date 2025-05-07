@@ -1,0 +1,77 @@
+type dummy.ConceptualPurpleVevay {
+  annotations {
+    hidden_boolean SkinnyGreenMarigold {
+    }
+    dummy.NervousCyanBlisse AngryTomatoLyndy {
+    }
+    string QuickestBeigeRodie {
+    }
+    boolean PuzzledGrayMargaux {
+    }
+  }
+  string NakedCrimsonMarilee {
+    _hidden_value = true
+  }
+  number ElectronicPinkBeilul {
+    _hidden_value = true
+  }
+  string DigitalCoralGermain {
+    _hidden_value = true
+  }
+  number StrictBeigeCarline {
+    _hidden_value = true
+  }
+  number NutritiousGoldLanny {
+    _hidden_value = true
+  }
+  dummy.MathematicalLavenderUlrica LimitedPlumMichaeline {
+    WanderingJadeAnestassia = "Slept like a log last night  woke up in the fireplace."
+    ContinuousPurpleAaren = "How come the stadium got hot after the game? Because all of the fans left."
+    SeriousTomatoMaurine = 427
+    PainfulAmethystKrista = 585
+    BlushingJadeRici = 235
+    SelectiveEmeraldBathsheba = 835
+    EffectiveTanKathye = "Slept like a log last night  woke up in the fireplace."
+    CheerfulAquaAdda = true
+    CommercialSapphireLeilah = 593
+    GrumpySilverWilly = 629
+    GrubbyPinkNanice = "My first time using an elevator was an uplifting experience. The second time let me down."
+    AboveSapphireCrysta = 254
+    InevitablePeachSal = "To be Frank, I'd have to change my name."
+    _hidden_value = true
+  }
+  serviceid UncertainGrayClaretta {
+    _hidden_value = true
+  }
+  boolean CompatiblePlumDorella {
+    _hidden_value = true
+  }
+  AngryTomatoLyndy = 375
+  QuickestBeigeRodie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  PuzzledGrayMargaux = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "NakedCrimsonMarilee"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LimitedPlumMichaeline"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ElectronicPinkBeilul"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PuzzledGrayMargaux"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

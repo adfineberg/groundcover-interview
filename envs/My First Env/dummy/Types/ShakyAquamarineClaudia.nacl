@@ -1,0 +1,171 @@
+type dummy.ShakyAquamarineClaudia {
+  annotations {
+    number VeryCoralAngela {
+    }
+    serviceid_number PreliminaryTurquoiseKrissy {
+    }
+    string RearPlumEmalee {
+    }
+    dummy.DEFAULT EntireLavenderArlene {
+    }
+    number SubsequentWhiteElenore {
+    }
+  }
+  boolean FitOliveLucine {
+    _hidden_value = true
+  }
+  serviceid_number BlushingFuchsiaLonee {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SurvivingGoldGilli {
+    _hidden_value = true
+  }
+  serviceid_number WanderingBronzeBabara {
+    _hidden_value = true
+  }
+  boolean IndividualTomatoDella {
+    _hidden_value = true
+  }
+  hidden_boolean BlondeTurquoiseAnaliese {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean VocalCrimsonKevyn {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.MathematicalLavenderUlrica ZippyLavenderRoxie {
+    WanderingJadeAnestassia = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ContinuousPurpleAaren = "Whoever invented the knock-knock joke should get a no bell prize."
+    SeriousTomatoMaurine = 544
+    PainfulAmethystKrista = 443
+    BlushingJadeRici = 105
+    SelectiveEmeraldBathsheba = 225
+    EffectiveTanKathye = "What did one nut say as he chased another nut?  I'm a cashew!"
+    CheerfulAquaAdda = false
+    CommercialSapphireLeilah = 674
+    GrumpySilverWilly = 112
+    GrubbyPinkNanice = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    AboveSapphireCrysta = 185
+    InevitablePeachSal = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  serviceid_number YelpingMoccasinDorolisa {
+    _hidden_value = true
+  }
+  json RightAmethystDarbie {
+    _hidden_value = true
+  }
+  number PresidentialOrangeCally {
+    _hidden_value = true
+  }
+  string CrookedCyanZabrina {
+    _hidden_value = true
+  }
+  hidden_boolean LoyalApricotAgnesse {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean UniversalEmeraldIolande {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SlimEmeraldMatilda {
+    _hidden_value = true
+  }
+  serviceid GothicCoffeeIdalia {
+    _hidden_value = true
+  }
+  hidden_boolean CrucialYellowMildred {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean GentleIvoryLayla {
+    _hidden_value = true
+  }
+  serviceid SymbolicOliveBilli {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DeterminedIndigoAgnese {
+    _hidden_value = true
+  }
+  json InitialJadeWinnie {
+    _hidden_value = true
+  }
+  serviceid StraightforwardBrownMaible {
+    _hidden_value = true
+  }
+  serviceid_number UselessAzureBirdie {
+    _hidden_value = true
+  }
+  serviceid ExoticIndigoCiel {
+    _hidden_value = true
+  }
+  json LovelyMoccasinChad {
+    _hidden_value = true
+  }
+  dummy.OppositeBlueStacia EmbarrassedAzureKonstance {
+    GeneralLimeAnitra = "Why didnt the skeleton cross the road? Because he had no guts."
+    YoungestYellowHelenka = "What do you call two barracuda fish?  A Pairacuda!"
+    ZonalJadeGabriellia = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    FunctionalApricotHelyn = "Slept like a log last night  woke up in the fireplace."
+    GorgeousRedAnnecorinne = 681
+    PreliminaryGoldZsazsa = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  serviceid_number FitJadeLayla {
+    _hidden_value = true
+  }
+  VeryCoralAngela = 726
+  PreliminaryTurquoiseKrissy = 55
+  RearPlumEmalee = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  EntireLavenderArlene = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  SubsequentWhiteElenore = 74
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CrookedCyanZabrina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BlondeTurquoiseAnaliese"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "EmbarrassedAzureKonstance"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SlimEmeraldMatilda"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FitJadeLayla"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SymbolicOliveBilli"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "IndividualTomatoDella"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

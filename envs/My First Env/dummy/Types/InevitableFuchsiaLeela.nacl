@@ -1,0 +1,36 @@
+type dummy.InevitableFuchsiaLeela {
+  annotations {
+    number FarAmberStacy {
+    }
+    boolean SleepyAmethystKaryn {
+    }
+    serviceid_number GlamorousJadeAndi {
+    }
+    number SilentApricotKirstyn {
+    }
+  }
+  string AlrightYellowLeonie {
+    _hidden_value = true
+  }
+  serviceid ViolentMaroonDori {
+    _hidden_value = true
+  }
+  serviceid CognitiveOliveLeyla {
+    _hidden_value = true
+  }
+  serviceid ExpectedAquaAndra {
+    _hidden_value = true
+  }
+  FarAmberStacy = 39
+  SleepyAmethystKaryn = true
+  GlamorousJadeAndi = 27
+  SilentApricotKirstyn = 764
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CognitiveOliveLeyla"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

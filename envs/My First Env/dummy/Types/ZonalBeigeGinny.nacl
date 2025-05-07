@@ -1,0 +1,44 @@
+type dummy.ZonalBeigeGinny {
+  annotations {
+    serviceid_number RemainingApricotFarrand {
+    }
+    string AccurateCrimsonMirella {
+    }
+    number MarvellousLimeSelene {
+    }
+    dummy.DEFAULT SportingEmeraldKarina {
+    }
+    serviceid_number EldestGoldOthilia {
+    }
+    string LeadingAmaranthJennee {
+    }
+    hidden_boolean XerothermicPinkKrissy {
+    }
+  }
+  hidden_boolean AfraidCrimsonDesiree {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  RemainingApricotFarrand = 986
+  AccurateCrimsonMirella = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  MarvellousLimeSelene = 211
+  SportingEmeraldKarina = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  EldestGoldOthilia = 757
+  LeadingAmaranthJennee = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "LeadingAmaranthJennee"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AccurateCrimsonMirella"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

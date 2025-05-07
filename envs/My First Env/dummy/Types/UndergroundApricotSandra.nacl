@@ -1,0 +1,32 @@
+type dummy.UndergroundApricotSandra {
+  annotations {
+    dummy.DEFAULT VitalGrayZandra {
+    }
+    json ExpensiveIndigoSeka {
+    }
+    dummy.SorryCyanVinnie ResonantYellowMalissa {
+    }
+    boolean LinguisticOrangeScarlet {
+    }
+    serviceid OutstandingBrownBerti {
+    }
+  }
+  json CompatibleYellowVinnie {
+    _hidden_value = true
+  }
+  VitalGrayZandra = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  ExpensiveIndigoSeka = "Dad Im hungry  Hi hungry Im dad"
+  ResonantYellowMalissa = "Why was it called the dark ages? Because of all the knights. "
+  LinguisticOrangeScarlet = true
+  OutstandingBrownBerti = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ResonantYellowMalissa"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,45 @@
+type dummy.ImplicitHarlequinAnita {
+  annotations {
+    boolean CreepyAmberPetronia {
+    }
+    serviceid GenerousFuchsiaPrue {
+    }
+    hidden_boolean VividPinkLettie {
+    }
+    hidden_boolean AccusedVioletTeddie {
+    }
+    number UltimatePurpleGates {
+    }
+  }
+  json EverydaySilverTonie {
+    _hidden_value = true
+  }
+  serviceid_number VerbalBronzeAinslee {
+    _hidden_value = true
+  }
+  serviceid ThoughtfulAquaMaren {
+    _hidden_value = true
+  }
+  boolean InlandPurpleOlive {
+    _hidden_value = true
+  }
+  hidden_boolean SuccessiveTurquoiseCecily {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AshamedSapphireCathrin {
+    _hidden_value = true
+  }
+  CreepyAmberPetronia = true
+  GenerousFuchsiaPrue = "I'll tell you what often gets over looked... garden fences."
+  UltimatePurpleGates = 626
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "CreepyAmberPetronia"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

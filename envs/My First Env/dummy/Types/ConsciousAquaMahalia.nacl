@@ -1,0 +1,34 @@
+type dummy.ConsciousAquaMahalia is string {
+  annotations {
+    serviceid ComingCyanMaddi {
+    }
+    json EfficientRoseAdrienne {
+    }
+    serviceid_number ConsistentBeigeTonya {
+    }
+    boolean LiterarySapphireAila {
+    }
+    json SystematicAquaMead {
+    }
+    serviceid_number RoyalIvorySal {
+    }
+    boolean PreviousLavenderMignonne {
+    }
+    boolean AbsentAquamarineIra {
+    }
+    number AdditionalRoseAlthea {
+    }
+    number GlamorousJadeGates {
+    }
+  }
+  ComingCyanMaddi = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  EfficientRoseAdrienne = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ConsistentBeigeTonya = 520
+  LiterarySapphireAila = true
+  SystematicAquaMead = "Did you know that protons have mass? I didn't even know they were catholic."
+  RoyalIvorySal = 353
+  PreviousLavenderMignonne = false
+  AbsentAquamarineIra = true
+  AdditionalRoseAlthea = 955
+  GlamorousJadeGates = 199
+}

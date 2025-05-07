@@ -1,0 +1,12 @@
+type dummy.UpperTanDebby is boolean {
+  annotations {
+    json SocialCyanBlondelle {
+    }
+    boolean CompatibleLimeKarleen {
+    }
+    hidden_boolean BriefMoccasinMarje {
+    }
+  }
+  SocialCyanBlondelle = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CompatibleLimeKarleen = false
+}

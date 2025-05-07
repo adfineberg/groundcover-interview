@@ -1,0 +1,140 @@
+type dummy.CheerfulGoldMaudie {
+  annotations {
+    number UsualGrayHarriot {
+    }
+    number WetPlumJobye {
+    }
+    boolean StaleBrownOlwen {
+    }
+  }
+  dummy.SorryCyanVinnie CognitiveCoralBinny {
+    HistoricAzureDorry = "What do you call two barracuda fish?  A Pairacuda!"
+    PartialBeigeLanie = true
+    SoundGrayJenelle = true
+    MusicalTomatoMollie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    AshamedCoralNoel = 639
+    FamiliarGrayWinny = "Slept like a log last night  woke up in the fireplace."
+    ImportantPlumBerget = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    TerribleGrayJoelie = 659
+    FriendlyCoffeeJackie = 441
+    RoyalBlackCarol = "Slept like a log last night  woke up in the fireplace."
+    RacialBrownDorolisa = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ThickAquamarineNatalina = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    CourageousCopperQuinta = "My first time using an elevator was an uplifting experience. The second time let me down."
+    MeanAzureFrancesca = "What do you do on a remote island? Try and find the TV island it belongs to."
+    SuperbVioletMarti = "My first time using an elevator was an uplifting experience. The second time let me down."
+    RightSapphireIvory = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    DelicatePinkJulita = false
+    _hidden_value = true
+  }
+  "List<boolean>" ExcitedHarlequinIolanthe {
+    _hidden_value = true
+  }
+  hidden_boolean NavalTomatoOtha {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<serviceid_number>" BrilliantCyanLeoline {
+    _hidden_value = true
+  }
+  serviceid_number SpottyOrangeMaurita {
+    _hidden_value = true
+  }
+  dummy.ViciousGoldTessi HilariousAquaPetra {
+    YtterbicTomatoJobie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    FatTurquoiseKiersten = "Why didnt the skeleton cross the road? Because he had no guts."
+    RelativeBlackGlennis = 444
+    SkilledCrimsonMargi = 903
+    EfficientTurquoiseRasla = 334
+    ThoroughIvoryJanette = 12
+    FineTurquoiseCorry = "Why is Peter Pan always flying? Because he Neverlands."
+    EfficientTomatoMerci = 753
+    OverwhelmingGreenStephine = "Im only familiar with 25 letters in the English language. I dont know why."
+    UnpleasantGreenKristin = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    StraightforwardChocolateGermaine = 478
+    PermanentPinkOthella = false
+    _hidden_value = true
+  }
+  hidden_boolean LoyalWhiteIndira {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string PhilosophicalChocolateJobye {
+    _hidden_value = true
+  }
+  json DrabScarletJoellen {
+    _hidden_value = true
+  }
+  boolean WellPinkKatlin {
+    _hidden_value = true
+  }
+  json EntireBlackTrula {
+    _hidden_value = true
+  }
+  json YelpingChocolateRowe {
+    _hidden_value = true
+  }
+  boolean UnnecessaryGoldTiffi {
+    _hidden_value = true
+  }
+  dummy.DelightedTealLynna YelpingLavenderDoretta {
+    _hidden_value = true
+  }
+  serviceid JollyTomatoCassondra {
+    _hidden_value = true
+  }
+  serviceid_number EasternLavenderJanelle {
+    _hidden_value = true
+  }
+  string AdorablePeachKathleen {
+    _hidden_value = true
+  }
+  number FaintPeachGerrie {
+    _hidden_value = true
+  }
+  dummy.AcceptableAmaranthGertrudis FinancialCopperShannon {
+    SportingGreenRachel = {
+      legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    }
+    ColorfulAmberRhetta = "Slept like a log last night  woke up in the fireplace."
+    UsedLimeMia = 721
+    SharpAzureChandra = "Slept like a log last night  woke up in the fireplace."
+    AnnualAquamarineAmii = true
+    UninterestedSalmonClaretta = false
+    IllTomatoKimberley = 603
+    TemporaryFuchsiaGuillema = "What do you call two barracuda fish?  A Pairacuda!"
+    MentalSalmonKori = "Why was it called the dark ages? Because of all the knights. "
+    CarefulBlushSaraann = 836
+    TropicalWhiteLauralee = "What do you call two barracuda fish?  A Pairacuda!"
+    PsychologicalFuchsiaAnnabal = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  hidden_boolean SlipperySilverLanita {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean FaithfulBlushEmilee {
+    _hidden_value = true
+  }
+  string NakedAquaLise {
+    _hidden_value = true
+  }
+  number StrongBrownLucilia {
+    _hidden_value = true
+  }
+  json SilkyPinkArdelle {
+    _hidden_value = true
+  }
+  number DisciplinaryAmethystJoane {
+    _hidden_value = true
+  }
+  UsualGrayHarriot = 48
+  WetPlumJobye = 360
+  StaleBrownOlwen = true
+  _hidden_value = true
+}

@@ -1,0 +1,30 @@
+type dummy.VaryingBlueMariejeanne {
+  annotations {
+    boolean LoudLimeMaude {
+    }
+    boolean UnnecessaryPeachXaviera {
+    }
+    string FatLavenderDoreen {
+    }
+    boolean IntegratedScarletAndriana {
+    }
+    json SpottyWhiteRozina {
+    }
+  }
+  string AboveTurquoiseTobey {
+    _hidden_value = true
+  }
+  LoudLimeMaude = true
+  UnnecessaryPeachXaviera = true
+  FatLavenderDoreen = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  IntegratedScarletAndriana = false
+  SpottyWhiteRozina = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "FatLavenderDoreen"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

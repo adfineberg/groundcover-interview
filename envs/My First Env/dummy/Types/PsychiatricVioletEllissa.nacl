@@ -1,0 +1,25 @@
+type dummy.PsychiatricVioletEllissa {
+  annotations {
+    boolean AmbitiousEmeraldSalome {
+    }
+    serviceid NavalTomatoIanthe {
+    }
+    json DistantEmeraldNeilla {
+    }
+    hidden_boolean FunctionalOrangeEmlynn {
+    }
+    json WelcomeCopperSophronia {
+    }
+  }
+  string UnsightlyMaroonKaria {
+    _hidden_value = true
+  }
+  json MinimumBlushKorella {
+    _hidden_value = true
+  }
+  AmbitiousEmeraldSalome = false
+  NavalTomatoIanthe = "What do you do on a remote island? Try and find the TV island it belongs to."
+  DistantEmeraldNeilla = "Did you know that protons have mass? I didn't even know they were catholic."
+  WelcomeCopperSophronia = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

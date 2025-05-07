@@ -1,0 +1,79 @@
+type dummy.AwakeRoseLayla {
+  annotations {
+    json UptightBlushDanielle {
+    }
+    boolean RedundantCrimsonArlana {
+    }
+    string NeatTealJuana {
+    }
+    string WonderfulAmberQuentin {
+    }
+    dummy.FairFuchsiaEleanora DampPinkJacquenette {
+    }
+    dummy.NeighbouringGrayGusty ElectronicTomatoPerl {
+    }
+    hidden_boolean ImplicitPurpleStephi {
+    }
+    boolean WrittenOrangeSayre {
+    }
+    json DevotedOrangeVivianna {
+    }
+    serviceid RelatedTurquoiseBerte {
+    }
+    string FashionableOliveAmaleta {
+    }
+    hidden_boolean ShortOrangeSilvia {
+    }
+    json FranticCoralHenrie {
+    }
+    serviceid KeyMagentaYnez {
+    }
+    dummy.MarriedIvorySayre MisleadingBluePatrice {
+    }
+    dummy.PresidentialTurquoiseAdella OverwhelmingScarletTiffany {
+    }
+    hidden_boolean UsedTomatoJere {
+    }
+    boolean SheerBlushNatka {
+    }
+    dummy.ConsciousAquaMahalia AcceptedCoffeeMoselle {
+    }
+    serviceid TerribleBronzeJacynth {
+    }
+    serviceid_number StripedCoralLeila {
+    }
+  }
+  UptightBlushDanielle = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RedundantCrimsonArlana = false
+  NeatTealJuana = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  WonderfulAmberQuentin = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ElectronicTomatoPerl = 220
+  WrittenOrangeSayre = true
+  DevotedOrangeVivianna = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  RelatedTurquoiseBerte = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FashionableOliveAmaleta = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  FranticCoralHenrie = "I'll tell you what often gets over looked... garden fences."
+  KeyMagentaYnez = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SheerBlushNatka = false
+  AcceptedCoffeeMoselle = file("DecisiveBlueMeg.txt")
+  TerribleBronzeJacynth = "My first time using an elevator was an uplifting experience. The second time let me down."
+  StripedCoralLeila = 848
+  _self_important_values = [
+    {
+      value = "KeyMagentaYnez"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "TerribleBronzeJacynth"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "WrittenOrangeSayre"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "AwakeRoseLayla_alias"
+}

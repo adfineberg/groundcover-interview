@@ -1,0 +1,98 @@
+type dummy.ProfitableMoccasinDonni {
+  annotations {
+    boolean BrilliantBlushJoletta {
+    }
+    serviceid_number ZestfulYellowSavina {
+    }
+    hidden_boolean AccurateHarlequinSissy {
+    }
+    hidden_boolean UnexpectedBrownMaggie {
+    }
+    json GiganticAzureLuelle {
+    }
+    string EthnicAquamarineKerrill {
+    }
+    serviceid ObligedPinkRevkah {
+    }
+    hidden_boolean ColdRedKamillah {
+    }
+    serviceid_number BrainyVioletTandie {
+    }
+    number HeavyBlackNat {
+    }
+    json OrganicRedReyna {
+    }
+    string CompactJadeDaffie {
+    }
+    dummy.UnhappyMagentaNorah SafeAmaranthNoel {
+    }
+    dummy.OutrageousApricotDelia DirtyCoralKarole {
+    }
+    serviceid_number ModestEmeraldOlimpia {
+    }
+    json JealousOrangeDoloritas {
+    }
+    serviceid WhisperingAmberCrysta {
+    }
+    serviceid_number ConsciousYellowFifine {
+    }
+    serviceid NativeMaroonHortensia {
+    }
+    serviceid OverseasAmethystKissiah {
+    }
+    number TypicalAmethystEvelina {
+    }
+    boolean SpottyBronzeBea {
+    }
+    number TechnicalMagentaElvera {
+    }
+  }
+  BrilliantBlushJoletta = true
+  ZestfulYellowSavina = 775
+  GiganticAzureLuelle = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  EthnicAquamarineKerrill = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ObligedPinkRevkah = "To be Frank, I'd have to change my name."
+  BrainyVioletTandie = 344
+  HeavyBlackNat = 549
+  OrganicRedReyna = "What do you call two barracuda fish?  A Pairacuda!"
+  CompactJadeDaffie = "How come the stadium got hot after the game? Because all of the fans left."
+  SafeAmaranthNoel = 868
+  DirtyCoralKarole = 178
+  ModestEmeraldOlimpia = 111
+  JealousOrangeDoloritas = "A steak pun is a rare medium well done."
+  WhisperingAmberCrysta = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ConsciousYellowFifine = 618
+  NativeMaroonHortensia = "A steak pun is a rare medium well done."
+  OverseasAmethystKissiah = "My first time using an elevator was an uplifting experience. The second time let me down."
+  TypicalAmethystEvelina = 357
+  SpottyBronzeBea = true
+  TechnicalMagentaElvera = 956
+  _self_important_values = [
+    {
+      value = "ColdRedKamillah"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NativeMaroonHortensia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AccurateHarlequinSissy"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DirtyCoralKarole"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ZestfulYellowSavina"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "ProfitableMoccasinDonni_alias"
+}

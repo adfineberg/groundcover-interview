@@ -1,0 +1,77 @@
+type dummy.StillAzureBlythe {
+  annotations {
+    boolean UnsightlyBlackKarel {
+    }
+    serviceid FellowAmberXylia {
+    }
+    dummy.StaleSilverLillian WispyGreenSusanne {
+    }
+    string VaryingGreenLyndsey {
+    }
+  }
+  serviceid_number ReluctantGoldKore {
+    _hidden_value = true
+  }
+  boolean ZestyBlushEvelina {
+    _hidden_value = true
+  }
+  serviceid SecretCrimsonJacklyn {
+    _hidden_value = true
+  }
+  boolean ResponsibleSapphireVonni {
+    _hidden_value = true
+  }
+  serviceid_number NecessaryBeigeDominga {
+    _hidden_value = true
+  }
+  number ThickBrownAlbertina {
+    _hidden_value = true
+  }
+  json UncertainBronzeAnny {
+    _hidden_value = true
+  }
+  hidden_boolean ClearBeigeEaster {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.JustBeigeShaylynn RepulsiveBeigeTandie {
+    FreshAquamarineRubie = 520
+    RoastedGrayCammie = true
+    FavourableIndigoBritte = "Did you know that protons have mass? I didn't even know they were catholic."
+    RemoteSapphireCarree = 164
+    AloneOrangeMarijo = "Why did the tomato blush? Because it saw the salad dressing."
+    DoubtfulGreenTamara = 589
+    SocialAmberLilah = 152
+    TropicalGoldAmelita = {
+      legit = "Why didnt the skeleton cross the road? Because he had no guts."
+    }
+    VulnerableAquamarineAyn = "My first time using an elevator was an uplifting experience. The second time let me down."
+    WorldwideMaroonVinni = "Whoever invented the knock-knock joke should get a no bell prize."
+    ArmedOrangeSibbie = 933
+    _hidden_value = true
+  }
+  json NobleBlushLoraine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImpressiveGraySerena {
+    _hidden_value = true
+  }
+  UnsightlyBlackKarel = false
+  FellowAmberXylia = "Did you know that protons have mass? I didn't even know they were catholic."
+  WispyGreenSusanne = 122
+  VaryingGreenLyndsey = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ZestyBlushEvelina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SecretCrimsonJacklyn"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,118 @@
+type dummy.PlasticOliveLaverne {
+  annotations {
+    serviceid DramaticAzurePerl {
+    }
+    number MassTanBeatriz {
+    }
+    serviceid ResultingAmberDelcine {
+    }
+    hidden_boolean EasyBronzeLexy {
+    }
+  }
+  json ProminentHarlequinDot {
+    _hidden_value = true
+  }
+  boolean NakedRedMeagan {
+    _hidden_value = true
+  }
+  boolean SocialBrownGertie {
+    _hidden_value = true
+  }
+  serviceid_number CrazyCyanConstantina {
+    _hidden_value = true
+  }
+  string OldEmeraldShauna {
+    _hidden_value = true
+  }
+  boolean RearPeachShay {
+    _hidden_value = true
+  }
+  json WrittenMagentaArlyne {
+    _hidden_value = true
+  }
+  hidden_boolean CrucialBrownBarbra {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.EventualSilverMerrilee InstitutionalIndigoPauletta {
+    _hidden_value = true
+  }
+  json AsleepPeachGeorgianne {
+    _hidden_value = true
+  }
+  hidden_boolean PowerfulAmethystAngel {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean AllegedGrayLoralie {
+    _hidden_value = true
+  }
+  number DynamicPeachSaidee {
+    _hidden_value = true
+  }
+  string RemoteHarlequinLonee {
+    _hidden_value = true
+  }
+  serviceid ComplexCoralLyndsie {
+    _hidden_value = true
+  }
+  string AmazingOliveAuria {
+    _hidden_value = true
+  }
+  number BadMoccasinCayla {
+    _hidden_value = true
+  }
+  hidden_boolean CharacteristicGreenGertrud {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number RuralCoffeeZara {
+    _hidden_value = true
+  }
+  DramaticAzurePerl = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MassTanBeatriz = 387
+  ResultingAmberDelcine = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DynamicPeachSaidee"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ComplexCoralLyndsie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "BadMoccasinCayla"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "InstitutionalIndigoPauletta"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RearPeachShay"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NakedRedMeagan"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DramaticAzurePerl"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

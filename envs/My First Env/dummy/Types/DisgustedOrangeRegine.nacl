@@ -1,0 +1,105 @@
+type dummy.DisgustedOrangeRegine {
+  annotations {
+    json ClassicalAquaMadlen {
+    }
+    number SuddenBrownAngelia {
+    }
+    json HandicappedGrayDevonna {
+    }
+    string EmotionalYellowMoria {
+    }
+    number SafeAmaranthBecky {
+    }
+  }
+  dummy.SorryCyanVinnie BreakableHarlequinLilla {
+    HistoricAzureDorry = "I'll tell you what often gets over looked... garden fences."
+    PartialBeigeLanie = false
+    SoundGrayJenelle = true
+    MusicalTomatoMollie = "Im only familiar with 25 letters in the English language. I dont know why."
+    AshamedCoralNoel = 419
+    FamiliarGrayWinny = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ImportantPlumBerget = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    TerribleGrayJoelie = 608
+    FriendlyCoffeeJackie = 92
+    RoyalBlackCarol = "A steak pun is a rare medium well done."
+    RacialBrownDorolisa = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ThickAquamarineNatalina = "Why is Peter Pan always flying? Because he Neverlands."
+    CourageousCopperQuinta = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    MeanAzureFrancesca = "Whoever invented the knock-knock joke should get a no bell prize."
+    SuperbVioletMarti = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    RightSapphireIvory = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    DelicatePinkJulita = false
+    _hidden_value = true
+  }
+  string IntenseCrimsonCarmen {
+    _hidden_value = true
+  }
+  hidden_boolean BoldMoccasinAdiana {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json ClearAmberSheila {
+    _hidden_value = true
+  }
+  serviceid SmartPlumYetty {
+    _hidden_value = true
+  }
+  json ControversialLimeCorrena {
+    _hidden_value = true
+  }
+  json MonthlyRoseJacinta {
+    _hidden_value = true
+  }
+  serviceid CivicCoffeeNoami {
+    _hidden_value = true
+  }
+  serviceid SplendidBeigeNerti {
+    _hidden_value = true
+  }
+  string FemaleEmeraldColline {
+    _hidden_value = true
+  }
+  serviceid_number IntegratedLimeMandi {
+    _hidden_value = true
+  }
+  serviceid_number RacialTurquoiseViviene {
+    _hidden_value = true
+  }
+  number ArrogantAmaranthYoshiko {
+    _hidden_value = true
+  }
+  hidden_boolean LogicalAquamarineAdrea {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number TestyTomatoKacey {
+    _hidden_value = true
+  }
+  ClassicalAquaMadlen = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SuddenBrownAngelia = 685
+  HandicappedGrayDevonna = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  EmotionalYellowMoria = "To be Frank, I'd have to change my name."
+  SafeAmaranthBecky = 791
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LogicalAquamarineAdrea"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ControversialLimeCorrena"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FemaleEmeraldColline"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

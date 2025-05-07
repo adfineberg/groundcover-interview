@@ -1,0 +1,25 @@
+type dummy.EfficientBlushNyssa {
+  annotations {
+    json PreparedYellowCorrie {
+    }
+    string IdenticalBlueCacilie {
+    }
+    dummy.DEFAULT ScaryYellowFernanda {
+    }
+    number InjuredScarletSena {
+    }
+    string YuckyBlushSophi {
+    }
+  }
+  string ImmediateAquamarineValida {
+    _hidden_value = true
+  }
+  PreparedYellowCorrie = "A steak pun is a rare medium well done."
+  IdenticalBlueCacilie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ScaryYellowFernanda = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  InjuredScarletSena = 956
+  YuckyBlushSophi = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

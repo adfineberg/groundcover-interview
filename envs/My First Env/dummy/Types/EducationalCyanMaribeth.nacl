@@ -1,0 +1,36 @@
+type dummy.EducationalCyanMaribeth {
+  annotations {
+    json SlightTurquoiseTove {
+    }
+    serviceid PuzzledBeigeMelanie {
+    }
+    serviceid ConsciousChocolateShana {
+    }
+    string EagerJadeMoll {
+    }
+  }
+  dummy.DEFAULT VagueWhiteCrissy {
+    _hidden_value = true
+  }
+  boolean NearbyVioletKendre {
+    _hidden_value = true
+  }
+  json RoundFuchsiaDeirdre {
+    _hidden_value = true
+  }
+  json ConsciousMaroonDaune {
+    _hidden_value = true
+  }
+  SlightTurquoiseTove = "Whoever invented the knock-knock joke should get a no bell prize."
+  PuzzledBeigeMelanie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ConsciousChocolateShana = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  EagerJadeMoll = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RoundFuchsiaDeirdre"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

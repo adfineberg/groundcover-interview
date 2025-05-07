@@ -1,0 +1,61 @@
+type dummy.BeneficialRoseSacha {
+  annotations {
+    boolean SolarSilverTillie {
+    }
+    number TenderAmaranthTammara {
+    }
+    serviceid FatCopperSelinda {
+    }
+    dummy.QualifiedHarlequinJolee SuperiorOliveNeala {
+    }
+    hidden_boolean LiableWhiteFlorence {
+    }
+  }
+  string OlympicCoralCherise {
+    _hidden_value = true
+  }
+  serviceid_number SpotlessBlueDre {
+    _hidden_value = true
+  }
+  serviceid_number PunyOrangeOpalina {
+    _hidden_value = true
+  }
+  string SuspiciousIvoryFrank {
+    _hidden_value = true
+  }
+  number DisappointedYellowAdi {
+    _hidden_value = true
+  }
+  serviceid_number CuddlyBlushLilly {
+    _hidden_value = true
+  }
+  SolarSilverTillie = false
+  TenderAmaranthTammara = 730
+  FatCopperSelinda = "I'll tell you what often gets over looked... garden fences."
+  SuperiorOliveNeala = 675
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CuddlyBlushLilly"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SpotlessBlueDre"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FatCopperSelinda"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SolarSilverTillie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

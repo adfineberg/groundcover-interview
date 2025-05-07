@@ -1,0 +1,89 @@
+type dummy.FashionableVioletEolande {
+  annotations {
+    boolean EnvironmentalLimeCamille {
+    }
+    number ComingTurquoisePriscilla {
+    }
+    boolean ArchitecturalGoldAngelina {
+    }
+    boolean WideAquaMeris {
+    }
+    serviceid_number StatisticalCyanClementia {
+    }
+  }
+  boolean HilariousMagentaMyrtie {
+    _hidden_value = true
+  }
+  hidden_boolean MajorEmeraldMisha {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number SelectPinkKarissa {
+    _hidden_value = true
+  }
+  boolean NaughtyTomatoNoel {
+    _hidden_value = true
+  }
+  serviceid UsualRedDoralyn {
+    _hidden_value = true
+  }
+  number StrategicGoldWinona {
+    _hidden_value = true
+  }
+  hidden_boolean SportingJadeVicki {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ExistingBronzeVonny {
+    _hidden_value = true
+  }
+  string SmilingBlackCorissa {
+    _hidden_value = true
+  }
+  hidden_boolean DullGreenChlo {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json PastAmberErmengarde {
+    _hidden_value = true
+  }
+  serviceid_number FarOliveAyn {
+    _hidden_value = true
+  }
+  string CourageousRedDoloritas {
+    _hidden_value = true
+  }
+  EnvironmentalLimeCamille = true
+  ComingTurquoisePriscilla = 234
+  ArchitecturalGoldAngelina = true
+  WideAquaMeris = false
+  StatisticalCyanClementia = 2
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ExistingBronzeVonny"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "StrategicGoldWinona"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ArchitecturalGoldAngelina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "EnvironmentalLimeCamille"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

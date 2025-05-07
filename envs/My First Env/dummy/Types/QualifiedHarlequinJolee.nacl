@@ -1,0 +1,24 @@
+type dummy.QualifiedHarlequinJolee is number {
+  annotations {
+    dummy.DEFAULT ConvenientSalmonKristin {
+    }
+    dummy.DEFAULT ArmedYellowAmeline {
+    }
+    boolean ShiveringCoffeePammy {
+    }
+    json CasualEmeraldEmilee {
+    }
+  }
+  ConvenientSalmonKristin = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  ArmedYellowAmeline = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  ShiveringCoffeePammy = true
+  CasualEmeraldEmilee = '''
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+Why do birds fly south for the winter? Because it's too far to walk.
+What did one nut say as he chased another nut?  I'm a cashew!
+'''
+}

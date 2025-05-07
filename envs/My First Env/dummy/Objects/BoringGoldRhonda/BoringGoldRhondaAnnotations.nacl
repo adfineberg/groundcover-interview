@@ -1,0 +1,89 @@
+type dummy.BoringGoldRhonda {
+  annotations {
+    json RunningGreenMireille {
+    }
+    dummy.ShakyAquamarineClaudia TastyCoralGilberte {
+    }
+    json InadequateBronzeDona {
+    }
+    boolean TightChocolateGiulia {
+    }
+    serviceid_number DefensiveLavenderRhianon {
+    }
+    json PsychologicalMaroonLorene {
+    }
+    boolean RudeGrayBeilul {
+    }
+    serviceid_number ComparableFuchsiaTarra {
+    }
+    hidden_boolean WarmWhiteNara {
+    }
+    dummy.DiverseTurquoiseMariya PreviousAzureOliy {
+    }
+    number LittleGoldArleta {
+    }
+    number MarineVioletPollyanna {
+    }
+    dummy.ResultingCrimsonArdath CombativeOrangeAndria {
+    }
+    string MisleadingRedDevondra {
+    }
+    number InnovativeHarlequinDina {
+    }
+    serviceid_number IncreasedBronzeTomasina {
+    }
+    json VitalTomatoCoreen {
+    }
+    string BlindAquaKanya {
+    }
+  }
+  RunningGreenMireille = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  InadequateBronzeDona = "What creature is smarter than a talking parrot? A spelling bee."
+  TightChocolateGiulia = false
+  DefensiveLavenderRhianon = 747
+  PsychologicalMaroonLorene = "Why was it called the dark ages? Because of all the knights. "
+  RudeGrayBeilul = false
+  ComparableFuchsiaTarra = 936
+  PreviousAzureOliy = false
+  LittleGoldArleta = 244
+  MarineVioletPollyanna = 637
+  CombativeOrangeAndria = file("UniqueTanPhilipa.txt")
+  MisleadingRedDevondra = "Why was it called the dark ages? Because of all the knights. "
+  InnovativeHarlequinDina = 189
+  IncreasedBronzeTomasina = 843
+  VitalTomatoCoreen = "My first time using an elevator was an uplifting experience. The second time let me down."
+  BlindAquaKanya = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _self_important_values = [
+    {
+      value = "TightChocolateGiulia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PreviousAzureOliy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PsychologicalMaroonLorene"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RudeGrayBeilul"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MisleadingRedDevondra"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "VitalTomatoCoreen"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "BoringGoldRhonda_alias"
+}

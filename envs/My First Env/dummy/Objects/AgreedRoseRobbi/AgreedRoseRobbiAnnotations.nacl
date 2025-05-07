@@ -1,0 +1,63 @@
+type dummy.AgreedRoseRobbi {
+  annotations {
+    string PreciseTealEustacia {
+    }
+    boolean FancySapphireSteffane {
+    }
+    string YuckyLimeLuci {
+    }
+    number TallCyanMinta {
+    }
+    string CoolBlueMaryrose {
+    }
+    hidden_boolean VerbalTealKaren {
+    }
+    boolean EmbarrassingCyanMarthena {
+    }
+    serviceid SecureMaroonFancie {
+    }
+    number IntensiveCoralWinifred {
+    }
+    dummy.ComprehensiveTealRuthe ManagingVioletLindi {
+    }
+    serviceid WideOrangeLethia {
+    }
+    dummy.HeadPlumKayley FilthySilverEvangelin {
+    }
+    boolean BlindBlueNatka {
+    }
+    serviceid_number WrongLimeVenus {
+    }
+    serviceid_number StrangeCrimsonMerla {
+    }
+    serviceid StormyTurquoiseRenae {
+    }
+    number GoldenMoccasinTally {
+    }
+    dummy.NotableTanCris PreciousCopperEolande {
+    }
+    hidden_boolean LuckyOliveEsmeralda {
+    }
+    number KindEmeraldPaloma {
+    }
+    boolean DrabBrownKarylin {
+    }
+  }
+  PreciseTealEustacia = "Why did the kid cross the playground? To get to the other slide."
+  FancySapphireSteffane = true
+  YuckyLimeLuci = "What do you call two barracuda fish?  A Pairacuda!"
+  TallCyanMinta = 618
+  CoolBlueMaryrose = "How come the stadium got hot after the game? Because all of the fans left."
+  EmbarrassingCyanMarthena = true
+  SecureMaroonFancie = "Im only familiar with 25 letters in the English language. I dont know why."
+  IntensiveCoralWinifred = 894
+  WideOrangeLethia = "Why is Peter Pan always flying? Because he Neverlands."
+  BlindBlueNatka = true
+  WrongLimeVenus = 435
+  StrangeCrimsonMerla = 847
+  StormyTurquoiseRenae = "Dad Im hungry  Hi hungry Im dad"
+  GoldenMoccasinTally = 452
+  KindEmeraldPaloma = 998
+  DrabBrownKarylin = true
+  _alias = "AgreedRoseRobbi_alias"
+}

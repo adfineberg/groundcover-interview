@@ -1,0 +1,31 @@
+type dummy.HuskyAmberKaye {
+  annotations {
+    hidden_boolean WoodenTanIbby {
+    }
+    number YoungestBlackLoise {
+    }
+    boolean UnpleasantBlueJaneva {
+    }
+    hidden_boolean FierceIndigoEmmalynne {
+    }
+    boolean WrongBronzeCosetta {
+    }
+    serviceid YoungCoffeeMaribelle {
+    }
+  }
+  serviceid_number WorthwhileGoldGoldi {
+    _hidden_value = true
+  }
+  YoungestBlackLoise = 35
+  UnpleasantBlueJaneva = true
+  WrongBronzeCosetta = true
+  YoungCoffeeMaribelle = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "WrongBronzeCosetta"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

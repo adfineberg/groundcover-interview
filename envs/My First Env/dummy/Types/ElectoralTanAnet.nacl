@@ -1,0 +1,44 @@
+type dummy.ElectoralTanAnet {
+  annotations {
+    json EnchantingGoldConsuelo {
+    }
+    number TragicRoseMarne {
+    }
+    hidden_boolean SportingTealDorisa {
+    }
+    number InstitutionalMoccasinSigrid {
+    }
+    serviceid_number LevelPurpleKerrie {
+    }
+  }
+  serviceid MusicalAmethystAmil {
+    _hidden_value = true
+  }
+  serviceid_number EnergeticBronzeHarmonie {
+    _hidden_value = true
+  }
+  serviceid MixedTurquoiseNikaniki {
+    _hidden_value = true
+  }
+  string OptimisticAquaHarlie {
+    _hidden_value = true
+  }
+  json EnthusiasticRedGeorge {
+    _hidden_value = true
+  }
+  json WeeTanDorise {
+    _hidden_value = true
+  }
+  EnchantingGoldConsuelo = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  TragicRoseMarne = 148
+  InstitutionalMoccasinSigrid = 461
+  LevelPurpleKerrie = 967
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MixedTurquoiseNikaniki"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

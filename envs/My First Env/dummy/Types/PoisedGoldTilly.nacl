@@ -1,0 +1,32 @@
+type dummy.PoisedGoldTilly {
+  annotations {
+    boolean LeftBrownGabriel {
+    }
+    hidden_boolean WateryGreenIdette {
+    }
+    serviceid_number ProminentPurpleKi {
+    }
+    serviceid_number AggregateOliveYoshi {
+    }
+    boolean DutchGreenWinny {
+    }
+    boolean RealMoccasinShanon {
+    }
+  }
+  json ImmenseMaroonUrsulina {
+    _hidden_value = true
+  }
+  LeftBrownGabriel = true
+  ProminentPurpleKi = 30
+  AggregateOliveYoshi = 218
+  DutchGreenWinny = true
+  RealMoccasinShanon = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "WateryGreenIdette"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

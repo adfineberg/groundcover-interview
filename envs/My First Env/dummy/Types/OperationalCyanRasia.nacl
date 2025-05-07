@@ -1,0 +1,19 @@
+type dummy.OperationalCyanRasia {
+  annotations {
+    boolean IllApricotGenni {
+    }
+    serviceid IntensiveSilverChristian {
+    }
+    string InitialScarletArda {
+    }
+  }
+  hidden_boolean SignificantGrayMimi {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  IllApricotGenni = true
+  IntensiveSilverChristian = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  InitialScarletArda = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

@@ -1,0 +1,31 @@
+type dummy.ExceptionalGreenDaphna {
+  annotations {
+    string ImperialBlueSile {
+    }
+    hidden_boolean RoundGoldCathrin {
+    }
+    boolean YeastyOliveRivalee {
+    }
+    serviceid_number WilyCyanCeleste {
+    }
+    string TastelessMagentaErmina {
+    }
+    number CorrectSilverDaveen {
+    }
+  }
+  string EventualCopperAlly {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" SparklingEmeraldMarybelle {
+    _hidden_value = true
+  }
+  boolean InstitutionalMaroonCayla {
+    _hidden_value = true
+  }
+  ImperialBlueSile = "Whoever invented the knock-knock joke should get a no bell prize."
+  YeastyOliveRivalee = false
+  WilyCyanCeleste = 256
+  TastelessMagentaErmina = "What creature is smarter than a talking parrot? A spelling bee."
+  CorrectSilverDaveen = 680
+  _hidden_value = true
+}

@@ -1,0 +1,53 @@
+type dummy.RipeGoldColleen {
+  annotations {
+    string SingleBronzeCandis {
+    }
+    boolean LostBeigeCrissy {
+    }
+    serviceid_number JoyousMagentaAnnabella {
+    }
+    json DesperateRoseMarjy {
+    }
+    string KeenYellowMallissa {
+    }
+  }
+  boolean SteadyCrimsonNessa {
+    _hidden_value = true
+  }
+  string LovelyAquamarineRobinia {
+    _hidden_value = true
+  }
+  string QuickestCrimsonDarla {
+    _hidden_value = true
+  }
+  boolean ClassicPurpleCarlyn {
+    _hidden_value = true
+  }
+  json HollowJadeBrenda {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AwfulJadeTeodora {
+    _hidden_value = true
+  }
+  boolean ZygoticEmeraldLeoine {
+    _hidden_value = true
+  }
+  SingleBronzeCandis = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  LostBeigeCrissy = false
+  JoyousMagentaAnnabella = 506
+  DesperateRoseMarjy = "Why did the tomato blush? Because it saw the salad dressing."
+  KeenYellowMallissa = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HollowJadeBrenda"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ZygoticEmeraldLeoine"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

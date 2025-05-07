@@ -1,0 +1,57 @@
+type dummy.ZealousPeachGui {
+  annotations {
+    hidden_boolean AwareAmaranthMichel {
+    }
+    boolean ImpossibleGreenLurette {
+    }
+    string BoldAquaJenica {
+    }
+    json RemarkableOliveEthelind {
+    }
+    hidden_boolean RoyalAmethystSarena {
+    }
+  }
+  number UnexpectedAzureKarine {
+    _hidden_value = true
+  }
+  "List<boolean>" TerritorialGrayAarika {
+    _hidden_value = true
+  }
+  json SickVioletCaitlin {
+    _hidden_value = true
+  }
+  serviceid GreatFuchsiaPansy {
+    _hidden_value = true
+  }
+  json BalancedTomatoAriadne {
+    _hidden_value = true
+  }
+  string ElderlyFuchsiaAnallese {
+    _hidden_value = true
+  }
+  serviceid_number StatutoryChocolateMariann {
+    _hidden_value = true
+  }
+  serviceid_number MobileBlushHarmony {
+    _hidden_value = true
+  }
+  number ThirstyPinkRodie {
+    _hidden_value = true
+  }
+  ImpossibleGreenLurette = false
+  BoldAquaJenica = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  RemarkableOliveEthelind = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ImpossibleGreenLurette"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AwareAmaranthMichel"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

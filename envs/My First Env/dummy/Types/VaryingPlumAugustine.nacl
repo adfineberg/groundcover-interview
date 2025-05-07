@@ -1,0 +1,48 @@
+type dummy.VaryingPlumAugustine {
+  annotations {
+    hidden_boolean MushySapphireSydney {
+    }
+    serviceid LiberalGrayRomy {
+    }
+    dummy.ResultingCrimsonArdath AnnoyedRedPhillie {
+    }
+    json FrailPlumMerrily {
+    }
+    boolean AlrightBlackEstele {
+    }
+  }
+  serviceid EmpiricalCoffeeMarillin {
+    _hidden_value = true
+  }
+  string NaughtyChocolateVita {
+    _hidden_value = true
+  }
+  hidden_boolean CognitiveCoralDara {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid LtdBrownKristyn {
+    _hidden_value = true
+  }
+  serviceid_number MoaningAmaranthAlikee {
+    _hidden_value = true
+  }
+  LiberalGrayRomy = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AnnoyedRedPhillie = "Why is Peter Pan always flying? Because he Neverlands."
+  FrailPlumMerrily = "A steak pun is a rare medium well done."
+  AlrightBlackEstele = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LtdBrownKristyn"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EmpiricalCoffeeMarillin"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

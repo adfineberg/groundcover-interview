@@ -1,0 +1,19 @@
+type dummy.YoungestBlackMurielle {
+  annotations {
+    number BusyIndigoEsta {
+    }
+    json StrikingOrangeBinnie {
+    }
+    hidden_boolean ChronicBlueJourdan {
+    }
+    boolean CuteWhiteCarri {
+    }
+  }
+  serviceid StatisticalHarlequinDoroteya {
+    _hidden_value = true
+  }
+  BusyIndigoEsta = 338
+  StrikingOrangeBinnie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CuteWhiteCarri = true
+  _hidden_value = true
+}

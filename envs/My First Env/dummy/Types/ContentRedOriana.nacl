@@ -1,0 +1,108 @@
+type dummy.ContentRedOriana {
+  annotations {
+    serviceid BottomBeigeTaryn {
+    }
+    boolean HollowEmeraldKaryl {
+    }
+    serviceid StingyBlushMaridel {
+    }
+    serviceid AdvancedBeigeKevyn {
+    }
+  }
+  hidden_boolean DependentPlumHolly {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT UnemployedCopperStormie {
+    _hidden_value = true
+  }
+  hidden_boolean ScrawnyGrayNinnette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT RetiredHarlequinIsis {
+    _hidden_value = true
+  }
+  json AbundantLavenderFrank {
+    _hidden_value = true
+  }
+  json EnchantingRedAmii {
+    _hidden_value = true
+  }
+  json UnpleasantApricotGayla {
+    _hidden_value = true
+  }
+  json SquealingFuchsiaLanette {
+    _hidden_value = true
+  }
+  hidden_boolean EnergeticAquaTate {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid RapidChocolateLynne {
+    _hidden_value = true
+  }
+  serviceid PrimitiveWhiteBarbette {
+    _hidden_value = true
+  }
+  string HilariousGreenOttilie {
+    _hidden_value = true
+  }
+  serviceid_number ColossalCyanFeodora {
+    _hidden_value = true
+  }
+  string SupposedCoffeeDarlene {
+    _hidden_value = true
+  }
+  boolean UsefulVioletTess {
+    _hidden_value = true
+  }
+  json MajorBlackHoney {
+    _hidden_value = true
+  }
+  serviceid_number HistoricalIvoryDelphinia {
+    _hidden_value = true
+  }
+  serviceid_number ObligedSapphireMelicent {
+    _hidden_value = true
+  }
+  string DisappointedTurquoiseLulita {
+    _hidden_value = true
+  }
+  string TypicalRoseSilva {
+    _hidden_value = true
+  }
+  serviceid FederalYellowColly {
+    _hidden_value = true
+  }
+  serviceid_number CooingEmeraldJenna {
+    _hidden_value = true
+  }
+  BottomBeigeTaryn = "Whoever invented the knock-knock joke should get a no bell prize."
+  HollowEmeraldKaryl = true
+  StingyBlushMaridel = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AdvancedBeigeKevyn = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FederalYellowColly"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ScrawnyGrayNinnette"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "HollowEmeraldKaryl"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,86 @@
+type dummy.IncreasedOliveSuzanna {
+  annotations {
+    hidden_boolean ConvenientMagentaRosella {
+    }
+    boolean RespectableCrimsonFelicity {
+    }
+    string WeakGrayGuillema {
+    }
+    boolean LateVioletKirby {
+    }
+    string WickedRedAlyss {
+    }
+  }
+  boolean AgreedBlushWilie {
+    _hidden_value = true
+  }
+  number EmotionalGoldTammy {
+    _hidden_value = true
+  }
+  string RepresentativeApricotValerye {
+    _hidden_value = true
+  }
+  hidden_boolean FrontOrangeDenys {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number PaleCrimsonFlossie {
+    _hidden_value = true
+  }
+  hidden_boolean RudeHarlequinDennie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.ThoughtfulRedElka CloseBeigeAlayne {
+    PrimitiveTealSissie = "I'll tell you what often gets over looked... garden fences."
+    SystematicOrangeSallee = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    AutonomousGoldCaye = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    EventualSalmonAveril = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    XenophobicBronzeGayleen = "Why was it called the dark ages? Because of all the knights. "
+    _hidden_value = true
+  }
+  number AccusedCopperFlor {
+    _hidden_value = true
+  }
+  serviceid_number RelatedCrimsonLaurie {
+    _hidden_value = true
+  }
+  serviceid_number MeaningfulChocolateInna {
+    _hidden_value = true
+  }
+  string EvidentBrownWillette {
+    _hidden_value = true
+  }
+  string UniversalAmaranthDael {
+    _hidden_value = true
+  }
+  string CertainIndigoSheilah {
+    _hidden_value = true
+  }
+  RespectableCrimsonFelicity = true
+  WeakGrayGuillema = "My first time using an elevator was an uplifting experience. The second time let me down."
+  LateVioletKirby = true
+  WickedRedAlyss = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AgreedBlushWilie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "LateVioletKirby"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "WeakGrayGuillema"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

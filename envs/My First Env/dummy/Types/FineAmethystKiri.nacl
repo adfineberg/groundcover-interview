@@ -1,0 +1,26 @@
+type dummy.FineAmethystKiri {
+  annotations {
+    serviceid AdvisoryRoseEnrica {
+    }
+    string AngryHarlequinCherey {
+    }
+    hidden_boolean TerribleRedLonna {
+    }
+    json MarineGoldIlyse {
+    }
+  }
+  serviceid_number CausalBrownAllys {
+    _hidden_value = true
+  }
+  AdvisoryRoseEnrica = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AngryHarlequinCherey = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  MarineGoldIlyse = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "MarineGoldIlyse"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

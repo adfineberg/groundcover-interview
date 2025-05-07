@@ -1,0 +1,55 @@
+type dummy.AestheticApricotTiena {
+  annotations {
+    string NeatSilverDehlia {
+    }
+    hidden_boolean IllPurpleRafaelita {
+    }
+    boolean CivilianGoldSib {
+    }
+    number ExplicitWhiteConstantina {
+    }
+    dummy.AcademicLavenderKiley PlannedOrangeMiquela {
+    }
+    serviceid_number ChiefTealMarni {
+    }
+    string RequiredJadeSavina {
+    }
+    hidden_boolean ModernSalmonMaryjane {
+    }
+    dummy.QuietAquaEddy SurprisingLimePeta {
+    }
+    dummy.SplendidAmberFlorance PreciseBlushCarin {
+    }
+    serviceid_number GrandBronzeJaclyn {
+    }
+    json PanickyRedPepi {
+    }
+    number MuteScarletGert {
+    }
+    json RattyPinkGuillemette {
+    }
+    hidden_boolean MinimumMoccasinLenka {
+    }
+    serviceid BigPinkLenee {
+    }
+    boolean DiplomaticTanAuria {
+    }
+    hidden_boolean OnlyTomatoLillian {
+    }
+    hidden_boolean WetRoseAlexandra {
+    }
+  }
+  NeatSilverDehlia = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CivilianGoldSib = false
+  ExplicitWhiteConstantina = 592
+  ChiefTealMarni = 370
+  RequiredJadeSavina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  PreciseBlushCarin = file("StiffSapphireFlorrie.txt")
+  GrandBronzeJaclyn = 137
+  PanickyRedPepi = "A steak pun is a rare medium well done."
+  MuteScarletGert = 679
+  RattyPinkGuillemette = "Dad Im hungry  Hi hungry Im dad"
+  BigPinkLenee = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  DiplomaticTanAuria = false
+  _alias = "AestheticApricotTiena_alias"
+}

@@ -1,0 +1,23 @@
+type dummy.SuperbOliveAlvira {
+  annotations {
+    number PhilosophicalCrimsonKaren {
+    }
+    hidden_boolean MeaningfulYellowCordelie {
+    }
+    hidden_boolean IsolatedBlackMillie {
+    }
+    string CombinedMaroonElly {
+    }
+    dummy.DEFAULT SacredOliveBuffy {
+    }
+  }
+  number ConceptualWhiteSascha {
+    _hidden_value = true
+  }
+  PhilosophicalCrimsonKaren = 780
+  CombinedMaroonElly = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SacredOliveBuffy = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  _hidden_value = true
+}

@@ -1,0 +1,77 @@
+type dummy.LoudIvoryJennica {
+  annotations {
+    boolean CommercialBrownCaril {
+    }
+    string LegitimateAmaranthShoshanna {
+    }
+    dummy.MassYellowCorina RemainingOrangeDarcey {
+    }
+    dummy.LovelyJadeHarlene DelicateAquamarineGillan {
+    }
+    boolean BewilderedLimeDarcee {
+    }
+    number MarriedIvoryRhodia {
+    }
+    boolean TeenageSilverYolane {
+    }
+    number LatinTanMaribel {
+    }
+    dummy.AwakeTealDeidre ChristianYellowMarsha {
+    }
+    dummy.UndergroundApricotSandra DeafeningAzureJanifer {
+    }
+    string SpicyCoralLenette {
+    }
+    serviceid_number ConstantFuchsiaJulianne {
+    }
+    number AccessibleAmethystCandida {
+    }
+    serviceid_number FunCoffeeJemimah {
+    }
+    serviceid_number PureYellowAnatola {
+    }
+    json SparklingCyanSadie {
+    }
+    hidden_boolean MelodicAzureXylia {
+    }
+    serviceid_number BraveCopperEtti {
+    }
+    hidden_boolean DamagedAmaranthMaddi {
+    }
+    serviceid_number WeeYellowMadalena {
+    }
+    serviceid_number MixedGrayLurette {
+    }
+  }
+  CommercialBrownCaril = true
+  LegitimateAmaranthShoshanna = "Did you know that protons have mass? I didn't even know they were catholic."
+  RemainingOrangeDarcey = file("CautiousJadeNanete.txt")
+  BewilderedLimeDarcee = true
+  MarriedIvoryRhodia = 545
+  TeenageSilverYolane = true
+  LatinTanMaribel = 692
+  SpicyCoralLenette = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ConstantFuchsiaJulianne = 141
+  AccessibleAmethystCandida = 239
+  FunCoffeeJemimah = 747
+  PureYellowAnatola = 585
+  SparklingCyanSadie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  BraveCopperEtti = 676
+  WeeYellowMadalena = 695
+  MixedGrayLurette = 915
+  _important_values = [
+    {
+      value = "ConcreteAmberPier"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "LatinTanMaribel"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "LoudIvoryJennica_alias"
+}

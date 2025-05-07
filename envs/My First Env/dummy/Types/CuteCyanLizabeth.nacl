@@ -1,0 +1,23 @@
+type dummy.CuteCyanLizabeth {
+  annotations {
+    json LabourMaroonSilva {
+    }
+    string HelpfulVioletDarcie {
+    }
+    serviceid_number StrategicSapphireMalinda {
+    }
+    string WanderingBlackCaroljean {
+    }
+    string DoubleScarletTana {
+    }
+  }
+  dummy.DEFAULT EmptyCopperValera {
+    _hidden_value = true
+  }
+  LabourMaroonSilva = "Why do birds fly south for the winter? Because it's too far to walk."
+  HelpfulVioletDarcie = "What do you call two barracuda fish?  A Pairacuda!"
+  StrategicSapphireMalinda = 458
+  WanderingBlackCaroljean = "Did you know that protons have mass? I didn't even know they were catholic."
+  DoubleScarletTana = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

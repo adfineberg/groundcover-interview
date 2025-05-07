@@ -1,0 +1,39 @@
+type dummy.EstablishedRoseGussie is boolean {
+  annotations {
+    string ActiveScarletMartguerita {
+    }
+    json LogicalAmethystCristine {
+    }
+    boolean EligibleChocolateTrudey {
+    }
+    json RenewedAquaFlori {
+    }
+    hidden_boolean HandicappedBlueKelci {
+    }
+    json GiganticLimeShena {
+    }
+    number DynamicAzureLaverne {
+    }
+    string RichTurquoiseKiah {
+    }
+    serviceid_number RightMoccasinPavla {
+    }
+    json ViciousLimeHannis {
+    }
+    serviceid_number GratefulPlumLaetitia {
+    }
+    serviceid_number FrightenedBronzeCarey {
+    }
+  }
+  ActiveScarletMartguerita = "Why was it called the dark ages? Because of all the knights. "
+  LogicalAmethystCristine = "What creature is smarter than a talking parrot? A spelling bee."
+  EligibleChocolateTrudey = true
+  RenewedAquaFlori = "What do you do on a remote island? Try and find the TV island it belongs to."
+  GiganticLimeShena = "To be Frank, I'd have to change my name."
+  DynamicAzureLaverne = 325
+  RichTurquoiseKiah = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  RightMoccasinPavla = 171
+  ViciousLimeHannis = "Why is Peter Pan always flying? Because he Neverlands."
+  GratefulPlumLaetitia = 692
+  FrightenedBronzeCarey = 276
+}

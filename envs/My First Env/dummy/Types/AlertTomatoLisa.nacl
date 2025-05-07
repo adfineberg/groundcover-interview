@@ -1,0 +1,38 @@
+type dummy.AlertTomatoLisa {
+  annotations {
+    number GivenHarlequinElvina {
+    }
+    hidden_boolean FragileLavenderDyann {
+    }
+    serviceid_number MajorGreenAurilia {
+    }
+    serviceid ResultingIndigoAlida {
+    }
+    hidden_boolean UnacceptableTurquoiseGenvieve {
+    }
+    boolean GiantMoccasinMaggi {
+    }
+  }
+  hidden_boolean SpectacularCrimsonUrsala {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  GivenHarlequinElvina = 388
+  MajorGreenAurilia = 924
+  ResultingIndigoAlida = "Why is Peter Pan always flying? Because he Neverlands."
+  GiantMoccasinMaggi = false
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "GivenHarlequinElvina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GiantMoccasinMaggi"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

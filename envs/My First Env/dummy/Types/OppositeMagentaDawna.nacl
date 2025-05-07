@@ -1,0 +1,125 @@
+type dummy.OppositeMagentaDawna {
+  annotations {
+    hidden_boolean JudicialGrayDanyelle {
+    }
+    serviceid_number NorthernMagentaVikky {
+    }
+    json AdditionalBlackVonni {
+    }
+    json EvolutionaryMagentaLauraine {
+    }
+    hidden_boolean MelodicCoffeeJoletta {
+    }
+  }
+  boolean FederalOrangeWenona {
+    _hidden_value = true
+  }
+  serviceid_number DynamicOliveBunny {
+    _hidden_value = true
+  }
+  number BoringIvoryMadelene {
+    _hidden_value = true
+  }
+  string EnvironmentalAmberHenrietta {
+    _hidden_value = true
+  }
+  dummy.LegitimateBlushGoldie LabourPinkRora {
+    RealisticCoffeeRoberta = "Slept like a log last night  woke up in the fireplace."
+    ConvincingJadeNorma = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  hidden_boolean ConservativeMaroonReina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "Map<number>" ExistingGreenLauraine {
+    _hidden_value = true
+  }
+  hidden_boolean PsychologicalGreenKelcy {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number UndergroundBronzeDel {
+    _hidden_value = true
+  }
+  dummy.CombinedCyanNatasha WorriedPinkCathy {
+    FrozenCyanClaudette = "Slept like a log last night  woke up in the fireplace."
+    WideCyanRhoda = 14
+    EnergeticGoldPauli = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    SpotlessCopperKyla = "Why did the kid cross the playground? To get to the other slide."
+    VitreousBrownJolee = 751
+    AdjacentSalmonLura = "Why did the kid cross the playground? To get to the other slide."
+    SpotlessCoffeeJaneva = true
+    UselessSalmonDarlleen = "What creature is smarter than a talking parrot? A spelling bee."
+    PreviousTealBerri = 899
+    RegionalTomatoLorilee = 749
+    NoisyPlumGiustina = true
+    SharedPurpleAdele = "Why was it called the dark ages? Because of all the knights. "
+    RottenAmaranthPhillie = "Im only familiar with 25 letters in the English language. I dont know why."
+    ImprovedIvoryGenna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    RoyalTurquoiseRonny = false
+    _hidden_value = true
+  }
+  json PrintedOrangeCecil {
+    _hidden_value = true
+  }
+  serviceid_number UniformSalmonEadith {
+    _hidden_value = true
+  }
+  string RepresentativeLavenderMadelena {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PrimeAmaranthTonya {
+    _hidden_value = true
+  }
+  string EncouragingCrimsonIlka {
+    _hidden_value = true
+  }
+  hidden_boolean SuperTurquoiseEolanda {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string ChristianOliveRozamond {
+    _hidden_value = true
+  }
+  boolean SupportingAzureAthene {
+    _hidden_value = true
+  }
+  serviceid_number ManualBlushPhyllida {
+    _hidden_value = true
+  }
+  NorthernMagentaVikky = 227
+  AdditionalBlackVonni = "Did you know that protons have mass? I didn't even know they were catholic."
+  EvolutionaryMagentaLauraine = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SupportingAzureAthene"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ChristianOliveRozamond"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UndergroundBronzeDel"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EncouragingCrimsonIlka"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PrintedOrangeCecil"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

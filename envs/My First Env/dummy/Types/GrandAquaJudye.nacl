@@ -1,0 +1,90 @@
+type dummy.GrandAquaJudye {
+  annotations {
+    serviceid_number StandardCrimsonEda {
+    }
+    json SufficientCoffeeStaci {
+    }
+    number EverydayCopperLisette {
+    }
+    json ExclusiveRedNara {
+    }
+    string SouthernPurpleLorilyn {
+    }
+  }
+  hidden_boolean RepulsiveOliveMerci {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean OptimisticTanEleanora {
+    _hidden_value = true
+  }
+  json RearScarletZorana {
+    _hidden_value = true
+  }
+  string CreativeRoseBirgitta {
+    _hidden_value = true
+  }
+  number OverwhelmingMoccasinDi {
+    _hidden_value = true
+  }
+  hidden_boolean InterestedCyanNikki {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number StuckFuchsiaKarlee {
+    _hidden_value = true
+  }
+  string RichYellowRobbie {
+    _hidden_value = true
+  }
+  serviceid_number SlipperyLavenderGilda {
+    _hidden_value = true
+  }
+  boolean ImplicitBrownMerrilee {
+    _hidden_value = true
+  }
+  boolean UniqueTurquoiseDeane {
+    _hidden_value = true
+  }
+  serviceid_number OlympicMaroonAvrit {
+    _hidden_value = true
+  }
+  hidden_boolean YuckyBlueKyrstin {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number StraightMoccasinKorella {
+    _hidden_value = true
+  }
+  StandardCrimsonEda = 174
+  SufficientCoffeeStaci = "Slept like a log last night  woke up in the fireplace."
+  EverydayCopperLisette = 768
+  ExclusiveRedNara = "Whoever invented the knock-knock joke should get a no bell prize."
+  SouthernPurpleLorilyn = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SlipperyLavenderGilda"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "OlympicMaroonAvrit"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RearScarletZorana"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UniqueTurquoiseDeane"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

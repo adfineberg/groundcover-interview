@@ -1,0 +1,100 @@
+type dummy.RandomMaroonDanit {
+  annotations {
+    dummy.DEFAULT NovelPlumDarla {
+    }
+    number DamagedAmberValeda {
+    }
+    number WitteringEmeraldCatherina {
+    }
+    json CentralSalmonSamaria {
+    }
+    serviceid NaturalTurquoiseLiliane {
+    }
+  }
+  number JudicialJadeThia {
+    _hidden_value = true
+  }
+  string MildGreenRowe {
+    _hidden_value = true
+  }
+  json QuintessentialCopperTobe {
+    _hidden_value = true
+  }
+  hidden_boolean MolecularWhiteReyna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean CoastalTurquoiseCathyleen {
+    _hidden_value = true
+  }
+  boolean ClassicCoralElicia {
+    _hidden_value = true
+  }
+  boolean IntermediateSilverCamile {
+    _hidden_value = true
+  }
+  hidden_boolean BraveScarletDanna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FrailPinkUlrika {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean MildGrayRobina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number RequiredTanZonda {
+    _hidden_value = true
+  }
+  boolean QuintessentialSapphireMarga {
+    _hidden_value = true
+  }
+  "List<number>" OrganicMagentaAlecia {
+    _hidden_value = true
+  }
+  hidden_boolean FluffyChocolateUrsala {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number FlutteringMaroonLeeanne {
+    _hidden_value = true
+  }
+  json SecretTomatoShanon {
+    _hidden_value = true
+  }
+  number TestyRedDeanna {
+    _hidden_value = true
+  }
+  NovelPlumDarla = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  DamagedAmberValeda = 287
+  WitteringEmeraldCatherina = 930
+  CentralSalmonSamaria = "What do you call two barracuda fish?  A Pairacuda!"
+  NaturalTurquoiseLiliane = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FluffyChocolateUrsala"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "JudicialJadeThia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FrailPinkUlrika"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

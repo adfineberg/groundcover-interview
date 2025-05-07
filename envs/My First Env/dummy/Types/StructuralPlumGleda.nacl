@@ -1,0 +1,38 @@
+type dummy.StructuralPlumGleda {
+  annotations {
+    hidden_boolean InjuredTomatoCelka {
+    }
+    number VariousMaroonTorie {
+    }
+    dummy.GlobalLimeMatti HealthyTomatoPaloma {
+    }
+    boolean FuriousMagentaTrish {
+    }
+    serviceid FlatBeigeFelicdad {
+    }
+    dummy.AccessibleTurquoiseEssie StingyEmeraldChelsea {
+    }
+  }
+  serviceid NervousPlumRycca {
+    _hidden_value = true
+  }
+  serviceid PersistentRoseKattie {
+    _hidden_value = true
+  }
+  serviceid_number MarxistOrangeRochette {
+    _hidden_value = true
+  }
+  VariousMaroonTorie = 205
+  HealthyTomatoPaloma = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FuriousMagentaTrish = false
+  FlatBeigeFelicdad = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  StingyEmeraldChelsea = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PersistentRoseKattie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

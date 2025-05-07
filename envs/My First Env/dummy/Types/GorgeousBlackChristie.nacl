@@ -1,0 +1,149 @@
+type dummy.GorgeousBlackChristie {
+  annotations {
+    serviceid_number FollowingGrayPhebe {
+    }
+    json AlliedBrownBerrie {
+    }
+    string LiableAmethystKipp {
+    }
+    serviceid_number OtherBlackBernardine {
+    }
+    serviceid KindSalmonNydia {
+    }
+    serviceid PsychologicalFuchsiaAlanna {
+    }
+    serviceid ProudLavenderSabrina {
+    }
+  }
+  hidden_boolean TastelessTomatoClarie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string DangerousTealCecile {
+    _hidden_value = true
+  }
+  string GracefulRoseSharia {
+    _hidden_value = true
+  }
+  dummy.QualifiedHarlequinJolee IntegratedSalmonZora {
+    ConvenientSalmonKristin = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    ArmedYellowAmeline = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    ShiveringCoffeePammy = false
+    CasualEmeraldEmilee = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  boolean EerieBlackRosene {
+    _hidden_value = true
+  }
+  number HolyIndigoStoddard {
+    _hidden_value = true
+  }
+  serviceid_number CostlyAzureCelestia {
+    _hidden_value = true
+  }
+  number WanderingScarletAlicea {
+    _hidden_value = true
+  }
+  boolean CrowdedCyanJoannes {
+    _hidden_value = true
+  }
+  serviceid_number SmilingPlumTheda {
+    _hidden_value = true
+  }
+  serviceid ShinyHarlequinJuditha {
+    _hidden_value = true
+  }
+  serviceid_number CompulsoryRoseMariele {
+    _hidden_value = true
+  }
+  hidden_boolean StuckMoccasinBeatrix {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<boolean>" DefiniteSalmonAlina {
+    _hidden_value = true
+  }
+  json MidEmeraldKorney {
+    _hidden_value = true
+  }
+  boolean NumerousRoseDara {
+    _hidden_value = true
+  }
+  boolean ZonalOrangeAlvera {
+    _hidden_value = true
+  }
+  boolean MiddleCoffeeGeorgena {
+    _hidden_value = true
+  }
+  string StickyCrimsonKalindi {
+    _hidden_value = true
+  }
+  number CrazyPurpleHilary {
+    _hidden_value = true
+  }
+  json IcyLimeEmily {
+    _hidden_value = true
+  }
+  boolean InappropriateIvoryAnnabell {
+    _hidden_value = true
+  }
+  string JealousChocolateIona {
+    _hidden_value = true
+  }
+  string FavourableAquaDarelle {
+    _hidden_value = true
+  }
+  serviceid_number DeadGoldChrysler {
+    _hidden_value = true
+  }
+  boolean ConcernedMoccasinHarmony {
+    _hidden_value = true
+  }
+  number SelfishGoldGermana {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" HeavyLavenderChristan {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number LonelyGoldUrsula {
+    _hidden_value = true
+  }
+  FollowingGrayPhebe = 16
+  AlliedBrownBerrie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  LiableAmethystKipp = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  OtherBlackBernardine = 939
+  KindSalmonNydia = "A steak pun is a rare medium well done."
+  PsychologicalFuchsiaAlanna = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ProudLavenderSabrina = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DeadGoldChrysler"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LonelyGoldUrsula"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CostlyAzureCelestia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "IntegratedSalmonZora"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

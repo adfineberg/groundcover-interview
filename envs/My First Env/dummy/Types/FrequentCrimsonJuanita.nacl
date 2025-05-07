@@ -1,0 +1,115 @@
+type dummy.FrequentCrimsonJuanita {
+  annotations {
+    hidden_boolean GlamorousPeachKrissie {
+    }
+    json UnacceptableLavenderCaria {
+    }
+    boolean IncredibleBlushMaureen {
+    }
+    serviceid_number ExtraordinaryBeigeChiquia {
+    }
+  }
+  serviceid ResultingTealLexie {
+    _hidden_value = true
+  }
+  serviceid MedicalTealMaurita {
+    _hidden_value = true
+  }
+  number SurprisingScarletChristy {
+    _hidden_value = true
+  }
+  boolean GlobalIvoryFayre {
+    _hidden_value = true
+  }
+  hidden_boolean LogicalCoffeeTawnya {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json DecentIndigoSimona {
+    _hidden_value = true
+  }
+  number PayableSilverAlaine {
+    _hidden_value = true
+  }
+  json CircularSapphireCatlee {
+    _hidden_value = true
+  }
+  hidden_boolean VastPeachDolorita {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.AcceptableAmaranthGertrudis BackPurpleShandee {
+    SportingGreenRachel = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    ColorfulAmberRhetta = "Why did the kid cross the playground? To get to the other slide."
+    UsedLimeMia = 769
+    SharpAzureChandra = "To be Frank, I'd have to change my name."
+    AnnualAquamarineAmii = true
+    UninterestedSalmonClaretta = true
+    IllTomatoKimberley = 530
+    TemporaryFuchsiaGuillema = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    MentalSalmonKori = "I'll tell you what often gets over looked... garden fences."
+    CarefulBlushSaraann = 232
+    TropicalWhiteLauralee = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    PsychologicalFuchsiaAnnabal = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  hidden_boolean WillingWhiteGinnifer {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number RearMaroonEthelda {
+    _hidden_value = true
+  }
+  hidden_boolean IndustrialBrownPierrette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<serviceid>" AppropriatePinkDi {
+    _hidden_value = true
+  }
+  serviceid_number BlushingSilverVelma {
+    _hidden_value = true
+  }
+  json UpperMagentaRivalee {
+    _hidden_value = true
+  }
+  hidden_boolean VictoriousBronzeChickie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  UnacceptableLavenderCaria = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  IncredibleBlushMaureen = false
+  ExtraordinaryBeigeChiquia = 597
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DecentIndigoSimona"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RearMaroonEthelda"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AppropriatePinkDi"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "IncredibleBlushMaureen"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

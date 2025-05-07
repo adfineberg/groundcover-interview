@@ -1,0 +1,77 @@
+type dummy.FrightenedLavenderShelbi {
+  annotations {
+    serviceid_number ResultingScarletGeorgia {
+    }
+    hidden_boolean ImprovedTanAriel {
+    }
+    boolean AnxiousLavenderCordey {
+    }
+  }
+  string MarvellousOliveJocelyn {
+    _hidden_value = true
+  }
+  string DoubtfulAmethystDonnamarie {
+    _hidden_value = true
+  }
+  json ForwardAzureGlennis {
+    _hidden_value = true
+  }
+  number WateryGreenRayna {
+    _hidden_value = true
+  }
+  serviceid GlobalSilverDasha {
+    _hidden_value = true
+  }
+  number TenderSalmonJacqui {
+    _hidden_value = true
+  }
+  json PsychologicalCopperBlinnie {
+    _hidden_value = true
+  }
+  serviceid PayableRedJinny {
+    _hidden_value = true
+  }
+  string BetterFuchsiaDeeann {
+    _hidden_value = true
+  }
+  serviceid PunySilverJosefa {
+    _hidden_value = true
+  }
+  string ColossalAzureSheree {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RoyalAquaAddi {
+    _hidden_value = true
+  }
+  hidden_boolean ClassicalPeachZorana {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string LateOrangeHedvige {
+    _hidden_value = true
+  }
+  json InherentCyanJulee {
+    _hidden_value = true
+  }
+  ResultingScarletGeorgia = 347
+  AnxiousLavenderCordey = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "TenderSalmonJacqui"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RoyalAquaAddi"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PayableRedJinny"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

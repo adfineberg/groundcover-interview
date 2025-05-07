@@ -1,0 +1,56 @@
+type dummy.AcuteFuchsiaLauren {
+  annotations {
+    dummy.DEFAULT FrozenIndigoRaeann {
+    }
+    json DelightedSilverJanice {
+    }
+    number AdorableAquaBabita {
+    }
+    json PoisedMaroonToma {
+    }
+    json AdverseRoseAilsun {
+    }
+    hidden_boolean AtomicCopperPamella {
+    }
+  }
+  serviceid_number RenewedBrownMadelina {
+    _hidden_value = true
+  }
+  serviceid UnchangedPurpleMuire {
+    _hidden_value = true
+  }
+  number MagicVioletLeora {
+    _hidden_value = true
+  }
+  string BumpyBronzeAudrie {
+    _hidden_value = true
+  }
+  serviceid_number HollowAquamarineLynea {
+    _hidden_value = true
+  }
+  number SpiritualGoldBirgit {
+    _hidden_value = true
+  }
+  FrozenIndigoRaeann = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  DelightedSilverJanice = "Im only familiar with 25 letters in the English language. I dont know why."
+  AdorableAquaBabita = 558
+  PoisedMaroonToma = "Slept like a log last night  woke up in the fireplace."
+  AdverseRoseAilsun = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HollowAquamarineLynea"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FrozenIndigoRaeann"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

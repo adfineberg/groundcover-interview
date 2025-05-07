@@ -1,0 +1,104 @@
+type dummy.FragileGreenBettye {
+  annotations {
+    json LazySalmonDiahann {
+    }
+    hidden_boolean AllegedWhiteVerla {
+    }
+    number LiquidAmberKayley {
+    }
+    json RealAmberKizzie {
+    }
+    boolean FlutteringTanDyana {
+    }
+    boolean CentralEmeraldChandal {
+    }
+    serviceid PetiteChocolateArdelle {
+    }
+  }
+  "List<hidden_boolean>" NiceBlueRochella {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ResultingCrimsonThomasin {
+    _hidden_value = true
+  }
+  string HorribleAquaBabs {
+    _hidden_value = true
+  }
+  string WorthwhileAzureSusanna {
+    _hidden_value = true
+  }
+  dummy.NeighbouringGrayGusty PreliminaryRedSadie {
+    SportingTurquoiseFrancene = "Whoever invented the knock-knock joke should get a no bell prize."
+    PlainGoldBirgitta = "What do you do on a remote island? Try and find the TV island it belongs to."
+    MeltedIvoryStephenie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    HurtMoccasinLudovika = "What do you call two barracuda fish?  A Pairacuda!"
+    FinalEmeraldShaylyn = 932
+    LinguisticBlushMerry = 493
+    ExcitedCyanLorrie = 179
+    ComplexTanGodiva = "Why did the kid cross the playground? To get to the other slide."
+    VariousOrangeMariele = 247
+    EvilJadeQueenie = 81
+    ProudOrangePenny = "What do you call two barracuda fish?  A Pairacuda!"
+    SouthernLimeCookie = 291
+    VictoriousEmeraldBerget = true
+    CorrespondingAquamarineSilvie = "Why did the kid cross the playground? To get to the other slide."
+    IntermediateBlushClaudina = "A steak pun is a rare medium well done."
+    HorizontalSapphireBernette = true
+    OverallScarletNicki = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    SpareLimeShelba = "Im only familiar with 25 letters in the English language. I dont know why."
+    RelevantRoseHannis = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    InterimMaroonRebe = 970
+    MechanicalAmberLib = true
+    CompactSapphireLetti = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    WiseBlushIlysa = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    CalmGoldAnnmarie = true
+    TraditionalTealAddie = false
+    _hidden_value = true
+  }
+  serviceid DynamicFuchsiaJourdan {
+    _hidden_value = true
+  }
+  string DualHarlequinBrita {
+    _hidden_value = true
+  }
+  string AccusedOrangeFrancene {
+    _hidden_value = true
+  }
+  LazySalmonDiahann = "Dad Im hungry  Hi hungry Im dad"
+  LiquidAmberKayley = 15
+  RealAmberKizzie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FlutteringTanDyana = true
+  CentralEmeraldChandal = true
+  PetiteChocolateArdelle = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PreliminaryRedSadie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PetiteChocolateArdelle"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LazySalmonDiahann"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AllegedWhiteVerla"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

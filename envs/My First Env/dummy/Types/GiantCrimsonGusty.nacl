@@ -1,0 +1,184 @@
+type dummy.GiantCrimsonGusty {
+  annotations {
+    json YieldingGoldYnes {
+    }
+    hidden_boolean ProspectiveTanKassie {
+    }
+    dummy.DEFAULT BiologicalHarlequinLaure {
+    }
+    dummy.DEFAULT LiableAmberHedvig {
+    }
+  }
+  serviceid ContinuousEmeraldGarnet {
+    _hidden_value = true
+  }
+  json BurningAzureMisha {
+    _hidden_value = true
+  }
+  boolean SmoothCoffeeEmelina {
+    _hidden_value = true
+  }
+  string LegalEmeraldJolyn {
+    _hidden_value = true
+  }
+  boolean SpecifiedApricotNorean {
+    _hidden_value = true
+  }
+  hidden_boolean UndergroundAmaranthAnnalise {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string GrandGoldDonica {
+    _hidden_value = true
+  }
+  json BareCyanJoletta {
+    _hidden_value = true
+  }
+  number BroadHarlequinTwila {
+    _hidden_value = true
+  }
+  serviceid_number NobleJadeKlara {
+    _hidden_value = true
+  }
+  string FaithfulAquamarineAubrette {
+    _hidden_value = true
+  }
+  hidden_boolean PassingCoralNance {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ComparableTanElianore {
+    _hidden_value = true
+  }
+  boolean GrievingIvoryKaycee {
+    _hidden_value = true
+  }
+  boolean FullTomatoThomasin {
+    _hidden_value = true
+  }
+  hidden_boolean WorthwhileYellowFlorette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.NeighbouringGrayGusty GastricBlueSandra {
+    SportingTurquoiseFrancene = "Why didnt the skeleton cross the road? Because he had no guts."
+    PlainGoldBirgitta = "Why was it called the dark ages? Because of all the knights. "
+    MeltedIvoryStephenie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    HurtMoccasinLudovika = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    FinalEmeraldShaylyn = 477
+    LinguisticBlushMerry = 67
+    ExcitedCyanLorrie = 79
+    ComplexTanGodiva = "Why is Peter Pan always flying? Because he Neverlands."
+    VariousOrangeMariele = 132
+    EvilJadeQueenie = 537
+    ProudOrangePenny = "To be Frank, I'd have to change my name."
+    SouthernLimeCookie = 177
+    VictoriousEmeraldBerget = false
+    CorrespondingAquamarineSilvie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    IntermediateBlushClaudina = "Why did the tomato blush? Because it saw the salad dressing."
+    HorizontalSapphireBernette = true
+    OverallScarletNicki = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    SpareLimeShelba = "To be Frank, I'd have to change my name."
+    RelevantRoseHannis = "My first time using an elevator was an uplifting experience. The second time let me down."
+    InterimMaroonRebe = 355
+    MechanicalAmberLib = false
+    CompactSapphireLetti = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    WiseBlushIlysa = "What creature is smarter than a talking parrot? A spelling bee."
+    CalmGoldAnnmarie = false
+    TraditionalTealAddie = false
+    _hidden_value = true
+  }
+  serviceid_number MisleadingOrangeBelia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TechnicalAmberCalli {
+    _hidden_value = true
+  }
+  hidden_boolean OpenPinkTrix {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json TartEmeraldJeannine {
+    _hidden_value = true
+  }
+  serviceid_number ArrogantAquamarineKelci {
+    _hidden_value = true
+  }
+  hidden_boolean RubberFuchsiaCayla {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json TotalVioletAustin {
+    _hidden_value = true
+  }
+  dummy.UpperTanDebby BurningAquamarineCarolina {
+    SocialCyanBlondelle = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    CompatibleLimeKarleen = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT HistoricalBlueFloria {
+    _hidden_value = true
+  }
+  serviceid PleasantGreenTarah {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LoosePeachToma {
+    _hidden_value = true
+  }
+  YieldingGoldYnes = "What creature is smarter than a talking parrot? A spelling bee."
+  BiologicalHarlequinLaure = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  LiableAmberHedvig = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BareCyanJoletta"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SpecifiedApricotNorean"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HistoricalBlueFloria"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PassingCoralNance"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LegalEmeraldJolyn"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ContinuousEmeraldGarnet"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "YieldingGoldYnes"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

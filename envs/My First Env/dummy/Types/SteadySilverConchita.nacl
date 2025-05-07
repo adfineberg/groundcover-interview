@@ -1,0 +1,75 @@
+type dummy.SteadySilverConchita {
+  annotations {
+    number UpsetAmberBili {
+    }
+    hidden_boolean SpecificBlueIvett {
+    }
+    serviceid_number HonestSapphireLilyan {
+    }
+    hidden_boolean OverwhelmingPinkWilli {
+    }
+    serviceid_number SpatialAzureMillicent {
+    }
+    serviceid BackMoccasinCamel {
+    }
+  }
+  dummy.DEFAULT FitTanJamie {
+    _hidden_value = true
+  }
+  serviceid_number ControlledLavenderAlane {
+    _hidden_value = true
+  }
+  number PleasedSalmonSibyl {
+    _hidden_value = true
+  }
+  hidden_boolean FundamentalPinkWilie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json MadWhiteFanchon {
+    _hidden_value = true
+  }
+  number WilyAmethystTamiko {
+    _hidden_value = true
+  }
+  json SuperPinkVonnie {
+    _hidden_value = true
+  }
+  serviceid_number QualifiedMaroonInesita {
+    _hidden_value = true
+  }
+  boolean AncientLavenderBambie {
+    _hidden_value = true
+  }
+  number AfraidYellowSheeree {
+    _hidden_value = true
+  }
+  string CreepySilverAudrie {
+    _hidden_value = true
+  }
+  UpsetAmberBili = 969
+  HonestSapphireLilyan = 52
+  SpatialAzureMillicent = 870
+  BackMoccasinCamel = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CreepySilverAudrie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SuperPinkVonnie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "BackMoccasinCamel"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

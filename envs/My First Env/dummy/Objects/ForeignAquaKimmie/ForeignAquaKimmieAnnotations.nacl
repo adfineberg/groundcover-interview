@@ -1,0 +1,103 @@
+type dummy.ForeignAquaKimmie {
+  annotations {
+    serviceid YearlingGoldReggie {
+    }
+    json HushedLimeDanita {
+    }
+    hidden_boolean OutrageousSilverSuki {
+    }
+    serviceid_number CrudeAquaNanete {
+    }
+    hidden_boolean VisitingIndigoShayla {
+    }
+    hidden_boolean EnvironmentalBronzeLucky {
+    }
+    dummy.IndependentOliveClaudetta CrudeMoccasinRegine {
+    }
+    serviceid_number RipeBlackLeann {
+    }
+    string ScientificBeigeJeane {
+    }
+    number LoudGrayJobina {
+    }
+    dummy.RigidCyanLisa GayWhiteRandene {
+    }
+    number OlympicTurquoiseJoleen {
+    }
+    serviceid PaleCoffeeGlenn {
+    }
+    string ChemicalSalmonAmelie {
+    }
+    serviceid_number PrimitiveBlushLucille {
+    }
+    hidden_boolean IntellectualAquamarineCatherine {
+    }
+    number UnfortunateIvoryUta {
+    }
+    string NaughtyGreenMarci {
+    }
+    number GlamorousMoccasinTrude {
+    }
+    boolean RequiredPinkEdythe {
+    }
+    boolean CombativeLimeJuieta {
+    }
+    number WorthySilverRochella {
+    }
+    dummy.AnnualPurpleRyann BewilderedBlueFlorie {
+    }
+  }
+  YearlingGoldReggie = "How come the stadium got hot after the game? Because all of the fans left."
+  HushedLimeDanita = "Slept like a log last night  woke up in the fireplace."
+  CrudeAquaNanete = 18
+  CrudeMoccasinRegine = 232
+  RipeBlackLeann = 466
+  ScientificBeigeJeane = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  LoudGrayJobina = 667
+  OlympicTurquoiseJoleen = 189
+  PaleCoffeeGlenn = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ChemicalSalmonAmelie = "What creature is smarter than a talking parrot? A spelling bee."
+  PrimitiveBlushLucille = 905
+  UnfortunateIvoryUta = 618
+  NaughtyGreenMarci = "What creature is smarter than a talking parrot? A spelling bee."
+  GlamorousMoccasinTrude = 157
+  RequiredPinkEdythe = true
+  CombativeLimeJuieta = true
+  WorthySilverRochella = 907
+  BewilderedBlueFlorie = false
+  _important_values = [
+    {
+      value = "SensibleGrayMufi"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CrudeAquaNanete"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "HushedLimeDanita"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LoudGrayJobina"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "WorthySilverRochella"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GayWhiteRandene"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "ForeignAquaKimmie_alias"
+}

@@ -1,0 +1,134 @@
+type dummy.HealthyRedJeanne {
+  annotations {
+    serviceid_number WickedScarletUta {
+    }
+    serviceid IncPurpleCammi {
+    }
+    hidden_boolean ConstantTanTori {
+    }
+    string DarkBeigeKellie {
+    }
+    string PowerfulOrangeSandie {
+    }
+  }
+  json VerbalJadeAustina {
+    _hidden_value = true
+  }
+  hidden_boolean LeadingCoffeeGnni {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ChubbyRedStevena {
+    _hidden_value = true
+  }
+  hidden_boolean RollingFuchsiaJany {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string ManyLimeIdette {
+    _hidden_value = true
+  }
+  hidden_boolean OpenOrangeKristy {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean IntegralGrayDania {
+    _hidden_value = true
+  }
+  "Map<dummy.WitteringTomatoMufinella>" VitreousRoseEstrella {
+    SemanticSapphireDeedee = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    ConservativeOrangeStarla = 707
+    VivaciousLavenderSuzie = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    InevitableRoseLucila = 577
+    VariousPinkDenny = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    PunyBeigeDagmar = 304
+    NetBrownLanita = 980
+    UnfairCoffeeTheressa = 349
+    _hidden_value = true
+  }
+  serviceid_number DependentOrangeMarisa {
+    _hidden_value = true
+  }
+  "List<boolean>" HorizontalJadeMeridel {
+    _hidden_value = true
+  }
+  number GreatBrownAdelice {
+    _hidden_value = true
+  }
+  string LocalPeachFanni {
+    _hidden_value = true
+  }
+  "List<serviceid>" CriminalGreenArdelia {
+    _hidden_value = true
+  }
+  hidden_boolean TastyTealAgathe {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json PresidentialPurpleJoelynn {
+    _hidden_value = true
+  }
+  json CalmFuchsiaGinger {
+    _hidden_value = true
+  }
+  dummy.ResultingCrimsonArdath UnusualIndigoSabina {
+    SuddenSalmonLissa = 781
+    LiableMaroonFrank = "Im only familiar with 25 letters in the English language. I dont know why."
+    QuintessentialLavenderCorenda = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SexualIvoryNannette = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    SplendidTomatoNesta = "Im only familiar with 25 letters in the English language. I dont know why."
+    SkinnyLavenderKorry = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    _hidden_value = true
+  }
+  serviceid RegularTealBabb {
+    _hidden_value = true
+  }
+  number ProfitableEmeraldEmlyn {
+    _hidden_value = true
+  }
+  hidden_boolean StandardEmeraldCandie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid RadicalHarlequinLynelle {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MolecularCoralJessi {
+    _hidden_value = true
+  }
+  WickedScarletUta = 666
+  IncPurpleCammi = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DarkBeigeKellie = "Why did the kid cross the playground? To get to the other slide."
+  PowerfulOrangeSandie = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RegularTealBabb"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DependentOrangeMarisa"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "IncPurpleCammi"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

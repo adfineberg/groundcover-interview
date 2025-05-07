@@ -1,0 +1,137 @@
+type dummy.TragicAquamarineShelly {
+  annotations {
+    json DisabledApricotBrenn {
+    }
+    hidden_boolean CuddlyIndigoBecki {
+    }
+    string StuckCoffeeJobina {
+    }
+    hidden_boolean AcuteRoseDorothea {
+    }
+    serviceid_number VulnerableChocolateOdelia {
+    }
+    serviceid_number UnfairCoralKimberley {
+    }
+    number ConfidentIndigoNissa {
+    }
+  }
+  number OkayBronzeNadine {
+    _hidden_value = true
+  }
+  dummy.AutomaticAmberEditha DelightedBlackHarriot {
+    HardFuchsiaLenette = true
+    ProfessionalRedGermaine = 161
+    SteadyPinkDebbie = 60
+    SlightVioletElinor = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    WrittenTurquoiseEsther = false
+    InstitutionalAmberNadiya = "Whoever invented the knock-knock joke should get a no bell prize."
+    AdjacentGreenRubie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SpontaneousBrownRosana = true
+    FarBrownKellie = true
+    StandardBronzeOthilie = 328
+    DiverseLimeEdie = 566
+    RelaxedWhiteNara = "What creature is smarter than a talking parrot? A spelling bee."
+    CreativeAquaMerle = 521
+    ArrogantTanKeriann = 416
+    _hidden_value = true
+  }
+  number UnknownTanElberta {
+    _hidden_value = true
+  }
+  boolean InappropriateOrangeAilina {
+    _hidden_value = true
+  }
+  serviceid InterestingTealIvett {
+    _hidden_value = true
+  }
+  hidden_boolean ExplicitAmberHarriott {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<json>" IncreasedPeachEliza {
+    _hidden_value = true
+  }
+  serviceid SaltyBronzeLucia {
+    _hidden_value = true
+  }
+  string SouthernCoffeeRoberta {
+    _hidden_value = true
+  }
+  string AdministrativeVioletMadelene {
+    _hidden_value = true
+  }
+  boolean ProvincialTanBrynne {
+    _hidden_value = true
+  }
+  number MatureAmaranthBetteann {
+    _hidden_value = true
+  }
+  boolean LonelyVioletHeather {
+    _hidden_value = true
+  }
+  hidden_boolean SlightGrayGeorgia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExtremeCopperDenna {
+    _hidden_value = true
+  }
+  number AssistantTurquoiseEryn {
+    _hidden_value = true
+  }
+  hidden_boolean ProfessionalBrownMarillin {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT WearyAquaTheresina {
+    _hidden_value = true
+  }
+  DisabledApricotBrenn = "Why didnt the skeleton cross the road? Because he had no guts."
+  StuckCoffeeJobina = "To be Frank, I'd have to change my name."
+  VulnerableChocolateOdelia = 54
+  UnfairCoralKimberley = 199
+  ConfidentIndigoNissa = 151
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ProvincialTanBrynne"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LonelyVioletHeather"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DelightedBlackHarriot"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UnknownTanElberta"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "InappropriateOrangeAilina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "UnfairCoralKimberley"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CuddlyIndigoBecki"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,119 @@
+type dummy.InlandTealMarianna {
+  annotations {
+    number ContinentalCoralVivianne {
+    }
+    string CompatibleEmeraldDenice {
+    }
+    string MinorMaroonGoldy {
+    }
+    hidden_boolean GivenScarletEunice {
+    }
+    string MultipleCrimsonJanessa {
+    }
+    hidden_boolean MushyOliveDeeyn {
+    }
+  }
+  string CapableIvoryCharleen {
+    _hidden_value = true
+  }
+  dummy.SorryCyanVinnie PrimitiveIndigoTamma {
+    HistoricAzureDorry = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    PartialBeigeLanie = true
+    SoundGrayJenelle = true
+    MusicalTomatoMollie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    AshamedCoralNoel = 518
+    FamiliarGrayWinny = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ImportantPlumBerget = {
+      legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    }
+    TerribleGrayJoelie = 904
+    FriendlyCoffeeJackie = 677
+    RoyalBlackCarol = "Did you know that protons have mass? I didn't even know they were catholic."
+    RacialBrownDorolisa = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ThickAquamarineNatalina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    CourageousCopperQuinta = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    MeanAzureFrancesca = "Did you know that protons have mass? I didn't even know they were catholic."
+    SuperbVioletMarti = "What did one nut say as he chased another nut?  I'm a cashew!"
+    RightSapphireIvory = "Why was it called the dark ages? Because of all the knights. "
+    DelicatePinkJulita = true
+    _hidden_value = true
+  }
+  hidden_boolean AdorablePurpleFrancesca {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number SecondaryEmeraldGayle {
+    _hidden_value = true
+  }
+  number GentleVioletJessika {
+    _hidden_value = true
+  }
+  serviceid FierceTealRyann {
+    _hidden_value = true
+  }
+  dummy.ResultingCrimsonArdath BottomPeachSharona {
+    SuddenSalmonLissa = 603
+    LiableMaroonFrank = "To be Frank, I'd have to change my name."
+    QuintessentialLavenderCorenda = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SexualIvoryNannette = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SplendidTomatoNesta = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SkinnyLavenderKorry = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    _hidden_value = true
+  }
+  number HandicappedAquamarineSheela {
+    _hidden_value = true
+  }
+  json BalancedMaroonCacilie {
+    _hidden_value = true
+  }
+  boolean EarlyMaroonCharisse {
+    _hidden_value = true
+  }
+  serviceid AestheticTanAdan {
+    _hidden_value = true
+  }
+  dummy.MuteGrayAlexi NationalCrimsonDianemarie {
+    ComplexGrayKerstin = 992
+    BigYellowAsia = 14
+    DreadfulGreenDagmar = "Dad Im hungry  Hi hungry Im dad"
+    CooperativeTomatoNora = true
+    EnviousCoffeeWallie = "Why is Peter Pan always flying? Because he Neverlands."
+    CrudeIvoryJoli = "Why did the tomato blush? Because it saw the salad dressing."
+    LuckyFuchsiaSher = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    DiverseHarlequinKaleena = "Dad Im hungry  Hi hungry Im dad"
+    AngryFuchsiaVivianne = 265
+    OnlyGreenArdella = "To be Frank, I'd have to change my name."
+    _hidden_value = true
+  }
+  json FewFuchsiaLucia {
+    _hidden_value = true
+  }
+  hidden_boolean UsualEmeraldBlakelee {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<serviceid_number>" InterestingIndigoEve {
+    _hidden_value = true
+  }
+  ContinentalCoralVivianne = 209
+  CompatibleEmeraldDenice = "Whoever invented the knock-knock joke should get a no bell prize."
+  MinorMaroonGoldy = "Im only familiar with 25 letters in the English language. I dont know why."
+  MultipleCrimsonJanessa = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "CompatibleEmeraldDenice"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MushyOliveDeeyn"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

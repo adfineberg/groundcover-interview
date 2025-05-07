@@ -1,0 +1,116 @@
+type dummy.HandsomeEmeraldSharron {
+  annotations {
+    json FriendlyLavenderAra {
+    }
+    dummy.NeighbouringGrayGusty SubjectivePinkMinerva {
+    }
+    string VerbalHarlequinLian {
+    }
+    serviceid DarkMaroonChanda {
+    }
+    json DevotedMoccasinJemimah {
+    }
+    json ManualIndigoAlicea {
+    }
+    hidden_boolean InnocentAmethystLynna {
+    }
+  }
+  boolean HostileRedEdi {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" HushedBlackGay {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number InstantPurpleBobbye {
+    _hidden_value = true
+  }
+  serviceid_number MinisterialOrangeSheryl {
+    _hidden_value = true
+  }
+  boolean ProbableCoralLaureen {
+    _hidden_value = true
+  }
+  "List<boolean>" SpiritualHarlequinDniren {
+    _hidden_value = true
+  }
+  boolean FamiliarSapphireHeloise {
+    _hidden_value = true
+  }
+  boolean PolitePurpleKimberli {
+    _hidden_value = true
+  }
+  json GenuineAmberLia {
+    _hidden_value = true
+  }
+  number SophisticatedBlackGert {
+    _hidden_value = true
+  }
+  string ConservationIvoryGolda {
+    _hidden_value = true
+  }
+  number MagicPurpleStefanie {
+    _hidden_value = true
+  }
+  serviceid ImaginativeCopperJulianne {
+    _hidden_value = true
+  }
+  serviceid_number FashionableCoffeeNeile {
+    _hidden_value = true
+  }
+  number FiscalCrimsonPammie {
+    _hidden_value = true
+  }
+  FriendlyLavenderAra = "Why was it called the dark ages? Because of all the knights. "
+  SubjectivePinkMinerva = 509
+  VerbalHarlequinLian = "Why didnt the skeleton cross the road? Because he had no guts."
+  DarkMaroonChanda = "Did you know that protons have mass? I didn't even know they were catholic."
+  DevotedMoccasinJemimah = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ManualIndigoAlicea = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FamiliarSapphireHeloise"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PolitePurpleKimberli"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HushedBlackGay"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SophisticatedBlackGert"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FashionableCoffeeNeile"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DarkMaroonChanda"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "InnocentAmethystLynna"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SubjectivePinkMinerva"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,96 @@
+type dummy.FormidableAquaCorliss {
+  annotations {
+    serviceid_number DailyGreenJenn {
+    }
+    number SwiftBlackVeronike {
+    }
+    serviceid WealthyCopperHertha {
+    }
+    hidden_boolean FixedTurquoiseAudi {
+    }
+    dummy.DEFAULT ScientificLavenderAnnelise {
+    }
+    string OrdinaryAquaStephi {
+    }
+    number YammeringGreenPhilippine {
+    }
+  }
+  string HorribleBlackKimbra {
+    _hidden_value = true
+  }
+  serviceid_number XerothermicWhiteBrunhilda {
+    _hidden_value = true
+  }
+  serviceid VeryCrimsonJacinta {
+    _hidden_value = true
+  }
+  serviceid SoundCoralTabina {
+    _hidden_value = true
+  }
+  string AbsentWhiteAnnadiana {
+    _hidden_value = true
+  }
+  boolean ProfoundBrownKarolina {
+    _hidden_value = true
+  }
+  number WeeklySalmonLita {
+    _hidden_value = true
+  }
+  hidden_boolean AbsoluteMaroonClaudetta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ElatedOrangeGael {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean UncomfortableBeigeMelodie {
+    _hidden_value = true
+  }
+  boolean EnormousVioletSaba {
+    _hidden_value = true
+  }
+  serviceid_number NavalCopperTasha {
+    _hidden_value = true
+  }
+  hidden_boolean ZestyChocolateMonah {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  DailyGreenJenn = 781
+  SwiftBlackVeronike = 942
+  WealthyCopperHertha = "A steak pun is a rare medium well done."
+  ScientificLavenderAnnelise = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  OrdinaryAquaStephi = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  YammeringGreenPhilippine = 580
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AbsentWhiteAnnadiana"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "XerothermicWhiteBrunhilda"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ProfoundBrownKarolina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DailyGreenJenn"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

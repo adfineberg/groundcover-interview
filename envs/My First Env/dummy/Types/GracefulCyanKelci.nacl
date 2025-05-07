@@ -1,0 +1,119 @@
+type dummy.GracefulCyanKelci {
+  annotations {
+    serviceid UniformMaroonTania {
+    }
+    string AnxiousVioletSibelle {
+    }
+    serviceid_number ExistingBronzeAthena {
+    }
+    hidden_boolean OccasionalVioletChristan {
+    }
+    serviceid_number ZoophagousScarletVitia {
+    }
+  }
+  string WellPlumSallyann {
+    _hidden_value = true
+  }
+  hidden_boolean AvailableTomatoGuendolen {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT ElaborateFuchsiaAmalie {
+    _hidden_value = true
+  }
+  json WorkingIvoryAlikee {
+    _hidden_value = true
+  }
+  serviceid DeliciousChocolateRoze {
+    _hidden_value = true
+  }
+  number AccessibleJadeDaveen {
+    _hidden_value = true
+  }
+  boolean XerothermicTomatoCaralie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RenewedGoldGavra {
+    _hidden_value = true
+  }
+  dummy.DiverseTurquoiseMariya AwakeTomatoNesta {
+    AdversePlumLadonna = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SupremeCopperMellisa = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ForthcomingMaroonAda = "Why didnt the skeleton cross the road? Because he had no guts."
+    FunIndigoRaine = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    WonderfulBlushSonnnie = "Whoever invented the knock-knock joke should get a no bell prize."
+    FreshBlackDasha = "What do you call two barracuda fish?  A Pairacuda!"
+    NastyCrimsonVinni = true
+    _hidden_value = true
+  }
+  string ObviousApricotFilide {
+    _hidden_value = true
+  }
+  serviceid GenuineJadeNaoma {
+    _hidden_value = true
+  }
+  number PrivateCyanShawnee {
+    _hidden_value = true
+  }
+  string FuriousOliveMilka {
+    _hidden_value = true
+  }
+  number RollingGrayAjay {
+    _hidden_value = true
+  }
+  number DefeatedPurpleChristen {
+    _hidden_value = true
+  }
+  serviceid_number StripedCyanDebera {
+    _hidden_value = true
+  }
+  string StickyTealBerty {
+    _hidden_value = true
+  }
+  serviceid_number YummySapphireRebbecca {
+    _hidden_value = true
+  }
+  serviceid RelativeTanFilippa {
+    _hidden_value = true
+  }
+  hidden_boolean ForeignOrangeTera {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  UniformMaroonTania = "Dad Im hungry  Hi hungry Im dad"
+  AnxiousVioletSibelle = "Why do birds fly south for the winter? Because it's too far to walk."
+  ExistingBronzeAthena = 825
+  ZoophagousScarletVitia = 658
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "WellPlumSallyann"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "WorkingIvoryAlikee"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "YummySapphireRebbecca"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FuriousOliveMilka"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "UniformMaroonTania"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

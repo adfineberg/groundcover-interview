@@ -1,0 +1,99 @@
+type dummy.PreciousGoldMyrtia {
+  annotations {
+    serviceid ChillyBronzeMercy {
+    }
+    json MusicalCoralJackqueline {
+    }
+    serviceid WideRoseDorthea {
+    }
+    string AccessibleJadeSelinda {
+    }
+    string InterestingYellowArlina {
+    }
+    hidden_boolean UndergroundAmaranthKenna {
+    }
+    dummy.InformalTurquoiseFaith HilariousMagentaCassaundra {
+    }
+    serviceid_number ExclusiveFuchsiaBili {
+    }
+    dummy.IcyAquamarineLibbi DependentGrayDanni {
+    }
+    string HappyGoldAlla {
+    }
+    number ArbitraryGoldBlondy {
+    }
+    boolean MarginalPinkWilla {
+    }
+    dummy.DiverseTurquoiseMariya InnovativeSalmonCristi {
+    }
+    dummy.CommercialSapphireMarjory PreviousOliveAllys {
+    }
+    number UnchangedCrimsonNataline {
+    }
+    boolean UsedRedRora {
+    }
+    serviceid_number RecentRedFrankie {
+    }
+    hidden_boolean WholePinkDonnamarie {
+    }
+  }
+  ChillyBronzeMercy = "Why didnt the skeleton cross the road? Because he had no guts."
+  MusicalCoralJackqueline = "Why did the kid cross the playground? To get to the other slide."
+  WideRoseDorthea = "Why is Peter Pan always flying? Because he Neverlands."
+  AccessibleJadeSelinda = "My first time using an elevator was an uplifting experience. The second time let me down."
+  InterestingYellowArlina = "To be Frank, I'd have to change my name."
+  HilariousMagentaCassaundra = false
+  ExclusiveFuchsiaBili = 895
+  HappyGoldAlla = "What do you call two barracuda fish?  A Pairacuda!"
+  ArbitraryGoldBlondy = 353
+  MarginalPinkWilla = false
+  InnovativeSalmonCristi = false
+  UnchangedCrimsonNataline = 586
+  UsedRedRora = false
+  RecentRedFrankie = 644
+  _important_values = [
+    {
+      value = "ScaredTurquoiseRowe"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AmbitiousApricotDavina"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ExclusiveFuchsiaGwenora"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FiscalAzureUta"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AvailableOrangeMyriam"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ItchyFuchsiaPriscilla"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PreviousOliveAllys"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "InnovativeSalmonCristi"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "PreciousGoldMyrtia_alias"
+}

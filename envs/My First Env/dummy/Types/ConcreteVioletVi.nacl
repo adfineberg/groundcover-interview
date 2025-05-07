@@ -1,0 +1,126 @@
+type dummy.ConcreteVioletVi {
+  annotations {
+    string EmotionalAzureDione {
+    }
+    json SubjectiveBlueAntonina {
+    }
+    string RisingAquaHedwiga {
+    }
+    string KeenIndigoRhodia {
+    }
+    boolean ProposedFuchsiaRosmunda {
+    }
+    json DevotedPlumKathryne {
+    }
+    string FuzzyWhiteBeth {
+    }
+  }
+  hidden_boolean ShiveringOrangeEryn {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ImperialTurquoiseMaribel {
+    _hidden_value = true
+  }
+  serviceid_number ArmedFuchsiaLaure {
+    _hidden_value = true
+  }
+  dummy.ResultingCrimsonArdath OkayCyanTeddi {
+    SuddenSalmonLissa = 415
+    LiableMaroonFrank = "Did you know that protons have mass? I didn't even know they were catholic."
+    QuintessentialLavenderCorenda = "Why was it called the dark ages? Because of all the knights. "
+    SexualIvoryNannette = "A steak pun is a rare medium well done."
+    SplendidTomatoNesta = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    SkinnyLavenderKorry = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    _hidden_value = true
+  }
+  dummy.ViciousGoldTessi NecessaryCrimsonAllina {
+    YtterbicTomatoJobie = "What do you call two barracuda fish?  A Pairacuda!"
+    FatTurquoiseKiersten = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    RelativeBlackGlennis = 944
+    SkilledCrimsonMargi = 883
+    EfficientTurquoiseRasla = 935
+    ThoroughIvoryJanette = 923
+    FineTurquoiseCorry = "What did one nut say as he chased another nut?  I'm a cashew!"
+    EfficientTomatoMerci = 679
+    OverwhelmingGreenStephine = "How come the stadium got hot after the game? Because all of the fans left."
+    UnpleasantGreenKristin = "Did you know that protons have mass? I didn't even know they were catholic."
+    StraightforwardChocolateGermaine = 378
+    PermanentPinkOthella = false
+    _hidden_value = true
+  }
+  hidden_boolean AbsentTanOralee {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string RichTomatoDruci {
+    _hidden_value = true
+  }
+  json MajorBluePhillis {
+    _hidden_value = true
+  }
+  string YabberingAmaranthClaudine {
+    _hidden_value = true
+  }
+  boolean PerfectBrownJuli {
+    _hidden_value = true
+  }
+  number DirectOrangeHenrieta {
+    _hidden_value = true
+  }
+  number QualifiedScarletMahalia {
+    _hidden_value = true
+  }
+  boolean StaticAquamarineOneida {
+    _hidden_value = true
+  }
+  number GoodTurquoiseFelipa {
+    _hidden_value = true
+  }
+  serviceid_number SpatialScarletJuditha {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ZygoticBronzeCoreen {
+    _hidden_value = true
+  }
+  string RemarkableVioletMerline {
+    _hidden_value = true
+  }
+  json SportingTomatoVikki {
+    _hidden_value = true
+  }
+  boolean ControlledAmethystMillie {
+    _hidden_value = true
+  }
+  json UgliestMaroonBettye {
+    _hidden_value = true
+  }
+  serviceid ContentCoffeeAdda {
+    _hidden_value = true
+  }
+  number WholeSapphireCatha {
+    _hidden_value = true
+  }
+  string BitterBeigeGussie {
+    _hidden_value = true
+  }
+  EmotionalAzureDione = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SubjectiveBlueAntonina = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  RisingAquaHedwiga = "Slept like a log last night  woke up in the fireplace."
+  KeenIndigoRhodia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ProposedFuchsiaRosmunda = true
+  DevotedPlumKathryne = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FuzzyWhiteBeth = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "FuzzyWhiteBeth"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

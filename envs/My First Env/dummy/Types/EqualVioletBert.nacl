@@ -1,0 +1,139 @@
+type dummy.EqualVioletBert {
+  annotations {
+    hidden_boolean CollectiveBlackDulce {
+    }
+    string HeadBrownFaye {
+    }
+    hidden_boolean NoisyOrangeEalasaid {
+    }
+    dummy.AcceptableAmaranthGertrudis RetailMoccasinNanny {
+    }
+    serviceid_number ThenPurpleLinet {
+    }
+    hidden_boolean KnownCoffeeVivia {
+    }
+    serviceid_number FoolishMagentaAndrei {
+    }
+  }
+  dummy.MassYellowCorina VariableYellowGretal {
+    _hidden_value = true
+  }
+  serviceid_number CharmingHarlequinTildi {
+    _hidden_value = true
+  }
+  number SignificantWhiteSaraann {
+    _hidden_value = true
+  }
+  serviceid FewJadeVanni {
+    _hidden_value = true
+  }
+  number BlankAquaVanna {
+    _hidden_value = true
+  }
+  boolean UsefulIvoryRebbecca {
+    _hidden_value = true
+  }
+  json RichMoccasinJanaya {
+    _hidden_value = true
+  }
+  string ConsciousBrownKarie {
+    _hidden_value = true
+  }
+  hidden_boolean RawGreenRayna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ReducedPinkJorie {
+    _hidden_value = true
+  }
+  boolean DelightfulJadeLorelei {
+    _hidden_value = true
+  }
+  string RapidBlackBrena {
+    _hidden_value = true
+  }
+  string NutritiousRoseTorie {
+    _hidden_value = true
+  }
+  string ImportantIvoryEuphemia {
+    _hidden_value = true
+  }
+  string DoubleCrimsonKylie {
+    _hidden_value = true
+  }
+  boolean ParticularPinkAnastassia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RevolutionaryGreenLetty {
+    _hidden_value = true
+  }
+  number LogicalBlushRowe {
+    _hidden_value = true
+  }
+  number HumanBlueAdele {
+    _hidden_value = true
+  }
+  hidden_boolean OrganicBeigeGiustina {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number PremierBlushGlenda {
+    _hidden_value = true
+  }
+  HeadBrownFaye = "Why is Peter Pan always flying? Because he Neverlands."
+  RetailMoccasinNanny = 987
+  ThenPurpleLinet = 370
+  FoolishMagentaAndrei = 274
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RichMoccasinJanaya"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ReducedPinkJorie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FewJadeVanni"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BlankAquaVanna"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RevolutionaryGreenLetty"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DelightfulJadeLorelei"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ConsciousBrownKarie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SignificantWhiteSaraann"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RetailMoccasinNanny"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

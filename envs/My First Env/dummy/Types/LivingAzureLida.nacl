@@ -1,0 +1,29 @@
+type dummy.LivingAzureLida {
+  annotations {
+    string ProtestantPeachBirgit {
+    }
+    serviceid_number DustySalmonKrystle {
+    }
+    serviceid_number AliveIvoryVanny {
+    }
+    serviceid_number ManagingAquaRobena {
+    }
+  }
+  "List<hidden_boolean>" EvolutionaryTanTheodosia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  ProtestantPeachBirgit = "Im only familiar with 25 letters in the English language. I dont know why."
+  DustySalmonKrystle = 797
+  AliveIvoryVanny = 792
+  ManagingAquaRobena = 178
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ProtestantPeachBirgit"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

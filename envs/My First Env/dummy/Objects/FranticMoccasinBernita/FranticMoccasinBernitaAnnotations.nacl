@@ -1,0 +1,97 @@
+type dummy.FranticMoccasinBernita {
+  annotations {
+    serviceid_number BreakablePlumConnie {
+    }
+    serviceid AdequateSilverGwendolin {
+    }
+    serviceid_number MeanMoccasinNada {
+    }
+    string MoralRoseElbertine {
+    }
+    number FrailSilverDebby {
+    }
+    boolean AllegedScarletTove {
+    }
+    dummy.DeafScarletCarolynn FunnyPinkCorrine {
+    }
+    dummy.GlobalLimeMatti CurrentOliveSisely {
+    }
+    serviceid_number CurvedBlueTrudie {
+    }
+    serviceid ProtectiveMaroonCodie {
+    }
+    serviceid VividBlushGenevra {
+    }
+    serviceid_number BrilliantChocolateInga {
+    }
+    serviceid MilitaryAzureMinerva {
+    }
+    serviceid MinisterialAmethystTraci {
+    }
+    boolean VastBeigeJaclin {
+    }
+    boolean CompulsoryPurpleRaynell {
+    }
+    string AdvancedSilverCherrita {
+    }
+    serviceid_number MeanIndigoLilli {
+    }
+    hidden_boolean UncertainLavenderLianne {
+    }
+    serviceid DynamicHarlequinCollen {
+    }
+    dummy.QualifiedHarlequinJolee ProfoundTurquoiseTim {
+    }
+    dummy.ZealousPeachGui AtomicRedNanon {
+    }
+    hidden_boolean CrowdedIvoryNolie {
+    }
+    serviceid MiddleCopperMadeleine {
+    }
+  }
+  BreakablePlumConnie = 285
+  AdequateSilverGwendolin = "Why didnt the skeleton cross the road? Because he had no guts."
+  MeanMoccasinNada = 737
+  MoralRoseElbertine = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FrailSilverDebby = 634
+  AllegedScarletTove = true
+  CurrentOliveSisely = file("SlightRoseRyann.txt")
+  CurvedBlueTrudie = 854
+  ProtectiveMaroonCodie = "Why did the tomato blush? Because it saw the salad dressing."
+  VividBlushGenevra = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  BrilliantChocolateInga = 610
+  MilitaryAzureMinerva = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  MinisterialAmethystTraci = "Why do birds fly south for the winter? Because it's too far to walk."
+  VastBeigeJaclin = true
+  CompulsoryPurpleRaynell = false
+  AdvancedSilverCherrita = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  MeanIndigoLilli = 662
+  DynamicHarlequinCollen = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ProfoundTurquoiseTim = 148
+  MiddleCopperMadeleine = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _important_values = [
+    {
+      value = "ReadyLavenderFlorina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ConstantPeachDanika"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LinearEmeraldAriana"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ProtectiveMaroonCodie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "FranticMoccasinBernita_alias"
+}

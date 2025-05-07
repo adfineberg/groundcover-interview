@@ -1,0 +1,37 @@
+type dummy.LogicalLimeAlethea {
+  annotations {
+    dummy.IndirectSalmonTina MotionlessMoccasinCate {
+    }
+    dummy.DEFAULT PreliminaryAquamarineBrooke {
+    }
+    string GiantPinkTheresa {
+    }
+    number MarkedFuchsiaAilene {
+    }
+    number AfraidTomatoCarlynne {
+    }
+    serviceid_number MeanAmberChantalle {
+    }
+    hidden_boolean KeyRoseAndeee {
+    }
+  }
+  serviceid_number ConceptualAmberAngelina {
+    _hidden_value = true
+  }
+  MotionlessMoccasinCate = false
+  PreliminaryAquamarineBrooke = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  GiantPinkTheresa = "Why do birds fly south for the winter? Because it's too far to walk."
+  MarkedFuchsiaAilene = 330
+  AfraidTomatoCarlynne = 100
+  MeanAmberChantalle = 424
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "GiantPinkTheresa"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

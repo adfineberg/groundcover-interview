@@ -1,0 +1,102 @@
+type dummy.ElaborateLavenderPia {
+  annotations {
+    dummy.DEFAULT AnonymousWhiteAntonia {
+    }
+    dummy.DEFAULT OverallHarlequinLaurette {
+    }
+    serviceid MuteRoseTrenna {
+    }
+    number MildVioletMolli {
+    }
+    json QuickApricotArlina {
+    }
+  }
+  json UncomfortableBronzeCortney {
+    _hidden_value = true
+  }
+  hidden_boolean AutonomousBronzeNinette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ManagerialLavenderAlexis {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean BeneficialBlueJemima {
+    _hidden_value = true
+  }
+  serviceid UnderlyingRoseAlejandrina {
+    _hidden_value = true
+  }
+  serviceid NuttyFuchsiaArdene {
+    _hidden_value = true
+  }
+  serviceid_number DesperateLimeTarrah {
+    _hidden_value = true
+  }
+  serviceid_number DiplomaticScarletWrennie {
+    _hidden_value = true
+  }
+  number TerritorialAmethystGray {
+    _hidden_value = true
+  }
+  boolean WitteringGreenTimmy {
+    _hidden_value = true
+  }
+  boolean PrimitiveCrimsonAudy {
+    _hidden_value = true
+  }
+  serviceid_number AdverseScarletEddy {
+    _hidden_value = true
+  }
+  boolean FrontRedSile {
+    _hidden_value = true
+  }
+  serviceid RoyalAquamarineAmitie {
+    _hidden_value = true
+  }
+  serviceid_number GloriousApricotBarbette {
+    _hidden_value = true
+  }
+  hidden_boolean HandicappedLimeLanny {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.QualifiedHarlequinJolee ForeignMoccasinCordie {
+    ConvenientSalmonKristin = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    ArmedYellowAmeline = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    ShiveringCoffeePammy = false
+    CasualEmeraldEmilee = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  serviceid_number StingyJadeStephi {
+    _hidden_value = true
+  }
+  string PunyPurpleCourtnay {
+    _hidden_value = true
+  }
+  AnonymousWhiteAntonia = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  OverallHarlequinLaurette = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  MuteRoseTrenna = "How come the stadium got hot after the game? Because all of the fans left."
+  MildVioletMolli = 178
+  QuickApricotArlina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PunyPurpleCourtnay"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,39 @@
+type dummy.PresentEmeraldRonica {
+  annotations {
+    serviceid_number ControversialAzureArleta {
+    }
+    json IncLavenderAnnadiane {
+    }
+    boolean RetiredGoldKittie {
+    }
+    json XericBlackFawne {
+    }
+    json GenerousApricotMyrna {
+    }
+    serviceid WorthyOrangeBecky {
+    }
+  }
+  json OtherApricotCaresa {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RollingApricotAshleigh {
+    _hidden_value = true
+  }
+  serviceid_number FrozenCoffeeCaritta {
+    _hidden_value = true
+  }
+  ControversialAzureArleta = 34
+  IncLavenderAnnadiane = "What did one nut say as he chased another nut?  I'm a cashew!"
+  RetiredGoldKittie = true
+  XericBlackFawne = "My first time using an elevator was an uplifting experience. The second time let me down."
+  GenerousApricotMyrna = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  WorthyOrangeBecky = "Why did the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RollingApricotAshleigh"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

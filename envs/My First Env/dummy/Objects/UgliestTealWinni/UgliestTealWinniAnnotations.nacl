@@ -1,0 +1,74 @@
+type dummy.UgliestTealWinni {
+  annotations {
+    serviceid_number FoolishAmaranthEdythe {
+    }
+    serviceid MiniaturePinkGene {
+    }
+    dummy.ShinyMoccasinAmata KeyTomatoBarrie {
+    }
+    serviceid_number SoleHarlequinChloette {
+    }
+    dummy.UglyBlackBriana PlainOliveMarcille {
+    }
+    dummy.LoudMaroonCorny NearbyAzureSusy {
+    }
+    boolean GladGoldBathsheba {
+    }
+    json LatePinkRosemonde {
+    }
+    number ElegantMagentaJanela {
+    }
+    dummy.ScornfulOrangeEmelyne AsleepMoccasinDion {
+    }
+    serviceid TightYellowVerile {
+    }
+    boolean StatutoryAmberMeg {
+    }
+    dummy.NervousCyanBlisse SplendidWhiteVikky {
+    }
+    string MonthlyHarlequinMina {
+    }
+    json SecondaryGraySelle {
+    }
+    serviceid_number TroubledOrangeRena {
+    }
+    serviceid_number ShakyMoccasinGretna {
+    }
+    serviceid MushyJadeRoxanne {
+    }
+  }
+  FoolishAmaranthEdythe = 257
+  MiniaturePinkGene = "To be Frank, I'd have to change my name."
+  SoleHarlequinChloette = 344
+  GladGoldBathsheba = false
+  LatePinkRosemonde = "Why did the kid cross the playground? To get to the other slide."
+  ElegantMagentaJanela = 432
+  TightYellowVerile = "Why is Peter Pan always flying? Because he Neverlands."
+  StatutoryAmberMeg = false
+  SplendidWhiteVikky = 137
+  MonthlyHarlequinMina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SecondaryGraySelle = "What do you call two barracuda fish?  A Pairacuda!"
+  TroubledOrangeRena = 361
+  ShakyMoccasinGretna = 306
+  MushyJadeRoxanne = "Im only familiar with 25 letters in the English language. I dont know why."
+  _important_values = [
+    {
+      value = "DeepBlueGnni"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "MonthlyHarlequinMina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "TroubledOrangeRena"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "UgliestTealWinni_alias"
+}

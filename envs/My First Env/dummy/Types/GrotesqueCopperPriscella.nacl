@@ -1,0 +1,178 @@
+type dummy.GrotesqueCopperPriscella {
+  annotations {
+    hidden_boolean QuintessentialSalmonMignon {
+    }
+    json EmbarrassedScarletClara {
+    }
+    string BraveIndigoMelanie {
+    }
+    hidden_boolean SpottyCoralHildagard {
+    }
+    boolean DominantTanTania {
+    }
+  }
+  string ClearGoldJennie {
+    _hidden_value = true
+  }
+  dummy.UnhappyMagentaNorah InevitableScarletBetteann {
+    EerieAmberDiandra = 118
+    ViciousIvoryNesta = 473
+    ContinuingMaroonMarika = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    MusicalAmaranthStaci = 840
+    OverseasCyanLanette = 978
+    ArmedPeachDela = "Why did the tomato blush? Because it saw the salad dressing."
+    LimitedFuchsiaIsahella = 492
+    GrandPlumSusann = 482
+    _hidden_value = true
+  }
+  dummy.NeighbouringGrayGusty ImperialAmberJeannette {
+    SportingTurquoiseFrancene = "How come the stadium got hot after the game? Because all of the fans left."
+    PlainGoldBirgitta = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    MeltedIvoryStephenie = "Slept like a log last night  woke up in the fireplace."
+    HurtMoccasinLudovika = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    FinalEmeraldShaylyn = 898
+    LinguisticBlushMerry = 237
+    ExcitedCyanLorrie = 152
+    ComplexTanGodiva = "Im only familiar with 25 letters in the English language. I dont know why."
+    VariousOrangeMariele = 946
+    EvilJadeQueenie = 897
+    ProudOrangePenny = "Why did the kid cross the playground? To get to the other slide."
+    SouthernLimeCookie = 493
+    VictoriousEmeraldBerget = true
+    CorrespondingAquamarineSilvie = "Slept like a log last night  woke up in the fireplace."
+    IntermediateBlushClaudina = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    HorizontalSapphireBernette = true
+    OverallScarletNicki = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    SpareLimeShelba = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    RelevantRoseHannis = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    InterimMaroonRebe = 631
+    MechanicalAmberLib = false
+    CompactSapphireLetti = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    WiseBlushIlysa = "Whoever invented the knock-knock joke should get a no bell prize."
+    CalmGoldAnnmarie = true
+    TraditionalTealAddie = true
+    _hidden_value = true
+  }
+  dummy.ConsciousAquaMahalia AcceptableCyanMignon {
+    ComingCyanMaddi = "Why did the kid cross the playground? To get to the other slide."
+    EfficientRoseAdrienne = "How come the stadium got hot after the game? Because all of the fans left."
+    ConsistentBeigeTonya = 479
+    LiterarySapphireAila = false
+    SystematicAquaMead = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    RoyalIvorySal = 469
+    PreviousLavenderMignonne = true
+    AbsentAquamarineIra = false
+    AdditionalRoseAlthea = 886
+    GlamorousJadeGates = 953
+    _hidden_value = true
+  }
+  string RespectiveApricotLeelah {
+    _hidden_value = true
+  }
+  boolean ToughCyanCon {
+    _hidden_value = true
+  }
+  serviceid IdealCoralCarena {
+    _hidden_value = true
+  }
+  serviceid_number AdministrativeWhiteMattie {
+    _hidden_value = true
+  }
+  string ArrogantTomatoPollyanna {
+    _hidden_value = true
+  }
+  number ElegantAquaMellicent {
+    _hidden_value = true
+  }
+  json GrandAmberFey {
+    _hidden_value = true
+  }
+  json HighTomatoGwennie {
+    _hidden_value = true
+  }
+  number FinancialWhiteMerilee {
+    _hidden_value = true
+  }
+  serviceid MelodicOrangeMorna {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GaySapphireLauren {
+    _hidden_value = true
+  }
+  json ShyBlueEyde {
+    _hidden_value = true
+  }
+  serviceid_number SteepAquamarineCelia {
+    _hidden_value = true
+  }
+  json StrongWhiteBetsey {
+    _hidden_value = true
+  }
+  serviceid_number NervousCoffeeAshil {
+    _hidden_value = true
+  }
+  json MadEmeraldCrissy {
+    _hidden_value = true
+  }
+  boolean NaughtyBlackMadelaine {
+    _hidden_value = true
+  }
+  string LegitimateAmethystBibi {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" LargeSalmonHarlene {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean BlindScarletStevana {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  EmbarrassedScarletClara = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  BraveIndigoMelanie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DominantTanTania = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "InevitableScarletBetteann"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AcceptableCyanMignon"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "NaughtyBlackMadelaine"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RespectiveApricotLeelah"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ShyBlueEyde"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ElegantAquaMellicent"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HighTomatoGwennie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

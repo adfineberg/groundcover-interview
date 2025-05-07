@@ -1,0 +1,100 @@
+type dummy.IntactGrayMaryjo {
+  annotations {
+    boolean RationalCrimsonFrederica {
+    }
+    dummy.EstablishedRoseGussie ApplicableTomatoLaetitia {
+    }
+    hidden_boolean EmbarrassingPurplePaulita {
+    }
+    json CasualSilverRosette {
+    }
+    boolean InclinedBlackMandie {
+    }
+    dummy.UpperTanDebby DesperateTealKatha {
+    }
+    number NaughtyCopperDierdre {
+    }
+    string NakedJadeDaniella {
+    }
+    string AnxiousMoccasinMiguela {
+    }
+    number ChosenCoffeeJanot {
+    }
+    boolean ExoticIvoryDusty {
+    }
+    hidden_boolean ProfoundOrangeShoshana {
+    }
+    number YuckyBlackGratiana {
+    }
+    dummy.SupremeMaroonLynelle NecessaryBeigeTanitansy {
+    }
+    serviceid_number ObedientSilverDevonne {
+    }
+    dummy.MuddyGoldCarina ExtensiveGreenAmye {
+    }
+    string DangerousCoffeeCarolynn {
+    }
+    number MaleTanJulianna {
+    }
+    serviceid VagueOrangeAaren {
+    }
+  }
+  RationalCrimsonFrederica = true
+  ApplicableTomatoLaetitia = false
+  CasualSilverRosette = "Why did the kid cross the playground? To get to the other slide."
+  InclinedBlackMandie = true
+  DesperateTealKatha = false
+  NaughtyCopperDierdre = 477
+  NakedJadeDaniella = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  AnxiousMoccasinMiguela = "What creature is smarter than a talking parrot? A spelling bee."
+  ChosenCoffeeJanot = 619
+  ExoticIvoryDusty = false
+  YuckyBlackGratiana = 595
+  ObedientSilverDevonne = 513
+  DangerousCoffeeCarolynn = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  MaleTanJulianna = 882
+  VagueOrangeAaren = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _important_values = [
+    {
+      value = "YeastyRedMadelina"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "StraightTanJemmy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MinorVioletSuzie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BasicCoralSarine"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "OutstandingSalmonNancy"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SupposedPinkBriny"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "YoungestWhiteClarey"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "StatutoryVioletCathyleen"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "IntactGrayMaryjo_alias"
+}

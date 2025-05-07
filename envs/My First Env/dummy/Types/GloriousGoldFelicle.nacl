@@ -1,0 +1,83 @@
+type dummy.GloriousGoldFelicle {
+  annotations {
+    serviceid_number PositiveIndigoGianna {
+    }
+    serviceid_number XenophobicBlushCyndia {
+    }
+    number EnviousRoseFernande {
+    }
+    string PreliminaryCyanGratia {
+    }
+    json BravePlumMattie {
+    }
+  }
+  string TypicalAmaranthTressa {
+    _hidden_value = true
+  }
+  "List<dummy.InformalTurquoiseFaith>" ComfortableBlackLeland {
+    RottenScarletGiustina = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    DefeatedBlushChere = "Slept like a log last night  woke up in the fireplace."
+    VoluntaryOliveAriana = "Why did the tomato blush? Because it saw the salad dressing."
+    YearningTomatoHedvige = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    BlushingBlushViola = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    InjuredCoralKatusha = false
+    XenaciousPlumGusty = true
+    IdealCopperSheba = 477
+    DisabledMaroonPaulina = 847
+    _hidden_value = true
+  }
+  serviceid_number FlakyWhiteManda {
+    _hidden_value = true
+  }
+  number PreciseAmaranthOralia {
+    _hidden_value = true
+  }
+  json CommonMagentaGilbertina {
+    _hidden_value = true
+  }
+  json RidiculousSalmonSiana {
+    _hidden_value = true
+  }
+  serviceid NearbyOrangeBlinni {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DominantIvoryLane {
+    _hidden_value = true
+  }
+  string JudicialBlushDorian {
+    _hidden_value = true
+  }
+  serviceid RequiredLavenderRivalee {
+    _hidden_value = true
+  }
+  json StillGrayCaitlin {
+    _hidden_value = true
+  }
+  PositiveIndigoGianna = 698
+  XenophobicBlushCyndia = 579
+  EnviousRoseFernande = 861
+  PreliminaryCyanGratia = "What did one nut say as he chased another nut?  I'm a cashew!"
+  BravePlumMattie = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "TypicalAmaranthTressa"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "NearbyOrangeBlinni"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "XenophobicBlushCyndia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

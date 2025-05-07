@@ -1,0 +1,93 @@
+type dummy.SovietOliveDelphine {
+  annotations {
+    string ElectricAmethystKiersten {
+    }
+    dummy.DEFAULT HarshPinkDyna {
+    }
+    serviceid NarrowLavenderVina {
+    }
+    json CapitalistLimeDruci {
+    }
+    string ReasonableCrimsonMellicent {
+    }
+  }
+  string CurvedMaroonMissy {
+    _hidden_value = true
+  }
+  json CreativeEmeraldVikky {
+    _hidden_value = true
+  }
+  boolean PlasticPlumSela {
+    _hidden_value = true
+  }
+  serviceid IllPeachDulci {
+    _hidden_value = true
+  }
+  json YieldingIvoryLila {
+    _hidden_value = true
+  }
+  boolean AmusedJadeCarol {
+    _hidden_value = true
+  }
+  string ResponsibleRedPatti {
+    _hidden_value = true
+  }
+  serviceid PurringBlackJillane {
+    _hidden_value = true
+  }
+  json DivineWhiteDacia {
+    _hidden_value = true
+  }
+  json SurprisedPurpleMichelle {
+    _hidden_value = true
+  }
+  dummy.DelightedTealLynna VagueCoralGlenine {
+    _hidden_value = true
+  }
+  serviceid_number VeryLimeLanae {
+    _hidden_value = true
+  }
+  serviceid SpatialCyanDaisie {
+    _hidden_value = true
+  }
+  serviceid DigitalIndigoMichaeline {
+    _hidden_value = true
+  }
+  boolean PositivePeachIlse {
+    _hidden_value = true
+  }
+  boolean BasicLimeLorrie {
+    _hidden_value = true
+  }
+  boolean IntactBeigeNoelani {
+    _hidden_value = true
+  }
+  boolean ConservativeGoldDevi {
+    _hidden_value = true
+  }
+  string SacredPeachMarianna {
+    _hidden_value = true
+  }
+  ElectricAmethystKiersten = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  HarshPinkDyna = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  NarrowLavenderVina = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CapitalistLimeDruci = "Why did the kid cross the playground? To get to the other slide."
+  ReasonableCrimsonMellicent = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CurvedMaroonMissy"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ReasonableCrimsonMellicent"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

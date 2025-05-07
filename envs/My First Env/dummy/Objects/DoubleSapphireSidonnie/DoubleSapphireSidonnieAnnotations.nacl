@@ -1,0 +1,114 @@
+type dummy.DoubleSapphireSidonnie {
+  annotations {
+    boolean SimpleEmeraldDixie {
+    }
+    serviceid_number MentalCoralKeri {
+    }
+    serviceid_number RealisticGoldDevan {
+    }
+    number TotalWhiteLanni {
+    }
+    number IndirectCyanRona {
+    }
+    number CertainCoffeeEmili {
+    }
+    serviceid_number AfraidCoffeeAnnadiana {
+    }
+    serviceid_number VoluminousBrownKimberlyn {
+    }
+    string ElaborateGreenGiustina {
+    }
+    serviceid_number CommunistAmethystCorella {
+    }
+    string AbleSapphireBernice {
+    }
+    hidden_boolean DeepCopperAngelika {
+    }
+    hidden_boolean AnonymousTomatoAlfreda {
+    }
+    string BiologicalTanKylie {
+    }
+    serviceid_number EventualAmaranthDalenna {
+    }
+    number InternationalTanJany {
+    }
+    number IsolatedPeachAnnamarie {
+    }
+    boolean FormalTurquoiseJanel {
+    }
+    boolean PersistentApricotSonny {
+    }
+    hidden_boolean PrettyAzureChristen {
+    }
+    serviceid_number SouthernPeachAyn {
+    }
+  }
+  SimpleEmeraldDixie = true
+  MentalCoralKeri = 722
+  RealisticGoldDevan = 230
+  TotalWhiteLanni = 685
+  IndirectCyanRona = 743
+  CertainCoffeeEmili = 670
+  AfraidCoffeeAnnadiana = 292
+  VoluminousBrownKimberlyn = 122
+  ElaborateGreenGiustina = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CommunistAmethystCorella = 506
+  AbleSapphireBernice = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  BiologicalTanKylie = "Why was it called the dark ages? Because of all the knights. "
+  EventualAmaranthDalenna = 885
+  InternationalTanJany = 273
+  IsolatedPeachAnnamarie = 551
+  FormalTurquoiseJanel = true
+  PersistentApricotSonny = false
+  SouthernPeachAyn = 444
+  _important_values = [
+    {
+      value = "LevelFuchsiaDonica"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ReducedHarlequinRaquel"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DeepCopperAngelika"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AbleSapphireBernice"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "BiologicalTanKylie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "IsolatedPeachAnnamarie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FormalTurquoiseJanel"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SouthernPeachAyn"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SimpleEmeraldDixie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "DoubleSapphireSidonnie_alias"
+}

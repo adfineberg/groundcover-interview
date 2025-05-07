@@ -1,0 +1,54 @@
+type dummy.CreepyScarletRanice {
+  annotations {
+    serviceid_number MeaningfulWhiteMommy {
+    }
+    json IdenticalWhiteMonah {
+    }
+    serviceid_number PremierTanGlory {
+    }
+    hidden_boolean BrightTealRey {
+    }
+    json HighCopperKeslie {
+    }
+  }
+  dummy.IndirectSalmonTina SadBrownMildred {
+    StrongCoffeeLoleta = true
+    SlimyIndigoFara = 709
+    KnownGrayCesya = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    LikePurpleBonni = 789
+    ArtisticGreenPearl = "Why did the kid cross the playground? To get to the other slide."
+    NiceAmethystCarole = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    MutualVioletLurline = 958
+    ExoticSilverNora = "Why do birds fly south for the winter? Because it's too far to walk."
+    BewilderedHarlequinIrene = 843
+    DelightfulCopperKandy = "Whoever invented the knock-knock joke should get a no bell prize."
+    ManualPinkNonah = 804
+    PresentMagentaCharla = "Im only familiar with 25 letters in the English language. I dont know why."
+    SpotlessMagentaDamara = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    EfficientCyanGerty = 303
+    SmallCrimsonTimmi = "I'll tell you what often gets over looked... garden fences."
+    ScrawnyVioletAvrit = 320
+    WealthyCoralNorah = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    AlrightSalmonBrinn = 637
+    _hidden_value = true
+  }
+  number SmartHarlequinTalyah {
+    _hidden_value = true
+  }
+  MeaningfulWhiteMommy = 783
+  IdenticalWhiteMonah = "Why is Peter Pan always flying? Because he Neverlands."
+  PremierTanGlory = 450
+  HighCopperKeslie = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "HighCopperKeslie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

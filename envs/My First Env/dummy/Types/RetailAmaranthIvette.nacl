@@ -1,0 +1,45 @@
+type dummy.RetailAmaranthIvette {
+  annotations {
+    boolean IntensiveRoseLaney {
+    }
+    string MonthlyBronzeFredrika {
+    }
+    hidden_boolean RivalLavenderBlondy {
+    }
+    hidden_boolean RipeAmaranthCyndia {
+    }
+    hidden_boolean ExistingIndigoJaine {
+    }
+  }
+  boolean BrokenAzurePetronilla {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FixedBlushRheba {
+    _hidden_value = true
+  }
+  number AwareGrayBeatriz {
+    _hidden_value = true
+  }
+  boolean RadicalTurquoiseJeanie {
+    _hidden_value = true
+  }
+  serviceid MarineEmeraldGermaine {
+    _hidden_value = true
+  }
+  serviceid TechnicalSalmonMiranda {
+    _hidden_value = true
+  }
+  json SmallSalmonDarsey {
+    _hidden_value = true
+  }
+  IntensiveRoseLaney = true
+  MonthlyBronzeFredrika = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "IntensiveRoseLaney"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

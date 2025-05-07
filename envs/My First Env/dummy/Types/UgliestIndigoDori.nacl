@@ -1,0 +1,50 @@
+type dummy.UgliestIndigoDori {
+  annotations {
+    dummy.OutrageousApricotDelia PersonalApricotAllsun {
+    }
+    json VerticalIndigoCindee {
+    }
+    number ColonialAmaranthBryna {
+    }
+    string UglySilverHynda {
+    }
+    hidden_boolean GothicScarletMartie {
+    }
+    json ImpossibleAmberGeorgianne {
+    }
+  }
+  json FatalCoffeeHildegaard {
+    _hidden_value = true
+  }
+  string SkilledPinkLana {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ElectronicPurpleRiannon {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ReligiousBlueJanenna {
+    _hidden_value = true
+  }
+  PersonalApricotAllsun = 571
+  VerticalIndigoCindee = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ColonialAmaranthBryna = 286
+  UglySilverHynda = "What creature is smarter than a talking parrot? A spelling bee."
+  ImpossibleAmberGeorgianne = "Why didnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ElectronicPurpleRiannon"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ColonialAmaranthBryna"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

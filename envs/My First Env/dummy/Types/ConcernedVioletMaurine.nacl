@@ -1,0 +1,76 @@
+type dummy.ConcernedVioletMaurine {
+  annotations {
+    hidden_boolean PhysicalMoccasinElisha {
+    }
+    dummy.DEFAULT PersistentLavenderMelody {
+    }
+    boolean SpecificAmberTrista {
+    }
+    string BoilingPurpleTerza {
+    }
+    json ColossalGoldSindee {
+    }
+    serviceid DefeatedYellowSelina {
+    }
+    json MoaningBlackDyanne {
+    }
+  }
+  boolean EmbarrassingTealHildagard {
+    _hidden_value = true
+  }
+  serviceid MelodicTealMasha {
+    _hidden_value = true
+  }
+  boolean ProfoundAzureGwenette {
+    _hidden_value = true
+  }
+  boolean AttractiveIvoryFifi {
+    _hidden_value = true
+  }
+  string ShyGrayMadelina {
+    _hidden_value = true
+  }
+  serviceid BottomMoccasinEsma {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MuddyMagentaLulu {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExcessGreenJaimie {
+    _hidden_value = true
+  }
+  string NoblePinkTrix {
+    _hidden_value = true
+  }
+  serviceid InjuredRedAngelita {
+    _hidden_value = true
+  }
+  PersistentLavenderMelody = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  SpecificAmberTrista = false
+  BoilingPurpleTerza = "To be Frank, I'd have to change my name."
+  ColossalGoldSindee = "Dad Im hungry  Hi hungry Im dad"
+  DefeatedYellowSelina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  MoaningBlackDyanne = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ShyGrayMadelina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "EmbarrassingTealHildagard"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ColossalGoldSindee"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

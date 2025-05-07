@@ -1,0 +1,39 @@
+type dummy.GreatBronzeZaneta {
+  annotations {
+    json VividGrayEaster {
+    }
+    hidden_boolean VerbalAmethystPollyanna {
+    }
+    serviceid_number MeanAzureGloriana {
+    }
+    number EverydayYellowGabrielle {
+    }
+    serviceid_number DefeatedPinkDiena {
+    }
+    serviceid_number AtomicYellowTabbatha {
+    }
+  }
+  serviceid_number GiganticLimeJacky {
+    _hidden_value = true
+  }
+  serviceid_number MainScarletDore {
+    _hidden_value = true
+  }
+  serviceid_number VividCoffeeRegine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT JointYellowHelsa {
+    _hidden_value = true
+  }
+  hidden_boolean DelightfulGrayJennilee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  VividGrayEaster = "What creature is smarter than a talking parrot? A spelling bee."
+  MeanAzureGloriana = 515
+  EverydayYellowGabrielle = 882
+  DefeatedPinkDiena = 462
+  AtomicYellowTabbatha = 591
+  _hidden_value = true
+}

@@ -1,0 +1,77 @@
+type dummy.DetailedAquaIsabelle {
+  annotations {
+    serviceid_number DrivingCrimsonLottie {
+    }
+    dummy.MaleVioletLari PracticalBlushJulietta {
+    }
+    dummy.RudeVioletAthena LengthyChocolateKrystle {
+    }
+    hidden_boolean SurprisedBronzeJoleen {
+    }
+    serviceid_number SexualBlueRahal {
+    }
+    dummy.FederalSalmonLotty PopularAmethystElinore {
+    }
+    serviceid_number LinguisticEmeraldWenona {
+    }
+    serviceid_number PurringFuchsiaKimmy {
+    }
+    json PresidentialBlushPatti {
+    }
+    serviceid MushyTomatoTerrye {
+    }
+    dummy.EthnicSilverLorelei ConcernedJadeAbagael {
+    }
+    boolean AloneBlackAnthe {
+    }
+    hidden_boolean IndependentPeachCrystie {
+    }
+    boolean SubsequentTealCorliss {
+    }
+    serviceid_number CloseYellowVirgie {
+    }
+    dummy.CombinedCyanNatasha LimitedSilverHarriette {
+    }
+    hidden_boolean DifferentRedKaila {
+    }
+    boolean FrightenedSilverJean {
+    }
+    hidden_boolean ExperimentalMoccasinJacynth {
+    }
+  }
+  DrivingCrimsonLottie = 682
+  PracticalBlushJulietta = false
+  SexualBlueRahal = 522
+  LinguisticEmeraldWenona = 949
+  PurringFuchsiaKimmy = 967
+  PresidentialBlushPatti = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MushyTomatoTerrye = "To be Frank, I'd have to change my name."
+  AloneBlackAnthe = false
+  SubsequentTealCorliss = true
+  CloseYellowVirgie = 78
+  LimitedSilverHarriette = dummy.ColdLavenderJewel
+  FrightenedSilverJean = false
+  _self_important_values = [
+    {
+      value = "LengthyChocolateKrystle"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LimitedSilverHarriette"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LinguisticEmeraldWenona"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ConcernedJadeAbagael"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "DetailedAquaIsabelle_alias"
+}

@@ -1,0 +1,64 @@
+type dummy.DisastrousMaroonTerrye is number {
+  annotations {
+    json ElectricPlumCele {
+    }
+    serviceid MiniatureYellowFlossi {
+    }
+    boolean IsolatedOrangeSusanne {
+    }
+    serviceid WellLavenderBernete {
+    }
+    json ExtraordinaryGrayJuditha {
+    }
+    boolean NetSilverMei {
+    }
+    boolean GoldenTurquoiseAdelaida {
+    }
+    hidden_boolean AmbitiousPurpleAmie {
+    }
+    serviceid PoliticalRoseJeniece {
+    }
+    hidden_boolean EnviousGrayLetta {
+    }
+    hidden_boolean OddMaroonMelantha {
+    }
+    boolean OutrageousSapphireLyda {
+    }
+    boolean NumerousOrangeBrietta {
+    }
+    serviceid_number RemarkableTealBetty {
+    }
+    boolean PreviousBrownHelsa {
+    }
+    number SimpleAquamarineRee {
+    }
+    number LengthyLavenderRosabel {
+    }
+    hidden_boolean SlimyAquamarineSeana {
+    }
+    boolean BrainySalmonVale {
+    }
+    hidden_boolean WetPlumLisabeth {
+    }
+    hidden_boolean FunnyIndigoKeri {
+    }
+    serviceid AccessibleCrimsonJessica {
+    }
+  }
+  ElectricPlumCele = "To be Frank, I'd have to change my name."
+  MiniatureYellowFlossi = "Im only familiar with 25 letters in the English language. I dont know why."
+  IsolatedOrangeSusanne = true
+  WellLavenderBernete = "How come the stadium got hot after the game? Because all of the fans left."
+  ExtraordinaryGrayJuditha = "What do you call two barracuda fish?  A Pairacuda!"
+  NetSilverMei = true
+  GoldenTurquoiseAdelaida = false
+  PoliticalRoseJeniece = "Why didnt the skeleton cross the road? Because he had no guts."
+  OutrageousSapphireLyda = true
+  NumerousOrangeBrietta = false
+  RemarkableTealBetty = 271
+  PreviousBrownHelsa = false
+  SimpleAquamarineRee = 367
+  LengthyLavenderRosabel = 312
+  BrainySalmonVale = false
+  AccessibleCrimsonJessica = "What do you do on a remote island? Try and find the TV island it belongs to."
+}

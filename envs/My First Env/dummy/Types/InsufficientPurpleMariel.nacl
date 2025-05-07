@@ -1,0 +1,60 @@
+type dummy.InsufficientPurpleMariel {
+  annotations {
+    json InterestedTanBernete {
+    }
+    json InclinedMaroonTamera {
+    }
+    string LovelyLimeMelania {
+    }
+    hidden_boolean ThirstyAmberMable {
+    }
+    json SparklingOliveDorene {
+    }
+  }
+  boolean InsufficientSalmonDavita {
+    _hidden_value = true
+  }
+  dummy.DelightedTealLynna CriminalOliveTonia {
+    _hidden_value = true
+  }
+  number ZonalSilverMarcelia {
+    _hidden_value = true
+  }
+  boolean CruelSilverMommy {
+    _hidden_value = true
+  }
+  dummy.DEFAULT LtdWhiteLorianna {
+    _hidden_value = true
+  }
+  json NormalSalmonCelie {
+    _hidden_value = true
+  }
+  serviceid VividBronzeFianna {
+    _hidden_value = true
+  }
+  hidden_boolean RacialMaroonVirgie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT PresentAmberMelly {
+    _hidden_value = true
+  }
+  InterestedTanBernete = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  InclinedMaroonTamera = "What do you call two barracuda fish?  A Pairacuda!"
+  LovelyLimeMelania = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SparklingOliveDorene = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CriminalOliveTonia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PresentAmberMelly"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,35 @@
+type dummy.LimitedIndigoBlisse {
+  annotations {
+    string WrongPurpleCassandra {
+    }
+    serviceid_number OppositeBlueEba {
+    }
+    boolean CivilianBlueLinnea {
+    }
+    hidden_boolean WickedCopperClarette {
+    }
+    serviceid_number RivalWhiteNady {
+    }
+    string VoicelessTomatoAdara {
+    }
+  }
+  boolean StormyAmethystAlysa {
+    _hidden_value = true
+  }
+  string ImportantJadeCaitlin {
+    _hidden_value = true
+  }
+  WrongPurpleCassandra = "Slept like a log last night  woke up in the fireplace."
+  OppositeBlueEba = 262
+  CivilianBlueLinnea = true
+  RivalWhiteNady = 417
+  VoicelessTomatoAdara = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "WickedCopperClarette"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,44 @@
+type dummy.AttractiveMoccasinZorine {
+  annotations {
+    number MisleadingEmeraldSusann {
+    }
+    serviceid_number WarmIvoryDaniella {
+    }
+    boolean AestheticIvoryNichole {
+    }
+    hidden_boolean MistyIvoryHestia {
+    }
+    hidden_boolean DizzyGraySophia {
+    }
+    dummy.NeighbouringGrayGusty UnawareLavenderBibi {
+    }
+    json MagicScarletBev {
+    }
+  }
+  hidden_boolean VisualSilverJemimah {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid QuixoticTealCollen {
+    _hidden_value = true
+  }
+  string InitialIvoryLita {
+    _hidden_value = true
+  }
+  string WrittenBlushBianka {
+    _hidden_value = true
+  }
+  number SilkyTealMureil {
+    _hidden_value = true
+  }
+  serviceid_number DreadfulAmethystDorthy {
+    _hidden_value = true
+  }
+  MisleadingEmeraldSusann = 832
+  WarmIvoryDaniella = 499
+  AestheticIvoryNichole = true
+  UnawareLavenderBibi = 482
+  MagicScarletBev = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

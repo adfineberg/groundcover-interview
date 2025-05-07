@@ -1,0 +1,51 @@
+type dummy.OutsideHarlequinLayne {
+  annotations {
+    json AdvancedSalmonEugenie {
+    }
+    serviceid YappySapphireMadeleine {
+    }
+    number ColdAmaranthBernelle {
+    }
+    string ShockedBrownCeleste {
+    }
+    boolean EmptyCoralRandee {
+    }
+  }
+  number AsleepOrangeStaci {
+    _hidden_value = true
+  }
+  hidden_boolean DefiantHarlequinVerene {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number TechnologicalGoldMerilee {
+    _hidden_value = true
+  }
+  serviceid_number SmoggyIndigoElvira {
+    _hidden_value = true
+  }
+  serviceid_number InformalAquamarineJenelle {
+    _hidden_value = true
+  }
+  AdvancedSalmonEugenie = "Why did the kid cross the playground? To get to the other slide."
+  YappySapphireMadeleine = "Slept like a log last night  woke up in the fireplace."
+  ColdAmaranthBernelle = 493
+  ShockedBrownCeleste = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  EmptyCoralRandee = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SmoggyIndigoElvira"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "EmptyCoralRandee"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

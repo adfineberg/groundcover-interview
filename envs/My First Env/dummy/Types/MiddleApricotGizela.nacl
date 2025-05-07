@@ -1,0 +1,82 @@
+type dummy.MiddleApricotGizela {
+  annotations {
+    number MidCrimsonHelenka {
+    }
+    number DevelopedMoccasinThomasa {
+    }
+    json SpicyGrayDoria {
+    }
+    boolean ConceptualPlumTorrie {
+    }
+    serviceid_number EducationalChocolateJanelle {
+    }
+  }
+  number MilitaryBrownKasey {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SympatheticFuchsiaPeggi {
+    _hidden_value = true
+  }
+  serviceid_number UncomfortableCyanKonstanze {
+    _hidden_value = true
+  }
+  string BusyBlackCelene {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ComfortableChocolateGail {
+    _hidden_value = true
+  }
+  number ChillyVioletCarla {
+    _hidden_value = true
+  }
+  hidden_boolean NaturalTomatoAnet {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean FlyingAmethystMaggee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number SillyGoldMarjie {
+    _hidden_value = true
+  }
+  string DefiantBlushJudi {
+    _hidden_value = true
+  }
+  serviceid_number WetBlushLynne {
+    _hidden_value = true
+  }
+  json TartMagentaKaryn {
+    _hidden_value = true
+  }
+  string TopBlueDeirdre {
+    _hidden_value = true
+  }
+  string SeriousSalmonKimmie {
+    _hidden_value = true
+  }
+  serviceid_number FaintBlackKatina {
+    _hidden_value = true
+  }
+  serviceid_number BrokenGreenMadelle {
+    _hidden_value = true
+  }
+  serviceid_number ValuableGrayViolante {
+    _hidden_value = true
+  }
+  MidCrimsonHelenka = 786
+  DevelopedMoccasinThomasa = 326
+  SpicyGrayDoria = "I'll tell you what often gets over looked... garden fences."
+  ConceptualPlumTorrie = true
+  EducationalChocolateJanelle = 255
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "MidCrimsonHelenka"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

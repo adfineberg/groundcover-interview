@@ -1,0 +1,34 @@
+type dummy.FormalBlushHenka {
+  annotations {
+    dummy.DEFAULT FunnyFuchsiaAgretha {
+    }
+    number ElatedVioletAnabal {
+    }
+    string FamousCrimsonDory {
+    }
+    string GeographicalWhiteVeriee {
+    }
+    serviceid_number FollowingGrayBritni {
+    }
+  }
+  number HorizontalPlumArlee {
+    _hidden_value = true
+  }
+  serviceid NotableRoseWilona {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" ValuableBlueRoxine {
+    _hidden_value = true
+  }
+  number TightAquaTwyla {
+    _hidden_value = true
+  }
+  FunnyFuchsiaAgretha = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  ElatedVioletAnabal = 394
+  FamousCrimsonDory = "Why did the kid cross the playground? To get to the other slide."
+  GeographicalWhiteVeriee = "Why is Peter Pan always flying? Because he Neverlands."
+  FollowingGrayBritni = 75
+  _hidden_value = true
+}

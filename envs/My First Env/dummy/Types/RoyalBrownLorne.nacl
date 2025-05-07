@@ -1,0 +1,242 @@
+type dummy.RoyalBrownLorne {
+  annotations {
+    json ExoticRoseDulsea {
+    }
+    serviceid LinguisticFuchsiaWylma {
+    }
+    dummy.DEFAULT AddedEmeraldCarma {
+    }
+    boolean IntegratedMoccasinDevin {
+    }
+  }
+  hidden_boolean DearTealRenate {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number CurlyPlumMerla {
+    _hidden_value = true
+  }
+  serviceid_number ToryBlackAstra {
+    _hidden_value = true
+  }
+  serviceid_number RidiculousAmberAshia {
+    _hidden_value = true
+  }
+  serviceid RealisticMagentaMuffin {
+    _hidden_value = true
+  }
+  boolean RawAmaranthSheilakathryn {
+    _hidden_value = true
+  }
+  hidden_boolean SocialistLavenderJuana {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ComplexSilverJoell {
+    _hidden_value = true
+  }
+  number NosyBlushFifine {
+    _hidden_value = true
+  }
+  number NobleSapphireJoelle {
+    _hidden_value = true
+  }
+  boolean MobileCrimsonLorita {
+    _hidden_value = true
+  }
+  boolean FewBrownAnia {
+    _hidden_value = true
+  }
+  number ElectricalBlushMechelle {
+    _hidden_value = true
+  }
+  serviceid_number BlindMaroonAvie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT WillowyMaroonDdene {
+    _hidden_value = true
+  }
+  json OldLimeGillan {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SunnyOrangeRosemonde {
+    _hidden_value = true
+  }
+  serviceid_number SecondaryGrayGae {
+    _hidden_value = true
+  }
+  hidden_boolean RealisticCrimsonNorine {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string LinearHarlequinCherye {
+    _hidden_value = true
+  }
+  serviceid WearyTomatoValentina {
+    _hidden_value = true
+  }
+  number TiredBlackMarjie {
+    _hidden_value = true
+  }
+  number WilfulPeachIngaberg {
+    _hidden_value = true
+  }
+  serviceid_number DeafeningTomatoMarna {
+    _hidden_value = true
+  }
+  number OptimisticAmaranthCandy {
+    _hidden_value = true
+  }
+  json UnablePlumRosella {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" FrontOrangeKali {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SymbolicPurpleNydia {
+    _hidden_value = true
+  }
+  number SatisfactoryBronzeChrysa {
+    _hidden_value = true
+  }
+  "List<boolean>" ExtraordinaryJadeUrsala {
+    _hidden_value = true
+  }
+  json CostlyBeigeEda {
+    _hidden_value = true
+  }
+  serviceid CooingAmberSharai {
+    _hidden_value = true
+  }
+  string CasualCoralOla {
+    _hidden_value = true
+  }
+  number LikeWhiteEllynn {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" RaspyMoccasinTim {
+    _hidden_value = true
+  }
+  serviceid_number RecentJadeRachael {
+    _hidden_value = true
+  }
+  hidden_boolean MolecularCoralPeta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number DomesticApricotGiulia {
+    _hidden_value = true
+  }
+  number ForeignAzureKatinka {
+    _hidden_value = true
+  }
+  string SymbolicGreenPhaedra {
+    _hidden_value = true
+  }
+  serviceid_number RemoteCoffeeCordie {
+    _hidden_value = true
+  }
+  serviceid WidespreadPlumJere {
+    _hidden_value = true
+  }
+  json BetterScarletDebbie {
+    _hidden_value = true
+  }
+  ExoticRoseDulsea = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  LinguisticFuchsiaWylma = "Did you know that protons have mass? I didn't even know they were catholic."
+  AddedEmeraldCarma = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  IntegratedMoccasinDevin = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DeafeningTomatoMarna"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BlindMaroonAvie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "LinearHarlequinCherye"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CooingAmberSharai"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CurlyPlumMerla"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CostlyBeigeEda"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "OptimisticAmaranthCandy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "TiredBlackMarjie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RecentJadeRachael"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ElectricalBlushMechelle"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DomesticApricotGiulia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "OldLimeGillan"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RemoteCoffeeCordie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "WillowyMaroonDdene"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RawAmaranthSheilakathryn"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "IntegratedMoccasinDevin"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

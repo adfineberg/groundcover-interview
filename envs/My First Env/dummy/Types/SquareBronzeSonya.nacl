@@ -1,0 +1,73 @@
+type dummy.SquareBronzeSonya {
+  annotations {
+    number RegionalBlackMadelin {
+    }
+    json HeavyPinkMariam {
+    }
+    number InquisitiveIndigoBellina {
+    }
+    hidden_boolean FlatSapphireAshia {
+    }
+    serviceid_number SelectedRoseDolley {
+    }
+  }
+  boolean UncomfortableSapphireArlen {
+    _hidden_value = true
+  }
+  hidden_boolean DualFuchsiaDemeter {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<serviceid>" TragicMagentaLetty {
+    _hidden_value = true
+  }
+  serviceid FuzzySapphireRobbin {
+    _hidden_value = true
+  }
+  hidden_boolean HighAquaTybi {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT EquivalentFuchsiaMahalia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT EmpiricalBronzeShea {
+    _hidden_value = true
+  }
+  serviceid NobleJadeKaye {
+    _hidden_value = true
+  }
+  hidden_boolean VariousGreenAllsun {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT IncreasedHarlequinAmalie {
+    _hidden_value = true
+  }
+  string ProperPinkKit {
+    _hidden_value = true
+  }
+  string WrongLavenderNicolina {
+    _hidden_value = true
+  }
+  RegionalBlackMadelin = 143
+  HeavyPinkMariam = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  InquisitiveIndigoBellina = 4
+  SelectedRoseDolley = 137
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DualFuchsiaDemeter"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HighAquaTybi"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

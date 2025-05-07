@@ -1,0 +1,103 @@
+type dummy.UnsightlyCoffeeDesiri {
+  annotations {
+    serviceid_number MereVioletCookie {
+    }
+    hidden_boolean MiniatureMagentaCharo {
+    }
+    serviceid InappropriateMoccasinLianne {
+    }
+    boolean ProperCyanTandy {
+    }
+    boolean RepresentativeOrangeCassy {
+    }
+    dummy.DEFAULT SpatialMoccasinNatty {
+    }
+    dummy.DEFAULT AwareWhiteCaty {
+    }
+    dummy.NervousCyanBlisse DistinguishedApricotLucina {
+    }
+  }
+  serviceid GlobalGrayShalne {
+    _hidden_value = true
+  }
+  boolean LinearTanPhillis {
+    _hidden_value = true
+  }
+  json SatisfiedIndigoDebbi {
+    _hidden_value = true
+  }
+  dummy.MathematicalLavenderUlrica ExtraordinaryCopperSheela {
+    WanderingJadeAnestassia = "A steak pun is a rare medium well done."
+    ContinuousPurpleAaren = "Why did the tomato blush? Because it saw the salad dressing."
+    SeriousTomatoMaurine = 865
+    PainfulAmethystKrista = 893
+    BlushingJadeRici = 223
+    SelectiveEmeraldBathsheba = 338
+    EffectiveTanKathye = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    CheerfulAquaAdda = true
+    CommercialSapphireLeilah = 998
+    GrumpySilverWilly = 984
+    GrubbyPinkNanice = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    AboveSapphireCrysta = 603
+    InevitablePeachSal = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  hidden_boolean RapidGoldAstrid {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SadApricotKoralle {
+    _hidden_value = true
+  }
+  "List<boolean>" AdvisoryEmeraldMarianne {
+    _hidden_value = true
+  }
+  serviceid_number EncouragingAmberSigrid {
+    _hidden_value = true
+  }
+  boolean BrokenGreenMarya {
+    _hidden_value = true
+  }
+  serviceid MarineCoffeePamelina {
+    _hidden_value = true
+  }
+  serviceid_number SignificantBrownNollie {
+    _hidden_value = true
+  }
+  number SpecialCoralHali {
+    _hidden_value = true
+  }
+  number FineAmaranthAsia {
+    _hidden_value = true
+  }
+  json InnocentGreenBert {
+    _hidden_value = true
+  }
+  MereVioletCookie = 678
+  InappropriateMoccasinLianne = "What creature is smarter than a talking parrot? A spelling bee."
+  ProperCyanTandy = true
+  RepresentativeOrangeCassy = true
+  SpatialMoccasinNatty = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  AwareWhiteCaty = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  DistinguishedApricotLucina = 100
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SignificantBrownNollie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SpatialMoccasinNatty"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,41 @@
+type dummy.SoleAmberElora {
+  annotations {
+    hidden_boolean GrotesquePlumKass {
+    }
+    json ChristianPinkMarcelle {
+    }
+    serviceid CommercialBlushMarsiella {
+    }
+    hidden_boolean EmbarrassedRoseGwen {
+    }
+    json InquisitiveCopperEmilia {
+    }
+    serviceid ArtificialPurpleElaina {
+    }
+  }
+  number MightyCoralJolynn {
+    _hidden_value = true
+  }
+  boolean UglySalmonTommie {
+    _hidden_value = true
+  }
+  hidden_boolean UpsetFuchsiaAnge {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number WeeklyMagentaBarbi {
+    _hidden_value = true
+  }
+  json MixedApricotMarabel {
+    _hidden_value = true
+  }
+  json BoldFuchsiaChristalle {
+    _hidden_value = true
+  }
+  ChristianPinkMarcelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CommercialBlushMarsiella = "Why is Peter Pan always flying? Because he Neverlands."
+  InquisitiveCopperEmilia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ArtificialPurpleElaina = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

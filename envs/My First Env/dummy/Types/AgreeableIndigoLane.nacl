@@ -1,0 +1,43 @@
+type dummy.AgreeableIndigoLane {
+  annotations {
+    serviceid_number MeltedGoldEvangeline {
+    }
+    json ReliableCoffeeCyndi {
+    }
+    serviceid_number UnchangedBronzeBarb {
+    }
+    serviceid_number WeakLimeIlene {
+    }
+  }
+  hidden_boolean OccupationalOrangeFannie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number DirtyCopperVonni {
+    _hidden_value = true
+  }
+  serviceid FatCopperGiuditta {
+    _hidden_value = true
+  }
+  string ContinentalAquaJune {
+    _hidden_value = true
+  }
+  hidden_boolean LiquidPurpleShari {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  MeltedGoldEvangeline = 767
+  ReliableCoffeeCyndi = "A steak pun is a rare medium well done."
+  UnchangedBronzeBarb = 135
+  WeakLimeIlene = 14
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "WeakLimeIlene"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

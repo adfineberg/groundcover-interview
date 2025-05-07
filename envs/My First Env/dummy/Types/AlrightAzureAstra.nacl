@@ -1,0 +1,78 @@
+type dummy.AlrightAzureAstra {
+  annotations {
+    hidden_boolean ColdFuchsiaAinslee {
+    }
+    serviceid_number CorrespondingBrownRow {
+    }
+    boolean JitteryCrimsonDreddy {
+    }
+    serviceid_number AliveApricotLissa {
+    }
+    serviceid DoubtfulSapphireSonnnie {
+    }
+  }
+  number PrimaryGoldMalissa {
+    _hidden_value = true
+  }
+  json GoverningGoldImojean {
+    _hidden_value = true
+  }
+  hidden_boolean HeavyChocolateDyana {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number SlimyEmeraldEulalie {
+    _hidden_value = true
+  }
+  json SingleFuchsiaShani {
+    _hidden_value = true
+  }
+  hidden_boolean OverallLimeHattie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string HotAmethystIdell {
+    _hidden_value = true
+  }
+  hidden_boolean InitialWhiteAnny {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  CorrespondingBrownRow = 950
+  JitteryCrimsonDreddy = true
+  AliveApricotLissa = 315
+  DoubtfulSapphireSonnnie = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HeavyChocolateDyana"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SlimyEmeraldEulalie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SingleFuchsiaShani"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DoubtfulSapphireSonnnie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ColdFuchsiaAinslee"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

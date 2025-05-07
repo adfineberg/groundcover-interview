@@ -1,0 +1,23 @@
+type dummy.OptimisticAzureFernanda {
+  annotations {
+    string WorkingRedAndromache {
+    }
+    hidden_boolean SunnyJadeLanette {
+    }
+    hidden_boolean PregnantCoffeeRamona {
+    }
+    dummy.DEFAULT DiverseAmethystOlympe {
+    }
+    string RainyFuchsiaTabatha {
+    }
+  }
+  serviceid_number JoyousBeigeLil {
+    _hidden_value = true
+  }
+  WorkingRedAndromache = "To be Frank, I'd have to change my name."
+  DiverseAmethystOlympe = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  RainyFuchsiaTabatha = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

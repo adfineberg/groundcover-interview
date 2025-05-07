@@ -1,0 +1,192 @@
+type dummy.DevelopingBronzeMisti {
+  annotations {
+    number WeeGoldFayre {
+    }
+    boolean RepresentativeSapphireGerry {
+    }
+    hidden_boolean CharmingCoffeeBria {
+    }
+    number AssistantOliveBarrie {
+    }
+  }
+  serviceid ParentalRosePru {
+    _hidden_value = true
+  }
+  hidden_boolean LegalMoccasinTiff {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<json>" ExactApricotRina {
+    _hidden_value = true
+  }
+  string JudicialPurpleVioletta {
+    _hidden_value = true
+  }
+  serviceid ImprovedHarlequinCollette {
+    _hidden_value = true
+  }
+  dummy.InformalTurquoiseFaith TemporaryVioletMarcille {
+    RottenScarletGiustina = "Whoever invented the knock-knock joke should get a no bell prize."
+    DefeatedBlushChere = "Im only familiar with 25 letters in the English language. I dont know why."
+    VoluntaryOliveAriana = "My first time using an elevator was an uplifting experience. The second time let me down."
+    YearningTomatoHedvige = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    BlushingBlushViola = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    InjuredCoralKatusha = true
+    XenaciousPlumGusty = false
+    IdealCopperSheba = 752
+    DisabledMaroonPaulina = 330
+    _hidden_value = true
+  }
+  serviceid UninterestedOliveTanhya {
+    _hidden_value = true
+  }
+  boolean AlonePurpleBobina {
+    _hidden_value = true
+  }
+  boolean WealthyCyanVonni {
+    _hidden_value = true
+  }
+  number ViolentPurpleKalila {
+    _hidden_value = true
+  }
+  serviceid PreliminaryTanCynthie {
+    _hidden_value = true
+  }
+  hidden_boolean StaleSapphireBethanne {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.AccessibleTurquoiseEssie CarefulScarletAnthiathia {
+    BrilliantMaroonBonni = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    SupposedIndigoDusty = true
+    _hidden_value = true
+  }
+  "List<serviceid_number>" QuerulousApricotMyrle {
+    _hidden_value = true
+  }
+  json FuriousApricotDaisie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RightRoseTrenna {
+    _hidden_value = true
+  }
+  hidden_boolean RegionalEmeraldKarlene {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT ShiveringCyanKristen {
+    _hidden_value = true
+  }
+  serviceid HelplessHarlequinTiena {
+    _hidden_value = true
+  }
+  serviceid_number FutureMoccasinArda {
+    _hidden_value = true
+  }
+  boolean UniformGrayMarni {
+    _hidden_value = true
+  }
+  serviceid_number DryTanIssi {
+    _hidden_value = true
+  }
+  serviceid HuskyMoccasinKirstyn {
+    _hidden_value = true
+  }
+  number VariousAquaLaverne {
+    _hidden_value = true
+  }
+  hidden_boolean YappyLimeVirginia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number FundamentalWhiteEmlynn {
+    _hidden_value = true
+  }
+  json RenewedGreenStephanie {
+    _hidden_value = true
+  }
+  number FinancialWhiteKarlie {
+    _hidden_value = true
+  }
+  boolean TremendousOliveSissie {
+    _hidden_value = true
+  }
+  serviceid_number PreferredIvoryKelli {
+    _hidden_value = true
+  }
+  hidden_boolean VoluntaryBronzeAlvera {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number MagnificentPurpleAleda {
+    _hidden_value = true
+  }
+  json ComingHarlequinBrooke {
+    _hidden_value = true
+  }
+  boolean UgliestIndigoDorelle {
+    _hidden_value = true
+  }
+  dummy.JustBeigeShaylynn NastyOliveWinonah {
+    FreshAquamarineRubie = 969
+    RoastedGrayCammie = true
+    FavourableIndigoBritte = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    RemoteSapphireCarree = 809
+    AloneOrangeMarijo = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    DoubtfulGreenTamara = 497
+    SocialAmberLilah = 723
+    TropicalGoldAmelita = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    VulnerableAquamarineAyn = "Why is Peter Pan always flying? Because he Neverlands."
+    WorldwideMaroonVinni = "Why did the kid cross the playground? To get to the other slide."
+    ArmedOrangeSibbie = 219
+    _hidden_value = true
+  }
+  "List<json>" ScatteredIndigoTaffy {
+    _hidden_value = true
+  }
+  json FreshEmeraldCora {
+    _hidden_value = true
+  }
+  WeeGoldFayre = 983
+  RepresentativeSapphireGerry = true
+  AssistantOliveBarrie = 37
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FundamentalWhiteEmlynn"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ComingHarlequinBrooke"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "WealthyCyanVonni"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PreliminaryTanCynthie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "YappyLimeVirginia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

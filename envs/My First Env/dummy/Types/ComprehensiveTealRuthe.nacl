@@ -1,0 +1,65 @@
+type dummy.ComprehensiveTealRuthe {
+  annotations {
+    json MutualBlackTammi {
+    }
+    serviceid_number InclinedPurplePhil {
+    }
+    boolean BoringMaroonMarigold {
+    }
+    hidden_boolean ZippyIvoryVera {
+    }
+    boolean PoorBlueRonna {
+    }
+  }
+  "Map<serviceid_number>" MarriedLimeAbby {
+    _hidden_value = true
+  }
+  boolean ImprovedAmberKathy {
+    _hidden_value = true
+  }
+  string ComplexMagentaTabina {
+    _hidden_value = true
+  }
+  boolean MolecularCrimsonKathryne {
+    _hidden_value = true
+  }
+  hidden_boolean SeniorTanHatti {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json PriorAmberMelva {
+    _hidden_value = true
+  }
+  number EntitledPeachJordan {
+    _hidden_value = true
+  }
+  serviceid EnchantingPinkWillie {
+    _hidden_value = true
+  }
+  serviceid ExtraordinarySilverCara {
+    _hidden_value = true
+  }
+  boolean PartialSalmonNorri {
+    _hidden_value = true
+  }
+  MutualBlackTammi = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  InclinedPurplePhil = 846
+  BoringMaroonMarigold = true
+  PoorBlueRonna = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ComplexMagentaTabina"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "InclinedPurplePhil"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

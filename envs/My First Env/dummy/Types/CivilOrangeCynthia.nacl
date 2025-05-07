@@ -1,0 +1,54 @@
+type dummy.CivilOrangeCynthia {
+  annotations {
+    boolean HollowAmethystArlene {
+    }
+    hidden_boolean PrimaryPeachDix {
+    }
+    hidden_boolean InevitableAmberSari {
+    }
+    hidden_boolean TerribleCyanMarinna {
+    }
+  }
+  boolean UnknownTealKati {
+    _hidden_value = true
+  }
+  json IncreasingAquamarineDanella {
+    _hidden_value = true
+  }
+  serviceid SocialistSilverGenevieve {
+    _hidden_value = true
+  }
+  "List<serviceid>" PublicBlushTess {
+    _hidden_value = true
+  }
+  serviceid SuccessfulCoffeeNeysa {
+    _hidden_value = true
+  }
+  json CooperativeLimePaloma {
+    _hidden_value = true
+  }
+  boolean HealthySilverAntonietta {
+    _hidden_value = true
+  }
+  HollowAmethystArlene = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "IncreasingAquamarineDanella"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UnknownTealKati"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "TerribleCyanMarinna"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

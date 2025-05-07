@@ -1,0 +1,26 @@
+type dummy.KeyTurquoiseArdyce {
+  annotations {
+    boolean RationalChocolateBinni {
+    }
+    number WanderingBlueLissi {
+    }
+    serviceid FullPinkAmalia {
+    }
+    dummy.AcceptableAmaranthGertrudis StableSapphireCally {
+    }
+    number TameBronzeFrancine {
+    }
+    string WeakFuchsiaLayla {
+    }
+  }
+  boolean ShakyTealMerle {
+    _hidden_value = true
+  }
+  RationalChocolateBinni = false
+  WanderingBlueLissi = 592
+  FullPinkAmalia = "I'll tell you what often gets over looked... garden fences."
+  StableSapphireCally = 497
+  TameBronzeFrancine = 17
+  WeakFuchsiaLayla = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

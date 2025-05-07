@@ -1,0 +1,71 @@
+type dummy.ColorfulTanLindsey {
+  annotations {
+    hidden_boolean HighCrimsonCherilyn {
+    }
+    number UrbanYellowSherline {
+    }
+    dummy.ResultingCrimsonArdath ComfortableYellowMarti {
+    }
+    number XerothermicBlackKaia {
+    }
+    hidden_boolean LateCoffeeMyrilla {
+    }
+    string OnlyCoralDaisey {
+    }
+  }
+  boolean MeanBeigeJosselyn {
+    _hidden_value = true
+  }
+  boolean CertainYellowBilly {
+    _hidden_value = true
+  }
+  serviceid BrilliantAmethystMeaghan {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TraditionalLimeFleur {
+    _hidden_value = true
+  }
+  serviceid MotionlessPeachRikki {
+    _hidden_value = true
+  }
+  json SmartBeigeTildi {
+    _hidden_value = true
+  }
+  hidden_boolean SpicyFuchsiaCherry {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean CoherentBlackKristel {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string ExtraordinaryGrayDarci {
+    _hidden_value = true
+  }
+  number ExcessAmaranthMiguelita {
+    _hidden_value = true
+  }
+  string SlowPurpleHonoria {
+    _hidden_value = true
+  }
+  serviceid ReluctantAquamarineAudry {
+    _hidden_value = true
+  }
+  serviceid LivelyRoseEddie {
+    _hidden_value = true
+  }
+  UrbanYellowSherline = 170
+  ComfortableYellowMarti = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  XerothermicBlackKaia = 947
+  OnlyCoralDaisey = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "HighCrimsonCherilyn"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

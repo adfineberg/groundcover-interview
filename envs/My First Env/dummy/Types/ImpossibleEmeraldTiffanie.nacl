@@ -1,0 +1,92 @@
+type dummy.ImpossibleEmeraldTiffanie {
+  annotations {
+    serviceid_number RegularBrownAmeline {
+    }
+    hidden_boolean SuperiorYellowSibylle {
+    }
+    serviceid_number ResultingFuchsiaRamonda {
+    }
+    hidden_boolean ThoughtfulCopperJaine {
+    }
+    number RichAmberDeina {
+    }
+    hidden_boolean ChangingSilverBrandais {
+    }
+    hidden_boolean MinimalBrownColette {
+    }
+  }
+  dummy.DEFAULT DeepBrownEydie {
+    _hidden_value = true
+  }
+  boolean PsychiatricEmeraldJodie {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" FullPlumTamiko {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ParentalFuchsiaDulcia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number MiserableBlushKesley {
+    _hidden_value = true
+  }
+  serviceid RenewedIndigoMariel {
+    _hidden_value = true
+  }
+  hidden_boolean FitGreenPamella {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.FastVioletDaniela DeliberateOrangeRosabelle {
+    YieldingGreenRosamond = 49
+    CleverPeachEngracia = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    YtterbicTealGaylene = 137
+    YammeringPinkMarcelline = 342
+    OverwhelmingYellowKariotta = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    JuicyApricotMercie = 405
+    IntimateIvoryAnnissa = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    SpectacularMagentaMellicent = "Im only familiar with 25 letters in the English language. I dont know why."
+    ShiveringScarletMilka = 380
+    FrontChocolateLucinda = true
+    SexualGoldAlicia = 199
+    MonetaryIvoryDawna = 44
+    PoisedLavenderAndeee = "To be Frank, I'd have to change my name."
+    _hidden_value = true
+  }
+  number MinimumTealBilli {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DailyPeachBeatrice {
+    _hidden_value = true
+  }
+  number ChronicRedCyndie {
+    _hidden_value = true
+  }
+  number SolidTealLeah {
+    _hidden_value = true
+  }
+  json LexicalTanMeggi {
+    _hidden_value = true
+  }
+  hidden_boolean BalancedTanAbby {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  RegularBrownAmeline = 576
+  ResultingFuchsiaRamonda = 378
+  RichAmberDeina = 173
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PsychiatricEmeraldJodie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

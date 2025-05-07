@@ -1,0 +1,7 @@
+type dummy.AgreedRoseRobbi {
+  hidden_boolean PregnantCyanMeghann {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+}

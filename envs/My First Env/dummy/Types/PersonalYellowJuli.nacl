@@ -1,0 +1,24 @@
+type dummy.PersonalYellowJuli {
+  annotations {
+    string ShinyGoldOlimpia {
+    }
+    dummy.OutrageousApricotDelia TechnologicalScarletLorry {
+    }
+    serviceid MaleMagentaNiki {
+    }
+    string IntegratedBlushVanya {
+    }
+    hidden_boolean MusicalGreenRaeann {
+    }
+    hidden_boolean FashionableMagentaJulissa {
+    }
+  }
+  string DisappointedTurquoiseVally {
+    _hidden_value = true
+  }
+  ShinyGoldOlimpia = "Im only familiar with 25 letters in the English language. I dont know why."
+  TechnologicalScarletLorry = 595
+  MaleMagentaNiki = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  IntegratedBlushVanya = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

@@ -1,0 +1,123 @@
+type dummy.ModernCrimsonBlake {
+  annotations {
+    serviceid_number PresidentialCopperOrella {
+    }
+    hidden_boolean ToxicBlueLeeann {
+    }
+    serviceid SurroundingLavenderLeonanie {
+    }
+    serviceid_number ChemicalBrownRaychel {
+    }
+    hidden_boolean ReadyBlackSasha {
+    }
+  }
+  boolean OddMoccasinArden {
+    _hidden_value = true
+  }
+  boolean ParallelPinkSophie {
+    _hidden_value = true
+  }
+  hidden_boolean AssistantHarlequinCathy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string AnonymousBronzeDonny {
+    _hidden_value = true
+  }
+  serviceid_number LargeAmberAudi {
+    _hidden_value = true
+  }
+  serviceid FirmSalmonDonielle {
+    _hidden_value = true
+  }
+  serviceid EnchantingEmeraldDesiree {
+    _hidden_value = true
+  }
+  json ShortOrangePatrica {
+    _hidden_value = true
+  }
+  serviceid_number RisingSapphireArabele {
+    _hidden_value = true
+  }
+  hidden_boolean WateryTurquoiseMinnaminnie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number FragileAmethystDatha {
+    _hidden_value = true
+  }
+  serviceid_number CurrentGoldColleen {
+    _hidden_value = true
+  }
+  json MathematicalTealDemetra {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" SlipperyApricotBambi {
+    _hidden_value = true
+  }
+  boolean ConservativeTomatoAmalee {
+    _hidden_value = true
+  }
+  serviceid CooingCoralEvonne {
+    _hidden_value = true
+  }
+  string AgriculturalSalmonErnaline {
+    _hidden_value = true
+  }
+  number GrandBronzeBab {
+    _hidden_value = true
+  }
+  serviceid FineSalmonWallie {
+    _hidden_value = true
+  }
+  hidden_boolean WeeklyGreenCatie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  PresidentialCopperOrella = 326
+  SurroundingLavenderLeonanie = "What creature is smarter than a talking parrot? A spelling bee."
+  ChemicalBrownRaychel = 601
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "GrandBronzeBab"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EnchantingEmeraldDesiree"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FineSalmonWallie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FragileAmethystDatha"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SlipperyApricotBambi"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FirmSalmonDonielle"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ChemicalBrownRaychel"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

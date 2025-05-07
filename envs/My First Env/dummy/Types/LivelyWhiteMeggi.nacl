@@ -1,0 +1,53 @@
+type dummy.LivelyWhiteMeggi {
+  annotations {
+    serviceid_number RealisticFuchsiaEvanne {
+    }
+    serviceid_number TameBrownMaryellen {
+    }
+    serviceid_number MonetaryBrownTammie {
+    }
+    hidden_boolean RetiredWhiteCorri {
+    }
+    serviceid BloodyBlueClo {
+    }
+  }
+  boolean WidespreadPeachMarcy {
+    _hidden_value = true
+  }
+  hidden_boolean ProspectiveTurquoiseRenee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number FondRedRozina {
+    _hidden_value = true
+  }
+  boolean PureJadeHermina {
+    _hidden_value = true
+  }
+  serviceid_number PaleOrangeShelley {
+    _hidden_value = true
+  }
+  string EnviousTanOralie {
+    _hidden_value = true
+  }
+  RealisticFuchsiaEvanne = 511
+  TameBrownMaryellen = 212
+  MonetaryBrownTammie = 620
+  BloodyBlueClo = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FondRedRozina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RealisticFuchsiaEvanne"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

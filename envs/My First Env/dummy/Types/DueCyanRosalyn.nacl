@@ -1,0 +1,26 @@
+type dummy.DueCyanRosalyn {
+  annotations {
+    number PunySapphireMarnia {
+    }
+    json StraightFuchsiaKrystalle {
+    }
+    number HugeBeigeHermia {
+    }
+    serviceid WonderfulMaroonBarbie {
+    }
+    serviceid_number HumanCrimsonEleen {
+    }
+    boolean RelievedSapphireSam {
+    }
+  }
+  boolean ZygoticCoralFelicity {
+    _hidden_value = true
+  }
+  PunySapphireMarnia = 693
+  StraightFuchsiaKrystalle = "Why do birds fly south for the winter? Because it's too far to walk."
+  HugeBeigeHermia = 383
+  WonderfulMaroonBarbie = "Im only familiar with 25 letters in the English language. I dont know why."
+  HumanCrimsonEleen = 979
+  RelievedSapphireSam = true
+  _hidden_value = true
+}

@@ -1,0 +1,114 @@
+type dummy.DryAquaAleen {
+  annotations {
+    serviceid RemainingJadeMarge {
+    }
+    boolean BlankBlackLezlie {
+    }
+    string AppallingFuchsiaMargaretta {
+    }
+    boolean CrazyAmaranthCelinda {
+    }
+    boolean RulingCoffeeSerena {
+    }
+    serviceid_number FutureOliveCicily {
+    }
+    number DrunkAquaCatharine {
+    }
+    number SuitableAquaKrystle {
+    }
+    json VocalOliveFaydra {
+    }
+    string ConstitutionalApricotRobenia {
+    }
+    serviceid TeenageHarlequinKat {
+    }
+    number TraditionalEmeraldDodi {
+    }
+    dummy.CombinedCyanNatasha BizarreTurquoiseJulienne {
+    }
+    number ConfusedBlueCherrita {
+    }
+    json ProgressiveApricotKathi {
+    }
+    boolean SillyGrayDoll {
+    }
+    string DizzyWhiteMarina {
+    }
+    serviceid_number OrganicCopperHallie {
+    }
+    dummy.ClassicalApricotGae ExclusiveAmaranthLynett {
+    }
+    serviceid_number ClassicalCoralDonna {
+    }
+    dummy.AnnualPurpleRyann ChronicPurpleBrigitta {
+    }
+    number LonelyCopperBlanca {
+    }
+  }
+  RemainingJadeMarge = "What did one nut say as he chased another nut?  I'm a cashew!"
+  BlankBlackLezlie = false
+  AppallingFuchsiaMargaretta = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  CrazyAmaranthCelinda = false
+  RulingCoffeeSerena = true
+  FutureOliveCicily = 144
+  DrunkAquaCatharine = 704
+  SuitableAquaKrystle = 913
+  VocalOliveFaydra = "What creature is smarter than a talking parrot? A spelling bee."
+  ConstitutionalApricotRobenia = "To be Frank, I'd have to change my name."
+  TeenageHarlequinKat = "What do you do on a remote island? Try and find the TV island it belongs to."
+  TraditionalEmeraldDodi = 604
+  BizarreTurquoiseJulienne = dummy.CheerfulGoldMaudie
+  ConfusedBlueCherrita = 619
+  ProgressiveApricotKathi = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SillyGrayDoll = true
+  DizzyWhiteMarina = "Why is Peter Pan always flying? Because he Neverlands."
+  OrganicCopperHallie = 779
+  ClassicalCoralDonna = 258
+  ChronicPurpleBrigitta = false
+  LonelyCopperBlanca = 371
+  _important_values = [
+    {
+      value = "FatalBlackAnne"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AppallingFuchsiaMargaretta"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RemainingJadeMarge"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RulingCoffeeSerena"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LonelyCopperBlanca"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "TraditionalEmeraldDodi"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ProgressiveApricotKathi"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SillyGrayDoll"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "DryAquaAleen_alias"
+}

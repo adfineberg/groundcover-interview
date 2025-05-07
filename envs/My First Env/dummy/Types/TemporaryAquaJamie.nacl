@@ -1,0 +1,83 @@
+type dummy.TemporaryAquaJamie {
+  annotations {
+    serviceid WeakBronzeAmabelle {
+    }
+    string ImperialTealJoanne {
+    }
+    boolean WorthySilverRoda {
+    }
+    serviceid MeanFuchsiaJuana {
+    }
+    dummy.DEFAULT DistinguishedEmeraldDacey {
+    }
+  }
+  serviceid ProvincialSilverKrystalle {
+    _hidden_value = true
+  }
+  json DelightfulRoseDdene {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PoisedAmethystBambie {
+    _hidden_value = true
+  }
+  hidden_boolean CompatibleMagentaAlejandrina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SurePlumMel {
+    _hidden_value = true
+  }
+  serviceid_number SmartCyanPaulie {
+    _hidden_value = true
+  }
+  json PsychologicalLavenderElonore {
+    _hidden_value = true
+  }
+  string NakedRosePaulina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HighBlushAmelina {
+    _hidden_value = true
+  }
+  boolean ChronicSalmonThea {
+    _hidden_value = true
+  }
+  number XenialFuchsiaAndriette {
+    _hidden_value = true
+  }
+  serviceid_number LimitedSalmonHinda {
+    _hidden_value = true
+  }
+  number EarlyAzureViviana {
+    _hidden_value = true
+  }
+  serviceid_number SeriousEmeraldAnastasie {
+    _hidden_value = true
+  }
+  WeakBronzeAmabelle = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ImperialTealJoanne = "What do you do on a remote island? Try and find the TV island it belongs to."
+  WorthySilverRoda = false
+  MeanFuchsiaJuana = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DistinguishedEmeraldDacey = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ProvincialSilverKrystalle"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HighBlushAmelina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PoisedAmethystBambie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

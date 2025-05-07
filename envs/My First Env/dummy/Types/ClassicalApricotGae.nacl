@@ -1,0 +1,88 @@
+type dummy.ClassicalApricotGae {
+  annotations {
+    serviceid_number BrokenPinkMadelina {
+    }
+    hidden_boolean AbovePurpleRhoda {
+    }
+    json BoilingFuchsiaBrett {
+    }
+    boolean ExceptionalVioletTatiana {
+    }
+    number UnfairChocolateEleanore {
+    }
+    serviceid_number BigAmberYoshiko {
+    }
+  }
+  hidden_boolean SuperbPlumBobbie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number HistoricalBrownBrina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ElectoralAquaAndie {
+    _hidden_value = true
+  }
+  hidden_boolean MinorAmaranthChristabella {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number BreezyEmeraldEdin {
+    _hidden_value = true
+  }
+  string ChangingPinkBlair {
+    _hidden_value = true
+  }
+  serviceid CommonOrangeLoraine {
+    _hidden_value = true
+  }
+  serviceid DrivingIndigoElectra {
+    _hidden_value = true
+  }
+  boolean AfraidLavenderJaimie {
+    _hidden_value = true
+  }
+  hidden_boolean ExtensiveBlueShoshana {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string ConfusedAzureAmandie {
+    _hidden_value = true
+  }
+  hidden_boolean HollowBlushJasmina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<serviceid_number>" TiredBeigeMandie {
+    _hidden_value = true
+  }
+  BrokenPinkMadelina = 875
+  BoilingFuchsiaBrett = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ExceptionalVioletTatiana = false
+  UnfairChocolateEleanore = 93
+  BigAmberYoshiko = 314
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DrivingIndigoElectra"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ConfusedAzureAmandie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "BigAmberYoshiko"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

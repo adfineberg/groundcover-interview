@@ -1,0 +1,120 @@
+type dummy.EnviousMoccasinJuli {
+  annotations {
+    dummy.QualifiedHarlequinJolee WildEmeraldLizabeth {
+    }
+    dummy.DelightedVioletLiv FashionableFuchsiaCamille {
+    }
+    dummy.DEFAULT LivelyPeachMuriel {
+    }
+    string TopMoccasinFilia {
+    }
+    string IncSilverGermana {
+    }
+    hidden_boolean RuralHarlequinMisha {
+    }
+  }
+  serviceid_number FarOliveLacie {
+    _hidden_value = true
+  }
+  serviceid ScatteredWhiteSela {
+    _hidden_value = true
+  }
+  string FlatBlackDavina {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ViciousBrownPaulita {
+    _hidden_value = true
+  }
+  serviceid_number HonHarlequinLauri {
+    _hidden_value = true
+  }
+  json MoralSapphireJobi {
+    _hidden_value = true
+  }
+  serviceid_number MinimumMagentaMilena {
+    _hidden_value = true
+  }
+  string UnacceptableCrimsonCherye {
+    _hidden_value = true
+  }
+  serviceid_number MinimalTealCorene {
+    _hidden_value = true
+  }
+  string StupidYellowBobbee {
+    _hidden_value = true
+  }
+  json GrossEmeraldLisbeth {
+    _hidden_value = true
+  }
+  json CertainGreenCassie {
+    _hidden_value = true
+  }
+  string LoyalTealWilhelmine {
+    _hidden_value = true
+  }
+  "List<number>" YoungestCoralElane {
+    _hidden_value = true
+  }
+  serviceid UnpleasantLimeCharlene {
+    _hidden_value = true
+  }
+  boolean EmptyChocolateCoreen {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" DustyCrimsonSherry {
+    _hidden_value = true
+  }
+  serviceid NobleBlushMalina {
+    _hidden_value = true
+  }
+  number MainPlumIngeberg {
+    _hidden_value = true
+  }
+  serviceid PlainBlushIngrid {
+    _hidden_value = true
+  }
+  hidden_boolean GrotesqueApricotLavena {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json LatinJadeTeddi {
+    _hidden_value = true
+  }
+  boolean ThoughtfulFuchsiaHettie {
+    _hidden_value = true
+  }
+  boolean OverseasWhiteAlexandra {
+    _hidden_value = true
+  }
+  WildEmeraldLizabeth = 790
+  FashionableFuchsiaCamille = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  LivelyPeachMuriel = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  TopMoccasinFilia = "What did one nut say as he chased another nut?  I'm a cashew!"
+  IncSilverGermana = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PlainBlushIngrid"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "GrossEmeraldLisbeth"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "NobleBlushMalina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MinimumMagentaMilena"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

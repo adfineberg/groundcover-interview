@@ -1,0 +1,106 @@
+type dummy.ExuberantTealAfton {
+  annotations {
+    serviceid_number DistinguishedLimeTheresina {
+    }
+    serviceid_number AbstractEmeraldLouisa {
+    }
+    string UniqueSapphirePaula {
+    }
+    json SmoggyGoldTamara {
+    }
+    number DrabBlushAnastasia {
+    }
+    dummy.DEFAULT NormalBeigeEba {
+    }
+  }
+  serviceid MassCoralCissy {
+    _hidden_value = true
+  }
+  serviceid DevelopedCoffeeLynnet {
+    _hidden_value = true
+  }
+  serviceid ImmediateTurquoiseAundrea {
+    _hidden_value = true
+  }
+  hidden_boolean PrimeMagentaGoldarina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid TenseFuchsiaTheresina {
+    _hidden_value = true
+  }
+  string DefiantVioletAliza {
+    _hidden_value = true
+  }
+  number SupposedLimeYasmin {
+    _hidden_value = true
+  }
+  string InlandBeigePansie {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" DreadfulGoldKimmie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DisastrousMaroonTerrye UnwillingBlueVerile {
+    ElectricPlumCele = "Im only familiar with 25 letters in the English language. I dont know why."
+    MiniatureYellowFlossi = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    IsolatedOrangeSusanne = true
+    WellLavenderBernete = "How come the stadium got hot after the game? Because all of the fans left."
+    ExtraordinaryGrayJuditha = "What do you call two barracuda fish?  A Pairacuda!"
+    NetSilverMei = false
+    GoldenTurquoiseAdelaida = true
+    PoliticalRoseJeniece = '''
+Why is Peter Pan always flying? Because he Neverlands.
+Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+Why do birds fly south for the winter? Because it's too far to walk.
+'''
+    OutrageousSapphireLyda = true
+    NumerousOrangeBrietta = false
+    RemarkableTealBetty = 578
+    PreviousBrownHelsa = true
+    SimpleAquamarineRee = 539
+    LengthyLavenderRosabel = 983
+    BrainySalmonVale = false
+    AccessibleCrimsonJessica = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  boolean SuccessfulSilverLib {
+    _hidden_value = true
+  }
+  string NaturalPinkKath {
+    _hidden_value = true
+  }
+  string WidespreadAmethystFaina {
+    _hidden_value = true
+  }
+  string ColonialFuchsiaSari {
+    _hidden_value = true
+  }
+  string StingyAmberAshil {
+    _hidden_value = true
+  }
+  DistinguishedLimeTheresina = 756
+  AbstractEmeraldLouisa = 625
+  UniqueSapphirePaula = "Whoever invented the knock-knock joke should get a no bell prize."
+  SmoggyGoldTamara = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DrabBlushAnastasia = 707
+  NormalBeigeEba = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "InlandBeigePansie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DefiantVioletAliza"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

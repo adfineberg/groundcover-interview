@@ -1,0 +1,72 @@
+type dummy.DistantBronzeBella {
+  annotations {
+    number UniformAquaBrooks {
+    }
+    serviceid_number CriticalBlackSella {
+    }
+    dummy.ExtremeAmberGermain StuckRedYoshi {
+    }
+    serviceid StableGreenLexine {
+    }
+    string RollingGrayEve {
+    }
+    string AtomicScarletCloe {
+    }
+    boolean HistoricalBeigeJaclyn {
+    }
+    number XenialAmberBabette {
+    }
+    number WorriedPurpleTeddie {
+    }
+    string ActiveAquaLucienne {
+    }
+    hidden_boolean NuclearBronzeLisetta {
+    }
+    dummy.GreasyPinkMarian GastricCopperSheeree {
+    }
+    string SteadyWhiteBennie {
+    }
+    serviceid_number FortunateScarletLebbie {
+    }
+    serviceid PureTanAdi {
+    }
+    dummy.LogicalLimeAlethea KindIndigoGussie {
+    }
+    json PotentialMaroonMona {
+    }
+    hidden_boolean LeftEmeraldTori {
+    }
+    dummy.AnnualPurpleRyann MinisterialCoffeeNinetta {
+    }
+    string ViciousYellowIdelle {
+    }
+  }
+  UniformAquaBrooks = 403
+  CriticalBlackSella = 317
+  StableGreenLexine = "Why did the kid cross the playground? To get to the other slide."
+  RollingGrayEve = "What do you do on a remote island? Try and find the TV island it belongs to."
+  AtomicScarletCloe = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  HistoricalBeigeJaclyn = true
+  XenialAmberBabette = 568
+  WorriedPurpleTeddie = 450
+  ActiveAquaLucienne = "Why do birds fly south for the winter? Because it's too far to walk."
+  SteadyWhiteBennie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  FortunateScarletLebbie = 882
+  PureTanAdi = "Dad Im hungry  Hi hungry Im dad"
+  PotentialMaroonMona = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  MinisterialCoffeeNinetta = true
+  ViciousYellowIdelle = "What creature is smarter than a talking parrot? A spelling bee."
+  _self_important_values = [
+    {
+      value = "FortunateScarletLebbie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "StuckRedYoshi"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "DistantBronzeBella_alias"
+}

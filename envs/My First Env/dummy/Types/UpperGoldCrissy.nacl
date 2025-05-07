@@ -1,0 +1,122 @@
+type dummy.UpperGoldCrissy {
+  annotations {
+    boolean BlankYellowHetti {
+    }
+    dummy.FastVioletDaniela PrettyEmeraldGerta {
+    }
+    serviceid PersonalBronzeCatlin {
+    }
+    string MonthlyPeachDianna {
+    }
+    number ZippyAquaShirleen {
+    }
+  }
+  serviceid_number CivicTomatoKalie {
+    _hidden_value = true
+  }
+  boolean NotableCyanGisele {
+    _hidden_value = true
+  }
+  number ArbitraryAquamarineTorrie {
+    _hidden_value = true
+  }
+  serviceid SelectedAquamarinePaulita {
+    _hidden_value = true
+  }
+  string LivelyTealKonstanze {
+    _hidden_value = true
+  }
+  boolean PrincipalCopperGiulietta {
+    _hidden_value = true
+  }
+  serviceid MultiplePeachPhillis {
+    _hidden_value = true
+  }
+  number WideBlackKippy {
+    _hidden_value = true
+  }
+  string PainfulMoccasinMersey {
+    _hidden_value = true
+  }
+  serviceid SatisfiedAmberAnnabelle {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ImpressedOliveFlo {
+    _hidden_value = true
+  }
+  json MusicalTurquoiseGlynda {
+    _hidden_value = true
+  }
+  number IrrelevantPlumChery {
+    _hidden_value = true
+  }
+  string RulingTomatoCammy {
+    _hidden_value = true
+  }
+  "List<json>" DomesticBlushAmity {
+    _hidden_value = true
+  }
+  json DualRedDulcine {
+    _hidden_value = true
+  }
+  hidden_boolean InterestedSilverGay {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean RelatedApricotRodie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  BlankYellowHetti = true
+  PrettyEmeraldGerta = "Why was it called the dark ages? Because of all the knights. "
+  PersonalBronzeCatlin = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MonthlyPeachDianna = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ZippyAquaShirleen = 589
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DualRedDulcine"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "NotableCyanGisele"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RelatedApricotRodie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SelectedAquamarinePaulita"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "InterestedSilverGay"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MusicalTurquoiseGlynda"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ImpressedOliveFlo"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PersonalBronzeCatlin"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

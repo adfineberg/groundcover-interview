@@ -1,0 +1,43 @@
+type dummy.RattyOliveIlyse {
+  annotations {
+    dummy.DEFAULT CivilAzureCathy {
+    }
+    serviceid CorporateBlackClarice {
+    }
+    dummy.DEFAULT RationalPlumRobin {
+    }
+    number GleamingApricotJessalyn {
+    }
+  }
+  dummy.ViciousGoldTessi PersonalBeigeCallie {
+    YtterbicTomatoJobie = "Slept like a log last night  woke up in the fireplace."
+    FatTurquoiseKiersten = "What do you call two barracuda fish?  A Pairacuda!"
+    RelativeBlackGlennis = 728
+    SkilledCrimsonMargi = 839
+    EfficientTurquoiseRasla = 500
+    ThoroughIvoryJanette = 152
+    FineTurquoiseCorry = "How come the stadium got hot after the game? Because all of the fans left."
+    EfficientTomatoMerci = 324
+    OverwhelmingGreenStephine = "Why did the kid cross the playground? To get to the other slide."
+    UnpleasantGreenKristin = "Dad Im hungry  Hi hungry Im dad"
+    StraightforwardChocolateGermaine = 843
+    PermanentPinkOthella = false
+    _hidden_value = true
+  }
+  CivilAzureCathy = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  CorporateBlackClarice = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  RationalPlumRobin = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  GleamingApricotJessalyn = 167
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "GleamingApricotJessalyn"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

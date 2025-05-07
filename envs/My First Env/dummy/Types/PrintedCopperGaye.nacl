@@ -1,0 +1,126 @@
+type dummy.PrintedCopperGaye {
+  annotations {
+    number FrailRoseLaurene {
+    }
+    number LivingBeigeJoeann {
+    }
+    hidden_boolean IllGreenJennica {
+    }
+    string AbundantOliveNerty {
+    }
+    boolean DecisiveTanCoriss {
+    }
+  }
+  number NastyBronzeGlennis {
+    _hidden_value = true
+  }
+  serviceid InstantGrayDeni {
+    _hidden_value = true
+  }
+  serviceid_number PrecisePinkElianore {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AppropriateBrownBlanch {
+    _hidden_value = true
+  }
+  serviceid_number MentalAmaranthLea {
+    _hidden_value = true
+  }
+  dummy.ViciousGoldTessi YelpingOliveRaf {
+    YtterbicTomatoJobie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    FatTurquoiseKiersten = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RelativeBlackGlennis = 79
+    SkilledCrimsonMargi = 418
+    EfficientTurquoiseRasla = 181
+    ThoroughIvoryJanette = 772
+    FineTurquoiseCorry = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    EfficientTomatoMerci = 100
+    OverwhelmingGreenStephine = "Why was it called the dark ages? Because of all the knights. "
+    UnpleasantGreenKristin = "Why didnt the skeleton cross the road? Because he had no guts."
+    StraightforwardChocolateGermaine = 900
+    PermanentPinkOthella = true
+    _hidden_value = true
+  }
+  serviceid_number RoundCoralYolane {
+    _hidden_value = true
+  }
+  number FixedPeachFrancoise {
+    _hidden_value = true
+  }
+  json DutchHarlequinBryana {
+    _hidden_value = true
+  }
+  boolean VerbalBlushOdille {
+    _hidden_value = true
+  }
+  json ExplicitMaroonClarinda {
+    _hidden_value = true
+  }
+  serviceid_number SorryCrimsonBernardine {
+    _hidden_value = true
+  }
+  serviceid_number AbstractOliveDaphene {
+    _hidden_value = true
+  }
+  hidden_boolean VulnerableMagentaJennie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ProvincialBlackNatka {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ConceptualAquamarineKaycee {
+    _hidden_value = true
+  }
+  number GrumpyBlueElsa {
+    _hidden_value = true
+  }
+  number SatisfiedBeigeJuliana {
+    _hidden_value = true
+  }
+  dummy.MuteGrayAlexi UsefulFuchsiaKelsey {
+    ComplexGrayKerstin = 911
+    BigYellowAsia = 156
+    DreadfulGreenDagmar = "What do you call two barracuda fish?  A Pairacuda!"
+    CooperativeTomatoNora = true
+    EnviousCoffeeWallie = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    CrudeIvoryJoli = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    LuckyFuchsiaSher = "Im only familiar with 25 letters in the English language. I dont know why."
+    DiverseHarlequinKaleena = "I'll tell you what often gets over looked... garden fences."
+    AngryFuchsiaVivianne = 754
+    OnlyGreenArdella = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  serviceid WrittenAmaranthJuli {
+    _hidden_value = true
+  }
+  serviceid_number YellingAmberEsme {
+    _hidden_value = true
+  }
+  json YoungApricotDulce {
+    _hidden_value = true
+  }
+  FrailRoseLaurene = 925
+  LivingBeigeJoeann = 705
+  AbundantOliveNerty = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DecisiveTanCoriss = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AppropriateBrownBlanch"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MentalAmaranthLea"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "YoungApricotDulce"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

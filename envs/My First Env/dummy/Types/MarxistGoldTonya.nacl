@@ -1,0 +1,25 @@
+type dummy.MarxistGoldTonya {
+  annotations {
+    boolean ExcessTurquoiseConstancy {
+    }
+    serviceid ResidentialCoffeeGloria {
+    }
+    dummy.LegitimateBlushGoldie ContemporaryLimeDoro {
+    }
+    dummy.EventualSilverMerrilee VagueTomatoRandi {
+    }
+    serviceid LinguisticSapphireDolley {
+    }
+    hidden_boolean VictoriousPlumVera {
+    }
+  }
+  string CoherentBeigeNicola {
+    _hidden_value = true
+  }
+  ExcessTurquoiseConstancy = false
+  ResidentialCoffeeGloria = "To be Frank, I'd have to change my name."
+  ContemporaryLimeDoro = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  VagueTomatoRandi = true
+  LinguisticSapphireDolley = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

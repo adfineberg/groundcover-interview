@@ -1,0 +1,86 @@
+type dummy.ContemporaryLimeHedda {
+  annotations {
+    dummy.DEFAULT RevolutionaryTomatoLeilah {
+    }
+    serviceid ConsistentChocolateTanhya {
+    }
+    serviceid_number StaleOliveDelores {
+    }
+    string BurningRoseColette {
+    }
+    boolean AdjacentRedChristean {
+    }
+  }
+  dummy.DEFAULT VariableGreenRobyn {
+    _hidden_value = true
+  }
+  string CulturalGoldVenus {
+    _hidden_value = true
+  }
+  hidden_boolean AggregateIvoryDanice {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean CheapMaroonVevay {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json DeliberateYellowAdora {
+    _hidden_value = true
+  }
+  serviceid_number DemocraticBeigeChristel {
+    _hidden_value = true
+  }
+  string DetailedSapphireClarie {
+    _hidden_value = true
+  }
+  number SuccessiveRoseAlisha {
+    _hidden_value = true
+  }
+  json ReasonableAzureLetty {
+    _hidden_value = true
+  }
+  json BreakableVioletDeonne {
+    _hidden_value = true
+  }
+  json RandomApricotBobette {
+    _hidden_value = true
+  }
+  serviceid MinimalGrayLibbie {
+    _hidden_value = true
+  }
+  dummy.LegitimateBlushGoldie GivenPurpleHarriet {
+    RealisticCoffeeRoberta = "To be Frank, I'd have to change my name."
+    ConvincingJadeNorma = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  RevolutionaryTomatoLeilah = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  ConsistentChocolateTanhya = "I'll tell you what often gets over looked... garden fences."
+  StaleOliveDelores = 709
+  BurningRoseColette = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  AdjacentRedChristean = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DeliberateYellowAdora"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RandomApricotBobette"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AdjacentRedChristean"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

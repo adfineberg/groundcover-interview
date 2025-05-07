@@ -1,0 +1,63 @@
+type dummy.AloneLavenderChastity {
+  annotations {
+    number DrivingSilverAubrey {
+    }
+    hidden_boolean YoungestAmethystLorraine {
+    }
+    number YouthfulBlackMariya {
+    }
+    boolean PresentTanKary {
+    }
+    number VoluminousMoccasinDarline {
+    }
+    serviceid DiverseIndigoSylvia {
+    }
+    serviceid_number PositiveAmaranthSukey {
+    }
+  }
+  hidden_boolean ImportantTurquoiseRomonda {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number PreparedAquamarineJoan {
+    _hidden_value = true
+  }
+  serviceid_number ConstantIndigoCorabelle {
+    _hidden_value = true
+  }
+  hidden_boolean ExperiencedPlumJuline {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.EventualSilverMerrilee InnovativePinkEugine {
+    _hidden_value = true
+  }
+  DrivingSilverAubrey = 631
+  YouthfulBlackMariya = 816
+  PresentTanKary = true
+  VoluminousMoccasinDarline = 881
+  DiverseIndigoSylvia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  PositiveAmaranthSukey = 421
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ConstantIndigoCorabelle"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ExperiencedPlumJuline"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "YoungestAmethystLorraine"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,134 @@
+type dummy.MagneticGrayRow {
+  annotations {
+    string HandsomeMoccasinJosy {
+    }
+    serviceid InterestedBlackHoratia {
+    }
+    json MilitaryOliveCarolynn {
+    }
+    serviceid HandicappedWhiteTalia {
+    }
+    serviceid_number OkayLavenderWinona {
+    }
+    number DistantFuchsiaSari {
+    }
+    string OpenIvoryJacquenetta {
+    }
+  }
+  boolean FemaleTealChloe {
+    _hidden_value = true
+  }
+  string UndergroundTurquoiseCharline {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RottenOliveBeryl {
+    _hidden_value = true
+  }
+  hidden_boolean IndependentYellowYevette {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string CombinedIvoryMilissent {
+    _hidden_value = true
+  }
+  hidden_boolean SharpBlueDaveen {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json IrrelevantLavenderKorella {
+    _hidden_value = true
+  }
+  string YtterbicCopperCharmine {
+    _hidden_value = true
+  }
+  string RespectableIvoryBrittaney {
+    _hidden_value = true
+  }
+  string PleasedGreenCherilynn {
+    _hidden_value = true
+  }
+  string AfraidOrangeMame {
+    _hidden_value = true
+  }
+  boolean ReasonableLimeYetty {
+    _hidden_value = true
+  }
+  number CorporateAzureRamona {
+    _hidden_value = true
+  }
+  string GrimCyanTanhya {
+    _hidden_value = true
+  }
+  serviceid CentralGrayTiffani {
+    _hidden_value = true
+  }
+  number RegisteredSalmonCahra {
+    _hidden_value = true
+  }
+  dummy.ConsciousAquaMahalia OutdoorMaroonEmmy {
+    ComingCyanMaddi = "Did you know that protons have mass? I didn't even know they were catholic."
+    EfficientRoseAdrienne = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ConsistentBeigeTonya = 438
+    LiterarySapphireAila = true
+    SystematicAquaMead = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    RoyalIvorySal = 464
+    PreviousLavenderMignonne = false
+    AbsentAquamarineIra = false
+    AdditionalRoseAlthea = 513
+    GlamorousJadeGates = 678
+    _hidden_value = true
+  }
+  serviceid_number ElectoralBrownRikki {
+    _hidden_value = true
+  }
+  string MoralHarlequinMagdalene {
+    _hidden_value = true
+  }
+  string XerothermicIvoryCassandra {
+    _hidden_value = true
+  }
+  boolean YearningMagentaHelenelizabeth {
+    _hidden_value = true
+  }
+  serviceid_number ConceptualTealAlidia {
+    _hidden_value = true
+  }
+  json SoreApricotTammara {
+    _hidden_value = true
+  }
+  boolean LinearAquamarineLyn {
+    _hidden_value = true
+  }
+  string ChiefYellowJacquetta {
+    _hidden_value = true
+  }
+  HandsomeMoccasinJosy = "Slept like a log last night  woke up in the fireplace."
+  InterestedBlackHoratia = "Why did the tomato blush? Because it saw the salad dressing."
+  MilitaryOliveCarolynn = "A steak pun is a rare medium well done."
+  HandicappedWhiteTalia = "Im only familiar with 25 letters in the English language. I dont know why."
+  OkayLavenderWinona = 419
+  DistantFuchsiaSari = 38
+  OpenIvoryJacquenetta = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AfraidOrangeMame"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "GrimCyanTanhya"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "DistantFuchsiaSari"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

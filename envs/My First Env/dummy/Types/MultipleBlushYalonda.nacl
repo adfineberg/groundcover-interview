@@ -1,0 +1,38 @@
+type dummy.MultipleBlushYalonda {
+  annotations {
+    json RegionalAquaVivien {
+    }
+    hidden_boolean YoungGreenBlythe {
+    }
+    hidden_boolean SuccessiveRedVivienne {
+    }
+    dummy.EstablishedRoseGussie WarmSalmonKristi {
+    }
+  }
+  serviceid_number AbundantYellowLexine {
+    _hidden_value = true
+  }
+  json VitalChocolateCarlynne {
+    _hidden_value = true
+  }
+  number HonOlivePauletta {
+    _hidden_value = true
+  }
+  RegionalAquaVivien = "Dad Im hungry  Hi hungry Im dad"
+  WarmSalmonKristi = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "VitalChocolateCarlynne"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "RegionalAquaVivien"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

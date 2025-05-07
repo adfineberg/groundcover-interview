@@ -1,0 +1,79 @@
+type dummy.ElectricRoseJennie {
+  annotations {
+    string ShyAmberAnnie {
+    }
+    string ObviousHarlequinJewel {
+    }
+    dummy.SilentSalmonOlympie WealthyBlueCharyl {
+    }
+    boolean StuckBeigeLory {
+    }
+    number AnxiousMoccasinJannel {
+    }
+    json CapitalistChocolateValerye {
+    }
+    hidden_boolean RearAquaSonny {
+    }
+    string ScrawnyCyanLena {
+    }
+    serviceid GreasyAmethystZorina {
+    }
+    string DecentBrownRoseline {
+    }
+    boolean CarefulAzureLorinda {
+    }
+    string YawningPurpleAndromache {
+    }
+    serviceid FavouriteIvorySimone {
+    }
+    number CollectiveApricotAleen {
+    }
+    serviceid_number YearlingMoccasinKatherina {
+    }
+    json ResonantHarlequinHalley {
+    }
+    serviceid_number TerritorialCopperBeitris {
+    }
+    hidden_boolean FarPurpleBetty {
+    }
+    serviceid_number AboveGreenAlexine {
+    }
+    serviceid_number MonetaryAquaBess {
+    }
+    number SimpleGreenTricia {
+    }
+  }
+  ShyAmberAnnie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ObviousHarlequinJewel = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  StuckBeigeLory = false
+  AnxiousMoccasinJannel = 832
+  CapitalistChocolateValerye = "Why didnt the skeleton cross the road? Because he had no guts."
+  ScrawnyCyanLena = "Why do birds fly south for the winter? Because it's too far to walk."
+  GreasyAmethystZorina = "How come the stadium got hot after the game? Because all of the fans left."
+  DecentBrownRoseline = "Did you know that protons have mass? I didn't even know they were catholic."
+  CarefulAzureLorinda = true
+  YawningPurpleAndromache = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FavouriteIvorySimone = "Did you know that protons have mass? I didn't even know they were catholic."
+  CollectiveApricotAleen = 186
+  YearlingMoccasinKatherina = 746
+  ResonantHarlequinHalley = "My first time using an elevator was an uplifting experience. The second time let me down."
+  TerritorialCopperBeitris = 471
+  AboveGreenAlexine = 849
+  MonetaryAquaBess = 974
+  SimpleGreenTricia = 944
+  _important_values = [
+    {
+      value = "JitteryAzureLisette"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ScrawnyCyanLena"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "ElectricRoseJennie_alias"
+}

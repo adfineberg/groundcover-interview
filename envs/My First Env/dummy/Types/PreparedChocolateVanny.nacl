@@ -1,0 +1,18 @@
+type dummy.PreparedChocolateVanny is boolean {
+  annotations {
+    serviceid_number DampCrimsonDacia {
+    }
+    dummy.DEFAULT FlyingFuchsiaAlfreda {
+    }
+    serviceid ConceptualOrangeJana {
+    }
+    serviceid_number VividCyanShina {
+    }
+  }
+  DampCrimsonDacia = 17
+  FlyingFuchsiaAlfreda = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  ConceptualOrangeJana = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  VividCyanShina = 554
+}

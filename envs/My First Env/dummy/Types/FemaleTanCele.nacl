@@ -1,0 +1,159 @@
+type dummy.FemaleTanCele {
+  annotations {
+    json PriorTanGarland {
+    }
+    json FiscalApricotOliy {
+    }
+    boolean AppropriateSapphireHildagard {
+    }
+    hidden_boolean NavalRedDarelle {
+    }
+    number TenseCopperCherida {
+    }
+    boolean MinorAquaBritte {
+    }
+    serviceid_number CorrectGrayGilli {
+    }
+  }
+  boolean HissingMoccasinJoyce {
+    _hidden_value = true
+  }
+  serviceid UnexpectedApricotTiffie {
+    _hidden_value = true
+  }
+  number ParallelPurpleCorliss {
+    _hidden_value = true
+  }
+  "Map<json>" LostIvoryCordelia {
+    _hidden_value = true
+  }
+  dummy.LatinHarlequinDarbie LabourCopperBevvy {
+    UnnecessarySalmonScarlett = false
+    ElatedBlackVeronike = 135
+    SlipperySalmonDaisy = 561
+    SwiftBlushMeryl = "Dad Im hungry  Hi hungry Im dad"
+    WholeSapphireShirlee = "What did one nut say as he chased another nut?  I'm a cashew!"
+    AdditionalCrimsonPaulita = true
+    CrucialHarlequinDorri = "Did you know that protons have mass? I didn't even know they were catholic."
+    UnevenTurquoiseJodie = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    PsychologicalMaroonLetisha = "What do you call two barracuda fish?  A Pairacuda!"
+    FrozenPurpleTrula = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    CourageousPlumJane = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    HiddenMagentaRonica = "What do you call two barracuda fish?  A Pairacuda!"
+    WorthyAmethystGiorgia = "Whoever invented the knock-knock joke should get a no bell prize."
+    RichApricotEvita = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    NervousSalmonSashenka = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    TenderFuchsiaElly = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    RespectableYellowJanet = "Why did the tomato blush? Because it saw the salad dressing."
+    ChangingCoralVanni = true
+    AmusedLavenderJenine = 154
+    ExcessiveTurquoiseDorothee = 797
+    PrimitiveApricotVilma = false
+    WorthwhileIvoryShanda = 975
+    ComprehensivePurpleKerstin = "Slept like a log last night  woke up in the fireplace."
+    CorrespondingTurquoiseAdi = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  serviceid_number AmbitiousMaroonDrusi {
+    _hidden_value = true
+  }
+  hidden_boolean RacialPeachJorry {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ExcitingBlueKizzie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json CrookedPinkOtha {
+    _hidden_value = true
+  }
+  dummy.QualifiedHarlequinJolee AbsoluteMaroonTomasine {
+    ConvenientSalmonKristin = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    ArmedYellowAmeline = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    ShiveringCoffeePammy = false
+    CasualEmeraldEmilee = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  number ElegantAquaCelie {
+    _hidden_value = true
+  }
+  "Map<boolean>" ComplexGreenPhilly {
+    _hidden_value = true
+  }
+  json ElectricCoffeeJayme {
+    _hidden_value = true
+  }
+  number SatisfactoryJadeMinerva {
+    _hidden_value = true
+  }
+  json OtherOrangeLisabeth {
+    _hidden_value = true
+  }
+  serviceid_number IndividualPurpleKira {
+    _hidden_value = true
+  }
+  hidden_boolean FirmBronzeHenrietta {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number MechanicalSilverKiersten {
+    _hidden_value = true
+  }
+  serviceid_number DetailedAmethystValene {
+    _hidden_value = true
+  }
+  number AmbitiousIvoryGenevra {
+    _hidden_value = true
+  }
+  hidden_boolean LargeMoccasinRois {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number NecessarySapphireJaynell {
+    _hidden_value = true
+  }
+  PriorTanGarland = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FiscalApricotOliy = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AppropriateSapphireHildagard = true
+  TenseCopperCherida = 442
+  MinorAquaBritte = true
+  CorrectGrayGilli = 595
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MechanicalSilverKiersten"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LostIvoryCordelia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AppropriateSapphireHildagard"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PriorTanGarland"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

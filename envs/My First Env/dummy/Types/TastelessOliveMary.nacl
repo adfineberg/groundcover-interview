@@ -1,0 +1,46 @@
+type dummy.TastelessOliveMary {
+  annotations {
+    dummy.DEFAULT RemainingGreenCharmine {
+    }
+    hidden_boolean OrganisationalBronzeAshlan {
+    }
+    number SmoggyRedFarra {
+    }
+    hidden_boolean AdorableLavenderAmelina {
+    }
+    json TechnicalTomatoAlikee {
+    }
+  }
+  string StormyRedWendie {
+    _hidden_value = true
+  }
+  boolean IncreasingFuchsiaBellina {
+    _hidden_value = true
+  }
+  serviceid BareWhiteZenia {
+    _hidden_value = true
+  }
+  "List<number>" DutchCrimsonMillie {
+    _hidden_value = true
+  }
+  RemainingGreenCharmine = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  SmoggyRedFarra = 128
+  TechnicalTomatoAlikee = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "StormyRedWendie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AdorableLavenderAmelina"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

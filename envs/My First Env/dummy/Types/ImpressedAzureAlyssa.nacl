@@ -1,0 +1,40 @@
+type dummy.ImpressedAzureAlyssa {
+  annotations {
+    serviceid_number YawningPlumJosephine {
+    }
+    serviceid AdministrativeRoseRosabella {
+    }
+    boolean SmoothAquamarineWilly {
+    }
+    serviceid_number MildMaroonNorina {
+    }
+    number AbsentMagentaKatuscha {
+    }
+    dummy.DEFAULT ParliamentaryTanTrula {
+    }
+  }
+  hidden_boolean PaleCoralMaryl {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean DistinguishedJadeRobin {
+    _hidden_value = true
+  }
+  YawningPlumJosephine = 104
+  AdministrativeRoseRosabella = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SmoothAquamarineWilly = true
+  MildMaroonNorina = 249
+  AbsentMagentaKatuscha = 272
+  ParliamentaryTanTrula = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "AdministrativeRoseRosabella"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

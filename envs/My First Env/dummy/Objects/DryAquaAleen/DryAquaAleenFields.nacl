@@ -1,0 +1,75 @@
+type dummy.DryAquaAleen {
+  string GlamorousAmethystSusanna {
+  }
+  serviceid_number HomelessCoralAli {
+  }
+  number FixedMoccasinBarbaraanne {
+  }
+  string FaintAmberNicolette {
+  }
+  hidden_boolean EstablishedBlueAnnelise {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  serviceid WrongTanYolane {
+  }
+  json MatureCoralMaurise {
+  }
+  "List<json>" ConstantMaroonKaila {
+  }
+  serviceid LuckyMaroonCatlee {
+  }
+  boolean FatalBlackAnne {
+  }
+  serviceid PatientAquamarineTerrijo {
+  }
+  serviceid_number RelevantBeigeTallou {
+  }
+  serviceid LiveAquamarineCicily {
+  }
+  string DullSapphireTonie {
+  }
+  serviceid_number FreshBronzeGabriella {
+  }
+  hidden_boolean AdjacentSalmonMisti {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number YtterbicFuchsiaDana {
+  }
+  serviceid_number ManagerialSilverHedy {
+  }
+  json ContinuedWhiteDallas {
+  }
+  serviceid_number GrumpyApricotBridie {
+  }
+  string TeenagePlumStorm {
+  }
+  number FitBronzeLivvy {
+  }
+  string SelectTomatoMerrile {
+  }
+  dummy.QualifiedHarlequinJolee NavalApricotDarcy {
+    ConvenientSalmonKristin = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    ArmedYellowAmeline = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+    ShiveringCoffeePammy = false
+    CasualEmeraldEmilee = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  hidden_boolean ProminentPlumMarlie {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  json UnhappyPlumPamelina {
+  }
+  string KindLavenderNancey {
+  }
+  serviceid_number NutritiousFuchsiaNoreen {
+  }
+}

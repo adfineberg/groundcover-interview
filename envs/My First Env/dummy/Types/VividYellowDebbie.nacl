@@ -1,0 +1,63 @@
+type dummy.VividYellowDebbie {
+  annotations {
+    boolean TechnicalApricotBrittan {
+    }
+    json DarkTealLesya {
+    }
+    boolean DualAzureSharline {
+    }
+    json SheerAquaCallie {
+    }
+    hidden_boolean ColorfulCoralMadonna {
+    }
+    string SlimyScarletOndrea {
+    }
+  }
+  boolean EthnicAquaMaude {
+    _hidden_value = true
+  }
+  boolean SparePurpleCathrine {
+    _hidden_value = true
+  }
+  boolean FragileIndigoJenica {
+    _hidden_value = true
+  }
+  hidden_boolean AdequatePurpleBev {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean HilariousPeachCatriona {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number StormyBeigeLinnie {
+    _hidden_value = true
+  }
+  TechnicalApricotBrittan = false
+  DarkTealLesya = "Did you know that protons have mass? I didn't even know they were catholic."
+  DualAzureSharline = true
+  SheerAquaCallie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SlimyScarletOndrea = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "EthnicAquaMaude"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HilariousPeachCatriona"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ColorfulCoralMadonna"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

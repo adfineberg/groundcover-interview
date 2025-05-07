@@ -1,0 +1,48 @@
+type dummy.GreasyPinkMarian {
+  annotations {
+    dummy.DEFAULT StingyBlushKatharyn {
+    }
+    serviceid ProgressiveHarlequinSianna {
+    }
+    hidden_boolean RelativeAquaAddy {
+    }
+    serviceid_number DramaticHarlequinMerrie {
+    }
+    json OutdoorTurquoiseDottie {
+    }
+    serviceid CommercialIndigoCasi {
+    }
+  }
+  dummy.AcceptableAmaranthGertrudis HonGoldWendie {
+    SportingGreenRachel = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    ColorfulAmberRhetta = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    UsedLimeMia = 482
+    SharpAzureChandra = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    AnnualAquamarineAmii = true
+    UninterestedSalmonClaretta = true
+    IllTomatoKimberley = 905
+    TemporaryFuchsiaGuillema = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    MentalSalmonKori = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    CarefulBlushSaraann = 698
+    TropicalWhiteLauralee = "Why is Peter Pan always flying? Because he Neverlands."
+    PsychologicalFuchsiaAnnabal = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  StingyBlushKatharyn = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  ProgressiveHarlequinSianna = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DramaticHarlequinMerrie = 327
+  OutdoorTurquoiseDottie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  CommercialIndigoCasi = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "DramaticHarlequinMerrie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

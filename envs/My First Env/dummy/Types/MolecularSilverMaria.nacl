@@ -1,0 +1,32 @@
+type dummy.MolecularSilverMaria {
+  annotations {
+    serviceid_number SurvivingJadeDorice {
+    }
+    boolean RichBlackDavine {
+    }
+    string QuietPlumShandeigh {
+    }
+    serviceid VoluminousGreenYettie {
+    }
+  }
+  string RawFuchsiaHelene {
+    _hidden_value = true
+  }
+  SurvivingJadeDorice = 157
+  RichBlackDavine = true
+  QuietPlumShandeigh = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  VoluminousGreenYettie = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "RichBlackDavine"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "QuietPlumShandeigh"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

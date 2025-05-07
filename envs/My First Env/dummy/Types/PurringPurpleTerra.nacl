@@ -1,0 +1,22 @@
+type dummy.PurringPurpleTerra {
+  annotations {
+    json JoyousPinkMei {
+    }
+    number MinimumBlushAlessandra {
+    }
+    hidden_boolean IdealLimeMellie {
+    }
+    number LargeBlueBlondie {
+    }
+    serviceid_number ZanyPeachZola {
+    }
+  }
+  json AbleSilverMarin {
+    _hidden_value = true
+  }
+  JoyousPinkMei = "How come the stadium got hot after the game? Because all of the fans left."
+  MinimumBlushAlessandra = 731
+  LargeBlueBlondie = 408
+  ZanyPeachZola = 74
+  _hidden_value = true
+}

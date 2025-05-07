@@ -1,0 +1,94 @@
+type dummy.TypicalVioletMarybeth {
+  annotations {
+    serviceid HarshChocolateFlo {
+    }
+    hidden_boolean ExactAzureAggi {
+    }
+    number SpareFuchsiaTamqrah {
+    }
+    hidden_boolean PregnantAquaEmelita {
+    }
+    string AlternativeCopperVeronica {
+    }
+    serviceid_number AnnoyedLimeCindee {
+    }
+    boolean HungryIvoryBabbette {
+    }
+  }
+  boolean WilySapphireSonia {
+    _hidden_value = true
+  }
+  hidden_boolean PreparedMagentaAnastassia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number InsufficientBlueSasha {
+    _hidden_value = true
+  }
+  json DustyBlackChristyna {
+    _hidden_value = true
+  }
+  serviceid NecessaryChocolateSada {
+    _hidden_value = true
+  }
+  dummy.DEFAULT PatientCyanMarnie {
+    _hidden_value = true
+  }
+  boolean RemarkableCopperNedda {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" FeministMagentaMarion {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number MarinePeachCherey {
+    _hidden_value = true
+  }
+  json LeftYellowArline {
+    _hidden_value = true
+  }
+  dummy.UnhappyMagentaNorah UglyChocolateBernete {
+    EerieAmberDiandra = 71
+    ViciousIvoryNesta = 484
+    ContinuingMaroonMarika = "Did you know that protons have mass? I didn't even know they were catholic."
+    MusicalAmaranthStaci = 597
+    OverseasCyanLanette = 649
+    ArmedPeachDela = "Why do birds fly south for the winter? Because it's too far to walk."
+    LimitedFuchsiaIsahella = 195
+    GrandPlumSusann = 593
+    _hidden_value = true
+  }
+  serviceid ZonalGrayNissa {
+    _hidden_value = true
+  }
+  dummy.LegitimateBlushGoldie BottomBeigeMaureene {
+    RealisticCoffeeRoberta = "What creature is smarter than a talking parrot? A spelling bee."
+    ConvincingJadeNorma = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  string FixedLimeKitty {
+    _hidden_value = true
+  }
+  HarshChocolateFlo = "Why did the kid cross the playground? To get to the other slide."
+  SpareFuchsiaTamqrah = 314
+  AlternativeCopperVeronica = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  AnnoyedLimeCindee = 322
+  HungryIvoryBabbette = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "FeministMagentaMarion"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AlternativeCopperVeronica"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

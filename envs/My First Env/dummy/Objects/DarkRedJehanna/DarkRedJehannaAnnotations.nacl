@@ -1,0 +1,92 @@
+type dummy.DarkRedJehanna {
+  annotations {
+    hidden_boolean ElectricLavenderLibbey {
+    }
+    number MistyPeachKirstyn {
+    }
+    boolean WholeCrimsonPrissie {
+    }
+    number ImperialLavenderRita {
+    }
+    json IntellectualAmethystJuanita {
+    }
+    boolean CriticalOrangeMargarethe {
+    }
+    serviceid_number PricklyFuchsiaFreda {
+    }
+    hidden_boolean MobilePurpleRoby {
+    }
+    string RareIndigoLaurella {
+    }
+    serviceid MagneticAzureBridie {
+    }
+    serviceid RevolutionaryLimeArlen {
+    }
+    serviceid MadGoldAloysia {
+    }
+    dummy.MuteGrayAlexi CostlyMagentaBrena {
+    }
+    hidden_boolean AccurateCyanClarita {
+    }
+    number GoldenGoldBernadette {
+    }
+    serviceid_number TartCoffeeGarland {
+    }
+    hidden_boolean FastBlueKonstance {
+    }
+    string AccessibleSilverCorissa {
+    }
+    serviceid_number RisingPeachCon {
+    }
+  }
+  MistyPeachKirstyn = 924
+  WholeCrimsonPrissie = false
+  ImperialLavenderRita = 418
+  IntellectualAmethystJuanita = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  CriticalOrangeMargarethe = false
+  PricklyFuchsiaFreda = 118
+  RareIndigoLaurella = "A steak pun is a rare medium well done."
+  MagneticAzureBridie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RevolutionaryLimeArlen = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  MadGoldAloysia = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CostlyMagentaBrena = 723
+  GoldenGoldBernadette = 500
+  TartCoffeeGarland = 968
+  AccessibleSilverCorissa = "I'll tell you what often gets over looked... garden fences."
+  RisingPeachCon = 723
+  _important_values = [
+    {
+      value = "SingleOliveCoreen"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SpontaneousEmeraldFrayda"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "YummyLimeAdelle"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "RomanticTanAbbey"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "WiseBlushJayme"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "MistyPeachKirstyn"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "DarkRedJehanna_alias"
+}

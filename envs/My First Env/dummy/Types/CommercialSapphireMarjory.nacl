@@ -1,0 +1,110 @@
+type dummy.CommercialSapphireMarjory {
+  annotations {
+    serviceid_number AshamedSalmonSuzanna {
+    }
+    serviceid_number ThickCyanOfilia {
+    }
+    string HotSalmonSheryl {
+    }
+    serviceid SpotlessCoffeeNeely {
+    }
+    number ComingTealCeil {
+    }
+    number TenderBlushGuglielma {
+    }
+    string AfraidTanTarrah {
+    }
+  }
+  serviceid_number SpontaneousPeachMinette {
+    _hidden_value = true
+  }
+  serviceid ConcreteWhiteValenka {
+    _hidden_value = true
+  }
+  dummy.OutrageousApricotDelia ExactTurquoiseArielle {
+    ConvenientGoldYasmin = 218
+    OccasionalGoldSabine = 923
+    ComparableCyanAddia = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ConceptualCoffeeAngelle = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    NervousCrimsonBernice = 611
+    DeadIvoryMatilda = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    ManagerialChocolateMaddi = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    MagneticCoffeeGae = "What do you call two barracuda fish?  A Pairacuda!"
+    ConcreteApricotJordain = "Why is Peter Pan always flying? Because he Neverlands."
+    SupportingCyanAdda = 800
+    AdvancedGreenGilda = 633
+    AvailableTomatoFlorentia = 365
+    SacredLimeGeorgeta = 224
+    ComplexCoffeeNatala = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ColdAquamarineRorie = 440
+    CriticalApricotRita = false
+    UncertainApricotCorly = "To be Frank, I'd have to change my name."
+    FragileFuchsiaBeitris = 881
+    _hidden_value = true
+  }
+  number ObviousChocolateJessy {
+    _hidden_value = true
+  }
+  string SeparateGrayJolynn {
+    _hidden_value = true
+  }
+  hidden_boolean CloudyLavenderMignonne {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string SurroundingYellowBobbie {
+    _hidden_value = true
+  }
+  serviceid CivilianRedVeda {
+    _hidden_value = true
+  }
+  serviceid_number MainCrimsonCristina {
+    _hidden_value = true
+  }
+  string VividWhiteAlessandra {
+    _hidden_value = true
+  }
+  boolean IntermediateBrownSibyl {
+    _hidden_value = true
+  }
+  "Map<serviceid_number>" ScaredPeachCara {
+    _hidden_value = true
+  }
+  AshamedSalmonSuzanna = 200
+  ThickCyanOfilia = 136
+  HotSalmonSheryl = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SpotlessCoffeeNeely = "Why didnt the skeleton cross the road? Because he had no guts."
+  ComingTealCeil = 439
+  TenderBlushGuglielma = 762
+  AfraidTanTarrah = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SeparateGrayJolynn"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CloudyLavenderMignonne"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "VividWhiteAlessandra"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ComingTealCeil"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

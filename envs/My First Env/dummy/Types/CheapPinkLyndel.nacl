@@ -1,0 +1,31 @@
+type dummy.CheapPinkLyndel {
+  annotations {
+    dummy.DEFAULT MarxistAquaMargarethe {
+    }
+    hidden_boolean MixedCyanKacy {
+    }
+    serviceid MajorPlumBenni {
+    }
+    boolean SpotlessJadePerle {
+    }
+    boolean MiniatureOliveJillene {
+    }
+  }
+  json IdenticalPlumHelene {
+    _hidden_value = true
+  }
+  MarxistAquaMargarethe = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  MajorPlumBenni = "Why is Peter Pan always flying? Because he Neverlands."
+  SpotlessJadePerle = true
+  MiniatureOliveJillene = false
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "MiniatureOliveJillene"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

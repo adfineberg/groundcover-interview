@@ -1,0 +1,52 @@
+type dummy.RepresentativeYellowWally {
+  annotations {
+    string UnnecessaryFuchsiaElysee {
+    }
+    string HandicappedScarletDoralyn {
+    }
+    string CreativeAquaShane {
+    }
+    serviceid ManyAquamarineTeressa {
+    }
+    json WillowyAmaranthAva {
+    }
+    number ObedientIvoryTybie {
+    }
+  }
+  boolean FirmPeachCamile {
+    _hidden_value = true
+  }
+  "List<string>" SecretAmaranthTanhya {
+    _hidden_value = true
+  }
+  hidden_boolean ConceptualAmberDeonne {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number FaithfulWhiteBryana {
+    _hidden_value = true
+  }
+  string LegitimateTealMerissa {
+    _hidden_value = true
+  }
+  serviceid LiveLavenderShaun {
+    _hidden_value = true
+  }
+  string ModernGreenMariana {
+    _hidden_value = true
+  }
+  number IdeologicalBlackGeorgine {
+    _hidden_value = true
+  }
+  string FreshTurquoiseGiorgia {
+    _hidden_value = true
+  }
+  UnnecessaryFuchsiaElysee = "Why is Peter Pan always flying? Because he Neverlands."
+  HandicappedScarletDoralyn = "To be Frank, I'd have to change my name."
+  CreativeAquaShane = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ManyAquamarineTeressa = "Whoever invented the knock-knock joke should get a no bell prize."
+  WillowyAmaranthAva = "Why did the tomato blush? Because it saw the salad dressing."
+  ObedientIvoryTybie = 821
+  _hidden_value = true
+}

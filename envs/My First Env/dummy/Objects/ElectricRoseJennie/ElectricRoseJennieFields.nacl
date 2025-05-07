@@ -1,0 +1,63 @@
+type dummy.ElectricRoseJennie {
+  string DualOliveAriadne {
+  }
+  hidden_boolean DevelopingCoralKristien {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  boolean ExistingAquaAgnes {
+  }
+  serviceid SocialMagentaDina {
+  }
+  number CourageousGoldWylma {
+  }
+  hidden_boolean StableBlackJeanne {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  number JitteryAzureLisette {
+  }
+  json AnonymousSapphireRonni {
+  }
+  serviceid_number RepulsiveYellowKori {
+  }
+  string WilyLavenderAurea {
+  }
+  serviceid_number ChristianLavenderDani {
+  }
+  serviceid BlindSilverEmmaline {
+  }
+  serviceid_number TenderCopperEustacia {
+  }
+  json LooseMagentaTabbi {
+  }
+  dummy.OutsideHarlequinLayne SorryBlackJoyan {
+    AdvancedSalmonEugenie = "What do you do on a remote island? Try and find the TV island it belongs to."
+    YappySapphireMadeleine = "Slept like a log last night  woke up in the fireplace."
+    ColdAmaranthBernelle = 581
+    ShockedBrownCeleste = "Why did the kid cross the playground? To get to the other slide."
+    EmptyCoralRandee = true
+  }
+  string GrotesqueCoralDorothee {
+  }
+  dummy.CrazyPinkAvivah ExcitedOrangeGabriela {
+    SuperiorLavenderKissiah = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ApplicableTanElsie = true
+    AwakeBlueKarie = "Why do birds fly south for the winter? Because it's too far to walk."
+    ConsciousBlueJoelie = "I'll tell you what often gets over looked... garden fences."
+    TerribleApricotDita = 606
+  }
+  string DivineGreenBrooke {
+  }
+  serviceid PartialMaroonKandace {
+  }
+  dummy.EmotionalSilverFrayda TestyAmethystCorliss {
+    VocalAmberMyranda = "What creature is smarter than a talking parrot? A spelling bee."
+    ChiefHarlequinJessamyn = 923
+    CloseTomatoMerrie = "Whoever invented the knock-knock joke should get a no bell prize."
+    OverwhelmingBeigeKipp = "Why is Peter Pan always flying? Because he Neverlands."
+    GrimSilverAddi = true
+  }
+}

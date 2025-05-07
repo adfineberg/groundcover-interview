@@ -1,0 +1,57 @@
+type dummy.SorryCyanVinnie is string {
+  annotations {
+    serviceid HistoricAzureDorry {
+    }
+    boolean PartialBeigeLanie {
+    }
+    boolean SoundGrayJenelle {
+    }
+    json MusicalTomatoMollie {
+    }
+    serviceid_number AshamedCoralNoel {
+    }
+    string FamiliarGrayWinny {
+    }
+    dummy.DEFAULT ImportantPlumBerget {
+    }
+    serviceid_number TerribleGrayJoelie {
+    }
+    number FriendlyCoffeeJackie {
+    }
+    string RoyalBlackCarol {
+    }
+    serviceid RacialBrownDorolisa {
+    }
+    json ThickAquamarineNatalina {
+    }
+    serviceid CourageousCopperQuinta {
+    }
+    string MeanAzureFrancesca {
+    }
+    json SuperbVioletMarti {
+    }
+    serviceid RightSapphireIvory {
+    }
+    boolean DelicatePinkJulita {
+    }
+  }
+  HistoricAzureDorry = "My first time using an elevator was an uplifting experience. The second time let me down."
+  PartialBeigeLanie = false
+  SoundGrayJenelle = false
+  MusicalTomatoMollie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AshamedCoralNoel = 102
+  FamiliarGrayWinny = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ImportantPlumBerget = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  TerribleGrayJoelie = 555
+  FriendlyCoffeeJackie = 537
+  RoyalBlackCarol = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  RacialBrownDorolisa = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ThickAquamarineNatalina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CourageousCopperQuinta = "I'll tell you what often gets over looked... garden fences."
+  MeanAzureFrancesca = "Why did the kid cross the playground? To get to the other slide."
+  SuperbVioletMarti = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  RightSapphireIvory = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  DelicatePinkJulita = false
+}

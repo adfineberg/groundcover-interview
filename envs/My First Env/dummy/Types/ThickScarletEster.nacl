@@ -1,0 +1,87 @@
+type dummy.ThickScarletEster {
+  annotations {
+    boolean ResidentMagentaWendie {
+    }
+    json VividBeigeMichaelina {
+    }
+    number BewilderedPurpleMireille {
+    }
+    json CheerfulWhiteLaverna {
+    }
+    serviceid_number EvilAquamarineWillow {
+    }
+    dummy.DEFAULT SoleEmeraldTallia {
+    }
+    dummy.GeographicalOrangeShaina AccusedOrangeTasha {
+    }
+  }
+  number AdvancedWhiteNari {
+    _hidden_value = true
+  }
+  boolean AccessibleJadeRorie {
+    _hidden_value = true
+  }
+  hidden_boolean DelightfulCrimsonOneida {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ModestAquamarineCatarina {
+    _hidden_value = true
+  }
+  boolean RelatedAquaMariette {
+    _hidden_value = true
+  }
+  number SoundGrayRegan {
+    _hidden_value = true
+  }
+  number PrincipalCoralLacie {
+    _hidden_value = true
+  }
+  number TechnicalApricotJessa {
+    _hidden_value = true
+  }
+  boolean CrowdedRedJessa {
+    _hidden_value = true
+  }
+  json BadSalmonRomola {
+    _hidden_value = true
+  }
+  json GayBlackMaude {
+    _hidden_value = true
+  }
+  ResidentMagentaWendie = false
+  VividBeigeMichaelina = "Why do birds fly south for the winter? Because it's too far to walk."
+  BewilderedPurpleMireille = 297
+  CheerfulWhiteLaverna = "What do you do on a remote island? Try and find the TV island it belongs to."
+  EvilAquamarineWillow = 323
+  SoleEmeraldTallia = {
+    legit = "Dad Im hungry  Hi hungry Im dad"
+  }
+  AccusedOrangeTasha = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AdvancedWhiteNari"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RelatedAquaMariette"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SoleEmeraldTallia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "VividBeigeMichaelina"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,43 @@
+type dummy.WispyAmethystGinny {
+  annotations {
+    serviceid_number SpontaneousAmaranthMavis {
+    }
+    boolean HardHarlequinAngelia {
+    }
+    serviceid_number SureChocolateDion {
+    }
+    string CooperativeMaroonLura {
+    }
+    hidden_boolean InadequateRedSara {
+    }
+    string ConvincedCrimsonAnstice {
+    }
+  }
+  hidden_boolean HighMoccasinIdelle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string VoluntaryIndigoStephana {
+    _hidden_value = true
+  }
+  dummy.DEFAULT HugeBrownSheri {
+    _hidden_value = true
+  }
+  serviceid_number AddedSapphireRowena {
+    _hidden_value = true
+  }
+  SpontaneousAmaranthMavis = 1
+  HardHarlequinAngelia = false
+  SureChocolateDion = 398
+  CooperativeMaroonLura = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ConvincedCrimsonAnstice = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HighMoccasinIdelle"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

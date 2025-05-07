@@ -1,0 +1,45 @@
+type dummy.ClassicalGoldValenka {
+  annotations {
+    boolean ChristianYellowEvey {
+    }
+    number StructuralSapphireKarisa {
+    }
+    serviceid_number CulturalAmethystRaquel {
+    }
+    dummy.FastVioletDaniela GeneralTealChrissy {
+    }
+    json ExcessTomatoArdyce {
+    }
+    number WarmMaroonKalli {
+    }
+  }
+  serviceid FamousRedKathryn {
+    _hidden_value = true
+  }
+  hidden_boolean SympatheticJadeIngaberg {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  ChristianYellowEvey = false
+  StructuralSapphireKarisa = 898
+  CulturalAmethystRaquel = 134
+  GeneralTealChrissy = "Why do birds fly south for the winter? Because it's too far to walk."
+  ExcessTomatoArdyce = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  WarmMaroonKalli = 860
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SympatheticJadeIngaberg"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "StructuralSapphireKarisa"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

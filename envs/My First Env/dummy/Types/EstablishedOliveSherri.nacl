@@ -1,0 +1,37 @@
+type dummy.EstablishedOliveSherri {
+  annotations {
+    serviceid OrganisationalCopperWilie {
+    }
+    hidden_boolean PopularSilverMarnia {
+    }
+    serviceid_number FewPinkBonnee {
+    }
+    serviceid YearningTealEmma {
+    }
+    json GiganticBlushAnnadiana {
+    }
+  }
+  json BigEmeraldJaquelyn {
+    _hidden_value = true
+  }
+  boolean ContinentalBeigeMyrlene {
+    _hidden_value = true
+  }
+  OrganisationalCopperWilie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FewPinkBonnee = 293
+  YearningTealEmma = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  GiganticBlushAnnadiana = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "OrganisationalCopperWilie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FewPinkBonnee"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,72 @@
+type dummy.BlindAquamarineMichel {
+  annotations {
+    serviceid RottenFuchsiaMadelle {
+    }
+    serviceid_number WorriedIvoryAnnamaria {
+    }
+    serviceid SupremePinkVicky {
+    }
+    hidden_boolean LoyalPurpleChickie {
+    }
+    number ColouredPurpleDaphne {
+    }
+  }
+  json RoastedBlushMorganne {
+    _hidden_value = true
+  }
+  serviceid_number HappyRoseNoreen {
+    _hidden_value = true
+  }
+  string IntensiveBlackSheba {
+    _hidden_value = true
+  }
+  serviceid YoungestRedIsabelle {
+    _hidden_value = true
+  }
+  boolean UnwillingGreenTallou {
+    _hidden_value = true
+  }
+  serviceid CheapAquamarineCristy {
+    _hidden_value = true
+  }
+  hidden_boolean ForeignBrownDidi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean GeneticOrangeSofia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DueSalmonOndrea {
+    _hidden_value = true
+  }
+  RottenFuchsiaMadelle = "Why do birds fly south for the winter? Because it's too far to walk."
+  WorriedIvoryAnnamaria = 640
+  SupremePinkVicky = "How come the stadium got hot after the game? Because all of the fans left."
+  ColouredPurpleDaphne = 302
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HappyRoseNoreen"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "UnwillingGreenTallou"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SupremePinkVicky"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ColouredPurpleDaphne"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

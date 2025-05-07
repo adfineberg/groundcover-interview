@@ -1,0 +1,52 @@
+type dummy.AmateurMagentaKessiah {
+  annotations {
+    boolean LegalAquaSheela {
+    }
+    json AdverseAzureBatsheva {
+    }
+    serviceid SocialApricotCelestine {
+    }
+    string LabourBrownMadlen {
+    }
+    hidden_boolean OverseasIvoryOralia {
+    }
+    json MeanIndigoSimona {
+    }
+    hidden_boolean RegularCoralJermaine {
+    }
+    dummy.WitteringTomatoMufinella NavalBronzeFifine {
+    }
+  }
+  string UsualChocolateCourtnay {
+    _hidden_value = true
+  }
+  serviceid UnexpectedAmaranthGratiana {
+    _hidden_value = true
+  }
+  json WildApricotGabriellia {
+    _hidden_value = true
+  }
+  string ImpressedOliveAnya {
+    _hidden_value = true
+  }
+  boolean ZestyWhiteBetteanne {
+    _hidden_value = true
+  }
+  json EstimatedPurpleCandice {
+    _hidden_value = true
+  }
+  LegalAquaSheela = false
+  AdverseAzureBatsheva = "Why is Peter Pan always flying? Because he Neverlands."
+  SocialApricotCelestine = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  LabourBrownMadlen = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  MeanIndigoSimona = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  NavalBronzeFifine = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "UsualChocolateCourtnay"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

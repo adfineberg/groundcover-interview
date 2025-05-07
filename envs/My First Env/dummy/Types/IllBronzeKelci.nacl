@@ -1,0 +1,59 @@
+type dummy.IllBronzeKelci {
+  annotations {
+    boolean FundamentalAquamarineIrina {
+    }
+    string SuccessiveOliveDarla {
+    }
+    hidden_boolean ChangingGreenIsidora {
+    }
+    string LiveIvoryShaylyn {
+    }
+    json LinearHarlequinYettie {
+    }
+    json CurlyLimeVere {
+    }
+    string ExcitingSilverAnge {
+    }
+  }
+  string TenseBronzeArden {
+    _hidden_value = true
+  }
+  hidden_boolean ComprehensiveBlueKiele {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean AnonymousCrimsonCornie {
+    _hidden_value = true
+  }
+  hidden_boolean MultipleWhiteCarlina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json SoreTurquoiseJudi {
+    _hidden_value = true
+  }
+  serviceid_number FragileChocolateElsey {
+    _hidden_value = true
+  }
+  FundamentalAquamarineIrina = false
+  SuccessiveOliveDarla = "What do you do on a remote island? Try and find the TV island it belongs to."
+  LiveIvoryShaylyn = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  LinearHarlequinYettie = "What do you call two barracuda fish?  A Pairacuda!"
+  CurlyLimeVere = "Why did the kid cross the playground? To get to the other slide."
+  ExcitingSilverAnge = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "ChangingGreenIsidora"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "SuccessiveOliveDarla"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,75 @@
+type dummy.ReluctantPurpleGloriana {
+  annotations {
+    number BroadOrangeJonell {
+    }
+    serviceid_number ProbableScarletGarnet {
+    }
+    hidden_boolean IntimateLimeCristine {
+    }
+    dummy.DEFAULT PassiveSilverTobi {
+    }
+  }
+  boolean DesirableYellowGlad {
+    _hidden_value = true
+  }
+  json PossibleMoccasinLeonanie {
+    _hidden_value = true
+  }
+  boolean EasyOliveSharlene {
+    _hidden_value = true
+  }
+  number RelevantBlushSadie {
+    _hidden_value = true
+  }
+  string CurvedTurquoiseElizabet {
+    _hidden_value = true
+  }
+  boolean XenophobicLavenderLydia {
+    _hidden_value = true
+  }
+  json PrimeBeigeWinona {
+    _hidden_value = true
+  }
+  serviceid_number UnacceptableJadeMadelaine {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ThoroughSilverNanine {
+    _hidden_value = true
+  }
+  boolean FuzzyBrownGwenni {
+    _hidden_value = true
+  }
+  dummy.DEFAULT DustyEmeraldColleen {
+    _hidden_value = true
+  }
+  serviceid_number ComplexBronzeCindee {
+    _hidden_value = true
+  }
+  string CompactAmaranthPetronille {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" StrategicGrayNeile {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SocialWhitePenelopa {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string EvidentPinkAnastasie {
+    _hidden_value = true
+  }
+  hidden_boolean SystematicBeigeAmabelle {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  BroadOrangeJonell = 421
+  ProbableScarletGarnet = 356
+  PassiveSilverTobi = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  _hidden_value = true
+}

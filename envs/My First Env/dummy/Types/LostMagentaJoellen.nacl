@@ -1,0 +1,49 @@
+type dummy.LostMagentaJoellen {
+  annotations {
+    json NotablePinkAnnadiana {
+    }
+    string FiscalFuchsiaTracey {
+    }
+    json HorizontalSapphireNixie {
+    }
+    dummy.DEFAULT BeneficialEmeraldCyndie {
+    }
+    json PublicCopperLotty {
+    }
+    hidden_boolean CoolGoldDell {
+    }
+  }
+  number TypicalCyanFaydra {
+    _hidden_value = true
+  }
+  serviceid SpottyPinkBella {
+    _hidden_value = true
+  }
+  number StrongHarlequinKirsteni {
+    _hidden_value = true
+  }
+  number PoorScarletSilvie {
+    _hidden_value = true
+  }
+  serviceid_number IncreasingGrayCorrey {
+    _hidden_value = true
+  }
+  serviceid_number SolarApricotNatty {
+    _hidden_value = true
+  }
+  NotablePinkAnnadiana = "I'll tell you what often gets over looked... garden fences."
+  FiscalFuchsiaTracey = "A steak pun is a rare medium well done."
+  HorizontalSapphireNixie = "How come the stadium got hot after the game? Because all of the fans left."
+  BeneficialEmeraldCyndie = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  PublicCopperLotty = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "FiscalFuchsiaTracey"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

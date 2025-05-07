@@ -1,0 +1,85 @@
+type dummy.CircularMagentaConsuelo {
+  serviceid SpotlessCopperMyrtia {
+  }
+  number StingyPlumLonnie {
+  }
+  number ElegantAmethystRalina {
+  }
+  boolean EvolutionaryCoralAeriell {
+  }
+  dummy.LivingAzureLida LesserPeachDebee {
+    ProtestantPeachBirgit = "Why didnt the skeleton cross the road? Because he had no guts."
+    DustySalmonKrystle = 61
+    AliveIvoryVanny = 976
+    ManagingAquaRobena = 641
+  }
+  json FlatTealMaritsa {
+  }
+  boolean FamousBrownArdelia {
+  }
+  hidden_boolean AssociatedApricotVanna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.HighWhiteArline BasicBeigeLyndell {
+    AwfulTomatoTerry = 304
+    CapitalistWhiteDarcee = 978
+    ChristianScarletNita = 359
+    QuaintSapphireElvina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  hidden_boolean DeafBronzeAllis {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid UnusualJadeGillan {
+  }
+  hidden_boolean HonPurpleAnnabal {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  serviceid_number SpecificBlueDacy {
+  }
+  dummy.AestheticLimeGlory ForeignLimeWallie {
+    FondTurquoiseDorotea = 126
+    ConsciousSapphireMerle = "My first time using an elevator was an uplifting experience. The second time let me down."
+    EnthusiasticCrimsonPhyllida = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    SilkyTomatoMiriam = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  dummy.SadSilverElva HelpfulHarlequinSindee {
+    CommunistPinkCatina = 212
+    CulturalTealErina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    DisturbedIvoryJewelle = true
+    PsychologicalAmberEvey = "I'll tell you what often gets over looked... garden fences."
+    CloseTealMicheline = 536
+  }
+  string FollowingOrangeAbbie {
+  }
+  serviceid SurprisedVioletKaroly {
+  }
+  json MushyBlushKathleen {
+  }
+  serviceid ExplicitMoccasinClemence {
+  }
+  string RespectiveTanNonna {
+  }
+  string HotOliveOlive {
+  }
+  hidden_boolean TerribleBrownAlida {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ConstantTurquoiseSally {
+  }
+  json HurtPurpleElene {
+  }
+  serviceid_number SorryPeachClare {
+  }
+  string ConsiderableOrangeAstrid {
+  }
+}

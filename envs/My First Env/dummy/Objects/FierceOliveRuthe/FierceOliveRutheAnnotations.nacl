@@ -1,0 +1,78 @@
+type dummy.FierceOliveRuthe {
+  annotations {
+    serviceid InitialCrimsonLori {
+    }
+    string UpsetAquamarineJesse {
+    }
+    serviceid BadFuchsiaTrina {
+    }
+    boolean UncertainRoseHanni {
+    }
+    dummy.HiddenLavenderShaylyn ArtisticAmberHeath {
+    }
+    number IncreasedSapphireAurilia {
+    }
+    boolean BlankRoseRoby {
+    }
+    serviceid BusyBronzeOrel {
+    }
+    string LivelyBronzeYoshiko {
+    }
+    dummy.RoyalBrownLorne PricklyOliveGelya {
+    }
+    number ExperimentalAquaCharyl {
+    }
+    number RemoteMagentaLeah {
+    }
+    hidden_boolean MultipleWhiteMorgana {
+    }
+    number ChubbyYellowHeida {
+    }
+    serviceid_number CriticalEmeraldEstell {
+    }
+    string PricklyGrayZitella {
+    }
+    serviceid HotEmeraldAinsley {
+    }
+    serviceid EvolutionaryPurplePippy {
+    }
+  }
+  InitialCrimsonLori = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  UpsetAquamarineJesse = "How come the stadium got hot after the game? Because all of the fans left."
+  BadFuchsiaTrina = "How come the stadium got hot after the game? Because all of the fans left."
+  UncertainRoseHanni = false
+  IncreasedSapphireAurilia = 6
+  BlankRoseRoby = false
+  BusyBronzeOrel = "How come the stadium got hot after the game? Because all of the fans left."
+  LivelyBronzeYoshiko = "Why is Peter Pan always flying? Because he Neverlands."
+  ExperimentalAquaCharyl = 405
+  RemoteMagentaLeah = 73
+  ChubbyYellowHeida = 789
+  CriticalEmeraldEstell = 658
+  PricklyGrayZitella = "Why did the tomato blush? Because it saw the salad dressing."
+  HotEmeraldAinsley = "I'll tell you what often gets over looked... garden fences."
+  EvolutionaryPurplePippy = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _self_important_values = [
+    {
+      value = "EvolutionaryPurplePippy"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CriticalEmeraldEstell"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BadFuchsiaTrina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BlankRoseRoby"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "FierceOliveRuthe_alias"
+}

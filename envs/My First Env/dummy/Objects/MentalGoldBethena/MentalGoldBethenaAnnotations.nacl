@@ -1,0 +1,83 @@
+type dummy.MentalGoldBethena {
+  annotations {
+    serviceid GivenGreenAnastasie {
+    }
+    json OutsideMaroonPandora {
+    }
+    dummy.MarineGrayMyrle ResidentAquaDalenna {
+    }
+    serviceid SeniorTanJulie {
+    }
+    hidden_boolean MeltedPinkCharis {
+    }
+    hidden_boolean UnfairIndigoJojo {
+    }
+    serviceid_number NaughtyIndigoShandie {
+    }
+    number MuddyOrangeChandra {
+    }
+    string ProtectiveAzureJoycelin {
+    }
+    number ConsistentRedDanny {
+    }
+    dummy.InformalTurquoiseFaith MuteBrownDacie {
+    }
+    hidden_boolean CloseAmberElspeth {
+    }
+    serviceid EnviousPinkSaree {
+    }
+    serviceid_number FastVioletRomonda {
+    }
+    boolean ChronicAmaranthTeddi {
+    }
+    serviceid ProbableTanCandis {
+    }
+    boolean EerieRoseShandeigh {
+    }
+    string RacialEmeraldPhedra {
+    }
+    serviceid_number RegisteredVioletAlthea {
+    }
+    serviceid_number HonBlushGeneva {
+    }
+    dummy.AutomaticAmberEditha ModerateJadeTimmy {
+    }
+  }
+  GivenGreenAnastasie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  OutsideMaroonPandora = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SeniorTanJulie = "Im only familiar with 25 letters in the English language. I dont know why."
+  NaughtyIndigoShandie = 232
+  MuddyOrangeChandra = 751
+  ProtectiveAzureJoycelin = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ConsistentRedDanny = 10
+  MuteBrownDacie = false
+  EnviousPinkSaree = "To be Frank, I'd have to change my name."
+  FastVioletRomonda = 411
+  ChronicAmaranthTeddi = false
+  ProbableTanCandis = "Why didnt the skeleton cross the road? Because he had no guts."
+  EerieRoseShandeigh = true
+  RacialEmeraldPhedra = "How come the stadium got hot after the game? Because all of the fans left."
+  RegisteredVioletAlthea = 35
+  HonBlushGeneva = 71
+  ModerateJadeTimmy = 862
+  _important_values = [
+    {
+      value = "DustyPlumLorena"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "DarkGrayCoralyn"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ResidentAquaDalenna"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "MentalGoldBethena_alias"
+}

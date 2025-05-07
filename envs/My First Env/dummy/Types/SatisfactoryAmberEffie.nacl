@@ -1,0 +1,67 @@
+type dummy.SatisfactoryAmberEffie {
+  annotations {
+    serviceid GloriousMagentaCorrinne {
+    }
+    serviceid_number ZestfulWhiteValene {
+    }
+    serviceid_number RubberChocolateGilda {
+    }
+    number CivilAmaranthLouisa {
+    }
+    json EmbarrassedOrangePhil {
+    }
+    serviceid_number CrowdedBlushAbbe {
+    }
+    number MerePinkMilissent {
+    }
+  }
+  boolean ObjectiveBronzeMerilyn {
+    _hidden_value = true
+  }
+  string LikelyGoldNetti {
+    _hidden_value = true
+  }
+  string CurrentOliveNanette {
+    _hidden_value = true
+  }
+  string ForthcomingBlushPhelia {
+    _hidden_value = true
+  }
+  hidden_boolean AliveEmeraldBrittaney {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SeverePurpleAshli {
+    _hidden_value = true
+  }
+  boolean OccupationalWhiteMignonne {
+    _hidden_value = true
+  }
+  json DomesticPinkGabbi {
+    _hidden_value = true
+  }
+  serviceid_number WilfulCrimsonJeanie {
+    _hidden_value = true
+  }
+  GloriousMagentaCorrinne = "Im only familiar with 25 letters in the English language. I dont know why."
+  ZestfulWhiteValene = 300
+  RubberChocolateGilda = 318
+  CivilAmaranthLouisa = 173
+  EmbarrassedOrangePhil = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CrowdedBlushAbbe = 442
+  MerePinkMilissent = 781
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "GloriousMagentaCorrinne"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CrowdedBlushAbbe"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

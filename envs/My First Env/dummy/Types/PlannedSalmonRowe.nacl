@@ -1,0 +1,33 @@
+type dummy.PlannedSalmonRowe {
+  annotations {
+    json StableApricotAndriana {
+    }
+    serviceid ProfitableRedGillian {
+    }
+    number HeadYellowLibbey {
+    }
+    serviceid_number SurroundingBronzeDoris {
+    }
+    boolean UglyBlackDaloris {
+    }
+    string CrazyGreenArdella {
+    }
+  }
+  string WastefulFuchsiaAdina {
+    _hidden_value = true
+  }
+  StableApricotAndriana = "I'll tell you what often gets over looked... garden fences."
+  ProfitableRedGillian = "Why is Peter Pan always flying? Because he Neverlands."
+  HeadYellowLibbey = 822
+  SurroundingBronzeDoris = 885
+  UglyBlackDaloris = true
+  CrazyGreenArdella = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "SurroundingBronzeDoris"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

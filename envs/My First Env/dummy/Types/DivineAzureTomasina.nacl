@@ -1,0 +1,22 @@
+type dummy.DivineAzureTomasina {
+  annotations {
+    serviceid NativeIvoryAdeline {
+    }
+    serviceid_number GreasyBlackEvonne {
+    }
+    hidden_boolean HeadCoffeeNolana {
+    }
+    string LikeSapphireRoda {
+    }
+    json ApplicableAmberCharlotte {
+    }
+  }
+  serviceid_number VeryChocolateValerie {
+    _hidden_value = true
+  }
+  NativeIvoryAdeline = "To be Frank, I'd have to change my name."
+  GreasyBlackEvonne = 204
+  LikeSapphireRoda = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ApplicableAmberCharlotte = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

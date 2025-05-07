@@ -1,0 +1,42 @@
+type dummy.EstimatedCopperLee {
+  annotations {
+    string WrittenVioletRona {
+    }
+    serviceid_number RuralBrownSandye {
+    }
+    serviceid IllTomatoYasmeen {
+    }
+    boolean LivingPurpleGratiana {
+    }
+    dummy.DEFAULT IdealLimeLexie {
+    }
+    dummy.DEFAULT LateIndigoBren {
+    }
+  }
+  string MoralGrayBabs {
+    _hidden_value = true
+  }
+  WrittenVioletRona = "Did you know that protons have mass? I didn't even know they were catholic."
+  RuralBrownSandye = 217
+  IllTomatoYasmeen = "Why was it called the dark ages? Because of all the knights. "
+  LivingPurpleGratiana = false
+  IdealLimeLexie = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  LateIndigoBren = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "LivingPurpleGratiana"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "IdealLimeLexie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

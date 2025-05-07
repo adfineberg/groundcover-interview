@@ -1,0 +1,143 @@
+type dummy.AwakeTealDeidre {
+  annotations {
+    number MathematicalGreenCatherin {
+    }
+    serviceid_number RegisteredCoralBernita {
+    }
+    serviceid ChillyCyanKatharine {
+    }
+    boolean BoilingBeigeLorene {
+    }
+    serviceid_number CompetentCopperStepha {
+    }
+  }
+  boolean WateryAmethystLisette {
+    _hidden_value = true
+  }
+  serviceid_number TallRedRoseanna {
+    _hidden_value = true
+  }
+  boolean SubstantialIvoryMorna {
+    _hidden_value = true
+  }
+  string GentleGreenLegra {
+    _hidden_value = true
+  }
+  boolean MarriedCoffeeRozella {
+    _hidden_value = true
+  }
+  json BreezyCoffeeAustina {
+    _hidden_value = true
+  }
+  hidden_boolean BroadTealSilvana {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string PotentialBronzeConny {
+    _hidden_value = true
+  }
+  serviceid_number IncPinkCherrita {
+    _hidden_value = true
+  }
+  serviceid_number ConservationIvoryRosalind {
+    _hidden_value = true
+  }
+  serviceid_number PopularTealViviene {
+    _hidden_value = true
+  }
+  json AlliedPlumLibbey {
+    _hidden_value = true
+  }
+  string ElderlyAzureTanhya {
+    _hidden_value = true
+  }
+  hidden_boolean ModestCrimsonMichell {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json CombinedSilverLorelei {
+    _hidden_value = true
+  }
+  hidden_boolean ShaggyBlueClarabelle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid MarriedTomatoNerta {
+    _hidden_value = true
+  }
+  serviceid_number TypicalCopperFredericka {
+    _hidden_value = true
+  }
+  number RandomCoffeeLivvy {
+    _hidden_value = true
+  }
+  string YoungestAmethystJustine {
+    _hidden_value = true
+  }
+  serviceid_number WorriedAquaGermain {
+    _hidden_value = true
+  }
+  serviceid_number SquareCopperCatlee {
+    _hidden_value = true
+  }
+  hidden_boolean MarvellousAmaranthStephine {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json DecentTurquoiseHelaine {
+    _hidden_value = true
+  }
+  serviceid BlindApricotGus {
+    _hidden_value = true
+  }
+  number RulingVioletTanya {
+    _hidden_value = true
+  }
+  string EnchantingPinkReeta {
+    _hidden_value = true
+  }
+  string GloriousApricotBlythe {
+    _hidden_value = true
+  }
+  string TenderYellowKoressa {
+    _hidden_value = true
+  }
+  "List<serviceid>" WorthwhileCopperTory {
+    _hidden_value = true
+  }
+  json EmptyPinkNari {
+    _hidden_value = true
+  }
+  MathematicalGreenCatherin = 416
+  RegisteredCoralBernita = 641
+  ChillyCyanKatharine = "Whoever invented the knock-knock joke should get a no bell prize."
+  BoilingBeigeLorene = true
+  CompetentCopperStepha = 313
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SquareCopperCatlee"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "IncPinkCherrita"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "AlliedPlumLibbey"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "MarriedTomatoNerta"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

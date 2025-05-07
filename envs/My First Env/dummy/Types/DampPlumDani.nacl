@@ -1,0 +1,56 @@
+type dummy.DampPlumDani {
+  annotations {
+    serviceid FamiliarCopperKati {
+    }
+    boolean DetailedAquamarineMargalit {
+    }
+    hidden_boolean GiganticTurquoiseAurora {
+    }
+    serviceid_number MarriedAmberLorne {
+    }
+  }
+  number NoisyAquamarineMarget {
+    _hidden_value = true
+  }
+  json InadequateApricotGabey {
+    _hidden_value = true
+  }
+  hidden_boolean LonelyAzureTim {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean StrategicEmeraldDierdre {
+    _hidden_value = true
+  }
+  number SkilledGreenEnrika {
+    _hidden_value = true
+  }
+  serviceid_number MuddyCyanHerta {
+    _hidden_value = true
+  }
+  boolean RationalLavenderKathye {
+    _hidden_value = true
+  }
+  json DefiantVioletLilly {
+    _hidden_value = true
+  }
+  FamiliarCopperKati = "Why do birds fly south for the winter? Because it's too far to walk."
+  DetailedAquamarineMargalit = true
+  MarriedAmberLorne = 128
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SkilledGreenEnrika"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "MarriedAmberLorne"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

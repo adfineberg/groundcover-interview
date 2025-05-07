@@ -1,0 +1,33 @@
+type dummy.IncPurpleMarylou {
+  annotations {
+    json RealFuchsiaFredra {
+    }
+    serviceid ExplicitBeigeCinnamon {
+    }
+    dummy.ConsciousAquaMahalia EvidentSapphireOlimpia {
+    }
+    boolean ProperRedClovis {
+    }
+    string AdditionalPurpleCherise {
+    }
+    boolean ContentApricotSharline {
+    }
+  }
+  serviceid MuteOliveBrigitta {
+    _hidden_value = true
+  }
+  RealFuchsiaFredra = "A steak pun is a rare medium well done."
+  ExplicitBeigeCinnamon = "I'll tell you what often gets over looked... garden fences."
+  EvidentSapphireOlimpia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ProperRedClovis = false
+  AdditionalPurpleCherise = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ContentApricotSharline = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "RealFuchsiaFredra"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

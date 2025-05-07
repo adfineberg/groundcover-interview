@@ -1,0 +1,99 @@
+type dummy.YuckyOrangeGlennie {
+  annotations {
+    string RulingLavenderLuella {
+    }
+    number ExpensiveBronzeRonnica {
+    }
+    hidden_boolean StaticCoralAlvera {
+    }
+    json MiniatureApricotSissy {
+    }
+  }
+  serviceid_number RationalSalmonArdisj {
+    _hidden_value = true
+  }
+  hidden_boolean ExcitingJadeAurelia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean HonestCopperElaina {
+    _hidden_value = true
+  }
+  serviceid HolyPlumNara {
+    _hidden_value = true
+  }
+  serviceid_number ApplicablePeachFranny {
+    _hidden_value = true
+  }
+  string SecondaryIndigoJaynell {
+    _hidden_value = true
+  }
+  number IntelligentTurquoiseBryna {
+    _hidden_value = true
+  }
+  boolean AcceptedMoccasinClarinda {
+    _hidden_value = true
+  }
+  string PurringAmberGlad {
+    _hidden_value = true
+  }
+  boolean FuriousIndigoMeara {
+    _hidden_value = true
+  }
+  number InformalIvoryLatisha {
+    _hidden_value = true
+  }
+  boolean ExoticTanJade {
+    _hidden_value = true
+  }
+  serviceid RecentBronzeInga {
+    _hidden_value = true
+  }
+  json AgreeableBlueRonica {
+    _hidden_value = true
+  }
+  hidden_boolean GivenTanAnia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json TrickyMagentaHermia {
+    _hidden_value = true
+  }
+  serviceid FaintSilverMolli {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CostlyScarletMadlin {
+    _hidden_value = true
+  }
+  string FixedAmaranthDebera {
+    _hidden_value = true
+  }
+  RulingLavenderLuella = "Slept like a log last night  woke up in the fireplace."
+  ExpensiveBronzeRonnica = 829
+  MiniatureApricotSissy = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RecentBronzeInga"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HonestCopperElaina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ExoticTanJade"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RationalSalmonArdisj"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

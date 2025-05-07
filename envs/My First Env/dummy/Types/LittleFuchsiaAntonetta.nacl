@@ -1,0 +1,25 @@
+type dummy.LittleFuchsiaAntonetta {
+  annotations {
+    number AttractiveBlueCelesta {
+    }
+    boolean RichLavenderIsahella {
+    }
+    json StupidMoccasinNanni {
+    }
+    serviceid_number PotentialFuchsiaSherry {
+    }
+    number ParticularCoffeeMeris {
+    }
+    hidden_boolean ReliableIvoryNatalie {
+    }
+  }
+  string ConfidentCoffeeBert {
+    _hidden_value = true
+  }
+  AttractiveBlueCelesta = 331
+  RichLavenderIsahella = false
+  StupidMoccasinNanni = "What creature is smarter than a talking parrot? A spelling bee."
+  PotentialFuchsiaSherry = 252
+  ParticularCoffeeMeris = 113
+  _hidden_value = true
+}

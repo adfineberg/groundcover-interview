@@ -1,0 +1,87 @@
+type dummy.IndependentJadeTerza {
+  annotations {
+    boolean OutrageousMagentaIseabal {
+    }
+    string SuspiciousRoseHarlene {
+    }
+    number ShaggyHarlequinNerte {
+    }
+    hidden_boolean ResponsibleOrangeDaile {
+    }
+    json CheapAzureTiff {
+    }
+    dummy.SorryCyanVinnie NovelAquamarineDaile {
+    }
+  }
+  serviceid YtterbicBlushTrescha {
+    _hidden_value = true
+  }
+  serviceid ZygomorphicBlueKikelia {
+    _hidden_value = true
+  }
+  dummy.AnnualPurpleRyann OrganisationalChocolateAinslie {
+    MisleadingCyanPietra = "Why is Peter Pan always flying? Because he Neverlands."
+    DecisiveBeigeTeddi = "Whoever invented the knock-knock joke should get a no bell prize."
+    EconomicYellowErtha = false
+    OnlyBrownMoyna = {
+      legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    }
+    UpperEmeraldLaverne = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    ZygoticBeigeBiddie = false
+    AloneMaroonRonna = false
+    ConsciousEmeraldWendy = 982
+    ReducedCyanSherrie = "My first time using an elevator was an uplifting experience. The second time let me down."
+    BrightScarletLucy = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ThoroughAmberNanete = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    HardBronzeEbba = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    _hidden_value = true
+  }
+  serviceid_number MechanicalGoldJaclyn {
+    _hidden_value = true
+  }
+  string SupremeVioletGui {
+    _hidden_value = true
+  }
+  serviceid AmbitiousBlushKay {
+    _hidden_value = true
+  }
+  boolean WealthySilverLucina {
+    _hidden_value = true
+  }
+  string PartialTanBrenn {
+    _hidden_value = true
+  }
+  hidden_boolean RespectableOrangeLani {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number EntireCrimsonPegeen {
+    _hidden_value = true
+  }
+  serviceid_number MuteGreenFancie {
+    _hidden_value = true
+  }
+  OutrageousMagentaIseabal = true
+  SuspiciousRoseHarlene = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ShaggyHarlequinNerte = 431
+  CheapAzureTiff = "Slept like a log last night  woke up in the fireplace."
+  NovelAquamarineDaile = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AmbitiousBlushKay"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SuspiciousRoseHarlene"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

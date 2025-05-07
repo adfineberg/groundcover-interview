@@ -1,0 +1,53 @@
+type dummy.ChubbyAzureReina {
+  annotations {
+    json DecentBlushRivkah {
+    }
+    string TenderAquaPhaedra {
+    }
+    string TastelessAmethystAdeline {
+    }
+    number MedicalFuchsiaBeverie {
+    }
+    serviceid ContinuousBrownJunina {
+    }
+    number DistantBlushKaryl {
+    }
+  }
+  string RadicalTanMarty {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AccusedScarletJuieta {
+    _hidden_value = true
+  }
+  json ChubbyIndigoCynthea {
+    _hidden_value = true
+  }
+  hidden_boolean GrubbyBlueBriana {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ProbableOrangeUlla {
+    _hidden_value = true
+  }
+  number GlamorousGreenJosy {
+    _hidden_value = true
+  }
+  number TerribleIndigoLulita {
+    _hidden_value = true
+  }
+  DecentBlushRivkah = "How come the stadium got hot after the game? Because all of the fans left."
+  TenderAquaPhaedra = "Did you know that protons have mass? I didn't even know they were catholic."
+  TastelessAmethystAdeline = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MedicalFuchsiaBeverie = 591
+  ContinuousBrownJunina = "A steak pun is a rare medium well done."
+  DistantBlushKaryl = 140
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ChubbyIndigoCynthea"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

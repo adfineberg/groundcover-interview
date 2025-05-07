@@ -1,0 +1,107 @@
+type dummy.SensitiveMagentaHyacinthe {
+  annotations {
+    serviceid MagneticTanCynthia {
+    }
+    serviceid SovietPinkPetra {
+    }
+    json YieldingYellowVonny {
+    }
+    hidden_boolean MoralMoccasinCorenda {
+    }
+    serviceid_number SilentPlumUta {
+    }
+    serviceid_number GuiltyAquamarineMorgana {
+    }
+  }
+  serviceid_number FranticSalmonShawn {
+    _hidden_value = true
+  }
+  serviceid SpectacularOrangeMichelle {
+    _hidden_value = true
+  }
+  string ColourfulAquamarineElspeth {
+    _hidden_value = true
+  }
+  serviceid_number RedundantBrownIngeborg {
+    _hidden_value = true
+  }
+  json WickedTealRosalia {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" EquivalentBlackJilly {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number YappySilverDelilah {
+    _hidden_value = true
+  }
+  serviceid YappyBrownJsandye {
+    _hidden_value = true
+  }
+  json AboveRedWendeline {
+    _hidden_value = true
+  }
+  string ImprovedAzureZorah {
+    _hidden_value = true
+  }
+  serviceid ConsistentYellowAnthiathia {
+    _hidden_value = true
+  }
+  serviceid RudeSapphireBerry {
+    _hidden_value = true
+  }
+  serviceid_number RobustBrownLesly {
+    _hidden_value = true
+  }
+  "List<boolean>" SparklingTanAda {
+    _hidden_value = true
+  }
+  number AlertBrownLorene {
+    _hidden_value = true
+  }
+  serviceid_number UrgentBlackSusette {
+    _hidden_value = true
+  }
+  boolean WrongCopperAlyss {
+    _hidden_value = true
+  }
+  hidden_boolean SquareIvoryNanni {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT SquealingTurquoiseSheela {
+    _hidden_value = true
+  }
+  MagneticTanCynthia = "A steak pun is a rare medium well done."
+  SovietPinkPetra = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  YieldingYellowVonny = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SilentPlumUta = 610
+  GuiltyAquamarineMorgana = 340
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RedundantBrownIngeborg"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UrgentBlackSusette"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AboveRedWendeline"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SilentPlumUta"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

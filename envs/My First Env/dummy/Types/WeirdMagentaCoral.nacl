@@ -1,0 +1,68 @@
+type dummy.WeirdMagentaCoral {
+  annotations {
+    boolean EntitledHarlequinStefa {
+    }
+    boolean NewAquamarineMathilda {
+    }
+    hidden_boolean FederalScarletJuditha {
+    }
+    serviceid PregnantAmaranthJacquenetta {
+    }
+    hidden_boolean IdealCopperLenna {
+    }
+  }
+  json MistyAmberMarga {
+    _hidden_value = true
+  }
+  json NeighbouringTurquoiseAjay {
+    _hidden_value = true
+  }
+  serviceid_number JoyousCopperNoel {
+    _hidden_value = true
+  }
+  "List<serviceid>" DeadMoccasinMargo {
+    _hidden_value = true
+  }
+  number MarriedIndigoCorella {
+    _hidden_value = true
+  }
+  serviceid MuteCoralLethia {
+    _hidden_value = true
+  }
+  serviceid MuddyGrayKari {
+    _hidden_value = true
+  }
+  string UninterestedCoralRonni {
+    _hidden_value = true
+  }
+  serviceid_number HostileBlushMaurene {
+    _hidden_value = true
+  }
+  number RegulatoryGoldOlga {
+    _hidden_value = true
+  }
+  "List<boolean>" SubsequentTealMillisent {
+    _hidden_value = true
+  }
+  hidden_boolean RedundantGreenReena {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  EntitledHarlequinStefa = false
+  NewAquamarineMathilda = false
+  PregnantAmaranthJacquenetta = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SubsequentTealMillisent"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MistyAmberMarga"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

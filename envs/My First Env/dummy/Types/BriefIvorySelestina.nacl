@@ -1,0 +1,124 @@
+type dummy.BriefIvorySelestina {
+  annotations {
+    hidden_boolean SatisfactoryCrimsonLexy {
+    }
+    json IncreasingCopperLana {
+    }
+    hidden_boolean BreakableCyanCourtnay {
+    }
+    boolean DelightedHarlequinCalli {
+    }
+  }
+  serviceid_number ProposedWhiteLila {
+    _hidden_value = true
+  }
+  json RealCyanTiffi {
+    _hidden_value = true
+  }
+  json StormyGrayJacquenetta {
+    _hidden_value = true
+  }
+  hidden_boolean ObligedMagentaAbra {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string MadJadeQuintana {
+    _hidden_value = true
+  }
+  serviceid_number PoliteTanJacquetta {
+    _hidden_value = true
+  }
+  json EmptyBronzeTheresina {
+    _hidden_value = true
+  }
+  number ChemicalScarletMadelena {
+    _hidden_value = true
+  }
+  serviceid_number RulingBrownShay {
+    _hidden_value = true
+  }
+  string RepulsiveVioletLoleta {
+    _hidden_value = true
+  }
+  serviceid_number MushyAquaGeorgette {
+    _hidden_value = true
+  }
+  json FirmHarlequinCarlin {
+    _hidden_value = true
+  }
+  json NiceAmberDevonne {
+    _hidden_value = true
+  }
+  string ExtendedBlackBerget {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FlyingCopperMamie {
+    _hidden_value = true
+  }
+  serviceid_number OkayTurquoiseAuguste {
+    _hidden_value = true
+  }
+  dummy.DEFAULT GeneticLimeKristan {
+    _hidden_value = true
+  }
+  hidden_boolean GrotesqueCoffeeKaree {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number RealHarlequinBecca {
+    _hidden_value = true
+  }
+  number MereHarlequinHinda {
+    _hidden_value = true
+  }
+  dummy.JustBeigeShaylynn FixedSapphireChad {
+    FreshAquamarineRubie = 519
+    RoastedGrayCammie = true
+    FavourableIndigoBritte = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    RemoteSapphireCarree = 623
+    AloneOrangeMarijo = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    DoubtfulGreenTamara = 163
+    SocialAmberLilah = 519
+    TropicalGoldAmelita = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    VulnerableAquamarineAyn = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    WorldwideMaroonVinni = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ArmedOrangeSibbie = 310
+    _hidden_value = true
+  }
+  IncreasingCopperLana = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  DelightedHarlequinCalli = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PoliteTanJacquetta"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RealHarlequinBecca"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "StormyGrayJacquenetta"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MushyAquaGeorgette"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SatisfactoryCrimsonLexy"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

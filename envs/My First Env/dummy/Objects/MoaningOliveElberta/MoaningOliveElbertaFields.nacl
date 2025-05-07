@@ -1,0 +1,48 @@
+type dummy.MoaningOliveElberta {
+  hidden_boolean TallAzureEileen {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  string DisturbingLimeDianemarie {
+  }
+  serviceid FrontTealOlive {
+  }
+  hidden_boolean XerothermicYellowHilda {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  serviceid_number IncreasingScarletEdith {
+  }
+  number RoughGreenMei {
+  }
+  serviceid_number SportingSilverDarelle {
+  }
+  json SharedLavenderAnaliese {
+  }
+  number LikeWhiteGlyn {
+  }
+  serviceid_number SmoggyPlumDrusy {
+  }
+  string ProvincialRedNancie {
+  }
+  serviceid_number UndergroundPurpleKaile {
+  }
+  hidden_boolean ApplicableLavenderAmalia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean DefensiveVioletUla {
+  }
+  serviceid DecentGrayBride {
+  }
+  json PassiveChocolateLoralie {
+  }
+  hidden_boolean MixedPinkEleni {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+}

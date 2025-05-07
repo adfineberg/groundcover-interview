@@ -1,0 +1,37 @@
+type dummy.InformalTurquoiseFaith is boolean {
+  annotations {
+    json RottenScarletGiustina {
+    }
+    json DefeatedBlushChere {
+    }
+    serviceid VoluntaryOliveAriana {
+    }
+    dummy.DEFAULT YearningTomatoHedvige {
+    }
+    string BlushingBlushViola {
+    }
+    hidden_boolean GrievingFuchsiaJudie {
+    }
+    boolean InjuredCoralKatusha {
+    }
+    boolean XenaciousPlumGusty {
+    }
+    hidden_boolean EntireEmeraldMelina {
+    }
+    serviceid_number IdealCopperSheba {
+    }
+    number DisabledMaroonPaulina {
+    }
+  }
+  RottenScarletGiustina = "What creature is smarter than a talking parrot? A spelling bee."
+  DefeatedBlushChere = "Dad Im hungry  Hi hungry Im dad"
+  VoluntaryOliveAriana = "Im only familiar with 25 letters in the English language. I dont know why."
+  YearningTomatoHedvige = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  BlushingBlushViola = "Why is Peter Pan always flying? Because he Neverlands."
+  InjuredCoralKatusha = false
+  XenaciousPlumGusty = true
+  IdealCopperSheba = 690
+  DisabledMaroonPaulina = 532
+}

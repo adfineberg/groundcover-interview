@@ -1,0 +1,27 @@
+type dummy.MentalIndigoEnid {
+  annotations {
+    serviceid_number ColonialHarlequinDulcy {
+    }
+    serviceid_number WealthyMoccasinGoldi {
+    }
+  }
+  json OrthodoxCyanViviana {
+    _hidden_value = true
+  }
+  string VerbalAquamarineLaural {
+    _hidden_value = true
+  }
+  serviceid GoverningCopperLinet {
+    _hidden_value = true
+  }
+  ColonialHarlequinDulcy = 802
+  WealthyMoccasinGoldi = 92
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "WealthyMoccasinGoldi"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

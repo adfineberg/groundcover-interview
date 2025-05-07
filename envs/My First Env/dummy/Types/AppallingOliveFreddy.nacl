@@ -1,0 +1,42 @@
+type dummy.AppallingOliveFreddy {
+  annotations {
+    number TastyJadeMaddalena {
+    }
+    number YouthfulTurquoiseGigi {
+    }
+    number ApplicableBlushRonny {
+    }
+    hidden_boolean SubstantialFuchsiaNichole {
+    }
+    json InvisibleSalmonAbagael {
+    }
+    json CrazySalmonLeigh {
+    }
+  }
+  string UptightScarletKala {
+    _hidden_value = true
+  }
+  TastyJadeMaddalena = 404
+  YouthfulTurquoiseGigi = 214
+  ApplicableBlushRonny = 992
+  InvisibleSalmonAbagael = "How come the stadium got hot after the game? Because all of the fans left."
+  CrazySalmonLeigh = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "TastyJadeMaddalena"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "YouthfulTurquoiseGigi"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SubstantialFuchsiaNichole"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

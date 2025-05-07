@@ -1,0 +1,40 @@
+type dummy.LoyalSilverElna {
+  annotations {
+    dummy.WitteringTomatoMufinella PaleBlackNalani {
+    }
+    hidden_boolean OverallTomatoJoice {
+    }
+    hidden_boolean LesserEmeraldMareah {
+    }
+    json PurringBlackNinon {
+    }
+  }
+  serviceid SurprisingWhiteCatharine {
+    _hidden_value = true
+  }
+  string GloriousCyanVikki {
+    _hidden_value = true
+  }
+  serviceid ExuberantCoffeeBrandy {
+    _hidden_value = true
+  }
+  "List<serviceid>" BusyJadeCaye {
+    _hidden_value = true
+  }
+  json ExpectedAzureLucretia {
+    _hidden_value = true
+  }
+  boolean DrunkPlumClaresta {
+    _hidden_value = true
+  }
+  PaleBlackNalani = false
+  PurringBlackNinon = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "LesserEmeraldMareah"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

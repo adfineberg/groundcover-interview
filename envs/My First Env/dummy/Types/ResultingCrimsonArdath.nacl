@@ -1,0 +1,28 @@
+type dummy.ResultingCrimsonArdath is string {
+  annotations {
+    serviceid_number SuddenSalmonLissa {
+    }
+    hidden_boolean HungryAquamarineMaggie {
+    }
+    hidden_boolean RemarkableTomatoDulcine {
+    }
+    string LiableMaroonFrank {
+    }
+    string QuintessentialLavenderCorenda {
+    }
+    string SexualIvoryNannette {
+    }
+    json SplendidTomatoNesta {
+    }
+    dummy.DEFAULT SkinnyLavenderKorry {
+    }
+  }
+  SuddenSalmonLissa = 159
+  LiableMaroonFrank = "Whoever invented the knock-knock joke should get a no bell prize."
+  QuintessentialLavenderCorenda = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SexualIvoryNannette = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SplendidTomatoNesta = "Whoever invented the knock-knock joke should get a no bell prize."
+  SkinnyLavenderKorry = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+}

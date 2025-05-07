@@ -1,0 +1,59 @@
+type dummy.JustLimeMaggee {
+  annotations {
+    boolean LengthyAquamarineRevkah {
+    }
+    boolean SparklingBrownPhilippa {
+    }
+    number YuckyCoffeeReine {
+    }
+    dummy.GentleScarletAlbina EagerTurquoiseMarci {
+    }
+    hidden_boolean XenialEmeraldJillana {
+    }
+    boolean MathematicalCrimsonLotti {
+    }
+    serviceid EffectiveYellowMerle {
+    }
+    json LiberalJadeVeronika {
+    }
+    dummy.BalancedLimeGilbertina BoredCoffeeKary {
+    }
+    string ComparableFuchsiaRonnie {
+    }
+    string MultipleEmeraldDaphne {
+    }
+    serviceid_number ThickLimeCallida {
+    }
+    number ExceptionalHarlequinUrsulina {
+    }
+    dummy.OutrageousApricotDelia NewBlackChris {
+    }
+    json FundamentalBlueVivien {
+    }
+    number MammothMoccasinShandeigh {
+    }
+    serviceid_number IncreasingApricotJodie {
+    }
+    dummy.StandardGrayCarlye MelodicCopperSonia {
+    }
+    serviceid_number SuccessiveRedPeg {
+    }
+  }
+  LengthyAquamarineRevkah = true
+  SparklingBrownPhilippa = true
+  YuckyCoffeeReine = 856
+  EagerTurquoiseMarci = file("FiscalIndigoIormina.txt")
+  MathematicalCrimsonLotti = true
+  EffectiveYellowMerle = "I'll tell you what often gets over looked... garden fences."
+  LiberalJadeVeronika = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ComparableFuchsiaRonnie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MultipleEmeraldDaphne = "How come the stadium got hot after the game? Because all of the fans left."
+  ThickLimeCallida = 8
+  ExceptionalHarlequinUrsulina = 181
+  NewBlackChris = 569
+  FundamentalBlueVivien = "Why didnt the skeleton cross the road? Because he had no guts."
+  MammothMoccasinShandeigh = 676
+  IncreasingApricotJodie = 177
+  SuccessiveRedPeg = 624
+  _alias = "JustLimeMaggee_alias"
+}

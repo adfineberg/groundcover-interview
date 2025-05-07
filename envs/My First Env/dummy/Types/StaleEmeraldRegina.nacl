@@ -1,0 +1,20 @@
+type dummy.StaleEmeraldRegina {
+  annotations {
+    json ProposedCyanKayle {
+    }
+    string ParliamentaryGrayBerenice {
+    }
+    number ExistingVioletKati {
+    }
+    string WorkingSapphireMorgen {
+    }
+  }
+  serviceid_number FoolishSalmonMariejeanne {
+    _hidden_value = true
+  }
+  ProposedCyanKayle = "What creature is smarter than a talking parrot? A spelling bee."
+  ParliamentaryGrayBerenice = "To be Frank, I'd have to change my name."
+  ExistingVioletKati = 558
+  WorkingSapphireMorgen = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

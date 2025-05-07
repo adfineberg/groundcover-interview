@@ -1,0 +1,91 @@
+type dummy.LengthyAmaranthNicole {
+  annotations {
+    json PerfectScarletRaine {
+    }
+    dummy.DEFAULT NoisyEmeraldUlla {
+    }
+    json VoicelessTealVyky {
+    }
+    hidden_boolean ZonalAquamarineRikki {
+    }
+    boolean MedicalAquamarineIssi {
+    }
+  }
+  serviceid_number MixedAquaEleni {
+    _hidden_value = true
+  }
+  number JitteryAquamarineLuce {
+    _hidden_value = true
+  }
+  string DreadfulSalmonSuzette {
+    _hidden_value = true
+  }
+  json ArtisticIvoryDaryn {
+    _hidden_value = true
+  }
+  json BlondeAmethystJosie {
+    _hidden_value = true
+  }
+  serviceid FitGreenUrsala {
+    _hidden_value = true
+  }
+  boolean StillYellowSusanne {
+    _hidden_value = true
+  }
+  string AlrightEmeraldSiouxie {
+    _hidden_value = true
+  }
+  serviceid_number SelectIndigoCrysta {
+    _hidden_value = true
+  }
+  serviceid ThoughtlessIvoryBrandise {
+    _hidden_value = true
+  }
+  serviceid_number StructuralAquaBeulah {
+    _hidden_value = true
+  }
+  serviceid UrbanIvoryIlse {
+    _hidden_value = true
+  }
+  serviceid_number ManagingAquaNatasha {
+    _hidden_value = true
+  }
+  boolean FuriousIvoryMarice {
+    _hidden_value = true
+  }
+  boolean DevotedHarlequinKattie {
+    _hidden_value = true
+  }
+  boolean IntelligentGoldJorrie {
+    _hidden_value = true
+  }
+  PerfectScarletRaine = "Why is Peter Pan always flying? Because he Neverlands."
+  NoisyEmeraldUlla = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  VoicelessTealVyky = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MedicalAquamarineIssi = false
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "BlondeAmethystJosie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "StructuralAquaBeulah"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DevotedHarlequinKattie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "IntelligentGoldJorrie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

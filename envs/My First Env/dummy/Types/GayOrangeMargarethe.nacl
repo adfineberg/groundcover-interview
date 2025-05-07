@@ -1,0 +1,72 @@
+type dummy.GayOrangeMargarethe {
+  annotations {
+    serviceid ConventionalYellowBernelle {
+    }
+    boolean DrunkAquamarineCarlota {
+    }
+    hidden_boolean PrivateGrayCynthia {
+    }
+    serviceid ChronicYellowAshley {
+    }
+    number BloodyRedDosi {
+    }
+  }
+  boolean PossibleGoldTherine {
+    _hidden_value = true
+  }
+  serviceid RevolutionaryHarlequinHaley {
+    _hidden_value = true
+  }
+  boolean EmpiricalFuchsiaMireille {
+    _hidden_value = true
+  }
+  serviceid_number UsefulTomatoEve {
+    _hidden_value = true
+  }
+  serviceid NutritiousBlueSharai {
+    _hidden_value = true
+  }
+  number BusyTealRuth {
+    _hidden_value = true
+  }
+  boolean WeakLimeCarine {
+    _hidden_value = true
+  }
+  serviceid SatisfactoryBronzeReeva {
+    _hidden_value = true
+  }
+  serviceid_number WellTanReggie {
+    _hidden_value = true
+  }
+  json PartialEmeraldKenna {
+    _hidden_value = true
+  }
+  string EvolutionaryBlackKayley {
+    _hidden_value = true
+  }
+  json VoluntaryAquaLisbeth {
+    _hidden_value = true
+  }
+  json PartialRoseEmelyne {
+    _hidden_value = true
+  }
+  ConventionalYellowBernelle = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  DrunkAquamarineCarlota = true
+  ChronicYellowAshley = "How come the stadium got hot after the game? Because all of the fans left."
+  BloodyRedDosi = 239
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PossibleGoldTherine"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ConventionalYellowBernelle"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

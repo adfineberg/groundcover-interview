@@ -1,0 +1,51 @@
+type dummy.ExistingAquaAudry {
+  annotations {
+    serviceid_number ThunderingSalmonTillie {
+    }
+    hidden_boolean PrettyVioletTrisha {
+    }
+    json PersonalBlueMarigold {
+    }
+    serviceid StableGreenCandra {
+    }
+    dummy.DEFAULT ColonialCopperVale {
+    }
+    json FondAmaranthKara {
+    }
+  }
+  serviceid VivaciousBronzeSarette {
+    _hidden_value = true
+  }
+  "List<serviceid>" ExtremeLavenderMaxine {
+    _hidden_value = true
+  }
+  json LegalGreenSile {
+    _hidden_value = true
+  }
+  hidden_boolean AdministrativeTurquoiseKonstance {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number PanickyAmaranthSilva {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TerritorialRoseMarieann {
+    _hidden_value = true
+  }
+  ThunderingSalmonTillie = 254
+  PersonalBlueMarigold = "Why did the tomato blush? Because it saw the salad dressing."
+  StableGreenCandra = "Why do birds fly south for the winter? Because it's too far to walk."
+  ColonialCopperVale = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  FondAmaranthKara = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "PrettyVioletTrisha"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

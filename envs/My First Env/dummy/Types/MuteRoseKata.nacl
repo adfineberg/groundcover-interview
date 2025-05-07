@@ -1,0 +1,140 @@
+type dummy.MuteRoseKata {
+  annotations {
+    boolean HissingCoffeeTwyla {
+    }
+    dummy.DEFAULT BackRedRubie {
+    }
+    json ModestGoldAdey {
+    }
+    json CarefulAmaranthAdrea {
+    }
+  }
+  boolean IllegalMagentaLelia {
+    _hidden_value = true
+  }
+  string InlandHarlequinFayre {
+    _hidden_value = true
+  }
+  serviceid_number LegislativeGoldRonda {
+    _hidden_value = true
+  }
+  serviceid_number MixedAmaranthIdaline {
+    _hidden_value = true
+  }
+  dummy.LatinHarlequinDarbie OppositePlumDanika {
+    UnnecessarySalmonScarlett = true
+    ElatedBlackVeronike = 303
+    SlipperySalmonDaisy = 838
+    SwiftBlushMeryl = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    WholeSapphireShirlee = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    AdditionalCrimsonPaulita = true
+    CrucialHarlequinDorri = "My first time using an elevator was an uplifting experience. The second time let me down."
+    UnevenTurquoiseJodie = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    PsychologicalMaroonLetisha = "I'll tell you what often gets over looked... garden fences."
+    FrozenPurpleTrula = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    CourageousPlumJane = "Slept like a log last night  woke up in the fireplace."
+    HiddenMagentaRonica = "How come the stadium got hot after the game? Because all of the fans left."
+    WorthyAmethystGiorgia = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    RichApricotEvita = "Im only familiar with 25 letters in the English language. I dont know why."
+    NervousSalmonSashenka = "A steak pun is a rare medium well done."
+    TenderFuchsiaElly = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    RespectableYellowJanet = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ChangingCoralVanni = false
+    AmusedLavenderJenine = 233
+    ExcessiveTurquoiseDorothee = 83
+    PrimitiveApricotVilma = true
+    WorthwhileIvoryShanda = 565
+    ComprehensivePurpleKerstin = "A steak pun is a rare medium well done."
+    CorrespondingTurquoiseAdi = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  string ComprehensiveBlackRodina {
+    _hidden_value = true
+  }
+  boolean RomanticJadeChristy {
+    _hidden_value = true
+  }
+  number LiveYellowAllsun {
+    _hidden_value = true
+  }
+  dummy.DEFAULT RequiredBlackAlysia {
+    _hidden_value = true
+  }
+  dummy.DEFAULT XenialChocolateNanci {
+    _hidden_value = true
+  }
+  boolean RegionalScarletElsinore {
+    _hidden_value = true
+  }
+  string AnonymousAquaTove {
+    _hidden_value = true
+  }
+  number YodellingVioletKara {
+    _hidden_value = true
+  }
+  serviceid_number SurvivingWhiteLeah {
+    _hidden_value = true
+  }
+  number NegativeCopperMargo {
+    _hidden_value = true
+  }
+  hidden_boolean FinalApricotCharo {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ThoughtfulPlumArdelia {
+    _hidden_value = true
+  }
+  serviceid_number CooperativeMagentaNelle {
+    _hidden_value = true
+  }
+  boolean UrgentMaroonErinn {
+    _hidden_value = true
+  }
+  HissingCoffeeTwyla = false
+  BackRedRubie = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  ModestGoldAdey = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CarefulAmaranthAdrea = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "AnonymousAquaTove"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "XenialChocolateNanci"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "OppositePlumDanika"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LegislativeGoldRonda"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "HissingCoffeeTwyla"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ModestGoldAdey"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

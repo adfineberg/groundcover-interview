@@ -1,0 +1,112 @@
+type dummy.FeministTealTrudy {
+  annotations {
+    string SmoggyScarletZorah {
+    }
+    number JitteryPlumPaola {
+    }
+    json IndirectPinkGabie {
+    }
+    serviceid SubtleRoseSamara {
+    }
+    json CooperativeCoralJulissa {
+    }
+  }
+  string ConvincedPinkOpaline {
+    _hidden_value = true
+  }
+  dummy.GlobalLimeMatti TenseIndigoWrennie {
+    ArrogantPurpleMadelene = {
+      legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    }
+    InsufficientTomatoHetti = "Why did the tomato blush? Because it saw the salad dressing."
+    UltimateRosePandora = true
+    SilentCyanMelina = 524
+    MeltedAquamarinePatsy = false
+    AppallingRedMegen = 897
+    StuckVioletLynette = false
+    PersistentChocolateNicolina = 908
+    PanickyJadeBianka = true
+    FunIvoryCristionna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    HardCopperCahra = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    ProtectiveSalmonLiza = "Did you know that protons have mass? I didn't even know they were catholic."
+    SacredCyanRakel = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  boolean AdvisoryApricotBernadina {
+    _hidden_value = true
+  }
+  dummy.AccessibleTurquoiseEssie CentralIndigoLaurianne {
+    BrilliantMaroonBonni = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    SupposedIndigoDusty = false
+    _hidden_value = true
+  }
+  json SimpleRoseImogene {
+    _hidden_value = true
+  }
+  dummy.DEFAULT YtterbicEmeraldPetronilla {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MysteriousFuchsiaChloris {
+    _hidden_value = true
+  }
+  number AccurateMaroonMarielle {
+    _hidden_value = true
+  }
+  serviceid SpectacularApricotKaylee {
+    _hidden_value = true
+  }
+  serviceid NeatCopperAnthe {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SolarSapphireMirabel {
+    _hidden_value = true
+  }
+  hidden_boolean PeculiarCoffeeTawsha {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean AdvisoryAquaShellie {
+    _hidden_value = true
+  }
+  serviceid_number LiteraryAquaAustina {
+    _hidden_value = true
+  }
+  serviceid_number SurroundingBlueMarcelle {
+    _hidden_value = true
+  }
+  json AmbitiousCyanRosalinde {
+    _hidden_value = true
+  }
+  json ToxicCrimsonAnallese {
+    _hidden_value = true
+  }
+  number FrailTomatoPrudy {
+    _hidden_value = true
+  }
+  number VerySalmonAriana {
+    _hidden_value = true
+  }
+  SmoggyScarletZorah = "Why do birds fly south for the winter? Because it's too far to walk."
+  JitteryPlumPaola = 643
+  IndirectPinkGabie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SubtleRoseSamara = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CooperativeCoralJulissa = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ConvincedPinkOpaline"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SpectacularApricotKaylee"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

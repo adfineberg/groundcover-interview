@@ -1,0 +1,25 @@
+type dummy.ThoughtfulRedElka is boolean {
+  annotations {
+    serviceid PrimitiveTealSissie {
+    }
+    string SystematicOrangeSallee {
+    }
+    string AutonomousGoldCaye {
+    }
+    string EventualSalmonAveril {
+    }
+    string XenophobicBronzeGayleen {
+    }
+    hidden_boolean RubberAzureFelipa {
+    }
+    hidden_boolean JustJadeNita {
+    }
+    hidden_boolean CivilianSilverShayla {
+    }
+  }
+  PrimitiveTealSissie = "Why was it called the dark ages? Because of all the knights. "
+  SystematicOrangeSallee = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AutonomousGoldCaye = "Whoever invented the knock-knock joke should get a no bell prize."
+  EventualSalmonAveril = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  XenophobicBronzeGayleen = "Chances are if you' ve seen one shopping center, you've seen a mall."
+}

@@ -1,0 +1,120 @@
+type dummy.CivilianAmethystEloise {
+  annotations {
+    json ArchitecturalSilverAeriela {
+    }
+    string CalmCyanJenica {
+    }
+    boolean SystematicSilverCati {
+    }
+    boolean GoodMoccasinFranny {
+    }
+    hidden_boolean LeadingGreenWillow {
+    }
+    hidden_boolean ThunderingApricotCristal {
+    }
+    serviceid_number TrickyGreenDrusie {
+    }
+    serviceid DualMaroonCherri {
+    }
+    number MagnificentAzureBrier {
+    }
+    serviceid UsefulPeachJanel {
+    }
+    json MotionlessRedMarika {
+    }
+    serviceid StingyCoffeeRosamond {
+    }
+    serviceid_number EagerLimeShaina {
+    }
+    serviceid HostileTurquoiseTarah {
+    }
+    serviceid ChubbyAzureLuz {
+    }
+    string QuietWhiteJennie {
+    }
+    dummy.FastVioletDaniela VariedVioletVal {
+    }
+    number FlexibleCoffeeDorthea {
+    }
+    json SplendidVioletRanee {
+    }
+    serviceid_number LargeBeigeCorina {
+    }
+    number HorizontalJadeMerrily {
+    }
+  }
+  ArchitecturalSilverAeriela = "I'll tell you what often gets over looked... garden fences."
+  CalmCyanJenica = "Why didnt the skeleton cross the road? Because he had no guts."
+  SystematicSilverCati = true
+  GoodMoccasinFranny = true
+  TrickyGreenDrusie = 340
+  DualMaroonCherri = "Dad Im hungry  Hi hungry Im dad"
+  MagnificentAzureBrier = 422
+  UsefulPeachJanel = "I'll tell you what often gets over looked... garden fences."
+  MotionlessRedMarika = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  StingyCoffeeRosamond = "Dad Im hungry  Hi hungry Im dad"
+  EagerLimeShaina = 894
+  HostileTurquoiseTarah = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ChubbyAzureLuz = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  QuietWhiteJennie = "A steak pun is a rare medium well done."
+  VariedVioletVal = file("SmallMaroonWillow.txt")
+  FlexibleCoffeeDorthea = 919
+  SplendidVioletRanee = "Slept like a log last night  woke up in the fireplace."
+  LargeBeigeCorina = 420
+  HorizontalJadeMerrily = 947
+  _important_values = [
+    {
+      value = "PreferredLavenderJanela"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "OrdinaryLimeWendye"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "OldVioletIvonne"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BloodySapphireAudre"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CalmCyanJenica"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "VariedVioletVal"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "StingyCoffeeRosamond"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "EagerLimeShaina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "HorizontalJadeMerrily"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FlexibleCoffeeDorthea"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "CivilianAmethystEloise_alias"
+}

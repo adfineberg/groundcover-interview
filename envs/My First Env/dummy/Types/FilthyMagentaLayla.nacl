@@ -1,0 +1,31 @@
+type dummy.FilthyMagentaLayla {
+  annotations {
+    serviceid_number PhysicalAzureIngeberg {
+    }
+    boolean SpotlessSilverAdelaide {
+    }
+    hidden_boolean PureChocolateYsabel {
+    }
+    serviceid_number TopAmaranthCourtney {
+    }
+  }
+  boolean SubstantialEmeraldSashenka {
+    _hidden_value = true
+  }
+  PhysicalAzureIngeberg = 378
+  SpotlessSilverAdelaide = false
+  TopAmaranthCourtney = 580
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "TopAmaranthCourtney"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PhysicalAzureIngeberg"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

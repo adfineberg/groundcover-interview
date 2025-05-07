@@ -1,0 +1,30 @@
+type dummy.FierceBeigeOlive {
+  annotations {
+    string TotalWhiteMarni {
+    }
+    number YtterbicCoffeeDebbie {
+    }
+    boolean VocalCoffeeRanee {
+    }
+    serviceid ClinicalIvoryEvaleen {
+    }
+    number FashionableCrimsonAridatha {
+    }
+  }
+  "List<serviceid>" ManagerialBeigeAdelle {
+    _hidden_value = true
+  }
+  TotalWhiteMarni = "Slept like a log last night  woke up in the fireplace."
+  YtterbicCoffeeDebbie = 219
+  VocalCoffeeRanee = false
+  ClinicalIvoryEvaleen = "I'll tell you what often gets over looked... garden fences."
+  FashionableCrimsonAridatha = 313
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "YtterbicCoffeeDebbie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

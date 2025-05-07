@@ -1,0 +1,99 @@
+type dummy.GoldenPinkQueenie {
+  annotations {
+    hidden_boolean ChronicAquaAdela {
+    }
+    serviceid ReluctantBeigeKirsti {
+    }
+    boolean ValuableCoffeeEvelina {
+    }
+    string WeeAquamarineHildy {
+    }
+  }
+  serviceid SlightSapphireJordana {
+    _hidden_value = true
+  }
+  json CorrespondingAquaLanna {
+    _hidden_value = true
+  }
+  number CivilianCoralMalva {
+    _hidden_value = true
+  }
+  dummy.GeographicalOrangeShaina DramaticScarletSandra {
+    ZonalBrownShaina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    FixedTanLorrin = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SubsequentTanEricha = true
+    UninterestedOliveLicha = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    MagnificentJadeJuliet = true
+    XerothermicChocolateMarjory = 689
+    _hidden_value = true
+  }
+  number CreativeCoralMargarete {
+    _hidden_value = true
+  }
+  string MajorGrayElianore {
+    _hidden_value = true
+  }
+  json PrivateTealNesta {
+    _hidden_value = true
+  }
+  serviceid_number BurningCopperGilda {
+    _hidden_value = true
+  }
+  boolean SatisfactoryHarlequinMerrili {
+    _hidden_value = true
+  }
+  number LegalCoralCarlynne {
+    _hidden_value = true
+  }
+  string SilkyMagentaIlse {
+    _hidden_value = true
+  }
+  string PsychologicalIndigoBrooks {
+    _hidden_value = true
+  }
+  string DisturbingPinkAbigale {
+    _hidden_value = true
+  }
+  serviceid_number AdjacentAzureJacquenetta {
+    _hidden_value = true
+  }
+  string FixedEmeraldAgnola {
+    _hidden_value = true
+  }
+  string RareSalmonSimona {
+    _hidden_value = true
+  }
+  boolean AshamedMaroonSibella {
+    _hidden_value = true
+  }
+  json FilthyCoralJannelle {
+    _hidden_value = true
+  }
+  serviceid_number LargePinkAmanda {
+    _hidden_value = true
+  }
+  string LovelyYellowNerty {
+    _hidden_value = true
+  }
+  "List<json>" ClearMagentaTimi {
+    _hidden_value = true
+  }
+  json IntellectualRoseRuthe {
+    _hidden_value = true
+  }
+  json UninterestedAquaEnrika {
+    _hidden_value = true
+  }
+  hidden_boolean EnormousGoldShirlene {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.DEFAULT ObviousPlumHeather {
+    _hidden_value = true
+  }
+  ReluctantBeigeKirsti = "To be Frank, I'd have to change my name."
+  ValuableCoffeeEvelina = true
+  WeeAquamarineHildy = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

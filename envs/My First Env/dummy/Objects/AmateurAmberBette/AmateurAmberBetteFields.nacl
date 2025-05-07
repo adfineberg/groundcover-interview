@@ -1,0 +1,96 @@
+type dummy.AmateurAmberBette {
+  hidden_boolean CivilMagentaJosee {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FluffyPlumUta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string PoorGreenElizabeth {
+  }
+  hidden_boolean MeltedAzureCharlene {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  string ArrogantBlackLurline {
+  }
+  json ProposedIvoryJaymee {
+  }
+  number RawApricotMarielle {
+  }
+  serviceid CombinedCoralJustine {
+  }
+  boolean OpenAmethystJobina {
+  }
+  string InfluentialMaroonYolane {
+  }
+  dummy.DelightedTealLynna MolecularCyanMechelle {
+  }
+  boolean NewGoldSerena {
+  }
+  hidden_boolean SorryGreenJillie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number GratefulCyanJoletta {
+  }
+  json UnfairTealShannah {
+  }
+  dummy.LogicalLimeAlethea AdverseRedMichele {
+    MotionlessMoccasinCate = false
+    PreliminaryAquamarineBrooke = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    GiantPinkTheresa = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    MarkedFuchsiaAilene = 17
+    AfraidTomatoCarlynne = 492
+    MeanAmberChantalle = 649
+  }
+  "List<string>" ZoophagousApricotAnnecorinne {
+  }
+  serviceid_number FortunateBlueEvanne {
+  }
+  json GenuineTurquoiseNathalia {
+  }
+  serviceid InherentAmaranthTabatha {
+  }
+  boolean PrintedGoldMargaux {
+  }
+  serviceid BewilderedTealNani {
+  }
+  dummy.EstablishedRoseGussie SpatialOrangeIdaline {
+    ActiveScarletMartguerita = "Why did the kid cross the playground? To get to the other slide."
+    LogicalAmethystCristine = "Why did the kid cross the playground? To get to the other slide."
+    EligibleChocolateTrudey = true
+    RenewedAquaFlori = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    GiganticLimeShena = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    DynamicAzureLaverne = 924
+    RichTurquoiseKiah = "I'll tell you what often gets over looked... garden fences."
+    RightMoccasinPavla = 706
+    ViciousLimeHannis = "Whoever invented the knock-knock joke should get a no bell prize."
+    GratefulPlumLaetitia = 322
+    FrightenedBronzeCarey = 804
+  }
+  hidden_boolean ExperiencedSilverDarla {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  boolean GayLavenderOrelee {
+  }
+  hidden_boolean OutdoorSapphireAlecia {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  "List<hidden_boolean>" LoyalIvoryAlica {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+}

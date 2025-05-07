@@ -1,0 +1,167 @@
+type dummy.FatalBronzeElna {
+  annotations {
+    serviceid SmoggyPeachLaryssa {
+    }
+    hidden_boolean ZippyMoccasinEva {
+    }
+    hidden_boolean RaspyLimeGodiva {
+    }
+    string AggregateWhiteNertie {
+    }
+    json CrookedCoffeeJoyann {
+    }
+    number SocialAquaEvita {
+    }
+    string NecessaryYellowMab {
+    }
+  }
+  string ExtensiveAmethystNatalee {
+    _hidden_value = true
+  }
+  json SillyWhiteAmy {
+    _hidden_value = true
+  }
+  serviceid_number AboveBlueIssy {
+    _hidden_value = true
+  }
+  serviceid_number SocialistCopperEstrellita {
+    _hidden_value = true
+  }
+  string DeadTanFilia {
+    _hidden_value = true
+  }
+  dummy.FastVioletDaniela DamagedSilverEmmalynne {
+    YieldingGreenRosamond = 670
+    CleverPeachEngracia = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    YtterbicTealGaylene = 477
+    YammeringPinkMarcelline = 745
+    OverwhelmingYellowKariotta = "Slept like a log last night  woke up in the fireplace."
+    JuicyApricotMercie = 587
+    IntimateIvoryAnnissa = ""
+    SpectacularMagentaMellicent = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ShiveringScarletMilka = 965
+    FrontChocolateLucinda = true
+    SexualGoldAlicia = 160
+    MonetaryIvoryDawna = 810
+    PoisedLavenderAndeee = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  number BloodyCyanPris {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" SteepEmeraldHaily {
+    _hidden_value = true
+  }
+  hidden_boolean WorthwhileCoffeeEmlynn {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean PurringAzureMaxie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SlipperyBrownMerrie {
+    _hidden_value = true
+  }
+  serviceid_number MuteBlushSusy {
+    _hidden_value = true
+  }
+  number AmateurAmberRanice {
+    _hidden_value = true
+  }
+  string DustyIndigoCarlin {
+    _hidden_value = true
+  }
+  dummy.DEFAULT CapitalistPinkFancie {
+    _hidden_value = true
+  }
+  json PreliminaryGrayLindsay {
+    _hidden_value = true
+  }
+  serviceid FinancialGrayDinnie {
+    _hidden_value = true
+  }
+  string FullLavenderCathlene {
+    _hidden_value = true
+  }
+  boolean NeutralLimeOthilie {
+    _hidden_value = true
+  }
+  hidden_boolean PreliminaryAquaBee {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PsychiatricPlumMelita {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json SharedScarletPatrica {
+    _hidden_value = true
+  }
+  serviceid_number StraightLavenderBrigit {
+    _hidden_value = true
+  }
+  dummy.SplendidAmberFlorance UnitedAzureDevinne {
+    WhisperingTurquoiseMildred = "Why was it called the dark ages? Because of all the knights. "
+    RelevantSalmonGaby = "Why is Peter Pan always flying? Because he Neverlands."
+    VictoriousLimeEthel = "A steak pun is a rare medium well done."
+    ImaginativeGreenGale = 519
+    FamousAquaZondra = 388
+    _hidden_value = true
+  }
+  hidden_boolean AccurateBlueCthrine {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AttractiveGoldJoscelin {
+    _hidden_value = true
+  }
+  string ScaryMaroonTanhya {
+    _hidden_value = true
+  }
+  SmoggyPeachLaryssa = "Im only familiar with 25 letters in the English language. I dont know why."
+  AggregateWhiteNertie = "To be Frank, I'd have to change my name."
+  CrookedCoffeeJoyann = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SocialAquaEvita = 828
+  NecessaryYellowMab = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SteepEmeraldHaily"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SillyWhiteAmy"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FinancialGrayDinnie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CrookedCoffeeJoyann"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RaspyLimeGodiva"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "NecessaryYellowMab"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

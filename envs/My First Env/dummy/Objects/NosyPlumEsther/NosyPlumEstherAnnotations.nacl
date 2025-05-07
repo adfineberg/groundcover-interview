@@ -1,0 +1,81 @@
+type dummy.NosyPlumEsther {
+  annotations {
+    serviceid AbleVioletAustina {
+    }
+    dummy.SuspiciousPeachJewell CleanYellowConnie {
+    }
+    serviceid_number TartMoccasinJemmy {
+    }
+    dummy.CheapPinkLyndel CheerfulBrownMicheline {
+    }
+    boolean SunnyPurpleValaree {
+    }
+    serviceid SuccessiveCoffeeDaile {
+    }
+    json FineTealDianemarie {
+    }
+    serviceid_number InvolvedBeigeAlta {
+    }
+    string StaleSilverKerrie {
+    }
+    hidden_boolean SquareLavenderErica {
+    }
+    number AllegedGoldGus {
+    }
+    serviceid LiveHarlequinShaun {
+    }
+    dummy.LegitimateBlushGoldie NeutralBrownHanny {
+    }
+    number PreliminaryHarlequinChristy {
+    }
+    number ArrogantYellowCarmine {
+    }
+    dummy.ShinyMoccasinAmata XenophobicAquaMyrta {
+    }
+  }
+  AbleVioletAustina = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  TartMoccasinJemmy = 795
+  SunnyPurpleValaree = false
+  SuccessiveCoffeeDaile = "Im only familiar with 25 letters in the English language. I dont know why."
+  FineTealDianemarie = "A steak pun is a rare medium well done."
+  InvolvedBeigeAlta = 466
+  StaleSilverKerrie = "Dad Im hungry  Hi hungry Im dad"
+  AllegedGoldGus = 586
+  LiveHarlequinShaun = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  NeutralBrownHanny = file("NiceCoralSadella.txt")
+  PreliminaryHarlequinChristy = 589
+  ArrogantYellowCarmine = 403
+  _self_important_values = [
+    {
+      value = "LiveHarlequinShaun"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SquareLavenderErica"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PreliminaryHarlequinChristy"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FineTealDianemarie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "InvolvedBeigeAlta"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "AbleVioletAustina"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "NosyPlumEsther_alias"
+}

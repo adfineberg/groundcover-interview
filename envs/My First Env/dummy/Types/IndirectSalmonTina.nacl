@@ -1,0 +1,68 @@
+type dummy.IndirectSalmonTina is boolean {
+  annotations {
+    boolean StrongCoffeeLoleta {
+    }
+    serviceid_number SlimyIndigoFara {
+    }
+    serviceid KnownGrayCesya {
+    }
+    number LikePurpleBonni {
+    }
+    hidden_boolean ResidentPlumDevin {
+    }
+    string ArtisticGreenPearl {
+    }
+    dummy.DEFAULT NiceAmethystCarole {
+    }
+    serviceid_number MutualVioletLurline {
+    }
+    serviceid ExoticSilverNora {
+    }
+    number BewilderedHarlequinIrene {
+    }
+    hidden_boolean SmilingSalmonCorene {
+    }
+    string DelightfulCopperKandy {
+    }
+    number ManualPinkNonah {
+    }
+    serviceid PresentMagentaCharla {
+    }
+    hidden_boolean PowerfulBlackTiffi {
+    }
+    json SpotlessMagentaDamara {
+    }
+    number EfficientCyanGerty {
+    }
+    string SmallCrimsonTimmi {
+    }
+    number ScrawnyVioletAvrit {
+    }
+    dummy.DEFAULT WealthyCoralNorah {
+    }
+    serviceid_number AlrightSalmonBrinn {
+    }
+  }
+  StrongCoffeeLoleta = false
+  SlimyIndigoFara = 734
+  KnownGrayCesya = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  LikePurpleBonni = 333
+  ArtisticGreenPearl = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  NiceAmethystCarole = {
+    legit = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  MutualVioletLurline = 109
+  ExoticSilverNora = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  BewilderedHarlequinIrene = 501
+  DelightfulCopperKandy = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ManualPinkNonah = 493
+  PresentMagentaCharla = "Why do birds fly south for the winter? Because it's too far to walk."
+  SpotlessMagentaDamara = "How come the stadium got hot after the game? Because all of the fans left."
+  EfficientCyanGerty = 210
+  SmallCrimsonTimmi = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ScrawnyVioletAvrit = 507
+  WealthyCoralNorah = {
+    legit = "Why didnt the skeleton cross the road? Because he had no guts."
+  }
+  AlrightSalmonBrinn = 245
+}

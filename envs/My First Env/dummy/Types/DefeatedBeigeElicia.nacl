@@ -1,0 +1,149 @@
+type dummy.DefeatedBeigeElicia {
+  annotations {
+    boolean MaleVioletFanechka {
+    }
+    serviceid PhilosophicalRedGigi {
+    }
+    string OuterOliveJayne {
+    }
+    boolean FitAquamarinePammie {
+    }
+    number EfficientIvoryMariejeanne {
+    }
+  }
+  serviceid_number DiverseLimeEleonore {
+    _hidden_value = true
+  }
+  serviceid_number RandomCrimsonGretel {
+    _hidden_value = true
+  }
+  dummy.DEFAULT FaithfulPinkKari {
+    _hidden_value = true
+  }
+  serviceid HomelessBlackMadel {
+    _hidden_value = true
+  }
+  json RapidCopperRebbecca {
+    _hidden_value = true
+  }
+  number IdenticalSalmonTiffany {
+    _hidden_value = true
+  }
+  number CombinedLimeGermain {
+    _hidden_value = true
+  }
+  serviceid_number CruelIndigoWandie {
+    _hidden_value = true
+  }
+  json ComfortableRoseFeodora {
+    _hidden_value = true
+  }
+  serviceid ImpressiveGoldSheelah {
+    _hidden_value = true
+  }
+  boolean RipeAmethystMaegan {
+    _hidden_value = true
+  }
+  hidden_boolean PermanentCyanLeland {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SilentBlushDonni {
+    _hidden_value = true
+  }
+  number GreasyCoffeeAlyssa {
+    _hidden_value = true
+  }
+  number FuriousBlushGeorgetta {
+    _hidden_value = true
+  }
+  dummy.OppositeBlueStacia MarvellousFuchsiaAngelia {
+    GeneralLimeAnitra = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    YoungestYellowHelenka = "Why did the kid cross the playground? To get to the other slide."
+    ZonalJadeGabriellia = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    FunctionalApricotHelyn = "Why did the tomato blush? Because it saw the salad dressing."
+    GorgeousRedAnnecorinne = 35
+    PreliminaryGoldZsazsa = "Why is Peter Pan always flying? Because he Neverlands."
+    _hidden_value = true
+  }
+  boolean EffectiveCoralEliza {
+    _hidden_value = true
+  }
+  serviceid SocialRoseLynnet {
+    _hidden_value = true
+  }
+  serviceid AwareVioletDeerdre {
+    _hidden_value = true
+  }
+  boolean NursingBlackScarlett {
+    _hidden_value = true
+  }
+  json PatientTanKatuscha {
+    _hidden_value = true
+  }
+  hidden_boolean VicariousAmaranthJillie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number SupportingJadeTabby {
+    _hidden_value = true
+  }
+  dummy.StillMagentaWendi CulturalMagentaBrinna {
+    DevelopedFuchsiaLilllie = 36
+    DirectMagentaSharyl = "Slept like a log last night  woke up in the fireplace."
+    FascinatingOrangeTheressa = "My first time using an elevator was an uplifting experience. The second time let me down."
+    RulingBrownSamantha = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    QuietCoffeeBlinni = 552
+    TotalAmethystRisa = true
+    InstitutionalYellowMariska = "Why did the tomato blush? Because it saw the salad dressing."
+    SafeGoldGabriell = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    SoreScarletTed = "Im only familiar with 25 letters in the English language. I dont know why."
+    EntitledPinkLeta = "Im only familiar with 25 letters in the English language. I dont know why."
+    YappiestGreenFawne = 676
+    YammeringSapphireLiv = "Did you know that protons have mass? I didn't even know they were catholic."
+    NoisyMaroonMirabel = false
+    _hidden_value = true
+  }
+  serviceid PresentAmberGusella {
+    _hidden_value = true
+  }
+  serviceid_number FundamentalCoffeeQueenie {
+    _hidden_value = true
+  }
+  string LegitimateBlushDi {
+    _hidden_value = true
+  }
+  boolean WeirdYellowHeather {
+    _hidden_value = true
+  }
+  json ControversialWhiteCherey {
+    _hidden_value = true
+  }
+  number ShakyCoffeeAdriana {
+    _hidden_value = true
+  }
+  string MassiveHarlequinTheresa {
+    _hidden_value = true
+  }
+  json VaryingPlumMaura {
+    _hidden_value = true
+  }
+  hidden_boolean UnusualIvoryCornelle {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ShyBlackAdrianna {
+    _hidden_value = true
+  }
+  MaleVioletFanechka = false
+  PhilosophicalRedGigi = "What did one nut say as he chased another nut?  I'm a cashew!"
+  OuterOliveJayne = "Why do birds fly south for the winter? Because it's too far to walk."
+  FitAquamarinePammie = true
+  EfficientIvoryMariejeanne = 507
+  _hidden_value = true
+}

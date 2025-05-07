@@ -1,0 +1,176 @@
+type dummy.EthnicCoralAlexandrina {
+  annotations {
+    serviceid_number VaryingGreenGavrielle {
+    }
+    number FutureMagentaBabs {
+    }
+    hidden_boolean DeliciousGrayKinna {
+    }
+    json ExcellentIvoryBili {
+    }
+    json InterestingPinkOlva {
+    }
+    number ShakyIndigoGussy {
+    }
+    dummy.MuteGrayAlexi BreakableFuchsiaKathye {
+    }
+    json PassingTanMadelon {
+    }
+  }
+  dummy.DEFAULT GenuineIndigoMariette {
+    _hidden_value = true
+  }
+  json FantasticSilverWilona {
+    _hidden_value = true
+  }
+  serviceid_number IntensiveGreenRosette {
+    _hidden_value = true
+  }
+  boolean SufficientBeigeKeelia {
+    _hidden_value = true
+  }
+  hidden_boolean ZygoticVioletKarmen {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number YappyCrimsonKaela {
+    _hidden_value = true
+  }
+  "List<serviceid>" ViciousGreenReeva {
+    _hidden_value = true
+  }
+  hidden_boolean ElatedPinkRory {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string OverallAquamarineGlynis {
+    _hidden_value = true
+  }
+  number GiganticCoralDodi {
+    _hidden_value = true
+  }
+  json GeneralSalmonRanice {
+    _hidden_value = true
+  }
+  hidden_boolean OriginalCoffeeGladys {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number SlowTanLucky {
+    _hidden_value = true
+  }
+  serviceid OutsideCoralBlancha {
+    _hidden_value = true
+  }
+  serviceid_number CombativeCopperLetisha {
+    _hidden_value = true
+  }
+  hidden_boolean AssistantPurpleClementine {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number BizarreChocolateNanice {
+    _hidden_value = true
+  }
+  serviceid RichTealJacqueline {
+    _hidden_value = true
+  }
+  serviceid CompactAquamarineCandice {
+    _hidden_value = true
+  }
+  number DiplomaticPinkKoren {
+    _hidden_value = true
+  }
+  hidden_boolean QualifiedLavenderSally {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AutonomousSalmonMira {
+    _hidden_value = true
+  }
+  boolean SevereBlushWaly {
+    _hidden_value = true
+  }
+  string NursingCopperCarmelina {
+    _hidden_value = true
+  }
+  string NationalVioletValma {
+    _hidden_value = true
+  }
+  json DetailedYellowViolette {
+    _hidden_value = true
+  }
+  boolean EvilMaroonBetsy {
+    _hidden_value = true
+  }
+  hidden_boolean VisibleBlackMerci {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean YearlingLimeMicky {
+    _hidden_value = true
+  }
+  "List<number>" CommercialLavenderCori {
+    _hidden_value = true
+  }
+  json BigOliveAleece {
+    _hidden_value = true
+  }
+  hidden_boolean OnlyPeachIlene {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ExperimentalLimeLorita {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number SickGoldEvy {
+    _hidden_value = true
+  }
+  number TechnologicalCyanJannel {
+    _hidden_value = true
+  }
+  VaryingGreenGavrielle = 808
+  FutureMagentaBabs = 332
+  ExcellentIvoryBili = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  InterestingPinkOlva = "Why do birds fly south for the winter? Because it's too far to walk."
+  ShakyIndigoGussy = 942
+  BreakableFuchsiaKathye = 732
+  PassingTanMadelon = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "DiplomaticPinkKoren"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BigOliveAleece"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CombativeCopperLetisha"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "DetailedYellowViolette"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "FantasticSilverWilona"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

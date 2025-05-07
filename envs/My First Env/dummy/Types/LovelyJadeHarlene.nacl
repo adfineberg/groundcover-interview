@@ -1,0 +1,34 @@
+type dummy.LovelyJadeHarlene {
+  annotations {
+    hidden_boolean ModernGreenShae {
+    }
+    json GayGreenMeggi {
+    }
+    json ConcreteCoralKamillah {
+    }
+    hidden_boolean MonthlyMoccasinIdette {
+    }
+    json BareFuchsiaAstrix {
+    }
+    serviceid EnergeticTealJanifer {
+    }
+    dummy.AccessibleTurquoiseEssie BackSalmonAndromache {
+    }
+  }
+  serviceid_number DifficultTurquoiseCathi {
+    _hidden_value = true
+  }
+  GayGreenMeggi = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ConcreteCoralKamillah = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  BareFuchsiaAstrix = "Why didnt the skeleton cross the road? Because he had no guts."
+  EnergeticTealJanifer = "A steak pun is a rare medium well done."
+  BackSalmonAndromache = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "BareFuchsiaAstrix"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

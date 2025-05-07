@@ -1,0 +1,130 @@
+type dummy.SocialEmeraldDrucie {
+  annotations {
+    serviceid_number OrthodoxLimeLorraine {
+    }
+    hidden_boolean ExternalTomatoMaible {
+    }
+    serviceid_number PartialAmaranthLesley {
+    }
+    json SteepOliveSimonne {
+    }
+    number VitalAquaAnnetta {
+    }
+  }
+  number ObviousEmeraldEm {
+    _hidden_value = true
+  }
+  string ShockedLavenderBamby {
+    _hidden_value = true
+  }
+  serviceid ResidentialGoldBrittni {
+    _hidden_value = true
+  }
+  serviceid ConsciousRoseGretel {
+    _hidden_value = true
+  }
+  serviceid TemporarySilverAndi {
+    _hidden_value = true
+  }
+  string BoredMoccasinMagdaia {
+    _hidden_value = true
+  }
+  string PlasticMaroonBeverlie {
+    _hidden_value = true
+  }
+  json HandicappedYellowCoralyn {
+    _hidden_value = true
+  }
+  dummy.OutrageousApricotDelia CloudyBrownMyra {
+    ConvenientGoldYasmin = 972
+    OccasionalGoldSabine = 210
+    ComparableCyanAddia = "Whoever invented the knock-knock joke should get a no bell prize."
+    ConceptualCoffeeAngelle = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    NervousCrimsonBernice = 328
+    DeadIvoryMatilda = {
+      legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    }
+    ManagerialChocolateMaddi = "To be Frank, I'd have to change my name."
+    MagneticCoffeeGae = "Why was it called the dark ages? Because of all the knights. "
+    ConcreteApricotJordain = "Why did the kid cross the playground? To get to the other slide."
+    SupportingCyanAdda = 460
+    AdvancedGreenGilda = 947
+    AvailableTomatoFlorentia = 29
+    SacredLimeGeorgeta = 498
+    ComplexCoffeeNatala = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ColdAquamarineRorie = 64
+    CriticalApricotRita = true
+    UncertainApricotCorly = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    FragileFuchsiaBeitris = 135
+    _hidden_value = true
+  }
+  boolean VocalAzureArdelia {
+    _hidden_value = true
+  }
+  serviceid_number DirtyWhiteFayth {
+    _hidden_value = true
+  }
+  string EvilTurquoiseBab {
+    _hidden_value = true
+  }
+  serviceid_number StripedJadeMargeaux {
+    _hidden_value = true
+  }
+  hidden_boolean MuteBlueDiandra {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json KeenAmaranthTwyla {
+    _hidden_value = true
+  }
+  string SquareFuchsiaNana {
+    _hidden_value = true
+  }
+  hidden_boolean TenderBlueAmye {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number RunningTurquoiseHedda {
+    _hidden_value = true
+  }
+  string FewTealAdan {
+    _hidden_value = true
+  }
+  serviceid AnnualCrimsonManya {
+    _hidden_value = true
+  }
+  serviceid GracefulMagentaVanessa {
+    _hidden_value = true
+  }
+  OrthodoxLimeLorraine = 276
+  PartialAmaranthLesley = 452
+  SteepOliveSimonne = "What did one nut say as he chased another nut?  I'm a cashew!"
+  VitalAquaAnnetta = 127
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "GracefulMagentaVanessa"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ConsciousRoseGretel"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CloudyBrownMyra"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "TemporarySilverAndi"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

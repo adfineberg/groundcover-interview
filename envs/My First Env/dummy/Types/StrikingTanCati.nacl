@@ -1,0 +1,76 @@
+type dummy.StrikingTanCati {
+  annotations {
+    json NursingAmethystErina {
+    }
+    boolean CompatiblePinkKiele {
+    }
+    string TightGrayRozanne {
+    }
+    serviceid_number ObedientCoralOrtensia {
+    }
+    json MarxistRoseClovis {
+    }
+  }
+  string TrickyChocolateNanon {
+    _hidden_value = true
+  }
+  number PurringCyanDemetra {
+    _hidden_value = true
+  }
+  serviceid_number SteepLimeBlair {
+    _hidden_value = true
+  }
+  string SuddenPurpleTamarra {
+    _hidden_value = true
+  }
+  string ProtectiveIvoryKristen {
+    _hidden_value = true
+  }
+  dummy.DEFAULT TheoreticalTealBeatriz {
+    _hidden_value = true
+  }
+  number RoastedAmethystFanchette {
+    _hidden_value = true
+  }
+  serviceid_number FavouritePeachChiquia {
+    _hidden_value = true
+  }
+  number SkilledBlushLyndsey {
+    _hidden_value = true
+  }
+  NursingAmethystErina = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CompatiblePinkKiele = true
+  TightGrayRozanne = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ObedientCoralOrtensia = 88
+  MarxistRoseClovis = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RoastedAmethystFanchette"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "FavouritePeachChiquia"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SteepLimeBlair"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ProtectiveIvoryKristen"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "NursingAmethystErina"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

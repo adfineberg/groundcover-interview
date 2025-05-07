@@ -1,0 +1,91 @@
+type dummy.NeighbouringGrayGusty is number {
+  annotations {
+    json SportingTurquoiseFrancene {
+    }
+    hidden_boolean AdvisoryRedLisabeth {
+    }
+    serviceid PlainGoldBirgitta {
+    }
+    string MeltedIvoryStephenie {
+    }
+    string HurtMoccasinLudovika {
+    }
+    number FinalEmeraldShaylyn {
+    }
+    serviceid_number LinguisticBlushMerry {
+    }
+    hidden_boolean PoliticalBlueIdalia {
+    }
+    serviceid_number ExcitedCyanLorrie {
+    }
+    serviceid ComplexTanGodiva {
+    }
+    number VariousOrangeMariele {
+    }
+    serviceid_number EvilJadeQueenie {
+    }
+    hidden_boolean VerticalAquamarineBecca {
+    }
+    hidden_boolean StingyEmeraldJosepha {
+    }
+    serviceid ProudOrangePenny {
+    }
+    number SouthernLimeCookie {
+    }
+    boolean VictoriousEmeraldBerget {
+    }
+    json CorrespondingAquamarineSilvie {
+    }
+    json IntermediateBlushClaudina {
+    }
+    boolean HorizontalSapphireBernette {
+    }
+    dummy.DEFAULT OverallScarletNicki {
+    }
+    json SpareLimeShelba {
+    }
+    serviceid RelevantRoseHannis {
+    }
+    number InterimMaroonRebe {
+    }
+    boolean MechanicalAmberLib {
+    }
+    dummy.DEFAULT CompactSapphireLetti {
+    }
+    serviceid WiseBlushIlysa {
+    }
+    boolean CalmGoldAnnmarie {
+    }
+    boolean TraditionalTealAddie {
+    }
+  }
+  SportingTurquoiseFrancene = "Why did the kid cross the playground? To get to the other slide."
+  PlainGoldBirgitta = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MeltedIvoryStephenie = "I'll tell you what often gets over looked... garden fences."
+  HurtMoccasinLudovika = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FinalEmeraldShaylyn = 209
+  LinguisticBlushMerry = 774
+  ExcitedCyanLorrie = 365
+  ComplexTanGodiva = "Why did the tomato blush? Because it saw the salad dressing."
+  VariousOrangeMariele = 120
+  EvilJadeQueenie = 164
+  ProudOrangePenny = "Why do birds fly south for the winter? Because it's too far to walk."
+  SouthernLimeCookie = 383
+  VictoriousEmeraldBerget = false
+  CorrespondingAquamarineSilvie = "Slept like a log last night  woke up in the fireplace."
+  IntermediateBlushClaudina = "A steak pun is a rare medium well done."
+  HorizontalSapphireBernette = true
+  OverallScarletNicki = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  SpareLimeShelba = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  RelevantRoseHannis = "What do you do on a remote island? Try and find the TV island it belongs to."
+  InterimMaroonRebe = 786
+  MechanicalAmberLib = true
+  CompactSapphireLetti = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  WiseBlushIlysa = "Why is Peter Pan always flying? Because he Neverlands."
+  CalmGoldAnnmarie = true
+  TraditionalTealAddie = false
+}

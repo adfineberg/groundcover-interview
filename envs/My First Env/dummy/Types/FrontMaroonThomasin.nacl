@@ -1,0 +1,21 @@
+type dummy.FrontMaroonThomasin {
+  annotations {
+    boolean EmbarrassingScarletLenka {
+    }
+    hidden_boolean PhysicalCoffeeTrix {
+    }
+    number MusicalJadeValerie {
+    }
+    hidden_boolean ToughSapphireNeila {
+    }
+    boolean LazyRoseDede {
+    }
+  }
+  dummy.DEFAULT OriginalTanJoanna {
+    _hidden_value = true
+  }
+  EmbarrassingScarletLenka = true
+  MusicalJadeValerie = 810
+  LazyRoseDede = true
+  _hidden_value = true
+}

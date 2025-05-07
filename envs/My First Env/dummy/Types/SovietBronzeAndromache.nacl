@@ -1,0 +1,103 @@
+type dummy.SovietBronzeAndromache {
+  annotations {
+    string BurningMaroonJoete {
+    }
+    serviceid MassiveAmaranthAudry {
+    }
+    serviceid LittleVioletShena {
+    }
+  }
+  serviceid_number BurningCoralJanka {
+    _hidden_value = true
+  }
+  boolean ArrogantJadeBrianna {
+    _hidden_value = true
+  }
+  serviceid SweetAmaranthDarb {
+    _hidden_value = true
+  }
+  serviceid_number ApplicableBeigeMin {
+    _hidden_value = true
+  }
+  dummy.DisastrousMaroonTerrye ThickPurpleHephzibah {
+    ElectricPlumCele = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    MiniatureYellowFlossi = "What do you do on a remote island? Try and find the TV island it belongs to."
+    IsolatedOrangeSusanne = false
+    WellLavenderBernete = "I'll tell you what often gets over looked... garden fences."
+    ExtraordinaryGrayJuditha = "Why did the tomato blush? Because it saw the salad dressing."
+    NetSilverMei = false
+    GoldenTurquoiseAdelaida = false
+    PoliticalRoseJeniece = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    OutrageousSapphireLyda = true
+    NumerousOrangeBrietta = true
+    RemarkableTealBetty = 215
+    PreviousBrownHelsa = true
+    SimpleAquamarineRee = 377
+    LengthyLavenderRosabel = 985
+    BrainySalmonVale = false
+    AccessibleCrimsonJessica = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  serviceid ConvenientSilverKaela {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" SurprisedPinkMoria {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ParentalMaroonEssa {
+    _hidden_value = true
+  }
+  number DistinctiveMagentaCari {
+    _hidden_value = true
+  }
+  serviceid_number RationalRedAstrix {
+    _hidden_value = true
+  }
+  hidden_boolean SpiritualPeachEmelina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SpectacularBlackEmylee {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid RepulsivePeachMaire {
+    _hidden_value = true
+  }
+  serviceid EarlyTanErda {
+    _hidden_value = true
+  }
+  dummy.EventualSilverMerrilee RawWhiteBetsy {
+    _hidden_value = true
+  }
+  hidden_boolean HilariousPurpleRikki {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string DearTurquoiseGussie {
+    _hidden_value = true
+  }
+  BurningMaroonJoete = "Im only familiar with 25 letters in the English language. I dont know why."
+  MassiveAmaranthAudry = "Why did the kid cross the playground? To get to the other slide."
+  LittleVioletShena = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SurprisedPinkMoria"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "BurningMaroonJoete"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

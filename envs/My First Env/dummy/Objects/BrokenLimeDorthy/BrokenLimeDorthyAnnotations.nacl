@@ -1,0 +1,58 @@
+type dummy.BrokenLimeDorthy {
+  annotations {
+    json SwiftPlumClareta {
+    }
+    boolean VerbalSilverAnastassia {
+    }
+    dummy.ScreechingMaroonKrystal MagneticSilverFelicia {
+    }
+    string VariousAmaranthInger {
+    }
+    hidden_boolean BrilliantApricotVicki {
+    }
+    dummy.UpperTanDebby IllegalPlumCacilie {
+    }
+    serviceid_number FlutteringBronzeNaomi {
+    }
+    json ObnoxiousCopperGweneth {
+    }
+    boolean OnlyOliveHarmony {
+    }
+    string JitteryAmethystKristy {
+    }
+    serviceid_number RetailAmberBrigid {
+    }
+    serviceid_number RepulsiveTurquoiseChanna {
+    }
+    string InstitutionalBronzeBelinda {
+    }
+    hidden_boolean LeftSalmonTrescha {
+    }
+  }
+  SwiftPlumClareta = "I'll tell you what often gets over looked... garden fences."
+  VerbalSilverAnastassia = false
+  VariousAmaranthInger = "What do you call two barracuda fish?  A Pairacuda!"
+  IllegalPlumCacilie = true
+  FlutteringBronzeNaomi = 196
+  ObnoxiousCopperGweneth = "What did one nut say as he chased another nut?  I'm a cashew!"
+  OnlyOliveHarmony = false
+  JitteryAmethystKristy = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RetailAmberBrigid = 458
+  RepulsiveTurquoiseChanna = 193
+  InstitutionalBronzeBelinda = "Did you know that protons have mass? I didn't even know they were catholic."
+  _important_values = [
+    {
+      value = "GoldenPlumOdessa"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "JitteryAmethystKristy"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "BrokenLimeDorthy_alias"
+}

@@ -1,0 +1,113 @@
+type dummy.NavalSilverPietra {
+  annotations {
+    json FederalGreenCorinna {
+    }
+    boolean HomelyCrimsonAngil {
+    }
+    boolean SeriousMagentaDamita {
+    }
+    hidden_boolean UselessPurpleShalne {
+    }
+    serviceid LuckyLavenderEsmaria {
+    }
+    hidden_boolean InjuredBronzeEugenia {
+    }
+    hidden_boolean InformalChocolateJeanine {
+    }
+    boolean SpecificVioletMelinda {
+    }
+    string ShockedPinkNanci {
+    }
+    number DelightedBronzeDorolice {
+    }
+    string ManyPlumJillane {
+    }
+    hidden_boolean StraightRoseMartica {
+    }
+    string ExtensiveEmeraldLeonie {
+    }
+    serviceid AbundantCoralBeverlie {
+    }
+    boolean ProspectiveYellowCrysta {
+    }
+    json ModernOrangeZola {
+    }
+    string ZerothPeachMadelina {
+    }
+    dummy.StraightforwardOliveJana AmbitiousGreenBride {
+    }
+  }
+  FederalGreenCorinna = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  HomelyCrimsonAngil = true
+  SeriousMagentaDamita = false
+  LuckyLavenderEsmaria = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SpecificVioletMelinda = true
+  ShockedPinkNanci = "To be Frank, I'd have to change my name."
+  DelightedBronzeDorolice = 446
+  ManyPlumJillane = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ExtensiveEmeraldLeonie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AbundantCoralBeverlie = "Why is Peter Pan always flying? Because he Neverlands."
+  ProspectiveYellowCrysta = false
+  ModernOrangeZola = "Slept like a log last night  woke up in the fireplace."
+  ZerothPeachMadelina = "A steak pun is a rare medium well done."
+  _important_values = [
+    {
+      value = "ContemporaryTomatoIormina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ScaredCyanNannette"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SuddenRoseYoshi"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CruelTomatoAustine"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FixedCopperPaula"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RegulatoryCoralDarla"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AmbitiousGreenBride"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UselessPurpleShalne"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ProspectiveYellowCrysta"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HomelyCrimsonAngil"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ZerothPeachMadelina"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "NavalSilverPietra_alias"
+}

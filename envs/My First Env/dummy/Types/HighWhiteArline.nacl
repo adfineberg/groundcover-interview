@@ -1,0 +1,138 @@
+type dummy.HighWhiteArline {
+  annotations {
+    number AwfulTomatoTerry {
+    }
+    number CapitalistWhiteDarcee {
+    }
+    number ChristianScarletNita {
+    }
+    json QuaintSapphireElvina {
+    }
+  }
+  json DangerousEmeraldDarrelle {
+    _hidden_value = true
+  }
+  boolean YabberingOrangeJoell {
+    _hidden_value = true
+  }
+  serviceid_number SuperbChocolateKarlie {
+    _hidden_value = true
+  }
+  hidden_boolean MidApricotGusti {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean CrudeOliveDiana {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean VerticalJadeGermana {
+    _hidden_value = true
+  }
+  string EventualAzureKarry {
+    _hidden_value = true
+  }
+  dummy.CombinedCyanNatasha AlternativeCopperLeelah {
+    FrozenCyanClaudette = "What do you do on a remote island? Try and find the TV island it belongs to."
+    WideCyanRhoda = 660
+    EnergeticGoldPauli = "What did one nut say as he chased another nut?  I'm a cashew!"
+    SpotlessCopperKyla = "A steak pun is a rare medium well done."
+    VitreousBrownJolee = 719
+    AdjacentSalmonLura = "To be Frank, I'd have to change my name."
+    SpotlessCoffeeJaneva = true
+    UselessSalmonDarlleen = "What creature is smarter than a talking parrot? A spelling bee."
+    PreviousTealBerri = 338
+    RegionalTomatoLorilee = 670
+    NoisyPlumGiustina = true
+    SharedPurpleAdele = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RottenAmaranthPhillie = "Whoever invented the knock-knock joke should get a no bell prize."
+    ImprovedIvoryGenna = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    RoyalTurquoiseRonny = false
+    _hidden_value = true
+  }
+  string PalePinkEugine {
+    _hidden_value = true
+  }
+  number FineIvoryFulvia {
+    _hidden_value = true
+  }
+  hidden_boolean FiscalOliveBeryle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number EldestWhiteBren {
+    _hidden_value = true
+  }
+  json MinimalSapphireAvis {
+    _hidden_value = true
+  }
+  hidden_boolean ProfoundPeachVivianna {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string FatalTurquoiseHulda {
+    _hidden_value = true
+  }
+  boolean CommercialLavenderCarri {
+    _hidden_value = true
+  }
+  string ElatedLavenderLaurene {
+    _hidden_value = true
+  }
+  string AgreeableAzureCherin {
+    _hidden_value = true
+  }
+  string InternationalGoldDian {
+    _hidden_value = true
+  }
+  dummy.UpperTanDebby EmotionalMoccasinFifi {
+    SocialCyanBlondelle = "What do you call two barracuda fish?  A Pairacuda!"
+    CompatibleLimeKarleen = false
+    _hidden_value = true
+  }
+  "List<boolean>" HistoricBlushZita {
+    _hidden_value = true
+  }
+  serviceid SevereCoralAlameda {
+    _hidden_value = true
+  }
+  string StraightCopperGelya {
+    _hidden_value = true
+  }
+  AwfulTomatoTerry = 335
+  CapitalistWhiteDarcee = 52
+  ChristianScarletNita = 388
+  QuaintSapphireElvina = "A steak pun is a rare medium well done."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "EldestWhiteBren"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MidApricotGusti"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EventualAzureKarry"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CommercialLavenderCarri"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "VerticalJadeGermana"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

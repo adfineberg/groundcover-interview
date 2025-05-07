@@ -1,0 +1,79 @@
+type dummy.ProductiveMagentaMarijo {
+  annotations {
+    hidden_boolean PunyFuchsiaAmitie {
+    }
+    hidden_boolean SubtleCopperTeirtza {
+    }
+    dummy.DiverseTurquoiseMariya AlliedTurquoiseLivvy {
+    }
+    hidden_boolean ProtectiveLimeCatriona {
+    }
+    serviceid_number FilthyTurquoiseOlwen {
+    }
+  }
+  "List<serviceid_number>" EstimatedAmaranthReeva {
+    _hidden_value = true
+  }
+  "List<string>" HilariousBlushEnrichetta {
+    _hidden_value = true
+  }
+  string UptightWhiteSadye {
+    _hidden_value = true
+  }
+  "List<dummy.NeighbouringGrayGusty>" YabberingVioletSibley {
+    SportingTurquoiseFrancene = "Why didnt the skeleton cross the road? Because he had no guts."
+    PlainGoldBirgitta = "Why was it called the dark ages? Because of all the knights. "
+    MeltedIvoryStephenie = "What did one nut say as he chased another nut?  I'm a cashew!"
+    HurtMoccasinLudovika = "Why was it called the dark ages? Because of all the knights. "
+    FinalEmeraldShaylyn = 261
+    LinguisticBlushMerry = 597
+    ExcitedCyanLorrie = 607
+    ComplexTanGodiva = "Dad Im hungry  Hi hungry Im dad"
+    VariousOrangeMariele = 188
+    EvilJadeQueenie = 426
+    ProudOrangePenny = "How come the stadium got hot after the game? Because all of the fans left."
+    SouthernLimeCookie = 511
+    VictoriousEmeraldBerget = true
+    CorrespondingAquamarineSilvie = "How come the stadium got hot after the game? Because all of the fans left."
+    IntermediateBlushClaudina = "Why did the kid cross the playground? To get to the other slide."
+    HorizontalSapphireBernette = true
+    OverallScarletNicki = {
+      legit = "Why did the tomato blush? Because it saw the salad dressing."
+    }
+    SpareLimeShelba = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    RelevantRoseHannis = "What creature is smarter than a talking parrot? A spelling bee."
+    InterimMaroonRebe = 782
+    MechanicalAmberLib = true
+    CompactSapphireLetti = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    WiseBlushIlysa = "Slept like a log last night  woke up in the fireplace."
+    CalmGoldAnnmarie = false
+    TraditionalTealAddie = false
+    _hidden_value = true
+  }
+  string UrgentAmaranthEula {
+    _hidden_value = true
+  }
+  string PurringPurpleJaymee {
+    _hidden_value = true
+  }
+  serviceid_number DemocraticAmethystEmili {
+    _hidden_value = true
+  }
+  AlliedTurquoiseLivvy = true
+  FilthyTurquoiseOlwen = 879
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PurringPurpleJaymee"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "YabberingVioletSibley"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

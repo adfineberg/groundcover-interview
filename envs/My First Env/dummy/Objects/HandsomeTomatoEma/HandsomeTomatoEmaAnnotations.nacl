@@ -1,0 +1,95 @@
+type dummy.HandsomeTomatoEma {
+  annotations {
+    serviceid_number MinimalPeachFlss {
+    }
+    hidden_boolean ClumsyOrangeMyriam {
+    }
+    serviceid YoungestOrangeDoreen {
+    }
+    json EagerSalmonJeanna {
+    }
+    json RottenTomatoErminie {
+    }
+    serviceid ConvincingJadeHelen {
+    }
+    dummy.NastyAquaCamella VisibleLimeHyacinthie {
+    }
+    serviceid ProudAquaKatrine {
+    }
+    serviceid_number JitteryRedRosita {
+    }
+    json CurrentCrimsonJosepha {
+    }
+    boolean CapableCoffeeTommy {
+    }
+    string ItchyLavenderSande {
+    }
+    hidden_boolean ImmenseCrimsonKerrill {
+    }
+    boolean OuterBlackDarcey {
+    }
+    serviceid_number ContinuousBlueShanna {
+    }
+    serviceid_number HollowAmberJammie {
+    }
+    json InevitableWhiteHollyanne {
+    }
+    serviceid_number NeighbouringBronzeMariellen {
+    }
+    json EssentialEmeraldGertrud {
+    }
+    dummy.NovelOliveRoanna CapitalistHarlequinJacklin {
+    }
+  }
+  MinimalPeachFlss = 987
+  YoungestOrangeDoreen = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  EagerSalmonJeanna = "Why do birds fly south for the winter? Because it's too far to walk."
+  RottenTomatoErminie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ConvincingJadeHelen = "Why did the tomato blush? Because it saw the salad dressing."
+  ProudAquaKatrine = "Why did the kid cross the playground? To get to the other slide."
+  JitteryRedRosita = 310
+  CurrentCrimsonJosepha = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  CapableCoffeeTommy = false
+  ItchyLavenderSande = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  OuterBlackDarcey = true
+  ContinuousBlueShanna = 303
+  HollowAmberJammie = 718
+  InevitableWhiteHollyanne = "What creature is smarter than a talking parrot? A spelling bee."
+  NeighbouringBronzeMariellen = 960
+  EssentialEmeraldGertrud = "How come the stadium got hot after the game? Because all of the fans left."
+  _important_values = [
+    {
+      value = "GentleCyanBernardina"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "CapitalistHarlequinJacklin"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CurrentCrimsonJosepha"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ProudAquaKatrine"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "EagerSalmonJeanna"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "YoungestOrangeDoreen"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "HandsomeTomatoEma_alias"
+}

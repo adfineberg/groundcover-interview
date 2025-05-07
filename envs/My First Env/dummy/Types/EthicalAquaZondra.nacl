@@ -1,0 +1,35 @@
+type dummy.EthicalAquaZondra {
+  annotations {
+    serviceid_number MistyMaroonRenie {
+    }
+    json DirtyMoccasinBlinni {
+    }
+    string InclinedRoseMelisse {
+    }
+    hidden_boolean CarefulPlumEran {
+    }
+    string WeirdSapphireRanice {
+    }
+  }
+  serviceid_number UsualCoralGisela {
+    _hidden_value = true
+  }
+  number UnknownGreenConsuela {
+    _hidden_value = true
+  }
+  string ScrawnyPeachCleopatra {
+    _hidden_value = true
+  }
+  MistyMaroonRenie = 979
+  DirtyMoccasinBlinni = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  InclinedRoseMelisse = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  WeirdSapphireRanice = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "UnknownGreenConsuela"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

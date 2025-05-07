@@ -1,0 +1,47 @@
+type dummy.MathematicalLavenderUlrica is number {
+  annotations {
+    serviceid WanderingJadeAnestassia {
+    }
+    serviceid ContinuousPurpleAaren {
+    }
+    serviceid_number SeriousTomatoMaurine {
+    }
+    serviceid_number PainfulAmethystKrista {
+    }
+    number BlushingJadeRici {
+    }
+    serviceid_number SelectiveEmeraldBathsheba {
+    }
+    hidden_boolean HomelessSilverRosaleen {
+    }
+    json EffectiveTanKathye {
+    }
+    boolean CheerfulAquaAdda {
+    }
+    hidden_boolean DistinctiveTanLanae {
+    }
+    serviceid_number CommercialSapphireLeilah {
+    }
+    number GrumpySilverWilly {
+    }
+    serviceid GrubbyPinkNanice {
+    }
+    serviceid_number AboveSapphireCrysta {
+    }
+    string InevitablePeachSal {
+    }
+  }
+  WanderingJadeAnestassia = "Why did the tomato blush? Because it saw the salad dressing."
+  ContinuousPurpleAaren = "To be Frank, I'd have to change my name."
+  SeriousTomatoMaurine = 573
+  PainfulAmethystKrista = 876
+  BlushingJadeRici = 961
+  SelectiveEmeraldBathsheba = 36
+  EffectiveTanKathye = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CheerfulAquaAdda = true
+  CommercialSapphireLeilah = 810
+  GrumpySilverWilly = 953
+  GrubbyPinkNanice = "What creature is smarter than a talking parrot? A spelling bee."
+  AboveSapphireCrysta = 558
+  InevitablePeachSal = "What do you call two barracuda fish?  A Pairacuda!"
+}

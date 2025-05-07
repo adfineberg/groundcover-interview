@@ -1,0 +1,47 @@
+type dummy.MobilePeachCassandry {
+  "List<serviceid_number>" ProspectiveJadeHalette {
+  }
+  serviceid BrilliantGrayNikolia {
+  }
+  serviceid_number SickTealCelle {
+  }
+  number ThoughtfulYellowJeniffer {
+  }
+  string ColouredBrownFlorencia {
+  }
+  boolean IdenticalCyanGwenore {
+  }
+  json SoreBeigeMoyra {
+  }
+  hidden_boolean IndividualChocolateEmeline {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<serviceid>" ZygomorphicApricotBettine {
+  }
+  hidden_boolean HostileHarlequinKirsteni {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  string FunnyOliveCollen {
+  }
+  serviceid_number DomesticEmeraldAdore {
+  }
+  number GorgeousGreenRonica {
+  }
+  serviceid_number PrimeGrayRobbin {
+  }
+  serviceid_number MaximumRoseCorie {
+  }
+  boolean BrilliantCoralAva {
+  }
+  boolean MarvellousOrangeCrista {
+  }
+  hidden_boolean NeutralPinkLinette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+}

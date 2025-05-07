@@ -1,0 +1,31 @@
+type dummy.RipeLimeMarj {
+  annotations {
+    boolean BlushingIndigoToni {
+    }
+    hidden_boolean ImpressedEmeraldFianna {
+    }
+    json OutsideMoccasinXaviera {
+    }
+    serviceid WillowyAzureOrsa {
+    }
+  }
+  boolean TypicalPeachCandi {
+    _hidden_value = true
+  }
+  BlushingIndigoToni = true
+  OutsideMoccasinXaviera = "Slept like a log last night  woke up in the fireplace."
+  WillowyAzureOrsa = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "OutsideMoccasinXaviera"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "BlushingIndigoToni"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

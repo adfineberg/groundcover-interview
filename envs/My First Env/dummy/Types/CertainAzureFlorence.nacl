@@ -1,0 +1,40 @@
+type dummy.CertainAzureFlorence {
+  annotations {
+    dummy.DEFAULT AutonomousLavenderVivi {
+    }
+    serviceid AtomicJadeJanaye {
+    }
+    number GreatChocolateMarylinda {
+    }
+    string SpectacularCopperCaroljean {
+    }
+    number NewTealJyoti {
+    }
+    serviceid_number WorriedAmaranthLorita {
+    }
+  }
+  serviceid_number OriginalTealYolanthe {
+    _hidden_value = true
+  }
+  AutonomousLavenderVivi = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  AtomicJadeJanaye = "Whoever invented the knock-knock joke should get a no bell prize."
+  GreatChocolateMarylinda = 338
+  SpectacularCopperCaroljean = "What do you call two barracuda fish?  A Pairacuda!"
+  NewTealJyoti = 182
+  WorriedAmaranthLorita = 119
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "WorriedAmaranthLorita"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "GreatChocolateMarylinda"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

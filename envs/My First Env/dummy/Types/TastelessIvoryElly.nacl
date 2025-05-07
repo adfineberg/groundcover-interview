@@ -1,0 +1,83 @@
+type dummy.TastelessIvoryElly {
+  annotations {
+    hidden_boolean UnhappyScarletSarina {
+    }
+    boolean PreliminaryChocolateDolli {
+    }
+    json ReducedBeigeCelesta {
+    }
+    serviceid ThickBlueAmelina {
+    }
+  }
+  serviceid_number RedundantSilverMarci {
+    _hidden_value = true
+  }
+  boolean ElegantHarlequinEartha {
+    _hidden_value = true
+  }
+  number HelplessHarlequinChristiana {
+    _hidden_value = true
+  }
+  number UncertainTealAlyce {
+    _hidden_value = true
+  }
+  boolean XericApricotDenny {
+    _hidden_value = true
+  }
+  boolean ViolentIndigoRemy {
+    _hidden_value = true
+  }
+  serviceid IcySapphireMarne {
+    _hidden_value = true
+  }
+  boolean UrgentAquaWilow {
+    _hidden_value = true
+  }
+  hidden_boolean ClearPlumMathilde {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json MadAquamarineSisile {
+    _hidden_value = true
+  }
+  dummy.FastVioletDaniela BriefChocolateLoleta {
+    YieldingGreenRosamond = 893
+    CleverPeachEngracia = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    YtterbicTealGaylene = 149
+    YammeringPinkMarcelline = 896
+    OverwhelmingYellowKariotta = "Slept like a log last night  woke up in the fireplace."
+    JuicyApricotMercie = 290
+    IntimateIvoryAnnissa = "Why did the tomato blush? Because it saw the salad dressing."
+    SpectacularMagentaMellicent = "Why do birds fly south for the winter? Because it's too far to walk."
+    ShiveringScarletMilka = 586
+    FrontChocolateLucinda = false
+    SexualGoldAlicia = 231
+    MonetaryIvoryDawna = 637
+    PoisedLavenderAndeee = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    _hidden_value = true
+  }
+  boolean ThoroughAzureRozanna {
+    _hidden_value = true
+  }
+  json ExtraordinaryMoccasinJyoti {
+    _hidden_value = true
+  }
+  hidden_boolean VoluntaryVioletAurelea {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ThinCyanEthelyn {
+    _hidden_value = true
+  }
+  boolean ToughAmaranthCordi {
+    _hidden_value = true
+  }
+  PreliminaryChocolateDolli = false
+  ReducedBeigeCelesta = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ThickBlueAmelina = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

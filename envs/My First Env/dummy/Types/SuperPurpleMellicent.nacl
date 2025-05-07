@@ -1,0 +1,106 @@
+type dummy.SuperPurpleMellicent {
+  annotations {
+    number SurprisedBlushCaria {
+    }
+    json SupportingIndigoDawna {
+    }
+    number ToughAquaRenae {
+    }
+    hidden_boolean IncredibleIndigoJonell {
+    }
+    serviceid_number BareBlushAnabal {
+    }
+  }
+  serviceid WastefulGrayLynnelle {
+    _hidden_value = true
+  }
+  string MuteAzureLenee {
+    _hidden_value = true
+  }
+  number ActualGoldTatum {
+    _hidden_value = true
+  }
+  json CuteCopperFarra {
+    _hidden_value = true
+  }
+  serviceid CoolBlackTawsha {
+    _hidden_value = true
+  }
+  json InadequateRoseJessalyn {
+    _hidden_value = true
+  }
+  serviceid_number SourAmaranthMinnie {
+    _hidden_value = true
+  }
+  string SquealingSalmonRevkah {
+    _hidden_value = true
+  }
+  json ShallowScarletRora {
+    _hidden_value = true
+  }
+  number WonderfulTealJenni {
+    _hidden_value = true
+  }
+  json OralOliveEbba {
+    _hidden_value = true
+  }
+  boolean FullTanTheo {
+    _hidden_value = true
+  }
+  string SmoggyMagentaNatalya {
+    _hidden_value = true
+  }
+  json TinyMoccasinMiguelita {
+    _hidden_value = true
+  }
+  dummy.DEFAULT MeltedBrownMarketa {
+    _hidden_value = true
+  }
+  json ParentalAmberMirella {
+    _hidden_value = true
+  }
+  "List<dummy.LegitimateBlushGoldie>" CoherentHarlequinBlondelle {
+    RealisticCoffeeRoberta = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ConvincingJadeNorma = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  hidden_boolean UpperMaroonLetti {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  SurprisedBlushCaria = 942
+  SupportingIndigoDawna = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ToughAquaRenae = 21
+  BareBlushAnabal = 825
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "WonderfulTealJenni"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ActualGoldTatum"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "UpperMaroonLetti"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ToughAquaRenae"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "IncredibleIndigoJonell"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,27 @@
+type dummy.BrilliantTanKaryn {
+  annotations {
+    hidden_boolean InternalScarletTheresita {
+    }
+    hidden_boolean SeriousBrownMilli {
+    }
+    dummy.MuteGrayAlexi FlyingAmberDinnie {
+    }
+    hidden_boolean StrategicRedLoreen {
+    }
+  }
+  dummy.DEFAULT BasicCyanMorgen {
+    _hidden_value = true
+  }
+  serviceid_number GlamorousBronzeDrucill {
+    _hidden_value = true
+  }
+  FlyingAmberDinnie = 410
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "SeriousBrownMilli"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

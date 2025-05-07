@@ -1,0 +1,82 @@
+type dummy.CrazyPinkAvivah {
+  annotations {
+    string SuperiorLavenderKissiah {
+    }
+    boolean ApplicableTanElsie {
+    }
+    json AwakeBlueKarie {
+    }
+    json ConsciousBlueJoelie {
+    }
+    number TerribleApricotDita {
+    }
+  }
+  boolean TastyMaroonSher {
+    _hidden_value = true
+  }
+  hidden_boolean CrazyCoffeeMelisande {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean ColouredAmberMuffin {
+    _hidden_value = true
+  }
+  boolean DevelopedMagentaMelany {
+    _hidden_value = true
+  }
+  number PreciousSilverNina {
+    _hidden_value = true
+  }
+  string IntactGreenKarole {
+    _hidden_value = true
+  }
+  dummy.MassYellowCorina UncomfortableCoffeeAileen {
+    _hidden_value = true
+  }
+  json PoliticalTomatoPeggie {
+    _hidden_value = true
+  }
+  serviceid VerticalSilverMaible {
+    _hidden_value = true
+  }
+  hidden_boolean CoherentLavenderMoira {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string DamagedAzureStepha {
+    _hidden_value = true
+  }
+  json FundamentalMaroonChristiane {
+    _hidden_value = true
+  }
+  "List<number>" ProtestantGoldFlorencia {
+    _hidden_value = true
+  }
+  SuperiorLavenderKissiah = "Whoever invented the knock-knock joke should get a no bell prize."
+  ApplicableTanElsie = false
+  AwakeBlueKarie = "What do you call two barracuda fish?  A Pairacuda!"
+  ConsciousBlueJoelie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  TerribleApricotDita = 520
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ColouredAmberMuffin"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "AwakeBlueKarie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ApplicableTanElsie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

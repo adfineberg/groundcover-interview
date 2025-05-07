@@ -1,0 +1,39 @@
+type dummy.RudeVioletAthena {
+  annotations {
+    boolean CurrentMaroonPeggy {
+    }
+    serviceid DoubleAquaDebee {
+    }
+    serviceid_number SpatialWhiteDorelia {
+    }
+    json FierceBlueJuline {
+    }
+    boolean StripedBrownRenata {
+    }
+    serviceid_number EnormousHarlequinLulita {
+    }
+    string OriginalBrownShelly {
+    }
+    boolean BrokenVioletLaney {
+    }
+  }
+  dummy.DEFAULT SquealingTanBrande {
+    _hidden_value = true
+  }
+  CurrentMaroonPeggy = false
+  DoubleAquaDebee = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SpatialWhiteDorelia = 891
+  FierceBlueJuline = "To be Frank, I'd have to change my name."
+  StripedBrownRenata = true
+  EnormousHarlequinLulita = 608
+  OriginalBrownShelly = "Why was it called the dark ages? Because of all the knights. "
+  BrokenVioletLaney = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "EnormousHarlequinLulita"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

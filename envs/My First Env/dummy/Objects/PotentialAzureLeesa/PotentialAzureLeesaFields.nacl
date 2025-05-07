@@ -1,0 +1,7 @@
+type dummy.PotentialAzureLeesa {
+  hidden_boolean InlandCopperCollete {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+}

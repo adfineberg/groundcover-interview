@@ -1,0 +1,85 @@
+type dummy.StrategicAzureReina {
+  annotations {
+    serviceid_number UltimateGreenSalaidh {
+    }
+    boolean UnwillingAquamarineJacquette {
+    }
+    boolean UglyJadeShalne {
+    }
+    boolean SquareAquaMyrtie {
+    }
+    number DisgustedCopperHarrietta {
+    }
+    number SpiritualGrayGertie {
+    }
+    json FreeCrimsonEffie {
+    }
+  }
+  number OuterCoffeeNadiya {
+    _hidden_value = true
+  }
+  number LtdSapphireRubie {
+    _hidden_value = true
+  }
+  string FutureIvoryFlorinda {
+    _hidden_value = true
+  }
+  json LovelyAquaCyndia {
+    _hidden_value = true
+  }
+  hidden_boolean HushedAmethystCynthie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean HistoricalRedKirsteni {
+    _hidden_value = true
+  }
+  dummy.MathematicalLavenderUlrica ConsciousVioletCorabelle {
+    WanderingJadeAnestassia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ContinuousPurpleAaren = "Why didnt the skeleton cross the road? Because he had no guts."
+    SeriousTomatoMaurine = 9
+    PainfulAmethystKrista = 457
+    BlushingJadeRici = 495
+    SelectiveEmeraldBathsheba = 555
+    EffectiveTanKathye = "Whoever invented the knock-knock joke should get a no bell prize."
+    CheerfulAquaAdda = false
+    CommercialSapphireLeilah = 370
+    GrumpySilverWilly = 483
+    GrubbyPinkNanice = "A steak pun is a rare medium well done."
+    AboveSapphireCrysta = 758
+    InevitablePeachSal = "To be Frank, I'd have to change my name."
+    _hidden_value = true
+  }
+  hidden_boolean IndividualCoralVerile {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean HushedPeachMella {
+    _hidden_value = true
+  }
+  number CapableBlushSuzette {
+    _hidden_value = true
+  }
+  hidden_boolean IncredibleTanHonor {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  UltimateGreenSalaidh = 148
+  UnwillingAquamarineJacquette = false
+  UglyJadeShalne = false
+  SquareAquaMyrtie = true
+  DisgustedCopperHarrietta = 888
+  SpiritualGrayGertie = 245
+  FreeCrimsonEffie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "UnwillingAquamarineJacquette"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

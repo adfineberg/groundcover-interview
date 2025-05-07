@@ -1,0 +1,51 @@
+type dummy.CombinedCyanNatasha is boolean {
+  annotations {
+    serviceid FrozenCyanClaudette {
+    }
+    serviceid_number WideCyanRhoda {
+    }
+    string EnergeticGoldPauli {
+    }
+    json SpotlessCopperKyla {
+    }
+    hidden_boolean ApplicableEmeraldSusy {
+    }
+    number VitreousBrownJolee {
+    }
+    serviceid AdjacentSalmonLura {
+    }
+    boolean SpotlessCoffeeJaneva {
+    }
+    string UselessSalmonDarlleen {
+    }
+    serviceid_number PreviousTealBerri {
+    }
+    number RegionalTomatoLorilee {
+    }
+    boolean NoisyPlumGiustina {
+    }
+    json SharedPurpleAdele {
+    }
+    serviceid RottenAmaranthPhillie {
+    }
+    json ImprovedIvoryGenna {
+    }
+    boolean RoyalTurquoiseRonny {
+    }
+  }
+  FrozenCyanClaudette = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  WideCyanRhoda = 0
+  EnergeticGoldPauli = "Why didnt the skeleton cross the road? Because he had no guts."
+  SpotlessCopperKyla = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  VitreousBrownJolee = 172
+  AdjacentSalmonLura = "Why do birds fly south for the winter? Because it's too far to walk."
+  SpotlessCoffeeJaneva = true
+  UselessSalmonDarlleen = "How come the stadium got hot after the game? Because all of the fans left."
+  PreviousTealBerri = 248
+  RegionalTomatoLorilee = 113
+  NoisyPlumGiustina = false
+  SharedPurpleAdele = "What do you call two barracuda fish?  A Pairacuda!"
+  RottenAmaranthPhillie = "Slept like a log last night  woke up in the fireplace."
+  ImprovedIvoryGenna = "What did one nut say as he chased another nut?  I'm a cashew!"
+  RoyalTurquoiseRonny = false
+}

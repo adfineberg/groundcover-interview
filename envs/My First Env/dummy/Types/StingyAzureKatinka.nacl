@@ -1,0 +1,97 @@
+type dummy.StingyAzureKatinka {
+  annotations {
+    serviceid_number DifferentAzureNatalie {
+    }
+    string UsefulVioletJonell {
+    }
+    string RareOrangeBrietta {
+    }
+    hidden_boolean CommunistOliveLilas {
+    }
+    hidden_boolean SouthernWhiteMarianne {
+    }
+    string FitBronzeCarolyn {
+    }
+  }
+  string QuaintBrownStarla {
+    _hidden_value = true
+  }
+  hidden_boolean GrubbyBlueCindi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number SatisfactorySilverDusty {
+    _hidden_value = true
+  }
+  number MammothBeigeTani {
+    _hidden_value = true
+  }
+  serviceid TraditionalGoldLucilia {
+    _hidden_value = true
+  }
+  hidden_boolean FinancialPinkDee {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string TerritorialBlackHaily {
+    _hidden_value = true
+  }
+  number InnerLavenderNoelyn {
+    _hidden_value = true
+  }
+  boolean WitteringWhiteJuline {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" SelectedCoffeeAgneta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "Map<string>" WelcomeOrangeNoell {
+    _hidden_value = true
+  }
+  string PrimitiveTanMadelon {
+    _hidden_value = true
+  }
+  serviceid KeyLavenderPen {
+    _hidden_value = true
+  }
+  json LiteraryAquaArabelle {
+    _hidden_value = true
+  }
+  dummy.DEFAULT StaleCoralBrynna {
+    _hidden_value = true
+  }
+  number LargeCoralKatalin {
+    _hidden_value = true
+  }
+  json GoverningPlumAllie {
+    _hidden_value = true
+  }
+  DifferentAzureNatalie = 493
+  UsefulVioletJonell = "What do you do on a remote island? Try and find the TV island it belongs to."
+  RareOrangeBrietta = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FitBronzeCarolyn = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "GoverningPlumAllie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LiteraryAquaArabelle"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "UsefulVioletJonell"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

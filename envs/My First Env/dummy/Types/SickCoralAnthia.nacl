@@ -1,0 +1,46 @@
+type dummy.SickCoralAnthia {
+  annotations {
+    string UglyRoseFlorencia {
+    }
+    hidden_boolean OptimisticCopperCoral {
+    }
+    serviceid_number AlternativeMaroonWilhelmine {
+    }
+    serviceid_number InjuredCoralAdriana {
+    }
+    dummy.JustBeigeShaylynn RegionalPlumFrederique {
+    }
+  }
+  json SlowPeachLaverne {
+    _hidden_value = true
+  }
+  serviceid RegionalAmaranthOdessa {
+    _hidden_value = true
+  }
+  string ChronicRoseBelle {
+    _hidden_value = true
+  }
+  boolean SingleFuchsiaVeradis {
+    _hidden_value = true
+  }
+  string DualJadeAnnabell {
+    _hidden_value = true
+  }
+  boolean PresentTanRuthanne {
+    _hidden_value = true
+  }
+  string EndlessEmeraldLee {
+    _hidden_value = true
+  }
+  string SecureOliveMarylinda {
+    _hidden_value = true
+  }
+  serviceid ThenTealEmmaline {
+    _hidden_value = true
+  }
+  UglyRoseFlorencia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AlternativeMaroonWilhelmine = 447
+  InjuredCoralAdriana = 372
+  RegionalPlumFrederique = false
+  _hidden_value = true
+}

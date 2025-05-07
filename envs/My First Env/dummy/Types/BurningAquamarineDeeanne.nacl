@@ -1,0 +1,145 @@
+type dummy.BurningAquamarineDeeanne {
+  annotations {
+    string ThickMoccasinGarnette {
+    }
+    json MinimumLimeAmalea {
+    }
+    json RidiculousSalmonSunny {
+    }
+    dummy.DEFAULT SlowCoralEirena {
+    }
+    json PurringApricotChristine {
+    }
+    dummy.LegitimateBlushGoldie CooingYellowMaegan {
+    }
+  }
+  serviceid_number NosyMaroonPippa {
+    _hidden_value = true
+  }
+  json HeavyTomatoKordula {
+    _hidden_value = true
+  }
+  number EmpiricalPeachIngunna {
+    _hidden_value = true
+  }
+  serviceid_number SplendidApricotAmelina {
+    _hidden_value = true
+  }
+  number CreepyApricotHannis {
+    _hidden_value = true
+  }
+  string UltimateLimeAjay {
+    _hidden_value = true
+  }
+  json PaleGreenSue {
+    _hidden_value = true
+  }
+  serviceid_number GladCoralAveline {
+    _hidden_value = true
+  }
+  hidden_boolean BindingMoccasinCecelia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid PopularTurquoiseFelicle {
+    _hidden_value = true
+  }
+  hidden_boolean RaspyMoccasinDotty {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  dummy.GeographicalOrangeShaina AssistantCrimsonReeta {
+    ZonalBrownShaina = "Dad Im hungry  Hi hungry Im dad"
+    FixedTanLorrin = "What do you do on a remote island? Try and find the TV island it belongs to."
+    SubsequentTanEricha = true
+    UninterestedOliveLicha = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    MagnificentJadeJuliet = true
+    XerothermicChocolateMarjory = 286
+    _hidden_value = true
+  }
+  hidden_boolean LeadingTomatoDora {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ChosenLimeStephannie {
+    _hidden_value = true
+  }
+  string SemanticTurquoiseManda {
+    _hidden_value = true
+  }
+  hidden_boolean CoastalHarlequinArdyth {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number DefeatedCoralCamilla {
+    _hidden_value = true
+  }
+  json VivaciousSapphireIlyssa {
+    _hidden_value = true
+  }
+  boolean InquisitiveTealLinea {
+    _hidden_value = true
+  }
+  hidden_boolean ForthcomingIvoryCandice {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.ResultingCrimsonArdath MarineCrimsonShelia {
+    SuddenSalmonLissa = 213
+    LiableMaroonFrank = "How come the stadium got hot after the game? Because all of the fans left."
+    QuintessentialLavenderCorenda = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SexualIvoryNannette = "Why is Peter Pan always flying? Because he Neverlands."
+    SplendidTomatoNesta = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    SkinnyLavenderKorry = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    _hidden_value = true
+  }
+  dummy.MathematicalLavenderUlrica JointBlushIrita {
+    WanderingJadeAnestassia = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ContinuousPurpleAaren = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    SeriousTomatoMaurine = 408
+    PainfulAmethystKrista = 540
+    BlushingJadeRici = 17
+    SelectiveEmeraldBathsheba = 518
+    EffectiveTanKathye = "How come the stadium got hot after the game? Because all of the fans left."
+    CheerfulAquaAdda = false
+    CommercialSapphireLeilah = 801
+    GrumpySilverWilly = 332
+    GrubbyPinkNanice = "What do you do on a remote island? Try and find the TV island it belongs to."
+    AboveSapphireCrysta = 199
+    InevitablePeachSal = "Why didnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  ThickMoccasinGarnette = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  MinimumLimeAmalea = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  RidiculousSalmonSunny = "How come the stadium got hot after the game? Because all of the fans left."
+  SlowCoralEirena = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  PurringApricotChristine = "What do you call two barracuda fish?  A Pairacuda!"
+  CooingYellowMaegan = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "VivaciousSapphireIlyssa"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ForthcomingIvoryCandice"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RaspyMoccasinDotty"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

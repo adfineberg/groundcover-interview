@@ -1,0 +1,40 @@
+type dummy.ViciousGoldTessi is number {
+  annotations {
+    json YtterbicTomatoJobie {
+    }
+    json FatTurquoiseKiersten {
+    }
+    number RelativeBlackGlennis {
+    }
+    serviceid_number SkilledCrimsonMargi {
+    }
+    serviceid_number EfficientTurquoiseRasla {
+    }
+    number ThoroughIvoryJanette {
+    }
+    serviceid FineTurquoiseCorry {
+    }
+    serviceid_number EfficientTomatoMerci {
+    }
+    string OverwhelmingGreenStephine {
+    }
+    json UnpleasantGreenKristin {
+    }
+    number StraightforwardChocolateGermaine {
+    }
+    boolean PermanentPinkOthella {
+    }
+  }
+  YtterbicTomatoJobie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FatTurquoiseKiersten = "Im only familiar with 25 letters in the English language. I dont know why."
+  RelativeBlackGlennis = 170
+  SkilledCrimsonMargi = 963
+  EfficientTurquoiseRasla = 711
+  ThoroughIvoryJanette = 796
+  FineTurquoiseCorry = "Why is Peter Pan always flying? Because he Neverlands."
+  EfficientTomatoMerci = 726
+  OverwhelmingGreenStephine = "To be Frank, I'd have to change my name."
+  UnpleasantGreenKristin = "What do you call two barracuda fish?  A Pairacuda!"
+  StraightforwardChocolateGermaine = 870
+  PermanentPinkOthella = false
+}

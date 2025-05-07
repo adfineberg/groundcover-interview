@@ -1,0 +1,34 @@
+type dummy.HollowScarletPatsy {
+  annotations {
+    dummy.DEFAULT HappyHarlequinJennifer {
+    }
+    dummy.DEFAULT TechnologicalBronzeLizabeth {
+    }
+    boolean StaticBlushLura {
+    }
+    dummy.OutrageousApricotDelia ConvenientApricotLaverne {
+    }
+    number BriefBlushRay {
+    }
+  }
+  serviceid DearTanValeria {
+    _hidden_value = true
+  }
+  HappyHarlequinJennifer = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  TechnologicalBronzeLizabeth = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  StaticBlushLura = false
+  ConvenientApricotLaverne = 803
+  BriefBlushRay = 462
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "BriefBlushRay"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,50 @@
+type dummy.NuclearOrangeWilma {
+  annotations {
+    json ItchyBrownArda {
+    }
+    serviceid_number StructuralLimeMagdalen {
+    }
+    string EqualScarletMerilee {
+    }
+    hidden_boolean DullCoralLauralee {
+    }
+    dummy.DEFAULT BlankAmaranthMonique {
+    }
+    boolean MarriedPinkBari {
+    }
+  }
+  dummy.DEFAULT NakedBlueMargo {
+    _hidden_value = true
+  }
+  json MaximumPurpleAnalise {
+    _hidden_value = true
+  }
+  serviceid PerfectCyanJojo {
+    _hidden_value = true
+  }
+  json SteepBronzeYvette {
+    _hidden_value = true
+  }
+  serviceid FortunateJadeNyssa {
+    _hidden_value = true
+  }
+  serviceid_number InadequateRedLisette {
+    _hidden_value = true
+  }
+  "List<number>" ReadyPurpleSabina {
+    _hidden_value = true
+  }
+  hidden_boolean FitGreenMarsiella {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  ItchyBrownArda = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  StructuralLimeMagdalen = 644
+  EqualScarletMerilee = "I'll tell you what often gets over looked... garden fences."
+  BlankAmaranthMonique = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  MarriedPinkBari = true
+  _hidden_value = true
+}

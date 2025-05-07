@@ -1,0 +1,52 @@
+type dummy.FiercePlumLavena {
+  annotations {
+    boolean DynamicPeachAnabelle {
+    }
+    dummy.DEFAULT SplendidBronzeMartguerita {
+    }
+    hidden_boolean InnocentBrownKarisa {
+    }
+    serviceid HealthyBronzeOlva {
+    }
+    boolean CommunistAzureColetta {
+    }
+    boolean DeepPeachEadie {
+    }
+    json MassiveWhiteAindrea {
+    }
+  }
+  hidden_boolean FinancialLimeLynde {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number RollingSilverClarey {
+    _hidden_value = true
+  }
+  serviceid RottenVioletSidonia {
+    _hidden_value = true
+  }
+  serviceid SurprisingHarlequinNancy {
+    _hidden_value = true
+  }
+  hidden_boolean SlowFuchsiaNolana {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json RespectablePurpleOlimpia {
+    _hidden_value = true
+  }
+  json NecessarySilverMarieann {
+    _hidden_value = true
+  }
+  DynamicPeachAnabelle = false
+  SplendidBronzeMartguerita = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  HealthyBronzeOlva = "Did you know that protons have mass? I didn't even know they were catholic."
+  CommunistAzureColetta = true
+  DeepPeachEadie = false
+  MassiveWhiteAindrea = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

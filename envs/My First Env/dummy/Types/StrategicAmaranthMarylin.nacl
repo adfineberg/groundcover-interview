@@ -1,0 +1,68 @@
+type dummy.StrategicAmaranthMarylin {
+  annotations {
+    serviceid SimpleApricotAmi {
+    }
+    dummy.DEFAULT LocalAmaranthVannie {
+    }
+    boolean ZippyMoccasinAmabel {
+    }
+    string LogicalMagentaKarena {
+    }
+    number WellMoccasinTrixi {
+    }
+  }
+  number FederalSilverYolanthe {
+    _hidden_value = true
+  }
+  serviceid_number RoughCoffeeGladys {
+    _hidden_value = true
+  }
+  hidden_boolean ApplicableGoldCarissa {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string NastyPlumAdria {
+    _hidden_value = true
+  }
+  json LinguisticRedAshlee {
+    _hidden_value = true
+  }
+  serviceid UpperOliveFrancesca {
+    _hidden_value = true
+  }
+  serviceid AcademicHarlequinKarel {
+    _hidden_value = true
+  }
+  string SystematicGrayRivi {
+    _hidden_value = true
+  }
+  boolean PlasticSilverMaure {
+    _hidden_value = true
+  }
+  hidden_boolean TenseCrimsonAmalee {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  SimpleApricotAmi = "What do you do on a remote island? Try and find the TV island it belongs to."
+  LocalAmaranthVannie = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  ZippyMoccasinAmabel = true
+  LogicalMagentaKarena = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  WellMoccasinTrixi = 22
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RoughCoffeeGladys"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LinguisticRedAshlee"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

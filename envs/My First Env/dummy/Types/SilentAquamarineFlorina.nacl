@@ -1,0 +1,35 @@
+type dummy.SilentAquamarineFlorina {
+  annotations {
+    string IntactVioletDanell {
+    }
+    boolean ClumsyHarlequinMoselle {
+    }
+    string WeeOliveAnnadiana {
+    }
+    string PriorTanNan {
+    }
+    json PersonalAmethystRosalie {
+    }
+  }
+  number UnwillingOrangeHalette {
+    _hidden_value = true
+  }
+  IntactVioletDanell = "What do you call two barracuda fish?  A Pairacuda!"
+  ClumsyHarlequinMoselle = true
+  WeeOliveAnnadiana = "To be Frank, I'd have to change my name."
+  PriorTanNan = "Why did the tomato blush? Because it saw the salad dressing."
+  PersonalAmethystRosalie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "PriorTanNan"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ClumsyHarlequinMoselle"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

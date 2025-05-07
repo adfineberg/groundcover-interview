@@ -1,0 +1,32 @@
+type dummy.UnhappyTomatoShannon {
+  annotations {
+    number GeneticApricotClementia {
+    }
+    hidden_boolean LegalCoralKlara {
+    }
+    json ProfitableCoffeeWandie {
+    }
+    serviceid YummyPeachLeigha {
+    }
+    serviceid EvilEmeraldMary {
+    }
+    string IdealCyanHanny {
+    }
+  }
+  boolean ExcitedSapphireTilly {
+    _hidden_value = true
+  }
+  GeneticApricotClementia = 228
+  ProfitableCoffeeWandie = "How come the stadium got hot after the game? Because all of the fans left."
+  YummyPeachLeigha = "What creature is smarter than a talking parrot? A spelling bee."
+  EvilEmeraldMary = "Why did the kid cross the playground? To get to the other slide."
+  IdealCyanHanny = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "GeneticApricotClementia"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

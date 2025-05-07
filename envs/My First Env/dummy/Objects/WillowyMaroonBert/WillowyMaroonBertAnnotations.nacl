@@ -1,0 +1,81 @@
+type dummy.WillowyMaroonBert {
+  annotations {
+    string BreezySalmonCarena {
+    }
+    string InterestingOliveOdilia {
+    }
+    string RainyCoffeeDeirdre {
+    }
+    dummy.LiberalFuchsiaDona LowHarlequinDoralin {
+    }
+    serviceid DesperateCoralKinna {
+    }
+    serviceid VisualIvoryShane {
+    }
+    json QuickestPeachAlvina {
+    }
+    serviceid_number DevelopingSapphireGoldia {
+    }
+    boolean BrainyRoseStevana {
+    }
+    json OralGoldHedvig {
+    }
+    boolean JointCrimsonLeland {
+    }
+    dummy.PossiblePurpleAllianora RenewedAzureDaisey {
+    }
+    dummy.LovelyJadeHarlene VivaciousGoldFleurette {
+    }
+    dummy.IndirectSalmonTina AdditionalLimeHelene {
+    }
+    serviceid MixedApricotJacquelyn {
+    }
+    serviceid_number GuiltyBlushStarlin {
+    }
+    serviceid_number DisciplinaryIndigoEsta {
+    }
+    boolean LiteraryAmethystSherrie {
+    }
+    hidden_boolean CivilLimeLeona {
+    }
+    string MassRedCaitlin {
+    }
+    serviceid_number RemainingScarletAudry {
+    }
+  }
+  BreezySalmonCarena = "What do you call two barracuda fish?  A Pairacuda!"
+  InterestingOliveOdilia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  RainyCoffeeDeirdre = "Slept like a log last night  woke up in the fireplace."
+  DesperateCoralKinna = "My first time using an elevator was an uplifting experience. The second time let me down."
+  VisualIvoryShane = "My first time using an elevator was an uplifting experience. The second time let me down."
+  QuickestPeachAlvina = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  DevelopingSapphireGoldia = 498
+  BrainyRoseStevana = true
+  OralGoldHedvig = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  JointCrimsonLeland = false
+  AdditionalLimeHelene = true
+  MixedApricotJacquelyn = "A steak pun is a rare medium well done."
+  GuiltyBlushStarlin = 598
+  DisciplinaryIndigoEsta = 813
+  LiteraryAmethystSherrie = false
+  MassRedCaitlin = "Why was it called the dark ages? Because of all the knights. "
+  RemainingScarletAudry = 167
+  _self_important_values = [
+    {
+      value = "BrainyRoseStevana"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "DevelopingSapphireGoldia"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "InterestingOliveOdilia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "WillowyMaroonBert_alias"
+}

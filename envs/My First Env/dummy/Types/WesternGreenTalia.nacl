@@ -1,0 +1,46 @@
+type dummy.WesternGreenTalia {
+  annotations {
+    json DizzyBlushJaimie {
+    }
+    serviceid_number AdvisoryLavenderLorain {
+    }
+    hidden_boolean UniversalBlackMarcie {
+    }
+    string SurroundingTomatoKaree {
+    }
+    hidden_boolean WholeAmberSapphire {
+    }
+    serviceid_number ExcessTomatoMandie {
+    }
+  }
+  hidden_boolean DoubtfulAzureSeka {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean HomelyAmberValry {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid NetBlushKandace {
+    _hidden_value = true
+  }
+  hidden_boolean StandardApricotMelesa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  DizzyBlushJaimie = "Why was it called the dark ages? Because of all the knights. "
+  AdvisoryLavenderLorain = 124
+  SurroundingTomatoKaree = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ExcessTomatoMandie = 600
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HomelyAmberValry"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

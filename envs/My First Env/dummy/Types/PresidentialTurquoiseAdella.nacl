@@ -1,0 +1,30 @@
+type dummy.PresidentialTurquoiseAdella {
+  annotations {
+    string MajorApricotEsme {
+    }
+    serviceid YearlingTurquoiseNedda {
+    }
+    dummy.DiverseTurquoiseMariya TypicalSalmonLesley {
+    }
+    serviceid_number AssistantTanReyna {
+    }
+    boolean AshamedApricotLesly {
+    }
+  }
+  boolean ObligedAquaPatrica {
+    _hidden_value = true
+  }
+  MajorApricotEsme = "Slept like a log last night  woke up in the fireplace."
+  YearlingTurquoiseNedda = "Why did the tomato blush? Because it saw the salad dressing."
+  TypicalSalmonLesley = true
+  AssistantTanReyna = 648
+  AshamedApricotLesly = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "AshamedApricotLesly"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

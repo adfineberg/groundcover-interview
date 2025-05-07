@@ -1,0 +1,102 @@
+type dummy.LegislativeBrownAllene {
+  annotations {
+    serviceid_number StrictRedVicky {
+    }
+    dummy.IndirectSalmonTina AbstractPinkFelicle {
+    }
+    boolean ZippyBrownAlisa {
+    }
+    dummy.BlindAquamarineMichel UnemployedCrimsonEffie {
+    }
+    json OrganisationalTealAmabel {
+    }
+    json VeryOrangeAnjela {
+    }
+    json SolarTealRhody {
+    }
+    number JudicialCoralSharlene {
+    }
+    boolean YammeringWhiteSuzette {
+    }
+    dummy.AutomaticAmberEditha HelpfulBeigeBunnie {
+    }
+    string ArrogantHarlequinMyranda {
+    }
+    hidden_boolean FashionableApricotCyb {
+    }
+    serviceid ModerateTanMikaela {
+    }
+    number AgreedAmaranthRobby {
+    }
+    string EssentialBeigePhilomena {
+    }
+    json ComparativeBlackNorean {
+    }
+    string SolarBrownOfilia {
+    }
+    serviceid NavalTealMaggi {
+    }
+    boolean PossibleJadeNannie {
+    }
+    serviceid_number ProbableCyanAggi {
+    }
+  }
+  StrictRedVicky = 425
+  AbstractPinkFelicle = false
+  ZippyBrownAlisa = false
+  OrganisationalTealAmabel = "Why did the tomato blush? Because it saw the salad dressing."
+  VeryOrangeAnjela = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SolarTealRhody = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  JudicialCoralSharlene = 732
+  YammeringWhiteSuzette = false
+  HelpfulBeigeBunnie = 38
+  ArrogantHarlequinMyranda = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ModerateTanMikaela = "To be Frank, I'd have to change my name."
+  AgreedAmaranthRobby = 369
+  EssentialBeigePhilomena = "How come the stadium got hot after the game? Because all of the fans left."
+  ComparativeBlackNorean = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SolarBrownOfilia = "I'll tell you what often gets over looked... garden fences."
+  NavalTealMaggi = "Why didnt the skeleton cross the road? Because he had no guts."
+  PossibleJadeNannie = false
+  ProbableCyanAggi = 115
+  _important_values = [
+    {
+      value = "NeutralPurpleTheressa"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SubjectiveMagentaKi"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "FashionableApricotCyb"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "YammeringWhiteSuzette"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "AgreedAmaranthRobby"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "VeryOrangeAnjela"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "ProbableCyanAggi"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "LegislativeBrownAllene_alias"
+}

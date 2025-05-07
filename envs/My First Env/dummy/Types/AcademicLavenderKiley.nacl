@@ -1,0 +1,85 @@
+type dummy.AcademicLavenderKiley {
+  annotations {
+    string UnpleasantGoldAlvira {
+    }
+    string CompleteBlackCleopatra {
+    }
+    number IndependentJadeHilde {
+    }
+    serviceid WitteringGrayJunia {
+    }
+    string LogicalAmberJoleen {
+    }
+    serviceid_number FlyingPeachBrynna {
+    }
+    boolean LeadingTomatoValeda {
+    }
+    hidden_boolean DualPinkLynda {
+    }
+  }
+  string PopularScarletSada {
+    _hidden_value = true
+  }
+  serviceid_number StingyAmaranthMerrie {
+    _hidden_value = true
+  }
+  number CloseLimeAnnabell {
+    _hidden_value = true
+  }
+  serviceid_number TragicEmeraldEmogene {
+    _hidden_value = true
+  }
+  dummy.DEFAULT SlowRedRandie {
+    _hidden_value = true
+  }
+  hidden_boolean LimitedAmethystCherie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean DefiniteGoldRandene {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid DefeatedTanRegina {
+    _hidden_value = true
+  }
+  string EventualRedZulema {
+    _hidden_value = true
+  }
+  boolean GenerousGoldAnstice {
+    _hidden_value = true
+  }
+  serviceid_number MildCrimsonEvey {
+    _hidden_value = true
+  }
+  json ChronicGrayShelba {
+    _hidden_value = true
+  }
+  UnpleasantGoldAlvira = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  CompleteBlackCleopatra = "Im only familiar with 25 letters in the English language. I dont know why."
+  IndependentJadeHilde = 837
+  WitteringGrayJunia = "Did you know that protons have mass? I didn't even know they were catholic."
+  LogicalAmberJoleen = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  FlyingPeachBrynna = 101
+  LeadingTomatoValeda = true
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "LeadingTomatoValeda"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "CompleteBlackCleopatra"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "IndependentJadeHilde"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

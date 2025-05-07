@@ -1,0 +1,22 @@
+type dummy.AbsoluteOrangeSela {
+  annotations {
+    hidden_boolean RacialScarletJessie {
+    }
+    boolean ApparentRoseJade {
+    }
+    hidden_boolean MarginalJadeAddi {
+    }
+  }
+  boolean RattyEmeraldEmilia {
+    _hidden_value = true
+  }
+  ApparentRoseJade = false
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "RacialScarletJessie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

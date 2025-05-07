@@ -1,0 +1,34 @@
+type dummy.OppositeTanTammi {
+  annotations {
+    boolean DramaticSalmonAlisa {
+    }
+    number VictoriousSilverChristiana {
+    }
+    boolean ZoophagousAzureIna {
+    }
+    boolean AppallingWhiteFayina {
+    }
+    serviceid_number PreliminaryTurquoiseAnet {
+    }
+  }
+  hidden_boolean GoldenBlackRhianna {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ThoughtfulHarlequinLatrena {
+    _hidden_value = true
+  }
+  string LocalTomatoDehlia {
+    _hidden_value = true
+  }
+  serviceid_number SufficientOliveLorilee {
+    _hidden_value = true
+  }
+  DramaticSalmonAlisa = false
+  VictoriousSilverChristiana = 11
+  ZoophagousAzureIna = true
+  AppallingWhiteFayina = true
+  PreliminaryTurquoiseAnet = 909
+  _hidden_value = true
+}

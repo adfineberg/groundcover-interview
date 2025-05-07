@@ -1,0 +1,37 @@
+type dummy.LoyalCoffeeRosalie {
+  annotations {
+    serviceid_number AcceptableGrayLari {
+    }
+    boolean MixedTomatoHesther {
+    }
+    serviceid_number ElectricIndigoRosalinde {
+    }
+    serviceid MedievalLimeLaetitia {
+    }
+    json BadVioletCarina {
+    }
+    hidden_boolean StiffCoffeeBrittney {
+    }
+    string VicariousGrayTiphany {
+    }
+  }
+  string HorizontalLavenderRakel {
+    _hidden_value = true
+  }
+  serviceid_number HugeBlackLivia {
+    _hidden_value = true
+  }
+  boolean RemoteJadeMichele {
+    _hidden_value = true
+  }
+  serviceid_number RidiculousOliveAilis {
+    _hidden_value = true
+  }
+  AcceptableGrayLari = 216
+  MixedTomatoHesther = false
+  ElectricIndigoRosalinde = 186
+  MedievalLimeLaetitia = "A steak pun is a rare medium well done."
+  BadVioletCarina = "What do you do on a remote island? Try and find the TV island it belongs to."
+  VicariousGrayTiphany = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

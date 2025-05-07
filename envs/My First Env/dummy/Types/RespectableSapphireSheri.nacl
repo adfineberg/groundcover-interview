@@ -1,0 +1,115 @@
+type dummy.RespectableSapphireSheri {
+  annotations {
+    string ClassicalTanPaulina {
+    }
+    hidden_boolean HomelessCopperHarriet {
+    }
+    serviceid_number VitalIndigoMargaux {
+    }
+    hidden_boolean ZippyPurpleKaron {
+    }
+  }
+  boolean PlannedRoseLicha {
+    _hidden_value = true
+  }
+  serviceid GuiltyScarletDallas {
+    _hidden_value = true
+  }
+  hidden_boolean AvailablePurpleAmil {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ProvincialGrayCathie {
+    _hidden_value = true
+  }
+  number ThenTanMiquela {
+    _hidden_value = true
+  }
+  number CoolSilverCarmelle {
+    _hidden_value = true
+  }
+  serviceid DualLimeMadalyn {
+    _hidden_value = true
+  }
+  string YodellingLimeEyde {
+    _hidden_value = true
+  }
+  serviceid ForeignBronzeVanni {
+    _hidden_value = true
+  }
+  boolean AbundantCrimsonEmyle {
+    _hidden_value = true
+  }
+  serviceid ShinyTealJayme {
+    _hidden_value = true
+  }
+  number MotionlessCoffeeEdeline {
+    _hidden_value = true
+  }
+  serviceid_number EvidentEmeraldKirbee {
+    _hidden_value = true
+  }
+  serviceid_number StiffBlackConcordia {
+    _hidden_value = true
+  }
+  boolean SignificantSapphireEadie {
+    _hidden_value = true
+  }
+  boolean EducationalGrayGerrie {
+    _hidden_value = true
+  }
+  string ConfidentialPinkJaquelyn {
+    _hidden_value = true
+  }
+  hidden_boolean GrossAzureMartguerita {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean OverwhelmingAmberJeannie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid RudeWhiteTamqrah {
+    _hidden_value = true
+  }
+  serviceid_number LiveApricotRosemarie {
+    _hidden_value = true
+  }
+  json FrequentEmeraldIlyssa {
+    _hidden_value = true
+  }
+  json OutdoorBronzeStormi {
+    _hidden_value = true
+  }
+  serviceid TremendousPinkRahal {
+    _hidden_value = true
+  }
+  ClassicalTanPaulina = "Why is Peter Pan always flying? Because he Neverlands."
+  VitalIndigoMargaux = 181
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ConfidentialPinkJaquelyn"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LiveApricotRosemarie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ShinyTealJayme"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CoolSilverCarmelle"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,145 @@
+type dummy.IcyAquamarineLibbi {
+  annotations {
+    boolean HighVioletAudry {
+    }
+    serviceid_number IllegalTomatoGeorgia {
+    }
+    number GrievingSalmonLeandra {
+    }
+    serviceid VicariousTurquoiseDarcie {
+    }
+    serviceid_number DeliberateHarlequinThekla {
+    }
+    serviceid_number SpareCyanFreddy {
+    }
+  }
+  json QuerulousSalmonCarissa {
+    _hidden_value = true
+  }
+  hidden_boolean MammothPeachWenona {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number IdenticalAmethystHarriette {
+    _hidden_value = true
+  }
+  serviceid_number BrainyYellowRhona {
+    _hidden_value = true
+  }
+  string TastelessBlushGerta {
+    _hidden_value = true
+  }
+  hidden_boolean RelaxedLavenderGinger {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid CompetitiveLavenderBelvia {
+    _hidden_value = true
+  }
+  hidden_boolean SuperiorBlackMerline {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string RegulatoryWhiteTabbie {
+    _hidden_value = true
+  }
+  hidden_boolean RepulsiveIvoryBendite {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid StiffYellowSioux {
+    _hidden_value = true
+  }
+  string OverseasAquamarineJanella {
+    _hidden_value = true
+  }
+  hidden_boolean CruelGreenMarietta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ValuableEmeraldOnida {
+    _hidden_value = true
+  }
+  dummy.GentleScarletAlbina GlobalAquamarineAdrienne {
+    CorrespondingAmberAmelita = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ProvincialTanCandi = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    FlakyCopperAlexandrina = "Why didnt the skeleton cross the road? Because he had no guts."
+    ObviousOliveAnthe = 889
+    DeliciousLimeAinsley = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    AlliedTurquoiseKori = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    NastyPlumAsia = "Im only familiar with 25 letters in the English language. I dont know why."
+    EnergeticSapphireLoutitia = 842
+    LogicalCyanDayle = true
+    DefiantSilverGerrilee = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    InterimFuchsiaGaynor = 487
+    SupposedPinkDaryl = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    GoverningAquaDiana = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    SymbolicAmethystIlise = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    PartialChocolateAngelique = "What creature is smarter than a talking parrot? A spelling bee."
+    PureLimeGiuditta = 197
+    SmoothJadeJania = "Whoever invented the knock-knock joke should get a no bell prize."
+    FirmGreenHortense = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  hidden_boolean HandicappedPinkClovis {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.ViciousGoldTessi IndustrialMaroonGuglielma {
+    YtterbicTomatoJobie = "What did one nut say as he chased another nut?  I'm a cashew!"
+    FatTurquoiseKiersten = "What do you call two barracuda fish?  A Pairacuda!"
+    RelativeBlackGlennis = 787
+    SkilledCrimsonMargi = 460
+    EfficientTurquoiseRasla = 70
+    ThoroughIvoryJanette = 981
+    FineTurquoiseCorry = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    EfficientTomatoMerci = 343
+    OverwhelmingGreenStephine = "Why did the kid cross the playground? To get to the other slide."
+    UnpleasantGreenKristin = "How come the stadium got hot after the game? Because all of the fans left."
+    StraightforwardChocolateGermaine = 635
+    PermanentPinkOthella = false
+    _hidden_value = true
+  }
+  serviceid MaleTomatoHelena {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UnderlyingAquaKeely {
+    _hidden_value = true
+  }
+  HighVioletAudry = false
+  IllegalTomatoGeorgia = 460
+  GrievingSalmonLeandra = 336
+  VicariousTurquoiseDarcie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  DeliberateHarlequinThekla = 639
+  SpareCyanFreddy = 317
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SuperiorBlackMerline"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "OverseasAquamarineJanella"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "SpareCyanFreddy"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

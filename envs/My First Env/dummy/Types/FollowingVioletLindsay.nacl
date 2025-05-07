@@ -1,0 +1,82 @@
+type dummy.FollowingVioletLindsay {
+  annotations {
+    serviceid_number DominantLimeJeralee {
+    }
+    serviceid_number FashionableApricotLucine {
+    }
+    json CooperativeCoralLydie {
+    }
+    number NorthernPurpleAllx {
+    }
+  }
+  number WeeklyPlumManon {
+    _hidden_value = true
+  }
+  string FemaleWhiteVinni {
+    _hidden_value = true
+  }
+  hidden_boolean FrequentBeigeCecelia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.UpperTanDebby PastSilverVevay {
+    SocialCyanBlondelle = "Why is Peter Pan always flying? Because he Neverlands."
+    CompatibleLimeKarleen = false
+    _hidden_value = true
+  }
+  serviceid_number AcceptedBronzeEtheline {
+    _hidden_value = true
+  }
+  number GentleCopperDaveen {
+    _hidden_value = true
+  }
+  "List<boolean>" DependentAmaranthAlissa {
+    _hidden_value = true
+  }
+  string HardBlueAddi {
+    _hidden_value = true
+  }
+  "List<boolean>" BrainyGoldKorella {
+    _hidden_value = true
+  }
+  boolean SovietVioletShoshana {
+    _hidden_value = true
+  }
+  json LightCoffeeSher {
+    _hidden_value = true
+  }
+  string WeeklyTanSuzette {
+    _hidden_value = true
+  }
+  hidden_boolean GrowingHarlequinTami {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean CuteTurquoiseAlida {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json SecurePurpleLeela {
+    _hidden_value = true
+  }
+  DominantLimeJeralee = 861
+  FashionableApricotLucine = 880
+  CooperativeCoralLydie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  NorthernPurpleAllx = 333
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LightCoffeeSher"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CuteTurquoiseAlida"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

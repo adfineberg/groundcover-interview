@@ -1,0 +1,23 @@
+type dummy.BoldGoldCorrey {
+  annotations {
+    boolean ThenTanJacquette {
+    }
+    serviceid PassingTurquoiseAdelle {
+    }
+    serviceid ThirstyBrownBrear {
+    }
+    number IntelligentIndigoDaffi {
+    }
+    serviceid AdvancedCrimsonMarian {
+    }
+  }
+  string TroubledPeachClotilda {
+    _hidden_value = true
+  }
+  ThenTanJacquette = false
+  PassingTurquoiseAdelle = "Im only familiar with 25 letters in the English language. I dont know why."
+  ThirstyBrownBrear = "What do you do on a remote island? Try and find the TV island it belongs to."
+  IntelligentIndigoDaffi = 951
+  AdvancedCrimsonMarian = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

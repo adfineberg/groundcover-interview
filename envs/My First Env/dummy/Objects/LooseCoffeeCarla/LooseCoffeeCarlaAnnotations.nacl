@@ -1,0 +1,73 @@
+type dummy.LooseCoffeeCarla {
+  annotations {
+    string EssentialJadeShelli {
+    }
+    boolean VictoriousHarlequinCamel {
+    }
+    string RattyCoralLiliane {
+    }
+    serviceid CorporateBeigeAnastasia {
+    }
+    string FirmTurquoiseJustine {
+    }
+    boolean SportingLimeBren {
+    }
+    json SelfishSilverAdrea {
+    }
+    dummy.MotionlessCopperMable FreeCoralElisabetta {
+    }
+    serviceid TinyMoccasinGilberta {
+    }
+    hidden_boolean FixedCyanMildrid {
+    }
+    number CorporateAmethystRoxana {
+    }
+    number ChosenBeigeYnez {
+    }
+    json FellowBlackEricka {
+    }
+    number MedicalCopperAlys {
+    }
+    serviceid_number QuerulousSapphireCandra {
+    }
+    boolean SplendidApricotShae {
+    }
+    serviceid_number RepresentativeHarlequinEvy {
+    }
+    string EmbarrassedGoldShae {
+    }
+    serviceid ManualBlueMarylin {
+    }
+    serviceid_number NecessaryCopperEvvy {
+    }
+    serviceid_number SimilarApricotCelie {
+    }
+  }
+  EssentialJadeShelli = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  VictoriousHarlequinCamel = true
+  RattyCoralLiliane = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CorporateBeigeAnastasia = "What creature is smarter than a talking parrot? A spelling bee."
+  FirmTurquoiseJustine = "Slept like a log last night  woke up in the fireplace."
+  SportingLimeBren = false
+  SelfishSilverAdrea = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  TinyMoccasinGilberta = "How come the stadium got hot after the game? Because all of the fans left."
+  CorporateAmethystRoxana = 565
+  ChosenBeigeYnez = 86
+  FellowBlackEricka = "What creature is smarter than a talking parrot? A spelling bee."
+  MedicalCopperAlys = 272
+  QuerulousSapphireCandra = 672
+  SplendidApricotShae = true
+  RepresentativeHarlequinEvy = 985
+  EmbarrassedGoldShae = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ManualBlueMarylin = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  NecessaryCopperEvvy = 85
+  SimilarApricotCelie = 683
+  _self_important_values = [
+    {
+      value = "SelfishSilverAdrea"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "LooseCoffeeCarla_alias"
+}

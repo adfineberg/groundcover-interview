@@ -1,0 +1,51 @@
+type dummy.ScaryBlueSusanne {
+  annotations {
+    number CivilianBeigeJoeann {
+    }
+    string CentralAmaranthKatalin {
+    }
+    hidden_boolean LatinMoccasinMarta {
+    }
+    string ModernGrayHollie {
+    }
+    serviceid_number ResultingAquaDorey {
+    }
+  }
+  serviceid RegularMagentaJolie {
+    _hidden_value = true
+  }
+  dummy.DEFAULT AdequateCyanMabel {
+    _hidden_value = true
+  }
+  boolean CrowdedFuchsiaPierette {
+    _hidden_value = true
+  }
+  serviceid AdvisoryBrownAmelie {
+    _hidden_value = true
+  }
+  json WellAmaranthCharlot {
+    _hidden_value = true
+  }
+  json SubstantialIvoryKoo {
+    _hidden_value = true
+  }
+  CivilianBeigeJoeann = 950
+  CentralAmaranthKatalin = "A steak pun is a rare medium well done."
+  ModernGrayHollie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ResultingAquaDorey = 453
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "SubstantialIvoryKoo"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ResultingAquaDorey"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

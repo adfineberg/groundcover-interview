@@ -1,0 +1,40 @@
+type dummy.MixedSalmonRosaleen {
+  annotations {
+    serviceid MassOliveShelbi {
+    }
+    json PlannedRedDaryl {
+    }
+    dummy.DEFAULT WastefulCoffeeMelicent {
+    }
+    dummy.JustBeigeShaylynn UgliestWhiteSelena {
+    }
+    serviceid PreparedTanMyrlene {
+    }
+  }
+  "List<serviceid>" SuddenHarlequinHalette {
+    _hidden_value = true
+  }
+  hidden_boolean UndergroundMaroonJenny {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid DeliciousTealChristian {
+    _hidden_value = true
+  }
+  MassOliveShelbi = "Why was it called the dark ages? Because of all the knights. "
+  PlannedRedDaryl = "What do you do on a remote island? Try and find the TV island it belongs to."
+  WastefulCoffeeMelicent = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  UgliestWhiteSelena = true
+  PreparedTanMyrlene = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "PreparedTanMyrlene"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

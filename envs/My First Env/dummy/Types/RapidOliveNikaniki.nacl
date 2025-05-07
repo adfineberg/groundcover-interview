@@ -1,0 +1,27 @@
+type dummy.RapidOliveNikaniki {
+  annotations {
+    string UnderlyingMaroonCrysta {
+    }
+    serviceid_number ResidentGreenAdriena {
+    }
+    number BlankHarlequinAmi {
+    }
+    string InterestingSilverLegra {
+    }
+  }
+  serviceid MinisterialMoccasinWendye {
+    _hidden_value = true
+  }
+  UnderlyingMaroonCrysta = "Im only familiar with 25 letters in the English language. I dont know why."
+  ResidentGreenAdriena = 289
+  BlankHarlequinAmi = 457
+  InterestingSilverLegra = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "BlankHarlequinAmi"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

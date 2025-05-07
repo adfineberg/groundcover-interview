@@ -1,0 +1,67 @@
+type dummy.UnsightlyLimeJordana {
+  annotations {
+    serviceid SimilarSilverBrynn {
+    }
+    json WanderingSapphireLarisa {
+    }
+    json MysteriousGoldCathleen {
+    }
+    boolean CleanCrimsonPauli {
+    }
+    serviceid DefiniteYellowSabine {
+    }
+  }
+  json MultipleHarlequinKimberly {
+    _hidden_value = true
+  }
+  serviceid_number FlatMoccasinRonny {
+    _hidden_value = true
+  }
+  hidden_boolean AppallingIvoryTommie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean WorkingBeigeRubetta {
+    _hidden_value = true
+  }
+  string MarriedTomatoMaighdiln {
+    _hidden_value = true
+  }
+  serviceid RottenMoccasinEmily {
+    _hidden_value = true
+  }
+  json PrimitiveCopperLanna {
+    _hidden_value = true
+  }
+  SimilarSilverBrynn = "To be Frank, I'd have to change my name."
+  WanderingSapphireLarisa = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MysteriousGoldCathleen = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CleanCrimsonPauli = true
+  DefiniteYellowSabine = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "WorkingBeigeRubetta"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "RottenMoccasinEmily"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "WanderingSapphireLarisa"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "CleanCrimsonPauli"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

@@ -1,0 +1,110 @@
+type dummy.MagneticEmeraldBernice {
+  annotations {
+    number DreadfulLavenderRosalynd {
+    }
+    serviceid_number CompactAmaranthLaryssa {
+    }
+    serviceid ShockedCoralMay {
+    }
+    json ContemporaryTealEmera {
+    }
+    boolean ConvincingAzureAddie {
+    }
+    number EnthusiasticTurquoiseKippy {
+    }
+    boolean FrequentLavenderCleopatra {
+    }
+  }
+  boolean OrdinaryRoseNanni {
+    _hidden_value = true
+  }
+  string LazyCoralAndromache {
+    _hidden_value = true
+  }
+  boolean ValuableIvoryAlisa {
+    _hidden_value = true
+  }
+  string ProudLimeLettie {
+    _hidden_value = true
+  }
+  hidden_boolean RidiculousTanGeneva {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json PossibleAmaranthAme {
+    _hidden_value = true
+  }
+  dummy.GlobalLimeMatti WilfulIndigoRochelle {
+    ArrogantPurpleMadelene = {
+      legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    }
+    InsufficientTomatoHetti = "What did one nut say as he chased another nut?  I'm a cashew!"
+    UltimateRosePandora = false
+    SilentCyanMelina = 861
+    MeltedAquamarinePatsy = false
+    AppallingRedMegen = 620
+    StuckVioletLynette = true
+    PersistentChocolateNicolina = 967
+    PanickyJadeBianka = false
+    FunIvoryCristionna = "Im only familiar with 25 letters in the English language. I dont know why."
+    HardCopperCahra = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    ProtectiveSalmonLiza = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SacredCyanRakel = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    _hidden_value = true
+  }
+  number CompulsoryGrayBrigitta {
+    _hidden_value = true
+  }
+  string YelpingGoldGertrud {
+    _hidden_value = true
+  }
+  string ChillyGreenDevora {
+    _hidden_value = true
+  }
+  number SurprisedBlackBrooks {
+    _hidden_value = true
+  }
+  "List<dummy.DelightedTealLynna>" ComprehensiveBeigeLyda {
+    _hidden_value = true
+  }
+  json HeadMagentaDorette {
+    _hidden_value = true
+  }
+  serviceid OldCoffeeEsmeralda {
+    _hidden_value = true
+  }
+  json AdjacentLimeDeidre {
+    _hidden_value = true
+  }
+  boolean OfficialCyanElizabet {
+    _hidden_value = true
+  }
+  DreadfulLavenderRosalynd = 8
+  CompactAmaranthLaryssa = 959
+  ShockedCoralMay = "What do you call two barracuda fish?  A Pairacuda!"
+  ContemporaryTealEmera = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ConvincingAzureAddie = false
+  EnthusiasticTurquoiseKippy = 848
+  FrequentLavenderCleopatra = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HeadMagentaDorette"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PossibleAmaranthAme"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ProudLimeLettie"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

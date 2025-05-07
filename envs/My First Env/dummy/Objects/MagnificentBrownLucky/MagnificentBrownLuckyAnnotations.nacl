@@ -1,0 +1,79 @@
+type dummy.MagnificentBrownLucky {
+  annotations {
+    string SolarSilverMelissa {
+    }
+    serviceid InsufficientSapphireEm {
+    }
+    serviceid AngryMaroonAndi {
+    }
+    hidden_boolean FunnyWhiteKatharine {
+    }
+    boolean OutstandingPurpleCathie {
+    }
+    string OrthodoxApricotAdina {
+    }
+    serviceid FederalAquamarineViole {
+    }
+    boolean AcademicWhiteKathie {
+    }
+    hidden_boolean OnlyChocolateLory {
+    }
+    serviceid_number RegulatoryScarletJoana {
+    }
+    dummy.EstablishedOliveSherri ChubbyBeigeJaquenette {
+    }
+    json SpiritualOrangeBrinn {
+    }
+    string BlindBlackBryana {
+    }
+    number HonestTealEugenia {
+    }
+    json StatisticalSapphireEmalia {
+    }
+    dummy.UpperTanDebby ConventionalCrimsonPepi {
+    }
+    serviceid FineCrimsonOlimpia {
+    }
+    boolean SmilingPlumRochell {
+    }
+    dummy.LostMagentaJoellen PossibleRedGloriane {
+    }
+    serviceid IntegratedBeigePhillie {
+    }
+    number KindChocolateEvelina {
+    }
+    string DecentPeachRebekah {
+    }
+  }
+  SolarSilverMelissa = "My first time using an elevator was an uplifting experience. The second time let me down."
+  InsufficientSapphireEm = "Why did the kid cross the playground? To get to the other slide."
+  AngryMaroonAndi = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  OutstandingPurpleCathie = true
+  OrthodoxApricotAdina = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  FederalAquamarineViole = "I'll tell you what often gets over looked... garden fences."
+  AcademicWhiteKathie = false
+  RegulatoryScarletJoana = 834
+  SpiritualOrangeBrinn = "Why did the kid cross the playground? To get to the other slide."
+  BlindBlackBryana = "What do you do on a remote island? Try and find the TV island it belongs to."
+  HonestTealEugenia = 929
+  StatisticalSapphireEmalia = "What creature is smarter than a talking parrot? A spelling bee."
+  ConventionalCrimsonPepi = true
+  FineCrimsonOlimpia = "Why did the kid cross the playground? To get to the other slide."
+  SmilingPlumRochell = false
+  IntegratedBeigePhillie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  KindChocolateEvelina = 578
+  DecentPeachRebekah = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _self_important_values = [
+    {
+      value = "HonestTealEugenia"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FederalAquamarineViole"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "MagnificentBrownLucky_alias"
+}

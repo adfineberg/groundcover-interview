@@ -1,0 +1,90 @@
+type dummy.RunningRedLanette {
+  annotations {
+    number ConventionalApricotStorm {
+    }
+    serviceid ElegantYellowBatsheva {
+    }
+    dummy.YuckyCoffeeRoby MilitaryChocolateTimi {
+    }
+    boolean BoringVioletLoralee {
+    }
+    string DisabledBrownSylvia {
+    }
+    boolean SkinnyIvoryChristy {
+    }
+    json ChemicalAmethystAndee {
+    }
+    string FashionableChocolateNan {
+    }
+    boolean FrequentWhiteMarleah {
+    }
+    boolean SeniorCyanPrudy {
+    }
+    json JoyousLimeMamie {
+    }
+    json HomelessBlushSteffane {
+    }
+    hidden_boolean LexicalPlumCinnamon {
+    }
+    hidden_boolean LostAquaAmandy {
+    }
+    number WanderingWhiteAnnabell {
+    }
+    json WeeklyJadeCelinda {
+    }
+    boolean ManagingYellowJessalyn {
+    }
+    json FastIvoryCaralie {
+    }
+    serviceid_number RobustHarlequinFlossie {
+    }
+    serviceid VoluntaryPinkGina {
+    }
+    serviceid_number AbundantMoccasinBambie {
+    }
+    serviceid EffectiveCoralTawsha {
+    }
+  }
+  ConventionalApricotStorm = 590
+  ElegantYellowBatsheva = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  BoringVioletLoralee = false
+  DisabledBrownSylvia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  SkinnyIvoryChristy = true
+  ChemicalAmethystAndee = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FashionableChocolateNan = "A steak pun is a rare medium well done."
+  FrequentWhiteMarleah = true
+  SeniorCyanPrudy = false
+  JoyousLimeMamie = "Why is Peter Pan always flying? Because he Neverlands."
+  HomelessBlushSteffane = "Why didnt the skeleton cross the road? Because he had no guts."
+  WanderingWhiteAnnabell = 732
+  WeeklyJadeCelinda = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ManagingYellowJessalyn = false
+  FastIvoryCaralie = "Why do birds fly south for the winter? Because it's too far to walk."
+  RobustHarlequinFlossie = 460
+  VoluntaryPinkGina = "Why do birds fly south for the winter? Because it's too far to walk."
+  AbundantMoccasinBambie = 75
+  EffectiveCoralTawsha = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _important_values = [
+    {
+      value = "CrazyIndigoGolda"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ExcessJadeDoralin"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SoftBrownBethany"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BeneficialAmberArdelle"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _alias = "RunningRedLanette_alias"
+}

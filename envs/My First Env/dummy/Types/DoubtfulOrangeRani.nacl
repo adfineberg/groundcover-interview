@@ -1,0 +1,80 @@
+type dummy.DoubtfulOrangeRani {
+  annotations {
+    json SecureMagentaSybyl {
+    }
+    serviceid_number LongSapphireAngelina {
+    }
+    json ModernEmeraldKatrine {
+    }
+    serviceid RedundantBrownZara {
+    }
+  }
+  number ManagerialBlushStephine {
+    _hidden_value = true
+  }
+  boolean OfficialMaroonAuguste {
+    _hidden_value = true
+  }
+  boolean RubberOrangeQueenie {
+    _hidden_value = true
+  }
+  serviceid ValuableCoffeeSydel {
+    _hidden_value = true
+  }
+  serviceid HonestCopperMarcelle {
+    _hidden_value = true
+  }
+  number ArtificialBlueMinnaminnie {
+    _hidden_value = true
+  }
+  hidden_boolean BloodyHarlequinNikaniki {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string ImaginativeIvoryWynn {
+    _hidden_value = true
+  }
+  "List<number>" LinguisticJadeJosee {
+    _hidden_value = true
+  }
+  SecureMagentaSybyl = "Whoever invented the knock-knock joke should get a no bell prize."
+  LongSapphireAngelina = 353
+  ModernEmeraldKatrine = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  RedundantBrownZara = "Why did the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "HonestCopperMarcelle"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "BloodyHarlequinNikaniki"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "RubberOrangeQueenie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LinguisticJadeJosee"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "LongSapphireAngelina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SecureMagentaSybyl"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

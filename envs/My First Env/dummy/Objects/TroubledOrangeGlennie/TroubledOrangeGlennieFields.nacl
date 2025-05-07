@@ -1,0 +1,13 @@
+type dummy.TroubledOrangeGlennie {
+  boolean AcuteAmberLauralee {
+  }
+  number LivingSilverMerrill {
+  }
+  string ModestBeigeRebecka {
+  }
+  hidden_boolean JudicialCrimsonTilly {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+}

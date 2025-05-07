@@ -1,0 +1,26 @@
+type dummy.ContinuingYellowRoobbie {
+  annotations {
+    number LiquidLavenderMerl {
+    }
+    boolean BlushingChocolateDacy {
+    }
+    string SpecialAzureRandi {
+    }
+    serviceid PurringAmethystMarta {
+    }
+    dummy.GlobalLimeMatti LooseFuchsiaDonnamarie {
+    }
+    serviceid TremendousCopperKatuscha {
+    }
+  }
+  serviceid RudeLimeMelesa {
+    _hidden_value = true
+  }
+  LiquidLavenderMerl = 677
+  BlushingChocolateDacy = true
+  SpecialAzureRandi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PurringAmethystMarta = "Why do birds fly south for the winter? Because it's too far to walk."
+  LooseFuchsiaDonnamarie = "Why is Peter Pan always flying? Because he Neverlands."
+  TremendousCopperKatuscha = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

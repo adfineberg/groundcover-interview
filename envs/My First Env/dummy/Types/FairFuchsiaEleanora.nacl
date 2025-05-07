@@ -1,0 +1,75 @@
+type dummy.FairFuchsiaEleanora {
+  annotations {
+    string IntenseAmethystGunilla {
+    }
+    serviceid_number WealthyRoseAnatola {
+    }
+    serviceid VicariousSalmonKarlene {
+    }
+    serviceid ConvincedGrayLizette {
+    }
+    number ReducedScarletEmelyne {
+    }
+  }
+  number ExcessiveScarletWalliw {
+    _hidden_value = true
+  }
+  hidden_boolean UnwillingPlumCharmian {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json LiteraryAmaranthValencia {
+    _hidden_value = true
+  }
+  serviceid_number EntireOrangeSharline {
+    _hidden_value = true
+  }
+  string NativeGrayTeri {
+    _hidden_value = true
+  }
+  serviceid UgliestTomatoLizzie {
+    _hidden_value = true
+  }
+  serviceid GloriousSalmonMollie {
+    _hidden_value = true
+  }
+  hidden_boolean InappropriateGrayPennie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ClumsySalmonDulcy {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean TeenageRedZenia {
+    _hidden_value = true
+  }
+  IntenseAmethystGunilla = "Slept like a log last night  woke up in the fireplace."
+  WealthyRoseAnatola = 623
+  VicariousSalmonKarlene = "A steak pun is a rare medium well done."
+  ConvincedGrayLizette = "What do you call two barracuda fish?  A Pairacuda!"
+  ReducedScarletEmelyne = 41
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "UgliestTomatoLizzie"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "InappropriateGrayPennie"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "WealthyRoseAnatola"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

@@ -1,0 +1,41 @@
+type dummy.StripedPeachPaulie {
+  annotations {
+    dummy.DEFAULT YawningApricotAllix {
+    }
+    boolean StickyLavenderMelisent {
+    }
+    json UgliestSapphireDulcy {
+    }
+    json AssistantPinkFanchon {
+    }
+    serviceid StandardTomatoDaune {
+    }
+    serviceid JitteryTealJacquenetta {
+    }
+    serviceid_number ArtisticSalmonDarcey {
+    }
+    serviceid_number PresentPlumRora {
+    }
+  }
+  serviceid ExtendedCopperDawn {
+    _hidden_value = true
+  }
+  YawningApricotAllix = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  StickyLavenderMelisent = true
+  UgliestSapphireDulcy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  AssistantPinkFanchon = "Why did the kid cross the playground? To get to the other slide."
+  StandardTomatoDaune = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  JitteryTealJacquenetta = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ArtisticSalmonDarcey = 201
+  PresentPlumRora = 467
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "JitteryTealJacquenetta"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

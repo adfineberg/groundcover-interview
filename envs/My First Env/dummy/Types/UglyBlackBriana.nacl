@@ -1,0 +1,130 @@
+type dummy.UglyBlackBriana {
+  annotations {
+    hidden_boolean EconomicBlushDanya {
+    }
+    hidden_boolean LegalVioletIlse {
+    }
+    boolean BrilliantPeachGeorgine {
+    }
+    number WonderfulYellowMichele {
+    }
+    hidden_boolean UnpleasantAmaranthAndreana {
+    }
+    hidden_boolean JuniorAmberAlly {
+    }
+  }
+  dummy.DEFAULT AlivePurpleLaney {
+    _hidden_value = true
+  }
+  boolean DelightedLavenderBarbe {
+    _hidden_value = true
+  }
+  dummy.SplendidAmberFlorance MeanTurquoiseTamar {
+    WhisperingTurquoiseMildred = "A steak pun is a rare medium well done."
+    RelevantSalmonGaby = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    VictoriousLimeEthel = "To be Frank, I'd have to change my name."
+    ImaginativeGreenGale = 843
+    FamousAquaZondra = 349
+    _hidden_value = true
+  }
+  number OccupationalWhiteShelly {
+    _hidden_value = true
+  }
+  string RemainingRoseJuliet {
+    _hidden_value = true
+  }
+  serviceid PersistentBeigeCristen {
+    _hidden_value = true
+  }
+  string IntensiveOrangeLibbi {
+    _hidden_value = true
+  }
+  json DeterminedIndigoAugustina {
+    _hidden_value = true
+  }
+  "List<boolean>" EssentialSapphireChelsie {
+    _hidden_value = true
+  }
+  boolean MedievalSilverRoslyn {
+    _hidden_value = true
+  }
+  "List<json>" ConvenientAzureCarmelita {
+    _hidden_value = true
+  }
+  dummy.DEFAULT UnevenRedArdenia {
+    _hidden_value = true
+  }
+  dummy.AccessibleTurquoiseEssie FlakyHarlequinTessi {
+    BrilliantMaroonBonni = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    SupposedIndigoDusty = true
+    _hidden_value = true
+  }
+  json CivilAquamarineDeina {
+    _hidden_value = true
+  }
+  serviceid_number UniqueRoseMiran {
+    _hidden_value = true
+  }
+  number ConstitutionalWhiteTerrye {
+    _hidden_value = true
+  }
+  serviceid_number BlushingTanNicolea {
+    _hidden_value = true
+  }
+  string AppropriateBlackRegina {
+    _hidden_value = true
+  }
+  serviceid CharmingMagentaLaetitia {
+    _hidden_value = true
+  }
+  number NarrowCrimsonSteffie {
+    _hidden_value = true
+  }
+  json OpenPeachDevin {
+    _hidden_value = true
+  }
+  number EvidentFuchsiaMeridith {
+    _hidden_value = true
+  }
+  serviceid_number XericWhiteSileas {
+    _hidden_value = true
+  }
+  string ComplexPinkLaina {
+    _hidden_value = true
+  }
+  hidden_boolean TightPinkFrancine {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json CloudyLavenderMable {
+    _hidden_value = true
+  }
+  string FancyEmeraldGloriana {
+    _hidden_value = true
+  }
+  BrilliantPeachGeorgine = false
+  WonderfulYellowMichele = 498
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "MedievalSilverRoslyn"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "UnevenRedArdenia"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "UnpleasantAmaranthAndreana"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

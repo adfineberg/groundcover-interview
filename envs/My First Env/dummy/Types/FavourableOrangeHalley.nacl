@@ -1,0 +1,172 @@
+type dummy.FavourableOrangeHalley {
+  annotations {
+    json WorkingRedRoshelle {
+    }
+    string VisualBlushAlysia {
+    }
+    string CapitalistPeachTallulah {
+    }
+    hidden_boolean MarginalRoseGilberta {
+    }
+    boolean QuickTealVeda {
+    }
+  }
+  serviceid_number CourageousAzureKeslie {
+    _hidden_value = true
+  }
+  serviceid VerticalSapphireMoyna {
+    _hidden_value = true
+  }
+  number ConvenientBeigeSherye {
+    _hidden_value = true
+  }
+  serviceid_number VisualPurpleMargalo {
+    _hidden_value = true
+  }
+  serviceid EverydayMaroonSibel {
+    _hidden_value = true
+  }
+  hidden_boolean NorthernAquaAveril {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AcceptableSilverPhilly {
+    _hidden_value = true
+  }
+  number AsleepSapphireLibby {
+    _hidden_value = true
+  }
+  boolean SilentCrimsonBobby {
+    _hidden_value = true
+  }
+  serviceid RecentApricotReiko {
+    _hidden_value = true
+  }
+  serviceid ProfitableCyanScarlet {
+    _hidden_value = true
+  }
+  number CrazyScarletAlexandra {
+    _hidden_value = true
+  }
+  dummy.DEFAULT JointSilverAurora {
+    _hidden_value = true
+  }
+  number ArmedLimeEmera {
+    _hidden_value = true
+  }
+  string PerfectTomatoGert {
+    _hidden_value = true
+  }
+  serviceid_number WitteringFuchsiaDorita {
+    _hidden_value = true
+  }
+  number CompleteAmethystWrennie {
+    _hidden_value = true
+  }
+  boolean CooingAquamarineLynnett {
+    _hidden_value = true
+  }
+  number EthicalSilverNikoletta {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" NastyGrayDolley {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean MiniatureGrayMidge {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid LuckyOliveKetti {
+    _hidden_value = true
+  }
+  number ClassicalAzureDael {
+    _hidden_value = true
+  }
+  serviceid SpiritualCopperMartita {
+    _hidden_value = true
+  }
+  boolean YabberingBlackTony {
+    _hidden_value = true
+  }
+  string BriefBeigeSal {
+    _hidden_value = true
+  }
+  boolean PlannedSilverClair {
+    _hidden_value = true
+  }
+  serviceid_number FuriousEmeraldTyne {
+    _hidden_value = true
+  }
+  dummy.LegitimateBlushGoldie MiserableCoffeeLizzy {
+    RealisticCoffeeRoberta = "How come the stadium got hot after the game? Because all of the fans left."
+    ConvincingJadeNorma = "How come the stadium got hot after the game? Because all of the fans left."
+    _hidden_value = true
+  }
+  serviceid_number TameScarletDanielle {
+    _hidden_value = true
+  }
+  boolean TartSapphireStaci {
+    _hidden_value = true
+  }
+  WorkingRedRoshelle = "What creature is smarter than a talking parrot? A spelling bee."
+  VisualBlushAlysia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CapitalistPeachTallulah = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  QuickTealVeda = true
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "CooingAquamarineLynnett"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "TameScarletDanielle"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "FuriousEmeraldTyne"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "CourageousAzureKeslie"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "PlannedSilverClair"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "ConvenientBeigeSherye"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "EthicalSilverNikoletta"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SpiritualCopperMartita"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LuckyOliveKetti"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "MiniatureGrayMidge"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

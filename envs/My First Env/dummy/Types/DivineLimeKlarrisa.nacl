@@ -1,0 +1,56 @@
+type dummy.DivineLimeKlarrisa {
+  annotations {
+    dummy.DEFAULT YodellingBlueTerrie {
+    }
+    string ElegantRedDana {
+    }
+    json UnsightlyJadeMellisa {
+    }
+    string EthnicTurquoiseChristye {
+    }
+    serviceid DevelopingBlushBennie {
+    }
+    number GlamorousMaroonMirella {
+    }
+  }
+  hidden_boolean GrimVioletMilly {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean RipeAmberFidelity {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT ExtraCopperNara {
+    _hidden_value = true
+  }
+  boolean SystematicCopperDevora {
+    _hidden_value = true
+  }
+  number ConcretePinkCandie {
+    _hidden_value = true
+  }
+  YodellingBlueTerrie = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  ElegantRedDana = "Im only familiar with 25 letters in the English language. I dont know why."
+  UnsightlyJadeMellisa = "Did you know that protons have mass? I didn't even know they were catholic."
+  EthnicTurquoiseChristye = "Slept like a log last night  woke up in the fireplace."
+  DevelopingBlushBennie = "Why did the kid cross the playground? To get to the other slide."
+  GlamorousMaroonMirella = 339
+  _hidden_value = true
+  _self_important_values = [
+    {
+      value = "EthnicTurquoiseChristye"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "YodellingBlueTerrie"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}

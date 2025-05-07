@@ -1,0 +1,52 @@
+type dummy.ConvincingHarlequinDahlia {
+  annotations {
+    boolean ScaredYellowNadeen {
+    }
+    number UnacceptablePeachTimi {
+    }
+    hidden_boolean IncreasingSapphireJeni {
+    }
+    hidden_boolean CurlySapphireEma {
+    }
+    string FineGrayDyana {
+    }
+    hidden_boolean BeautifulFuchsiaAidan {
+    }
+    serviceid MiddleRedBelita {
+    }
+    json SovietIndigoRobinet {
+    }
+    string MiserablePeachRobinette {
+    }
+    hidden_boolean PrintedCyanWaneta {
+    }
+    serviceid NationalScarletLeontine {
+    }
+    dummy.StatutoryAmberFerdinande FuzzyEmeraldAlmeda {
+    }
+    boolean DifficultCrimsonBrietta {
+    }
+    string ResidentBlueStacee {
+    }
+    dummy.ConsciousAquaMahalia CapableBronzeNorean {
+    }
+  }
+  ScaredYellowNadeen = true
+  UnacceptablePeachTimi = 831
+  FineGrayDyana = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  MiddleRedBelita = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SovietIndigoRobinet = "Why do birds fly south for the winter? Because it's too far to walk."
+  MiserablePeachRobinette = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  NationalScarletLeontine = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DifficultCrimsonBrietta = true
+  ResidentBlueStacee = "Slept like a log last night  woke up in the fireplace."
+  CapableBronzeNorean = file("GayRedDorette.txt")
+  _self_important_values = [
+    {
+      value = "FineGrayDyana"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "ConvincingHarlequinDahlia_alias"
+}

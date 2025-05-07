@@ -1,0 +1,80 @@
+type dummy.RealPlumPhebe {
+  annotations {
+    string FluffyAmaranthJasmine {
+    }
+    hidden_boolean GothicCoffeeCathi {
+    }
+    boolean ConfusedMagentaEleanore {
+    }
+    json LateAmberGlennis {
+    }
+    number InterestedFuchsiaNonna {
+    }
+    hidden_boolean SquealingBlackJoelie {
+    }
+  }
+  dummy.EstablishedRoseGussie VocationalPinkBreanne {
+    ActiveScarletMartguerita = "A steak pun is a rare medium well done."
+    LogicalAmethystCristine = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    EligibleChocolateTrudey = false
+    RenewedAquaFlori = "My first time using an elevator was an uplifting experience. The second time let me down."
+    GiganticLimeShena = "Why did the kid cross the playground? To get to the other slide."
+    DynamicAzureLaverne = 565
+    RichTurquoiseKiah = "Why do birds fly south for the winter? Because it's too far to walk."
+    RightMoccasinPavla = 924
+    ViciousLimeHannis = "Why didnt the skeleton cross the road? Because he had no guts."
+    GratefulPlumLaetitia = 363
+    FrightenedBronzeCarey = 823
+    _hidden_value = true
+  }
+  string InfluentialBlueReine {
+    _hidden_value = true
+  }
+  serviceid_number SuperbVioletWandie {
+    _hidden_value = true
+  }
+  serviceid PrintedApricotFaye {
+    _hidden_value = true
+  }
+  json ManagerialGrayDottie {
+    _hidden_value = true
+  }
+  json ConstitutionalTurquoiseLoria {
+    _hidden_value = true
+  }
+  dummy.DEFAULT BackAquaDredi {
+    _hidden_value = true
+  }
+  boolean EmpiricalTomatoEdie {
+    _hidden_value = true
+  }
+  serviceid_number FaithfulApricotAlison {
+    _hidden_value = true
+  }
+  serviceid WispyLimeLeann {
+    _hidden_value = true
+  }
+  dummy.UnhappyMagentaNorah AtomicJadeAmandie {
+    EerieAmberDiandra = 436
+    ViciousIvoryNesta = 826
+    ContinuingMaroonMarika = "To be Frank, I'd have to change my name."
+    MusicalAmaranthStaci = 916
+    OverseasCyanLanette = 171
+    ArmedPeachDela = "What do you do on a remote island? Try and find the TV island it belongs to."
+    LimitedFuchsiaIsahella = 909
+    GrandPlumSusann = 344
+    _hidden_value = true
+  }
+  FluffyAmaranthJasmine = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ConfusedMagentaEleanore = true
+  LateAmberGlennis = "Why do birds fly south for the winter? Because it's too far to walk."
+  InterestedFuchsiaNonna = 141
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "ConstitutionalTurquoiseLoria"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}

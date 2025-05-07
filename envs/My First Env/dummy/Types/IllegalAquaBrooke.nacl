@@ -1,0 +1,116 @@
+type dummy.IllegalAquaBrooke {
+  annotations {
+    boolean HealthyTanAloise {
+    }
+    dummy.DEFAULT DullAmethystTabby {
+    }
+    serviceid ZestfulIvoryDaloris {
+    }
+    hidden_boolean VivaciousAmaranthKaroline {
+    }
+    dummy.DEFAULT ZonalLimeMaryellen {
+    }
+  }
+  string PublicTurquoiseBrietta {
+    _hidden_value = true
+  }
+  string CharacteristicWhiteRosemaria {
+    _hidden_value = true
+  }
+  string ConsistentRoseBertie {
+    _hidden_value = true
+  }
+  hidden_boolean RationalBlushSidoney {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number VastBronzeCairistiona {
+    _hidden_value = true
+  }
+  string FarGrayRikki {
+    _hidden_value = true
+  }
+  number FederalFuchsiaBibbie {
+    _hidden_value = true
+  }
+  string StraightAmberDelly {
+    _hidden_value = true
+  }
+  dummy.AnnualPurpleRyann TopCyanBrear {
+    MisleadingCyanPietra = "I'll tell you what often gets over looked... garden fences."
+    DecisiveBeigeTeddi = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    EconomicYellowErtha = true
+    OnlyBrownMoyna = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    UpperEmeraldLaverne = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    ZygoticBeigeBiddie = true
+    AloneMaroonRonna = false
+    ConsciousEmeraldWendy = 973
+    ReducedCyanSherrie = "Why did the kid cross the playground? To get to the other slide."
+    BrightScarletLucy = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    ThoroughAmberNanete = "What did one nut say as he chased another nut?  I'm a cashew!"
+    HardBronzeEbba = "Dad Im hungry  Hi hungry Im dad"
+    _hidden_value = true
+  }
+  serviceid_number UpsetMagentaVivian {
+    _hidden_value = true
+  }
+  dummy.UpperTanDebby PrincipalAquamarineLianna {
+    SocialCyanBlondelle = "What creature is smarter than a talking parrot? A spelling bee."
+    CompatibleLimeKarleen = true
+    _hidden_value = true
+  }
+  serviceid_number ControlledAquamarineKippy {
+    _hidden_value = true
+  }
+  hidden_boolean HorizontalBrownJolee {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean XerothermicGreenSilvia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean UrgentBronzeMarylee {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean OtherAzureAshely {
+    _hidden_value = true
+  }
+  HealthyTanAloise = false
+  DullAmethystTabby = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  ZestfulIvoryDaloris = "Im only familiar with 25 letters in the English language. I dont know why."
+  ZonalLimeMaryellen = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "PrincipalAquamarineLianna"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "HorizontalBrownJolee"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ZonalLimeMaryellen"
+      highlighted = false
+      indexed = true
+    },
+  ]
+}

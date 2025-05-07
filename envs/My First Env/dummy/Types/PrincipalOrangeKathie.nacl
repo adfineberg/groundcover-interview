@@ -1,0 +1,83 @@
+type dummy.PrincipalOrangeKathie {
+  annotations {
+    number ConsistentAquamarineTish {
+    }
+    serviceid_number MiddleBlueLynnea {
+    }
+    serviceid_number VerbalHarlequinMiguela {
+    }
+    hidden_boolean UnevenPlumAnjanette {
+    }
+    boolean ThinYellowNanci {
+    }
+    hidden_boolean OutrageousCoralShandy {
+    }
+    dummy.CombinedCyanNatasha DamagedTurquoiseBeatrice {
+    }
+    string WorthwhileRedNatty {
+    }
+  }
+  string DisabledWhiteFlori {
+    _hidden_value = true
+  }
+  string PreliminaryCoralBrier {
+    _hidden_value = true
+  }
+  boolean StuckCoffeeBarbe {
+    _hidden_value = true
+  }
+  "List<string>" RequiredLimeJaquith {
+    _hidden_value = true
+  }
+  dummy.AccessibleTurquoiseEssie WateryRoseDotti {
+    BrilliantMaroonBonni = {
+      legit = "Why did the kid cross the playground? To get to the other slide."
+    }
+    SupposedIndigoDusty = true
+    _hidden_value = true
+  }
+  number ObviousCoralCleo {
+    _hidden_value = true
+  }
+  string SkilledMagentaCarlie {
+    _hidden_value = true
+  }
+  number PreferredHarlequinMadelina {
+    _hidden_value = true
+  }
+  string OverallGrayCynde {
+    _hidden_value = true
+  }
+  dummy.DEFAULT ValuableCopperLacy {
+    _hidden_value = true
+  }
+  serviceid MultipleAzureAmalita {
+    _hidden_value = true
+  }
+  ConsistentAquamarineTish = 316
+  MiddleBlueLynnea = 117
+  VerbalHarlequinMiguela = 255
+  ThinYellowNanci = true
+  DamagedTurquoiseBeatrice = true
+  WorthwhileRedNatty = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "RequiredLimeJaquith"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "MultipleAzureAmalita"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "OutrageousCoralShandy"
+      highlighted = true
+      indexed = false
+    },
+  ]
+}
