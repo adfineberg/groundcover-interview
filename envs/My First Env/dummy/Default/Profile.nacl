@@ -1,4 +1,4 @@
-type dummy.Profile1 {
+type dummy.Profile {
   "Map<dummy.Permissions>" ObjectLevelPermissions {
   }
   "Map<Map<dummy.Permissions>>" FieldLevelPermissions {
